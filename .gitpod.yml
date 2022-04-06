@@ -1,0 +1,4 @@
+tasks:
+  - name: install jekyll
+    init: gem install jekyll bundler
+    command: echo 'test'
