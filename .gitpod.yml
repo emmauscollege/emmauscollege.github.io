@@ -1,4 +1,4 @@
 tasks:
   - name: install jekyll
-    init: gem install jekyll bundler
+    init: gem install jekyll "just-the-docs" bundler
     command: echo 'test'
