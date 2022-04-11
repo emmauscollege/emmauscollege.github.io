@@ -1,2 +1,3 @@
-image:
-  file: .gitpod.Dockerfile
+tasks:
+  - before: hugo install
+    command: cd letsboot | hugo server
