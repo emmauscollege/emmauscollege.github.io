@@ -16,20 +16,20 @@ theme = "hugo-theme-relearn"
 
 # the main language of this site; also an automatic pirrrate translation is
 # available in this showcase
-# languageCode = "en"
-# defaultContentLanguage = "en"
+languageCode = "nl"
+defaultContentLanguage = "en"
 # if you want to get rrrid o' ourrr pirrrates nonsense uncomment th' next line
  disableLanguages = ['pir']
 
 # the site's title of this showcase; you should change this ;-)
-title = "Hugo Relearn Documentation"
+title = "Informatica methode Emmauscollege Rotterdam"
 
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explaination
 [params]
   editURL = "https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/"
-  description = "Documentation for Hugo Relearn Theme"
-  author = "Sören Weber"
+  description = "Informatica methode Emmauscollege Rotterdam"
+  author = "Sander van Geest en Arie Pieter Cammeraat"
   # showVisitedLinks = true
   collapsibleMenu = true
   disableBreadcrumb = false
