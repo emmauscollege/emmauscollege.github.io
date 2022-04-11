@@ -1,5 +1,5 @@
 +++
-title = "Hugo Relearn Theme"
+title = "Informatica Emmauscollege"
 +++
 
 # Hugo Relearn Theme!!

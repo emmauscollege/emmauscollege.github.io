@@ -27,7 +27,7 @@ title = "Informatica methode Emmauscollege Rotterdam"
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explaination
 [params]
-  editURL = "https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/"
+  editURL = "https://github.com/emmauscollege/informatica/tree/main/methode/content"
   description = "Informatica methode Emmauscollege Rotterdam"
   author = "Sander van Geest en Arie Pieter Cammeraat"
   # showVisitedLinks = true
