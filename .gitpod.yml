@@ -1,0 +1,3 @@
+tasks:
+  - before: brew install hugo
+    command: cd methode && hugo server
