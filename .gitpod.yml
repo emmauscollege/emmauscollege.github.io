@@ -1,3 +1,2 @@
-tasks:
-  - name: install hugo
-    init: brew install hugo
+image:
+  file: .gitpod.Dockerfile
