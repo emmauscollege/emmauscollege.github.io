@@ -1,4 +1,5 @@
 # letsboot
+Deze site is under construction
 
 ## mogelijke opbouw:
 - Informatie digitaal
