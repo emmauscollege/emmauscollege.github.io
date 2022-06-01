@@ -1,5 +1,5 @@
 +++
-title = "opdracht game"
+title = "game"
 +++
 
 ## Opdrachtbeschrijving
