@@ -2,6 +2,8 @@
 title = "Informatica Emmauscollege"
 +++
 
+<iframe width="1013" height="570" src="https://www.youtube.com/embed/NcgUsJx2Y9A?list=PLpTljPS--R5BqldigFCFAYDDC4sjdSXCt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Hugo Relearn Theme!!!
 
 The [Relearn theme](http://github.com/McShelby/hugo-theme-relearn) is a theme for [Hugo](https://gohugo.io/), a static website generator written in Go. Where Hugo is often used for blogs, this theme is designed with documentation in mind.
