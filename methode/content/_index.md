@@ -2,7 +2,7 @@
 title = "Informatica Emmauscollege"
 +++
 
-<iframe width="1013" height="570" src="https://www.youtube.com/embed/NcgUsJx2Y9A?list=PLpTljPS--R5BqldigFCFAYDDC4sjdSXCt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/NcgUsJx2Y9A?list=PLpTljPS--R5BqldigFCFAYDDC4sjdSXCt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Hugo Relearn Theme!!!
 
