@@ -1,7 +1,7 @@
 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/emmauscollege/emmauscollege.github.io)
-Edit de content van deze site in Gitpod
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/emmauscollege/emmauscollege.github.io)<br>
+Edit de content van deze site in Gitpod, je hebt dan een supersnelle preview.
 
 # letsboot
 Deze site is under construction
