@@ -1,7 +1,7 @@
 +++
 chapter = true
 title = "Basics"
-weight = 1
+weight = 11
 +++
 
 ### Chapter 1

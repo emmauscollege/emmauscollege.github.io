@@ -1,5 +1,7 @@
 +++
+chapter = true
 title = "Theorie"
+weight = 1
 +++
 
 Hier vind je alle theorie

@@ -1,7 +1,7 @@
 +++
 chapter = true
 title = "Shortcodes"
-weight = 3
+weight = 13
 +++
 
 ### Chapter 3

@@ -22,7 +22,7 @@ defaultContentLanguage = "en"
  disableLanguages = ['pir']
 
 # the site's title of this showcase; you should change this ;-)
-title = "Informatica methode Emmauscollege Rotterdam"
+title = "Informatica Emmauscollege Rotterdam"
 
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explaination
@@ -111,6 +111,12 @@ title = "Informatica methode Emmauscollege Rotterdam"
     identifier = "hugodoc"
     url = "https://gohugo.io/"
     weight = 20
+
+ [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-bookmark'></i> Theme Relearn Documentation"
+    identifier = "relearndoc"
+    url = "https://mcshelby.github.io/hugo-theme-relearn/"
+    weight = 21
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"

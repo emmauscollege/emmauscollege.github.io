@@ -20,7 +20,7 @@ nemen we de planning en de documentatielinks op in de repo?
 leg hier uit hoe je zelf met de startcode aan de slag kunt in replit of gitpod, probleem met bovenstaande link is dat hij niet werkt met je eigen repo maar met het template
 
 ## Uitlegvideo's
-[![preview](4HV-game-uitlegvideos.png)](https://www.youtube.com/playlist?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC)
+{{<youtube id="6yhLfBd81as?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
 
 embed of link naar github channel
 Dit zou ook in de readme.md van de startcode kunnen

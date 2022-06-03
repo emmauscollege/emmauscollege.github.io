@@ -2,84 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>This could be yours on Hugo Relearn Theme</title>
-    <link>https://emmauscollege.github.io/informatica/yours/</link>
+    <link>https://emmauscollege.github.io/yours/</link>
     <description>Recent content in This could be yours on Hugo Relearn Theme</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://emmauscollege.github.io/informatica/yours/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language><atom:link href="https://emmauscollege.github.io/yours/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The one and only hidden child</title>
-      <link>https://emmauscollege.github.io/informatica/yours/children-1/</link>
+      <link>https://emmauscollege.github.io/yours/children-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/informatica/yours/children-1/</guid>
+      <guid>https://emmauscollege.github.io/yours/children-1/</guid>
       <description>Placeholder&amp;hellip;</description>
     </item>
     <item>
       <title>1</title>
-      <link>https://emmauscollege.github.io/informatica/yours/1/</link>
+      <link>https://emmauscollege.github.io/yours/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/informatica/yours/1/</guid>
+      <guid>https://emmauscollege.github.io/yours/1/</guid>
       <description></description>
     </item>
     <item>
       <title>10</title>
-      <link>https://emmauscollege.github.io/informatica/yours/10/</link>
+      <link>https://emmauscollege.github.io/yours/10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/informatica/yours/10/</guid>
+      <guid>https://emmauscollege.github.io/yours/10/</guid>
       <description></description>
     </item>
     <item>
       <title>2</title>
-      <link>https://emmauscollege.github.io/informatica/yours/2/</link>
+      <link>https://emmauscollege.github.io/yours/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/informatica/yours/2/</guid>
+      <guid>https://emmauscollege.github.io/yours/2/</guid>
       <description></description>
     </item>
     <item>
       <title>3</title>
-      <link>https://emmauscollege.github.io/informatica/yours/3/</link>
+      <link>https://emmauscollege.github.io/yours/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/informatica/yours/3/</guid>
+      <guid>https://emmauscollege.github.io/yours/3/</guid>
       <description></description>
     </item>
     <item>
       <title>4</title>
-      <link>https://emmauscollege.github.io/informatica/yours/4/</link>
+      <link>https://emmauscollege.github.io/yours/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/informatica/yours/4/</guid>
+      <guid>https://emmauscollege.github.io/yours/4/</guid>
       <description></description>
     </item>
     <item>
       <title>5</title>
-      <link>https://emmauscollege.github.io/informatica/yours/5/</link>
+      <link>https://emmauscollege.github.io/yours/5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/informatica/yours/5/</guid>
+      <guid>https://emmauscollege.github.io/yours/5/</guid>
       <description></description>
     </item>
     <item>
       <title>6</title>
-      <link>https://emmauscollege.github.io/informatica/yours/6/</link>
+      <link>https://emmauscollege.github.io/yours/6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/informatica/yours/6/</guid>
+      <guid>https://emmauscollege.github.io/yours/6/</guid>
       <description></description>
     </item>
     <item>
       <title>7</title>
-      <link>https://emmauscollege.github.io/informatica/yours/7/</link>
+      <link>https://emmauscollege.github.io/yours/7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/informatica/yours/7/</guid>
+      <guid>https://emmauscollege.github.io/yours/7/</guid>
       <description></description>
     </item>
     <item>
       <title>8</title>
-      <link>https://emmauscollege.github.io/informatica/yours/8/</link>
+      <link>https://emmauscollege.github.io/yours/8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/informatica/yours/8/</guid>
+      <guid>https://emmauscollege.github.io/yours/8/</guid>
       <description></description>
     </item>
     <item>
       <title>9</title>
-      <link>https://emmauscollege.github.io/informatica/yours/9/</link>
+      <link>https://emmauscollege.github.io/yours/9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/informatica/yours/9/</guid>
+      <guid>https://emmauscollege.github.io/yours/9/</guid>
       <description></description>
     </item>
   </channel>

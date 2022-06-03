@@ -1,7 +1,9 @@
 +++
+chapter = true
 title = "Opdrachten"
+weight = 2
 +++
 
-We hebben leuke opdrachten
+Hier vind je de praktische opdrachten
 
 {{% children containerstyle="div" style="h2" depth="3" description="true" %}}
