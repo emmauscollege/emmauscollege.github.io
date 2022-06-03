@@ -9,7 +9,7 @@ als we .md gebruiken als formaat dan kun je volgens mij embedden
 gebruiken we liever de pdf (universeel viewable) of docx (brondocument, snel editbaar)
 
 ## Planning
-[![preview](planning-preview.png](planning.pptx)
+[![preview](planning-preview.png)](planning.pptx)
 gebruiken we liever de pdf (universeel viewable) of pptx (brondocument, snel editbaar)
 
 ## Startcode
