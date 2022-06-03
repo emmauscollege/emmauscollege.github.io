@@ -9,7 +9,7 @@ title = "Informatica Emmauscollege"
 ## Actuele berichten
 
 ## Inhoud
-{{% children containerstyle="div" style="h2" depth="3" description="true" %}}
+{{% children containerstyle="div" style="h2" depth="1" description="true" %}}
 
 ## Getting support
 
