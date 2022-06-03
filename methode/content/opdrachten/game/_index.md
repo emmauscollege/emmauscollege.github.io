@@ -1,19 +1,19 @@
 +++
-title = "game"
+chapter = true
+title = "Game"
 +++
 
-
 ## Opdrachtbeschrijving
-[![preview](opdracht-preview.png)](opdracht.docx)
-als we .md gebruiken als formaat dan kun je volgens mij embedden
+{{<figure src="opdracht-preview.png" link="opdracht.docx">}}
+wanneer we .md gebruiken als formaat dan kun je volgens mij embedden
 gebruiken we liever de pdf (universeel viewable) of docx (brondocument, snel editbaar)
 
 ## Planning
-[![preview](planning-preview.png)](planning.pptx)
+{{<figure src="planning-preview.png" link="planning.pptx">}}
 gebruiken we liever de pdf (universeel viewable) of pptx (brondocument, snel editbaar)
 
 ## Startcode
-[![preview](4HV-game-template.png)](https://github.com/emmauscollege/4HV-game-template)
+{{<figure src="4HV-game-template.png" link="https://github.com/emmauscollege/4HV-game-template">}}
 nemen we de planning en de documentatielinks op in de repo?
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/emmauscollege/4HV-game-template)

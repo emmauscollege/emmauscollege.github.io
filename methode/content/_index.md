@@ -2,40 +2,14 @@
 title = "Informatica Emmauscollege"
 +++
 
-# <iframe width="720" height="405" src="https://www.youtube.com/embed/NcgUsJx2Y9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Informatica
 
-# Hugo Relearn Theme!!!
+{{<youtube id="NcgUsJx2Y9A" title="Het informatica lokaal">}}
 
-The [Relearn theme](http://github.com/McShelby/hugo-theme-relearn) is a theme for [Hugo](https://gohugo.io/), a static website generator written in Go. Where Hugo is often used for blogs, this theme is designed with documentation in mind.
+## Actuele berichten
 
-{{% notice info %}}
-The theme is a fork of the great [Learn theme](https://github.com/matcornic/hugo-theme-learn) with the aim of fixing long outstanding bugs and adepting to latest Hugo features. As far as possible this theme tries to be a drop-in replacement for the Learn theme.
-{{% /notice %}}
-
-## Main features
-
-{{% notice tip %}}
-See [what's new]({{% relref "basics/migration" %}}) within the latest update.
-{{% /notice %}}
-
-* Usable offline, no external dependencies
-* [Automatic Search]({{%relref "basics/configuration#activate-search" %}})
-* [Print]({{%relref "basics/configuration#activate-print-support" %}}) whole chapters or even the complete site
-* [Multilingual mode]({{%relref "cont/i18n" %}}) for English, Arabic, Simplified Chinese, Traditional Chinesse, Dutch, French, German, Hindi, Indonesian, Japanese, Korean, Portuguese, Russian, Spanish, Turkish, Vietnamese
-* Unlimited menu levels
-* Automatic next/prev buttons to navigate through menu entries
-* [Image resizing, shadow...]({{%relref "cont/markdown#images" %}})
-* [Attachments files]({{%relref "shortcodes/attachments" %}})
-* [List child pages]({{%relref "shortcodes/children" %}})
-* [Mermaid diagram]({{%relref "shortcodes/mermaid" %}}) (flowchart, sequence, gantt)
-* [Swagger UI]({{%relref "shortcodes/swagger" %}}) for OpenAPI Specifications
-* [Customizable look and feel]({{%relref "basics/customization"%}})
-* [Predefined (light, dark) and customizable color variants]({{%relref "basics/generator" %}})
-* [Buttons]({{%relref "shortcodes/button" %}})
-* [Tip/Note/Info/Warning boxes]({{%relref "shortcodes/notice" %}})
-* [Expand]({{%relref "shortcodes/expand" %}})
-* [Tabs]({{%relref "shortcodes/tabs" %}})
-* [File inclusion]({{%relref "shortcodes/include" %}})
+## Inhoud
+{{% children containerstyle="div" style="h2" depth="3" description="true" %}}
 
 ## Getting support
 
@@ -49,7 +23,7 @@ You are most welcome to contribute bugfixes or even new features to the source c
 
 ## License
 
-This theme is licensed under the [MIT License](https://github.com/McShelby/hugo-theme-relearn/blob/main/LICENSE).
+This site is licensed under the [MIT License](https://github.com/McShelby/hugo-theme-relearn/blob/main/LICENSE).
 
 ## Credits
 

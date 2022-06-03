@@ -98,13 +98,8 @@ title = "Informatica Emmauscollege Rotterdam"
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
     identifier = "ds"
-    url = "https://github.com/McShelby/hugo-theme-relearn"
+    url = "https://github.com/emmauscollege/emmauscollege.github.io"
     weight = 10
-
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-    url = "more/showcase/"
-    weight = 11
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
