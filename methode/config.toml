@@ -88,9 +88,27 @@ title = "Informatica Emmauscollege Rotterdam"
 # to your content or use fully-quallified URLs to link outside of
 # your project
 [Languages]
+ [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-hammer'></i> GitHub"
+    identifier = "githubtool"
+    url = "https://github.com/"
+    weight = 10
+  
+  [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-hammer'></i> GitPod"
+    identifier = "gitpodtool"
+    url = "https://gitpod.io"
+    weight = 11
+
+  [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-hammer'></i> Replit"
+    identifier = "replittool"
+    url = "https://replit.com/"
+    weight = 12
+
   [Languages.en]
     title = "Hugo Relearn Theme"
-    weight = 1
+    weight = 10
     languageName = "English"
     landingPageURL = "/"
     landingPageName = "<i class='fas fa-home'></i> Home"
@@ -99,29 +117,29 @@ title = "Informatica Emmauscollege Rotterdam"
     name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
     identifier = "ds"
     url = "https://github.com/emmauscollege/emmauscollege.github.io"
-    weight = 10
+    weight = 100
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
     identifier = "hugodoc"
     url = "https://gohugo.io/"
-    weight = 20
+    weight = 200
 
  [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-bookmark'></i> Theme Relearn Documentation"
     identifier = "relearndoc"
     url = "https://mcshelby.github.io/hugo-theme-relearn/"
-    weight = 21
+    weight = 210
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
     url = "more/credits/"
-    weight = 30
+    weight = 300
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-tags'></i> Tags"
     url = "tags/"
-    weight = 40
+    weight = 400
 
   # this is ourrr way t' showcase th' multilang settings by
   # doing autotrrranlat'n of th' english content; we are
@@ -131,7 +149,7 @@ title = "Informatica Emmauscollege Rotterdam"
 
   [Languages.pir]
     title = "Cap'n Hugo Relearrrn Theme"
-    weight = 1
+    weight = 100
     languageName = "Arrr! ☠ Pirrrates ☠"
     landingPageURL = "/pir/"
     landingPageName = "<i class='fas fa-home'></i> Arrr! Home"
@@ -140,25 +158,25 @@ title = "Informatica Emmauscollege Rotterdam"
     name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
     identifier = "ds"
     url = "https://github.com/McShelby/hugo-theme-relearn"
-    weight = 10
+    weight = 100
 
   [[Languages.pir.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-camera'></i> Showcases"
     url = "more/showcase/"
-    weight = 11
+    weight = 110
 
   [[Languages.pir.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-bookmark'></i> Cap'n Hugo Documentat'n"
     identifier = "hugodoc"
     url = "https://gohugo.io/"
-    weight = 20
+    weight = 200
 
   [[Languages.pir.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-bullhorn'></i> Crrredits"
     url = "more/credits/"
-    weight = 30
+    weight = 300
 
   [[Languages.pir.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-tags'></i> Arrr! Tags"
     url = "tags/"
-    weight = 40
+    weight = 400
