@@ -1,10 +1,10 @@
 +++
 chapter = true
-title = "Theorie"
-weight = 2
+title = "Planning"
+weight = 1
 +++
 
-Hier vind je alle theorie
+Hier vind je de PTA's en lesplanners per jaar.
 
 <!--more-->
 

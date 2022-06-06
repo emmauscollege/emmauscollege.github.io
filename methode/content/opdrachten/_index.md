@@ -1,7 +1,7 @@
 +++
 chapter = true
 title = "Opdrachten"
-weight = 2
+weight = 3
 +++
 
 Hier vind je de praktische opdrachten. 

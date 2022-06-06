@@ -1,7 +1,7 @@
 +++
 chapter = true
 title = "Tools"
-weight = 3
+weight = 4
 +++
 
 Tools zijn programma's die we gebruiken om dingen te maken. Tools zijn dus het gereedschap dat je gebruikt bij informatica.
