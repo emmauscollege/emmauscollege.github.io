@@ -114,6 +114,18 @@ title = "Informatica Emmauscollege Rotterdam"
     url = "https://replit.com/"
     weight = 12
 
+ [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-book'></i> Informatica-Actief"
+    identifier = "iatheorie"
+    url = "https://moodle.informatica-actief.nl/"
+    weight = 21
+
+ [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-book'></i> Khan Academy"
+    identifier = "khantheorie"
+    url = "https://www.khanacademy.org/computing/computer-programming/"
+    weight = 22
+
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
     identifier = "ds"
@@ -181,3 +193,4 @@ title = "Informatica Emmauscollege Rotterdam"
     name = "<i class='fas fa-fw fa-tags'></i> Arrr! Tags"
     url = "tags/"
     weight = 400
+    
