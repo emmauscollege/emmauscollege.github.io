@@ -1,6 +1,7 @@
 +++
 chapter = true
 title = "Game"
+weight = 1
 +++
 
 ## Opdrachtbeschrijving
