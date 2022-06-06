@@ -1,10 +1,7 @@
 +++
-chapter = true
-title = "Theorie"
-weight = 2
+title = "2. Theorie"
 +++
 
-# Theorie
 Hier vind je alle theorie
 
 <!--more-->

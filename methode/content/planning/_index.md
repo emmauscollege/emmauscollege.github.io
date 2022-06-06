@@ -1,10 +1,7 @@
 +++
-chapter = true
-title = "Planning"
-weight = 1
+title = "1. Planning"
 +++
 
-# Planning
 Hier vind je de PTA's en lesplanners per jaar.
 
 <!--more-->

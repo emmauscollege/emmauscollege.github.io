@@ -1,10 +1,6 @@
 +++
-chapter = true
-title = "Opdrachten"
-weight = 3
+title = "3. Opdrachten"
 +++
-
-# Praktische Opdrachten
 
 Hier vind je de praktische opdrachten. 
 Praktische opdrachten zijn meestal tussen de vier en 8 weken werk.
