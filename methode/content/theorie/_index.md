@@ -8,6 +8,12 @@ weight = 2
 Hier vind je alle theorie
 
 <!--more-->
+<i>
+- Hoe gaan we om met paragrafen die mogen worden overgeslagen?
+- Waar laten we de sheets? => link onder desbetreffend kopje?
+- Waar laten we uitleg video;s? => link onder desbetreffend kopje?
+</i>
+
 
 ## Informatie
 [Informatica Actief, module informatie digitaal](https://moodle.informatica-actief.nl/course/view.php?id=742)
@@ -29,10 +35,6 @@ Hier vind je alle theorie
 
 ## ...
 
-<i>
-- Hoe gaan we om met paragrafen die mogen worden overgeslagen?
-</i>
-
-Losse theorie onderwerpen:
+## Losse theorie onderwerpen:
 
 {{% children containerstyle="div" style="h2" depth="3" description="true" %}}

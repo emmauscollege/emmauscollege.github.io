@@ -11,7 +11,14 @@ title = "Informatica Emmauscollege"
 ## Inhoud
 {{% children containerstyle="div" style="h2" depth="1" description="true" %}}
 
-## Getting support
+## voor docenten
+
+<i>
+Hoe kunnen docenten hergebruiken en meedenken?
+Als we willen dat alle informatie voor onze leerlingen hier te vinden is, dan is het onontkoombaar dat er school-specifieke informatie tussen zit. We kunnen die zoveel mogelijk in aparte onderdelen zetten. Hergebruik betekent dan: site aan het begin van het jaar clonen en aanpassen aan je eigen behoefte. Volgend jaar kun je weer kopieren, maar dan moet je je aanpassingen opnieuw doen. Dit is niet helemaal wat we voor ogen hadden...
+</i>
+
+### Getting support
 
 To get support, feel free to open a new [discussion topic](https://github.com/McShelby/hugo-theme-relearn/discussions) or [issue](https://github.com/McShelby/hugo-theme-relearn/issues) in the official repository on GitHub.
 
