@@ -28,7 +28,7 @@ title = "Informatica Emmauscollege Rotterdam"
 # consult this documentation for explaination
 [params]
   editURL = "https://github.com/emmauscollege/emmauscollege.github.io/tree/main/methode/content/"
-  description = "Informatica methode Emmauscollege Rotterdam"
+  description = "Informatica Emmauscollege Rotterdam"
   author = "Sander van Geest en Arie Pieter Cammeraat"
   # showVisitedLinks = true
   collapsibleMenu = true
@@ -88,7 +88,15 @@ title = "Informatica Emmauscollege Rotterdam"
 # to your content or use fully-quallified URLs to link outside of
 # your project
 [Languages]
- [[Languages.en.menu.shortcuts]]
+
+  [Languages.en]
+    title = "Hugo Relearn Theme"
+    weight = 1
+    languageName = "English"
+    landingPageURL = "/"
+    landingPageName = "<i class='fas fa-home'></i> Home"
+    
+  [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-hammer'></i> GitHub"
     identifier = "githubtool"
     url = "https://github.com/"
@@ -105,13 +113,6 @@ title = "Informatica Emmauscollege Rotterdam"
     identifier = "replittool"
     url = "https://replit.com/"
     weight = 12
-
-  [Languages.en]
-    title = "Hugo Relearn Theme"
-    weight = 10
-    languageName = "English"
-    landingPageURL = "/"
-    landingPageName = "<i class='fas fa-home'></i> Home"
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
