@@ -28,6 +28,7 @@ Het cijfer dat je voor je PO krijgt wordt vanuit vier invalshoeken bepaald:
 - inzet, planning en samenwerking 
 
 **Minimale eisen**
+
 Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de minimale eisen. Werk dat niet voldoet aan de minimale eisen krijgt het cijfer 1,0. De minimale eisen zijn:
 - Het spel is moreel verantwoord: het is niet beledigend, visueel gewelddadig of op andere manieren onfatsoenlijk.
 - Je mag voorbeelden van kleine stukjes code van internet hergebruiken, zolang je het begrijpt en je de stijl zo aangepast hebt dat het past bij de rest van je code. 
@@ -69,7 +70,8 @@ De deadline voor inleveren is **zondag 12 juni 2022 23:59**.
 {{% /expand %}}
 
 <i>
-de inleverdatum kan misschien beter naar planning worden verschoven, want die verschilt jaarlijks en soms per klas. 
+-de inleverdatum kan misschien beter naar planning worden verschoven, want die verschilt jaarlijks en soms per klas. 
+-hoe verspreiden we de link naar het google-docs document waarin leerlingen zich opgeven voor de groepjes en hun github account opgeven? (huiswerk in Magister?)
 </i>
 
 ## Startcode
