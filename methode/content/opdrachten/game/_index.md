@@ -4,6 +4,8 @@ title = "Game"
 weight = 2
 +++
 
+# Opdracht Game
+
 ## Opdrachtbeschrijving
 De opdracht in het kort is: Maak in groepjes van twee je eigen spel in JavaScript. Je gebruikt de startcode en maakt gebruik van de p5js-library.
 <!--more-->

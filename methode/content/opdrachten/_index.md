@@ -4,6 +4,8 @@ title = "Opdrachten"
 weight = 3
 +++
 
+# Praktische Opdrachten
+
 Hier vind je de praktische opdrachten. 
 Praktische opdrachten zijn meestal tussen de vier en 8 weken werk.
 Je hebt veel vrijheid en kunt er echt iets moois van maken.

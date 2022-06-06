@@ -4,6 +4,8 @@ title = "Tools"
 weight = 4
 +++
 
+# Tools
+
 Tools zijn programma's die we gebruiken om dingen te maken. Tools zijn dus het gereedschap dat je gebruikt bij informatica.
 
 <!--more-->
