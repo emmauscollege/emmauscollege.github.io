@@ -2,7 +2,7 @@
 title = "2. Theorie"
 +++
 
-Hier vind je alle theorie
+Hier vind je alle theorie per onderwerp.
 
 <!--more-->
 <i>
