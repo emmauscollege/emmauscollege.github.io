@@ -22,13 +22,13 @@ defaultContentLanguage = "en"
  disableLanguages = ['pir']
 
 # the site's title of this showcase; you should change this ;-)
-title = "Informatica Emmauscollege Rotterdam"
+title = "Emmauscollege Rotterdam"
 
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explaination
 [params]
   editURL = "https://github.com/emmauscollege/emmauscollege.github.io/tree/main/methode/content/"
-  description = "Informatica Emmauscollege Rotterdam"
+  description = "Informatica programma havo/vwo Emmauscollege Rotterdam"
   author = "Sander van Geest en Arie Pieter Cammeraat"
   # showVisitedLinks = true
   collapsibleMenu = true
@@ -90,7 +90,7 @@ title = "Informatica Emmauscollege Rotterdam"
 [Languages]
 
   [Languages.en]
-    title = "Hugo Relearn Theme"
+    title = "Informatica"
     weight = 1
     languageName = "English"
     landingPageURL = "/"
