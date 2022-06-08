@@ -60,15 +60,14 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 {{% /expand %}}
 
 {{% expand "Inleveren" %}}
-- Je kunt vragen stellen tot **donderdag 9 juni 16:15**. <br>
-De deadline voor inleveren is **zondag 12 juni 2022 23:59**.
+- De deadline voor inleveren vind je in de lesplanner.
+- Je kunt vragen stellen tot de laatste les voor de deadline.
 - Je zorgt dat alle bestanden in die nodig zijn om je spel te spelen in GitHub staan, dit zijn ten minste: index.html, style.css en script.js. Als je plaatjes gebruikt, dan staan die er ook bij.
 - Je zorgt dat het README.md bestand met je planning aanwezig is. Je hebt aangegeven welke onderdelen gereed zijn. Uit de versie historie in GitHub blijkt hoe je je planning tussentijds hebt gevolgd en bijgesteld. 
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
 
 <i>
--de inleverdatum kan misschien beter naar planning worden verschoven, want die verschilt jaarlijks en soms per klas. 
 -hoe verspreiden we de link naar het google-docs document waarin leerlingen zich opgeven voor de groepjes en hun github account opgeven? (huiswerk in Magister?)
 </i>
 
@@ -90,9 +89,10 @@ gebruiken we liever de pdf (universeel viewable) of pptx (brondocument, snel edi
 -->
 
 ## Uitlegvideo's
-{{<youtube id="6yhLfBd81as?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
+{{<youtube id="videoseries?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
 
 <i>
+is het duidelijk dat er meerdere video's in de playlist zitten?
 embed of link naar github channel
 Dit zou ook in de readme.md van de startcode kunnen
 </i>
