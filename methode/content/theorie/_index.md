@@ -6,9 +6,10 @@ Hier vind je alle theorie per onderwerp.
 
 <!--more-->
 <i>
-- Hoe gaan we om met paragrafen die mogen worden overgeslagen?
-- Waar laten we de sheets? => link onder desbetreffend kopje?
-- Waar laten we uitleg video;s? => link onder desbetreffend kopje?
+- Hoe gaan we om met paragrafen die mogen worden overgeslagen? => dieplinks gebruiken
+- Waar laten we de sheets? => link onder desbetreffend kopje? => besproken: hier toevoegen bijv. met aanvullende documenten
+- Waar laten we uitleg video;s? => link onder desbetreffend kopje? => besproken: hier toevoegen op subpagina
+- Per module gaan we subpagina's maken
 </i>
 
 
