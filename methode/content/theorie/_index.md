@@ -10,6 +10,7 @@ Hier vind je alle theorie per onderwerp.
 - Waar laten we de sheets? => link onder desbetreffend kopje? => besproken: hier toevoegen bijv. met aanvullende documenten
 - Waar laten we uitleg video;s? => link onder desbetreffend kopje? => besproken: hier toevoegen op subpagina
 - Per module gaan we subpagina's maken
+- de leerdoelen nemen we op in theorie, per module
 </i>
 
 
