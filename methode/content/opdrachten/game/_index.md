@@ -70,9 +70,11 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 ## Startcode
 {{<figure src="4HV-game-template.png" link="https://github.com/emmauscollege/4HV-game-template">}}
 
+[![Open GitHub](https://img.shields.io/badge/open-GitHub-brightgreen)](https://github.com)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/emmauscollege/4HV-game-template)
+[![Open Gitpod](https://img.shields.io/badge/open-Gitpod-brightgreen)](https://gitpod.io)
 
+[![Open Replit](https://img.shields.io/badge/open-Replit-brightgreen)](https://replit.com)
 
 <!--
 ## Planning
