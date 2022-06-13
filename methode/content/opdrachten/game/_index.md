@@ -67,20 +67,12 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
 
-<i>
--hoe verspreiden we de link naar het google-docs document waarin leerlingen zich opgeven voor de groepjes en hun github account opgeven? (huiswerk in Magister?)
-</i>
-
 ## Startcode
 {{<figure src="4HV-game-template.png" link="https://github.com/emmauscollege/4HV-game-template">}}
-<i>
-nemen we de planning en de documentatielinks op in de repo?
-</i>
+
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/emmauscollege/4HV-game-template)
-<i>
-leg hier uit hoe je zelf met de startcode aan de slag kunt in replit of gitpod, probleem met bovenstaande link is dat hij niet werkt met je eigen repo maar met het template
-</i>
+
 
 <!--
 ## Planning
@@ -90,17 +82,18 @@ gebruiken we liever de pdf (universeel viewable) of pptx (brondocument, snel edi
 
 ## Uitlegvideo's
 {{<youtube id="videoseries?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
-
+  
 <i>
-is het duidelijk dat er meerdere video's in de playlist zitten?
-embed of link naar github channel
-Dit zou ook in de readme.md van de startcode kunnen
+- algemene gitpod en rpelit link
+- stappenplan en uitleg van de repo en gebruikte technieken zet je in de readme
+- rijkere uitleg zoals video's of code voorbeelden zetten we op de website
+- zet in de description van de repo een link naar informatica.emmauscollege.nl
+- hoe verspreiden we de link naar het google-docs document waarin leerlingen zich opgeven voor de groepjes en hun github account opgeven?  => op de pagina van de opdracht en dan bovenaan bij de opdracht een kopje "inschrijven voor deze opdracht" toevoegen.
 </i>
+
+</i>    
 
 ## Documentatie
 - p5js reference <br>
 https://p5js.org/reference/
 
-<i>
-links hier zetten of in de readme.md van de startcode
-</i>
