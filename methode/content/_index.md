@@ -35,3 +35,9 @@ This site is licensed under the [MIT License](https://github.com/McShelby/hugo-t
 ## Credits
 
 This theme would not be possible without the work of many others. See the [credits]({{%relref "more/credits" %}}) for a detailed list.
+  
+
+<a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=b778s76fe2ctnfzw5a6ecapgq4hnfl8q" border="0" title="hit counter" alt="hit counter"></a>
+page views and
+<a href="https://www.freecounterstat.com" title="free website counter code"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=37abwc18f38s1er2land9rqw24n2eenq" border="0" title="free website counter code" alt="free website counter code"></a>
+unique visitors since July 13 2022
