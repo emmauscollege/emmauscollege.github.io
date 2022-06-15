@@ -1,5 +1,5 @@
 +++
-title = "Emmauscollege Rotterdam"
+title = "Informatica"
 +++
 
 # Informatica
