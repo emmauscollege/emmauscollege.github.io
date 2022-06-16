@@ -1,5 +1,6 @@
 +++
 title = "2.101. Intellectueel eigendom"
+weight = 101
 +++
 
 ## Inleiding

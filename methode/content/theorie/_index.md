@@ -15,22 +15,3 @@ Hier vind je alle theorie per onderwerp.
 <!--more-->
 ## modules (1 t/m 99) en losse lessen (101-199)
 {{% children containerstyle="div" style="h3" depth="3" description="false" %}}
-
-### Webdesig met HTML en CSS
-[Khanacademy, module Intro to HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
-
-### Programmeren met Javascript
-[Khanacademy, module Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
-
-### Databases
-[Khanacademy, module Intro to SWL](https://www.khanacademy.org/computing/computer-programming/sql)
-
-### Robotica met Arduino
-[Arduino-lessen.nl, les 1 t/m 5](https://arduino-lessen.nl)
-
-### Netwerken
-[Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917)
-
-### ...
-
-### Losse theorie onderwerpen:

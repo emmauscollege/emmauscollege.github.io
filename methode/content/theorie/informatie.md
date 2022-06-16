@@ -1,5 +1,6 @@
 +++
 title = "2.1. Digitale informatie"
+weight = 1
 +++
 
 Je leert hoe een computer allerlei soorten informatie opslaat.
