@@ -1,5 +1,5 @@
 +++
-title = "Intellectueel eigendom"
+title = "2.101. Intellectueel eigendom"
 +++
 
 ## Inleiding

@@ -4,7 +4,6 @@ title = "2. Theorie"
 
 Hier vind je alle theorie per onderwerp.
 
-<!--more-->
 <i>
 - Hoe gaan we om met paragrafen die mogen worden overgeslagen? => dieplinks gebruiken
 - Waar laten we de sheets? => link onder desbetreffend kopje? => besproken: hier toevoegen bijv. met aanvullende documenten
@@ -13,27 +12,25 @@ Hier vind je alle theorie per onderwerp.
 - de leerdoelen nemen we op in theorie, per module
 </i>
 
+<!--more-->
+## modules (1 t/m 99) en losse lessen (101-199)
+{{% children containerstyle="div" style="h3" depth="3" description="false" %}}
 
-## Informatie
-[Informatica Actief, module informatie digitaal](https://moodle.informatica-actief.nl/course/view.php?id=742)
-
-## HTML en CSS
+### Webdesig met HTML en CSS
 [Khanacademy, module Intro to HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 
-## Programmeren in Javascript
+### Programmeren met Javascript
 [Khanacademy, module Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
 
-## Databases
+### Databases
 [Khanacademy, module Intro to SWL](https://www.khanacademy.org/computing/computer-programming/sql)
 
-## Physical Computing met Arduino
+### Robotica met Arduino
 [Arduino-lessen.nl, les 1 t/m 5](https://arduino-lessen.nl)
 
-## Netwerken
+### Netwerken
 [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917)
 
-## ...
+### ...
 
-## Losse theorie onderwerpen:
-
-{{% children containerstyle="div" style="h2" depth="3" description="true" %}}
+### Losse theorie onderwerpen:
