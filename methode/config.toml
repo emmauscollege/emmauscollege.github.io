@@ -150,8 +150,8 @@ title = "Informatica Emmauscollege Rotterdam"
     weight = 300
 
   [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-tags'></i> Tags"
-    url = "tags/"
+    name = "<i class='fas fa-fw fa-tags'></i> Docentenpagina"
+    url = "docenten/"
     weight = 400
 
   # this is ourrr way t' showcase th' multilang settings by
