@@ -137,43 +137,4 @@ title = "Informatica Emmauscollege Rotterdam"
     url = "docenten/"
     weight = 400
 
-  # this is ourrr way t' showcase th' multilang settings by
-  # doing autotrrranlat'n of th' english content; we are
-  # lazy and don't supporrt furrrther trrranslations; arrr,
-  # don't take it t' serrrious, fello'; it's prrretty hacky and:
-  # NOT MEANT FOR PRRRODUCTION! ARRR!
-
-  [Languages.pir]
-    title = "Cap'n Hugo Relearrrn Theme"
-    weight = 100
-    languageName = "Arrr! ☠ Pirrrates ☠"
-    landingPageURL = "/pir/"
-    landingPageName = "<i class='fas fa-home'></i> Arrr! Home"
-
-  [[Languages.pir.menu.shortcuts]]
-    name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-    identifier = "ds"
-    url = "https://github.com/McShelby/hugo-theme-relearn"
-    weight = 100
-
-  [[Languages.pir.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-    url = "more/showcase/"
-    weight = 110
-
-  [[Languages.pir.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bookmark'></i> Cap'n Hugo Documentat'n"
-    identifier = "hugodoc"
-    url = "https://gohugo.io/"
-    weight = 200
-
-  [[Languages.pir.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bullhorn'></i> Crrredits"
-    url = "more/credits/"
-    weight = 300
-
-  [[Languages.pir.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-tags'></i> Arrr! Tags"
-    url = "tags/"
-    weight = 400
-    
+  
