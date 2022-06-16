@@ -1,10 +1,13 @@
 +++
 title = "3.2 Game"
+weight = 2
 +++
+
+Je gaat je eigen game programmeren!
+<!--more-->
 
 ## Opdrachtbeschrijving
 De opdracht in het kort is: Maak in groepjes van twee je eigen spel in JavaScript. Je gebruikt de startcode en maakt gebruik van de p5js-library.
-<!--more-->
 
 {{% expand "Game kiezen" %}}
 Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game die je kiest goedkeuren. Enkele voorbeelden van een game die je kunt maken zijn: Tennis, Flappy Bird, Snake (voorganger van Slither.io), een Break Out Game (zoals Arkanoid), een race spelletje, een eenvoudige platform game (zoals pacman), een puzzelspel enzovoort. 
