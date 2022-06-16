@@ -96,58 +96,41 @@ title = "Informatica Emmauscollege Rotterdam"
     landingPageURL = "/"
     landingPageName = "<i class='fas fa-home'></i> Home"
     
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-hammer'></i> GitHub"
-    identifier = "githubtool"
-    url = "https://github.com/"
-    weight = 10
-  
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-hammer'></i> GitPod"
-    identifier = "gitpodtool"
-    url = "https://gitpod.io"
-    weight = 11
-
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-hammer'></i> Replit"
-    identifier = "replittool"
-    url = "https://replit.com/"
-    weight = 12
-
  [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-book'></i> Informatica-Actief"
     identifier = "iatheorie"
     url = "https://moodle.informatica-actief.nl/"
-    weight = 21
+    weight = 10
 
  [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-book'></i> Khan Academy"
     identifier = "khantheorie"
     url = "https://www.khanacademy.org/computing/computer-programming/"
+    weight = 11
+
+  [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-hammer'></i> GitHub"
+    identifier = "githubtool"
+    url = "https://github.com/"
+    weight = 20
+  
+  [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-hammer'></i> GitPod"
+    identifier = "gitpodtool"
+    url = "https://gitpod.io"
+    weight = 21
+
+  [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-hammer'></i> Replit"
+    identifier = "replittool"
+    url = "https://replit.com/"
     weight = 22
 
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-    identifier = "ds"
-    url = "https://github.com/emmauscollege/emmauscollege.github.io"
-    weight = 100
-
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-    identifier = "hugodoc"
-    url = "https://gohugo.io/"
-    weight = 200
-
  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bookmark'></i> Theme Relearn Documentation"
-    identifier = "relearndoc"
-    url = "https://mcshelby.github.io/hugo-theme-relearn/"
-    weight = 210
-
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-    url = "more/credits/"
-    weight = 300
+    name = "<i class='fa fa-graduation-cap'></i> Woots"
+    identifier = "wootstool"
+    url = "https://app.woots.nl"
+    weight = 23
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-tags'></i> Docentenpagina"
