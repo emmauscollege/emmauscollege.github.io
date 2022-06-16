@@ -42,7 +42,7 @@ Beide docent informatica op het Emmauscollege Rotterdam <br>
 
 ## License
 
-This site is licensed under the [MIT License](https://github.com/McShelby/hugo-theme-relearn/blob/main/LICENSE).
+This site is licensed under the [MIT License](https://github.com/emmauscollege/emmauscollege.github.io/blob/main/LICENSE).
 
 ## Credits
 Wil jij je naam hier? Help ons dan om de site beter te maken.
