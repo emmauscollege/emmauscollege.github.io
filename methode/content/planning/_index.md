@@ -2,8 +2,7 @@
 title = "1. Planning"
 +++
 
-Hier vind je de PTA's en lesplanners per jaarlaag.
-<i>En hier staat ook de stof per toets (welke modules, de leerdoelen zitten in de modules)</i>
+Hier vind je de geplande toetsen in inlevermomenten, lesplanners en PTA's per jaarlaag.
 
 <!--more-->
 
