@@ -1,5 +1,5 @@
 +++
-title = "5. Docenten pagina"
+title = "5. Docentenpagina"
 hidden = true
 +++
 
@@ -7,52 +7,45 @@ Hier vind je informatie voor docenten. Geen geheimen natuurlijk, want leerlingen
 
 <!--more-->
 
-## voor docenten
+## Onze filosofie
+We zijn in juni 2022 begonnen met deze site, vanuit de behoefte om alle verschillende stukken lesmateriaal die we de afgelopen jaren verzameld hebben overzichtelijk en laagdrempelig voor leerlingen bij elkaar te brengen. Bij het maken van de site hebben we ons laten leiden door de volgende uitgangspunten:
+- informatica als praktisch vak (leuk voor leerlingen, relevantie van theorie door koppeling met praktijk)
+- laagdrempelig voor leerlingen (zo min mogelijk drempels: weinig kliks, ook op mobiel, geen inlog, snel vinden wat je zoekt, eenvoudige structuur)
+- modulair programma (eenvoudig te onderhouden, onderdelen eenvoudig te vernieuwen)
+- we maken geen lesmethode, maar een programma. Dat betekent dat we zoveel mogelijk verwijzen naar bestaand (Nederlandstalig of Engelstalig) lesmateriaal.
 
-<i>
-Hoe kunnen docenten hergebruiken en meedenken?
-Als we willen dat alle informatie voor onze leerlingen hier te vinden is, dan is het onontkoombaar dat er school-specifieke informatie tussen zit. We kunnen die zoveel mogelijk in aparte onderdelen zetten. Hergebruik betekent dan: site aan het begin van het jaar clonen en aanpassen aan je eigen behoefte. Volgend jaar kun je weer kopieren, maar dan moet je je aanpassingen opnieuw doen. Dit is niet helemaal wat we voor ogen hadden...
-</i>
+## Gebruiken in je klas
+Geef de link aan je leerlingen en gebruik de delen die je aanstaan. Zolang je doel is om leerlingen te helpen met informatica, vinden wij het geweldig.
 
- [[Languages.en.menu.shortcuts]]
-    name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-    identifier = "ds"
-    url = "https://github.com/emmauscollege/emmauscollege.github.io"
-    weight = 23
+## Zelf aanpassen 
+Wil je aanpassingen doen? Dat doe je zo:
+1. Fork [onze repo op github](https://github.com/emmauscollege/emmauscollege.github.io)
+2. Maak de juiste instellingen (vraag CAM@emmaus)
+3. Pas de site naar je eigen behoeften aan
+4. Probeer schoolspecifieke informatie zoveel mogelijk te scheiden van de rest, dat is handig als je updates van ons wilt overnemen
 
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-    identifier = "hugodoc"
-    url = "https://gohugo.io/"
-    weight = 200
+Meer informatie over de gebruike technieken
+ - Hugo Documentation](https://gohugo.io/)
+ - Theme Relearn Documentation](https://mcshelby.github.io/hugo-theme-relearn/)
+  
+## Bijdragen
+We vinden het tof als je het programma gebruikt en nog toffer als je mee wilt werken om het verder te verbeteren. Als we kennis delen dan wordt het voor iedereen beter en kost het ons met zijn allen minder tijd om een mooi programma te onderhouden. Bijdragen kan als volgt:
+- Voor kleine wijzigingen (binnen 1 pagina) kun je klikken op het potlood rechtsboven elke pagina. De aanpassing kun je vervolgens in github maken. Na goedkeuring worden ze automatisch verwerkt. (@we moeten dit nog testen)
+- Voor substantielere wijzigingen, zoals toevoegen van een nieuwe (keuze)module. Contact ons via mail.
+- We staan altijd open voor het uitwisselen van ervaring, contact ons
 
- [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bookmark'></i> Theme Relearn Documentation"
-    identifier = "relearndoc"
-    url = "https://mcshelby.github.io/hugo-theme-relearn/"
-    weight = 210
-
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-    url = "more/credits/"
-    weight = 300
-    
-
-### Getting support
-
-To get support, feel free to open a new [discussion topic](https://github.com/McShelby/hugo-theme-relearn/discussions) or [issue](https://github.com/McShelby/hugo-theme-relearn/issues) in the official repository on GitHub.
-
-## Become a contributor
-
-Feel free to update this documentation by just clicking the **Edit** link displayed on top right of each page. Your changes will be deployed automatically once they were reviewed.
-
-You are most welcome to contribute bugfixes or even new features to the source code by making pull requests to the [official repository](https://github.com/McShelby/hugo-theme-relearn) via GitHub. Please visit the [contribution guidelines](https://github.com/McShelby/hugo-theme-relearn/blob/main/.github/contributing.md) first.
+## Contact
+Arie Pieter Cammeraat CAM@emmaus<br>
+Sander van Geest GEE@emmaus <br>
+Beide docent informatica op het Emmauscollege Rotterdam <br>
+(volledige mailadres niet opgenomen ter bescherming tegen spam, tip: het mailadres eindigt op emmauscollege.nl 😉)
 
 ## License
 
 This site is licensed under the [MIT License](https://github.com/McShelby/hugo-theme-relearn/blob/main/LICENSE).
 
 ## Credits
+Wil jij je naam hier? Help ons dan om de site beter te maken.
 
-This theme would not be possible without the work of many others. See the [credits]({{%relref "more/credits" %}}) for a detailed list.
+
  
