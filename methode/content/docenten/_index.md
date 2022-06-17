@@ -25,8 +25,8 @@ Wil je aanpassingen doen? Dat doe je zo:
 4. Probeer schoolspecifieke informatie zoveel mogelijk te scheiden van de rest, dat is handig als je updates van ons wilt overnemen
 
 Meer informatie over de gebruike technieken
- - Hugo Documentation](https://gohugo.io/)
- - Theme Relearn Documentation](https://mcshelby.github.io/hugo-theme-relearn/)
+ - [Hugo Documentation](https://gohugo.io/)
+ - [Theme Relearn Documentation](https://mcshelby.github.io/hugo-theme-relearn/)
   
 ## Bijdragen
 We vinden het tof als je het programma gebruikt en nog toffer als je mee wilt werken om het verder te verbeteren. Als we kennis delen dan wordt het voor iedereen beter en kost het ons met zijn allen minder tijd om een mooi programma te onderhouden. Bijdragen kan als volgt:
