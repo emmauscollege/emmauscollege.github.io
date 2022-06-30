@@ -1,6 +1,7 @@
 +++
-title = "2.101. Intellectueel eigendom"
-weight = 101
+title = "2.2.1. Intellectueel eigendom"
+weight = 2.1
+hidden = false
 +++
 
 ## Inleiding

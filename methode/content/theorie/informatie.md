@@ -18,10 +18,13 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 - [8: Digitale informatie in bestanden](https://moodle.informatica-actief.nl/course/view.php?id=742#section-11) (alleen theorie 1 t/m 5)
 - 9: Diagnostische toets (overslaan)
 
+[Intellectueel eigendom](../auteursrecht/)
+
 ## Uitlegvideo's
 {{<youtube id="?list=PLpTljPS--R5A9aLTfJz1RvxnqZHaPWpK8">}}
 
 ## Leerdoelen
+Informatie digitaal
 1.	Je kunt binaire getallen omzet naar decimale getallen en andersom.
 2.	Je kunt binaire getallen omzet naar hexadecimale getallen en andersom.
 3.	Je kunt decimale getallen omzet naar hexadecimale getallen en andersom.
@@ -38,6 +41,10 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 14.	Je kunt uitleggen wat een extensie is en waar deze voor dient
 15.	Je kunt uitleggen wat compressie is aan de hand van voorbeelden (tekst, geluid, plaatjes en video) en je kent het verschil tussen lossless en niet-lossless compressie.
 16.	<em>Alleen vwo:</em> Je kunt op basis van een beschrijving van een compressie algortime een klein voorbeeld comprimeren en decomprimeren. 
+
+Intellectueel eigendom
+1. iets
+2. nog iets
 
 ## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
