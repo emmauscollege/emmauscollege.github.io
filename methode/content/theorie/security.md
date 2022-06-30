@@ -1,9 +1,9 @@
 +++
-title = "2.6. Robotica met Arduino"
-weight = 6
+title = "2.9. Security"
+weight = 9
 +++
 
-Je leert hoe je met behulp van toestandsgrammen kunt programmeren. Je gebruikt daarbij het Arduino platform.
+Je leert hoe hackers werken en hoe je kunt zorgen dat jij niet gehackt wordt.
 <!--more-->
 
 ## Theorie

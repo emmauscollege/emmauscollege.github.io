@@ -1,6 +1,6 @@
 +++
-title = "2.6. Netwerken met IP"
-weight = 6
+title = "2.7. Netwerken met IP"
+weight = 7
 +++
 
 Je leert hoe het internet van binnen werkt.

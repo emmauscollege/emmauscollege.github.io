@@ -1,6 +1,6 @@
 +++
-title = "2.4. Databases met SQL"
-weight = 4
+title = "2.5. Databases met SQL"
+weight = 5
 +++
 
 Je leert hoe je heel veel informatie kunt bekijken en bewaren in databases met de programmeertaal SQL.

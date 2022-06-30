@@ -1,12 +1,12 @@
 +++
-title = "2.1. Digitale informatie"
-weight = 1
+title = "2.2. Digitale informatie"
+weight = 2
 +++
 
 Je leert hoe een computer allerlei soorten informatie opslaat.
 <!--more-->
 
-## 2.1.1. Lesstof
+## Lesstof
 [Informatica Actief, module informatie digitaal](https://moodle.informatica-actief.nl/course/view.php?id=742)
 - [1: Digitale afbeeldingen, pixels met kleur](https://moodle.informatica-actief.nl/course/view.php?id=742#section-4) (alleen theorie 1 t/m 7)
 - [2: Bits en Bytes](https://moodle.informatica-actief.nl/course/view.php?id=742#section-5) (alleen theorie 1 t/m 5)
@@ -18,10 +18,10 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 - [8: Digitale informatie in bestanden](https://moodle.informatica-actief.nl/course/view.php?id=742#section-11) (alleen theorie 1 t/m 5)
 - 9: Diagnostische toets (overslaan)
 
-## 2.1.2. Uitlegvideo's
+## Uitlegvideo's
 {{<youtube id="?list=PLpTljPS--R5A9aLTfJz1RvxnqZHaPWpK8">}}
 
-## 2.1.3. Leerdoelen
+## Leerdoelen
 1.	Je kunt binaire getallen omzet naar decimale getallen en andersom.
 2.	Je kunt binaire getallen omzet naar hexadecimale getallen en andersom.
 3.	Je kunt decimale getallen omzet naar hexadecimale getallen en andersom.
@@ -39,5 +39,5 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 15.	Je kunt uitleggen wat compressie is aan de hand van voorbeelden (tekst, geluid, plaatjes en video) en je kent het verschil tussen lossless en niet-lossless compressie.
 16.	<em>Alleen vwo:</em> Je kunt op basis van een beschrijving van een compressie algortime een klein voorbeeld comprimeren en decomprimeren. 
 
-## 2.1.4. Oefentoets
+## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).

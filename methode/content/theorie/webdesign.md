@@ -1,6 +1,6 @@
 +++
-title = "2.2. Web Design met HTML en CSS"
-weight = 2
+title = "2.1. Web Design met HTML en CSS"
+weight = 1
 +++
 
 Je leert hoe je informatie op een website zet met de programmeertalen HTML en CSS.
