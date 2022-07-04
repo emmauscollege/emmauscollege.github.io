@@ -1,16 +1,22 @@
 +++
-title = "3.2 Game"
-weight = 2
+title = "3.4 Robot"
+weight = 4
 +++
 
-Je gaat je eigen game programmeren!
+Je gaat je eigen website maken!
 <!--more-->
 
 ## Opdrachtbeschrijving
-De opdracht in het kort is: Maak in groepjes van twee je eigen spel in JavaScript. Je gebruikt de startcode en maakt gebruik van de p5js-library.
+De opdracht in het kort is: ...
+
+## DEZE PAGINA BEVAT NOG NIET DE GOEDE INFO
 
 {{% expand "Inschrijven" %}}
-- Je schrijft je in via het formulier dat de docent aanlevert. 
+Je schrijft je in via het onderstaande formulier dat de docent aanlevert. 
+- 4hin1, link naar formulier volgt
+- 4hin2, link naar formulier volgt
+- 4vin1, link naar formulier volgt
+- 4vin2, link naar formulier volgt
 {{% /expand %}}
 
 {{% expand "Game kiezen" %}}
@@ -35,22 +41,21 @@ Het cijfer dat je voor je PO krijgt wordt vanuit vier invalshoeken bepaald:
 **Minimale eisen**
 
 Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de minimale eisen. Werk dat niet voldoet aan de minimale eisen krijgt het cijfer 1,0. De minimale eisen zijn:
-- Het spel is moreel verantwoord: het is niet beledigend, visueel gewelddadig of op andere manieren onfatsoenlijk.
-- Je mag voorbeelden van kleine stukjes code van internet hergebruiken, zolang je het begrijpt en je de stijl zo aangepast hebt dat het past bij de rest van je code. 
-- De commentaren, variabelen en functies in je code zijn Nederlands.
-- Een download in zip-formaat van je game mag maximaal 20 MB groot zijn.
+- De inhoud van je webshop is moreel verantwoord: het is niet beledigend, visueel gewelddadig of op andere manieren onfatsoenlijk.
+- Natuurlijk mag je overleggen met klasgenoten en mag je op internet kijken hoe je bepaalde dingen kunt maken. Let wel op dat je geen plagiaat pleegt. Je mag maximaal 5 regels code overnemen van andere leerlingen of internet en je schrijft in het commentaar erbij waar je het voorbeeld vandaan hebt. Dat geldt ook voor code die je zelf vertaalt naar het Nederlands. Overtypen van code uit een Youtube-video of een tutorial van internet volgen en dat resultaat inleveren is niet toegestaan.
+- Je gebruikt de startcode die je krijgt.
+- Je gebruikt het stappenplan dat in README.md van het template staat.
+- Een download in zip-formaat van je opdracht mag maximaal 50 MB groot zijn.
 
-**Basiswerking**
+**Werking en aantrekkelijkheid**
 - Spel start op
 - Het spel werkt (hoe klein ook)
 - Behaalde punten zijn zichtbaar bij game-over
 - Het doel en de bediening van het spel is duidelijk
-
-**Uiterlijk**
 - Aantrekkelijk uiterlijk
 - Prettige bediening
 - Eenvoudig om mee te beginnen en moeilijker als je verder komt
-- Afwisseling
+- Afwisselend
 
 **Techniek**
 - De code volgt de lijn van het template
@@ -75,13 +80,13 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 {{% /expand %}}
 
 ## Startcode
-{{<figure src="4HV-game-template.png" link="https://github.com/emmauscollege/4HV-game-template">}}
+{{<figure src="../game_github.png" link="https://github.com/emmauscollege/4HV-game-template">}}
 
+<!--
 [![Open GitHub](https://img.shields.io/badge/open-GitHub-brightgreen)](https://github.com)
-
 [![Open Gitpod](https://img.shields.io/badge/open-Gitpod-brightgreen)](https://gitpod.io)
-
 [![Open Replit](https://img.shields.io/badge/open-Replit-brightgreen)](https://replit.com)
+-->
 
 <!--
 ## Planning
@@ -102,7 +107,4 @@ gebruiken we liever de pdf (universeel viewable) of pptx (brondocument, snel edi
 
 </i>    
 
-## Documentatie
-- p5js reference <br>
-https://p5js.org/reference/
 
