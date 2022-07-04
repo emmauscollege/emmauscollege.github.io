@@ -18,7 +18,7 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 - [8: Digitale informatie in bestanden](https://moodle.informatica-actief.nl/course/view.php?id=742#section-11) (alleen theorie 1 t/m 5)
 - 9: Diagnostische toets (overslaan)
 
-[Intellectueel eigendom](../auteursrecht/)
+[Beeldbewerking](./informatie_lespresentatie_beeldbewerking.pptx)
 
 ## Uitlegvideo's
 {{<youtube id="?list=PLpTljPS--R5A9aLTfJz1RvxnqZHaPWpK8">}}
@@ -42,9 +42,13 @@ Informatie digitaal
 15.	Je kunt uitleggen wat compressie is aan de hand van voorbeelden (tekst, geluid, plaatjes en video) en je kent het verschil tussen lossless en niet-lossless compressie.
 16.	<em>Alleen vwo:</em> Je kunt op basis van een beschrijving van een compressie algortime een klein voorbeeld comprimeren en decomprimeren. 
 
-Intellectueel eigendom
-1. iets
-2. nog iets
+Beeldbewerking
+1. Je kunt het aantal pixels van een plaatje aanpassen
+2. Je kunt een plaatje bijsnijden (Engels: crop)
+3. Je kunt een plaatje in diverse bestand-formaten omzetten (bijvoorbeeld .jpg, .png, .gif)
+4. Je kunt basisinstellingen van de kleuren in een plaatje aanpassen (bijvoorbeeld contrast)
+5. Je kunt de achtergrond van een plaatje transparant maken, een vast kleur maken, vervangen door een ander plaatje.
+6. Je begrijpt wat je kunt doen met lagen en je kunt dat uitleggen aan de hand van een gegeven situatie.
 
 ## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).

@@ -6,10 +6,17 @@ weight = 4
 Je leert hoe je problemen kunt oplossen met algoritmen, je gebruikt daarbij stroomdiagrammen en de programmeertaal Javascript.
 <!--more-->
 
-## Theorie
+## Lesstof
 [Khanacademy, module Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
 - 
 -
+
+Eenvoudige algoritmen
+- Stroomdiagrammen (Engels: flowcharts)
+- Programmeeroefeningen
+
+Complexe algoritmen (vwo)
+- Lespresentatie, sorteren, kortste pad, efficiency
 
 ## Uitlegvideo's
 {{<youtube id="">}}
