@@ -11,6 +11,7 @@ De opdracht in het kort is: Maak in groepjes van twee je eigen spel in JavaScrip
 
 {{% expand "Inschrijven" %}}
 - Je schrijft je in via het formulier dat de docent aanlevert. 
+{{% /expand %}}
 
 {{% expand "Game kiezen" %}}
 Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game die je kiest goedkeuren. Enkele voorbeelden van een game die je kunt maken zijn: Tennis, Flappy Bird, Snake (voorganger van Slither.io), een Break Out Game (zoals Arkanoid), een race spelletje, een eenvoudige platform game (zoals pacman), een puzzelspel enzovoort. 
