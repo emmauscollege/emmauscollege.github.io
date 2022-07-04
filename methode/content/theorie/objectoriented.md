@@ -1,5 +1,5 @@
 +++
-title = "2.9. Object Oriented programming"
+title = "2.9. Object Oriented Programmeren"
 weight = 9
 +++
 
