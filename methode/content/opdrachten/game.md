@@ -30,11 +30,7 @@ Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game 
 {{% /expand %}}
 
 {{% expand "Beoordeling" %}}
-Het cijfer dat je voor je PO krijgt wordt vanuit vier invalshoeken bepaald: 
-- basiswerking
-- uiterlijk
-- techniek
-- inzet, planning en samenwerking 
+Het cijfer dat je voor je PO krijgt wordt vanuit verschillende invalshoeken bepaald: 
 
 **Minimale eisen**
 
