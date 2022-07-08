@@ -24,7 +24,7 @@ Je leert hoe je informatie op een website zet met de programmeertalen HTML en CS
 Er zijn (nog) geen uitlegvideo's bij deze theorie
 
 ## Leerdoelen
-HTML en CSS
+HTML
 1. Je kunt uitleggen wat een URL is en waarvoor een webbrowser deze gebruikt en je kent de volgende vier onderdelen van een URL: protocol, server, map, bestand
 2. Je kent het principe van tags zoals die in HTML gebruikt worden.
 3. Je kent de basisstructuur van een HTML-pagina.
@@ -33,7 +33,8 @@ HTML en CSS
 6. Je kunt eenvoudige stukken HTML interpreteren, dat wil zeggen dat je kunt uitleggen hoe een webbrowser omgaat met een eenvoudig stuk HTML.
 7. Je kunt wijzigingen aanbrengen in een eenvoudig stuk HTML, de syntax van de HTML tags die daarvoor nodig zijn wordt daarbij gegeven in de vraag.
 
-8. Je kunt uitleggen wat er binnen de informatica met Separation of Concern wordt bedoeld en hoe dat op HTML en CSS van toepassing is. 
+CSS
+1. Je kunt uitleggen wat er binnen de informatica met Separation of Concern wordt bedoeld en hoe dat op HTML en CSS van toepassing is. 
 9. Je kunt uitleggen wat selectors, properties en values in CSS zijn en je kunt ermee werken. Dat wil zeggen dat je eenvoudige stukken CSS met selectors, properties en values kunt maken en de werking ervan kunt uitleggen. 
 10. Je kunt CSS selectors maken die bestaan uit een tag, class of id of een combinatie daarvan.
 11. Je kent het verschil in selectiviteit tussen tags, classes en id’s, je kunt daarbij aangeven welke selectors meer of minder specifiek zijn.
