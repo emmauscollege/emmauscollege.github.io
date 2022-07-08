@@ -21,7 +21,7 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 [Beeldbewerking](./informatie_lespresentatie_beeldbewerking.pptx)
 
 ## Uitlegvideo's
-{{<youtube id="?list=PLpTljPS--R5A9aLTfJz1RvxnqZHaPWpK8">}}
+{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5A9aLTfJz1RvxnqZHaPWpK8">}}
 
 ## Leerdoelen
 Informatie digitaal

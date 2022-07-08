@@ -20,7 +20,7 @@ Je leert hoe je informatie op een website zet met de programmeertalen HTML en CS
 [Intellectueel eigendom](../auteursrecht/)
 
 ## Uitlegvideo's
-{{<youtube id="">}}
+<!-- {{<youtube id="">}} -->
 Er zijn (nog) geen uitlegvideo's bij deze theorie
 
 ## Leerdoelen
