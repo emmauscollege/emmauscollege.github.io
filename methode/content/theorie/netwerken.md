@@ -6,15 +6,58 @@ weight = 7
 Je leert hoe het internet van binnen werkt.
 <!--more-->
 
-## Theorie
-[Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917)
-- 
--
+Deze module wordt misschien herzien.
+
+## Lesstof
+Theorie
+1. [Netwerken lespresentatie (Powerpoint presentatie)](../netwerken_lespresentatie.pptx)
+2. [Geschiedenis van netwerken (reader)](../netwerken_geschiedenis.pdf)
+2. [Netwerktopologieën (reader)](../netwerken_topologieen.pdf)
+4. [How the internet works (video's)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+
+Oefeningen <br>
+[Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917) 
+1. [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917#section-4) (1.1, sla 1.2 over) <br>
+In plaats van Filius te installeren, gebruik je [Filius in Gitpod](https://github.com/emmauscollege/filius)
+2. [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917#section-5) (2.1 t/m 2.17)
+3. [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917#section-6) (3.1 t/m 3.8)
+4. [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917#section-7) (4.1 t/m 4.3)
+5. [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917#section-8) (5.1 t/m 5.5)
 
 ## Uitlegvideo's
-{{<youtube id="">}}
-Uitlegvideo's bij deze theorie moeten we nog opzoeken
+{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5DtkHtxFNv-677dGsejyI1K">}}
 
 ## Leerdoelen
-1.	Je kunt 
-16.	<em>Alleen vwo:</em> Je kunt 
+Netwerken
+1. Je kent een aantal belangrijke feiten uit de geschiedenis van het internet, zodat je:
+1. kunt uitleggen waarom het ARPANET de voorvader van het internet is
+1. kunt uitleggen wie ethernet heeft bedacht en wat de techniek achter dit protocol is
+1. kunt uitleggen wanneer het zogenoemde wereldwijde web ontstond en wat HTTP daarmee te maken had.
+1. met behulp van een berekening kunt aantonen wat de hoofdreden is om het IP versie 4 protocol te vervangen door IPv6
+1. Je kunt het verschil uitleggen tussen een LAN en een WAN.
+1. Je kent de volgende netwerktopologieën: bus, ring, ster, mesh (of maas, zowel volledig als onvolledig vermaasd). Je kunt uitleggen hoe deze verschillen in betrouwbaarheid en benodigde infrastructuur.
+1. Je kent de belangrijkste verschillen tussen communicatie over koperen verbindingen, glasvezelverbindingen en draadloze verbindingen
+1. Je weet wat bij computernetwerken de termen lag / latency / latentie en bandbreedte betekenen en hoe ze de snelheid van een netwerkverbinding beïnvloeden.
+1. Je kunt uitleggen waarvoor het het OSI-model is ontwikkeld
+1. Je begrijpt het OSI-model / IP-stack. Je kunt de applicatielaag, transportlaag, netwerklaag, datalinklaag en fysische laag uitleggen.
+1. Je kunt twee voordelen benoemen van het werken met een lagenmodel zoals het OSI-model of de IP-stack.
+1. Je weet wat een MAC-adres is, bij welke laag het hoort en waarvoor het wordt gebruikt.
+1. Je weet wat ARP is en waarvoor het dient.
+1. Je weet wat het MAC broadcast adres is en waarvoor het dient.
+1. Je weet wat een IP-adres is, bij welke laag het hoort en waarvoor het wordt gebruikt.
+1. Je kunt met behulp van routeringstabellen het gedrag van een router bij een inkomend bericht beschrijven.
+1. Je weet wat het IP broadcast adres is en waarvoor het dient.
+1. Je weet wat een subnetmasker is en waarvoor dit dient.
+1. Je kunt met behulp van het subnetmasker uitrekenen hoeveel apparaten er in een netwerk verbonden kunnen zijn.
+1. Je weet wat het nadeel is van een subnetwerk met heel veel apparaten.
+1. Je kunt de twee belangrijkste verschillen tussen TCP en UDP benoemen
+1. Je weet wat TCP-poorten zijn en waarvoor deze dienen
+1. Je kunt beschrijven hoe een pakketje van een apparaat in het ene subnet naar een apparaat in het andere subnet reist.
+1. Je kent de functie van de volgende netwerkapparaten: router, modem, switch, wireless access point, repeater, firewall
+1. Je kunt beredeneren tot op welk niveau van het OSI-model een netwerkapparaat werkzaam is.
+1. Je kunt bij schematische weergave van een netwerk de verschillende netwerkapparaten herkennen en benoemen en IP-adressen en subnetmaskers bepalen of toewijzen.
+1. Je weet wat de functie van een firewall is.
+1. Je begrijpt wat een DNS is en waarvoor deze dient
+1. Je kunt uitleggen wat de functie van een DHCP server is.
+
+

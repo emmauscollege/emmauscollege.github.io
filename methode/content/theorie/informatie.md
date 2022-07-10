@@ -18,7 +18,8 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 - [8: Digitale informatie in bestanden](https://moodle.informatica-actief.nl/course/view.php?id=742#section-11) (alleen theorie 1 t/m 5)
 - 9: Diagnostische toets (overslaan)
 
-[Beeldbewerking](./informatie_lespresentatie_beeldbewerking.pptx)
+Beeldbewerking
+1. [Beeldbewerking oefeningen (powerpoint presentatie)](./informatie_lespresentatie_beeldbewerking.pptx) met [photopea.com](https://photopea.com)
 
 ## Uitlegvideo's
 {{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5A9aLTfJz1RvxnqZHaPWpK8">}}

@@ -1,7 +1,7 @@
 +++
 title = "2.1.1. Intellectueel eigendom"
 weight = 1.1
-hidden = false
+hidden = true
 +++
 
 ## Inleiding

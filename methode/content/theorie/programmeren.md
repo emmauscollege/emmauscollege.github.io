@@ -27,8 +27,7 @@ Je leert hoe je eenvoudige programma's kunt maken met de programmeertaal Javascr
 1. Object-Oriented Design (overslaan)
 1. [Becoming a better programmer](https://www.khanacademy.org/computing/computer-programming/programming#good-practices)
 
-
-
+Lespresentatie of reader volgt.
 
 ## Uitlegvideo's
 {{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5DwKVFeOrwrveKeTsR3StJr">}}

@@ -8,15 +8,15 @@ Je leert hoe je problemen kunt oplossen met algoritmen, je gebruikt daarbij stro
 
 ## Lesstof
 Eenvoudige algoritmen
-- Stroomdiagrammen (Engels: flowcharts)
-- Programmeeroefeningen
+1. [Stroomdiagrammen lespresentatie, met codevoorbeelden in replit](../algoritmen_lespresentatie.pptx) (wordt misschien herzien)
+1. [Programmeeropdrachten in Github](https://github.com/emmauscollege/programmeer-opdrachten) (wordt misschien overgezet naar Woots)
 
 Complexe algoritmen (vwo)
-- Lespresentatie, sorteren, kortste pad, efficiency
+1. Volgt nog, we denken aan sorteren, kortste pad, efficiency
 
 ## Uitlegvideo's
-{{<youtube id="">}}
-Uitlegvideo's bij deze theorie moeten we nog opzoeken
+<!-- {{<youtube id="">}} -->
+Er zijn (nog) geen uitlegvideo's bij deze theorie
 
 ## Leerdoelen
 Eenvoudige algoritmen

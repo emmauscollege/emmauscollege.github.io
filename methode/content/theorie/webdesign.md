@@ -17,7 +17,8 @@ Je leert hoe je informatie op een website zet met de programmeertalen HTML en CS
 7. [Other ways to embed css](https://www.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css) (geen toetsstof)
 8. [Further learning](https://www.khanacademy.org/computing/computer-programming/html-css#html-css-further-learning)
 
-[Intellectueel eigendom](../auteursrecht/)
+Intellectueel eigendom
+1. [Intellectueel eigendom (online reader)](../webdesign_auteursrecht/)
 
 ## Uitlegvideo's
 <!-- {{<youtube id="">}} -->
