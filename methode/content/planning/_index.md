@@ -20,29 +20,28 @@ Knip en plak het resultaat hieronder
 {{< tabs >}}
 
 {{% tab name="4H" %}}
-Datum (maandag)|Les 1 (theorie)|Les 2+3 (praktijk)
+Datum maandag|Les 1 theorie|Les 2+3 praktijk
 --|--|--
 22-aug||intro
 29-aug|Uitleg html tags (+khan)|"Start khan intro to HTML and CSS khan t/m x.x"
 05-sep|Uitleg css selectors en properties (+khan)|khan t/m x.x
 12-sep|Uitleg webdesign: boxmodel (+khan)|khan t/m x.x
 19-sep|Uitleg webdesign: floats (+khan)|khan t/m x.x
-26-sep|Uitleg ntb over design, of toch maar url's / backend structuur / client server concept|"Start PO websiteO website: eerste wijziging gemaakt"
+26-sep|Uitleg ntb over design, of toch maar url's / backend structuur / client server concept|"Start PO website O website: eerste wijziging gemaakt"
 03-okt|Uitleg ntb over design, wireframes?|PO website: 4 lege pagina's + menu af
 10-okt|Uitleg ntb over security? (cookies enzo)|PO website:
 17-okt|Uitleg intellectueel eigendom|PO website
 24-okt|**Herfstvakantie**|
-31-okt|"Start informatie
-uitleg informatie bits+BIN tellen (+ IA)"|PO website
+31-okt|"Start informatie uitleg informatie bits+BIN tellen (+ IA)"|PO website
 07-nov|uitleg informatie DEC->BIN + BIN->DEC(+ IA)|PO website
-14-nov|TW1 **Toets 4H-IN-S01 over 2.1 Web Design**|
+14-nov|**TW1: Toets 4H-IN-S01** over 2.1 Web Design|
 21-nov|**TW1**|
 28-nov|uitleg informatie DEC->HEX + HEX->DEC(+ IA)|PO website
 05-dec|uitleg informatie RGB + plaatjes (+ IA)|PO website
 12-dec|uitleg informatie geluid + video (+ IA)|PO website
 19-dec|uitleg informatie compressie + bestanden en mappen(+ IA)|PO website
-26-dec|**Kerstvakantie**|
-02-jan|**Kerstvakantie**|
+26-dec|**Kerstvakantie**
+02-jan|**Kerstvakantie**
 09-jan|korte uitleg photopea+ oefenen beeldbewerking|PO website
 16-jan|korte uitleg lagen + oefenen beeldbewerking|**PO 4H-IN-S04 website inleveren**
 23-jan|Uitleg machinetaal, hogere programmeertaal, compiler …|Khan Javascript t/m drawing basics + coloring + variables + animation basics
@@ -52,23 +51,23 @@ uitleg informatie bits+BIN tellen (+ IA)"|PO website
 20-feb|Uitleg logic en if|PO game: eerst wijziging gemaakt
 27-feb|**Voorjaarsvakantie**|
 06-mrt|Uitleg loop|PO game: speler beweegt
-13-mrt|**TW2: Toets 4H-IN-S01 over 2.2 Informatie**|
-20-mrt|**TW2**|
+13-mrt|**TW2: Toets 4H-IN-S01** over 2.2 Informatie
+20-mrt|**TW2**
 27-mrt|Uitleg array|PO game: vijand
 03-apr|Uitleg nesten (loops, functies, …)|PO game: botsingdetectie + afgaan
 10-apr|uitleg flowcharts|PO game: punten + gameoverscherm
 17-apr|uitleg + oefeningen eenvoudige algoritmen|PO game: uitlegscherm (= basis af)
-24-apr|**Meivakantie **|
-01-mei|**Meivakantie **|
+24-apr|**Meivakantie **
+01-mei|**Meivakantie **
 08-mei|oefeningen eenvoudige algoritmen|PO game: werk aan uitbreiding 1
 15-mei|oefeningen eenvoudige algoritmen|PO game: werk aan uitbreiding 1
 22-mei|oefeningen eenvoudige algoritmen|PO game: uitbreiding 1 af
 29-mei|ntb: bubble sort? (geen leerdoel)|PO game: werk aan uitbreiding 2
 05-jun|ntb|PO game: werk aan uitbreiding 2
 12-jun|ntb|uitbreiding 2 af / **PO 4H-IN-S05 game inleveren**
-19-jun|**TW3: Toets 4H-IN-S03 over 2.3 Programmeren + 2.4 Algoritmen**|
-26-jun|**TW3**|
-10-jul|**Zomervakantie**|
+19-jun|**TW3: Toets 4H-IN-S03** over 2.3 Programmeren + 2.4 Algoritmen
+26-jun|**TW3**
+03-jul|**Zomervakantie**
 
 {{% /tab %}}
 
