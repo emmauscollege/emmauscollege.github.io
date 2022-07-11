@@ -1,6 +1,6 @@
 +++
-title = "2.9. Object Oriented Programmeren"
-weight = 9
+title = "2.8. Object Oriented Programmeren"
+weight = 8
 +++
 
 Je leert object georienteerd programmeren. Dat is een manier van programmeren waarbij data en logica gebundeld zijn in objecten. Je gebruikt daarvoor de programmeertaal C++ (spreek uit als "See-plus-plus").
