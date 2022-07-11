@@ -62,7 +62,7 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - Je toont inzet tijdens de lessen
 - De planning is vooraf gemaakt, gevolgd en als nodig bijgesteld.
 - De taakverdeling is duidelijk en alle teamleden dragen in gelijke mate bij.
-- Het werk is verdeeld over de weken waarin aan de opdracht kon worden gewerkt.
+- Het werk is verdeeld over de weken waarin aan de opdracht kon worden gewerkt, dit blijkt onder andere uit de commits in Github.
 {{% /expand %}}
 
 {{% expand "Inleveren" %}}

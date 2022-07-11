@@ -7,9 +7,7 @@ Je gaat je eigen webshop maken!
 <!--more-->
 
 ## Opdrachtbeschrijving
-De opdracht in het kort is: ...
-
-## DEZE PAGINA BEVAT NOG NIET DE GOEDE INFO
+De opdracht in het kort is: Maak in groepjes van twee of drie je eigen webshop. Je gebruikt de startcode en breidt de database uit met jouw producten. De api en het website deel pas je aan waar dat nodig is.
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via het onderstaande formulier dat de docent aanlevert. 
@@ -19,8 +17,8 @@ Je schrijft je in via het onderstaande formulier dat de docent aanlevert.
 - 4vin2, link naar formulier volgt
 {{% /expand %}}
 
-{{% expand "Game kiezen" %}}
-Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game die je kiest goedkeuren. Enkele voorbeelden van een game die je kunt maken zijn: Tennis, Flappy Bird, Snake (voorganger van Slither.io), een Break Out Game (zoals Arkanoid), een race spelletje, een eenvoudige platform game (zoals pacman), een puzzelspel enzovoort. 
+{{% expand "Kies wat je gaat verkopen" %}}
+Je bent vrij om zelf te kiezen wat je in je webshop gaat verkopen. Je docent moet goedkeuren wat je verkoopt. Je kunt denken aan kleding, producten die te maken hebben met je idool, zelfgemaakte sieraden, tweedehandsspullen enzovoort. Het hoeven niet persé bestaande producten te zijn. 
 {{% /expand %}}
 
 {{% expand "Werkwijze" %}}
@@ -32,11 +30,11 @@ Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game 
 {{% /expand %}}
 
 {{% expand "Beoordeling" %}}
-Het cijfer dat je voor je PO krijgt wordt vanuit vier invalshoeken bepaald: 
-- basiswerking
-- uiterlijk
-- techniek
-- inzet, planning en samenwerking 
+Het cijfer dat je voor je PO krijgt wordt vanuit verschillende invalshoeken bepaald: 
+- De technische kwaliteit van de database (vwo 40%, havo 60%)
+- De technische kwaliteit van de aanpassingen in de api en het website-deel (vwo 20%, havo 10%)
+- Wat je extra hebt toegevoegd (vwo 20%, havo 10%)
+- Inzet, planning en samenwerking (20%)
 
 **Minimale eisen**
 
@@ -47,28 +45,31 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - Je gebruikt het stappenplan dat in README.md van het template staat.
 - Een download in zip-formaat van je opdracht mag maximaal 50 MB groot zijn.
 
-**Werking en aantrekkelijkheid**
-- Spel start op
-- Het spel werkt (hoe klein ook)
-- Behaalde punten zijn zichtbaar bij game-over
-- Het doel en de bediening van het spel is duidelijk
-- Aantrekkelijk uiterlijk
-- Prettige bediening
-- Eenvoudig om mee te beginnen en moeilijker als je verder komt
-- Afwisselend
+**Database**
+Enkele punten waarop gelet kan worden bij de beoordeling zijn
+- Je database is genormaliseerd, dat betekent dat je redundante gegevens hebt voorkomen door het gebruik van meerdere tabellen.
+- Je database bevat minimaal tien producten
+- Je neemt ten minste vier eigenschappen van producten op.
+- Je database bevat minimaal vijf tabellen.
+- Je database bevat minimaal één relatie van de vorm 1:n en minimaal één relatie van de vorm n:m.
+- Je SQL-code is toegankelijk, dat wil zeggen niet complexer dan nodig, logisch georganiseerd en waar nodig voorzien van commentaar.
 
-**Techniek**
-- De code volgt de lijn van het template
-- De code is netjes en duidelijk leesbaar
-- De code bevat geen dubbele stukken code
-- Je hebt de technieken gebruikt die in de programmeerlessen zijn aangeboden.
-- Je hebt dingen toegevoegd waarvan je zelf hebt uitgezocht hoe ze werken
+**API en web**
+Enkele punten waarop gelet kan worden bij de beoordeling zijn.
+- De API is aangepast, zodat hij alle informatie uit de database kan doorgeven aan je website.
+- De html en scripts in je website zijn aangepast, zodat ze alle data die de api levert netjes laten zien.
+
+**Extra’s**
+Enkele punten waarop gelet kan worden bij de beoordeling zijn.
+- Je hebt functies toegevoegd waaruit blijkt dat je heel goed begrijpt hoe de database, api en website samenwerken. Je kunt bijvoorbeeld denken aan het aanbrengen van filters waarmee je snel producten kunt zoeken, of een zoekfunctie.
+- Je hebt substantiële (grote) toevoegingen gedaan aan de html/css van het web-site gedeelte, zowel wat betreft de layout als de functionaliteit. Je kunt bijvoorbeeld denken aan een uitbreiding van meerdere pagina’s met nuttige informatie voor kopers.
+- … 
 
 **Inzet, planning en samenwerking**
 - Je toont inzet tijdens de lessen
 - De planning is vooraf gemaakt, gevolgd en als nodig bijgesteld.
 - De taakverdeling is duidelijk en alle teamleden dragen in gelijke mate bij.
-- Het werk is verdeeld over de weken waarin aan de opdracht kon worden gewerkt.
+- Het werk is verdeeld over de weken waarin aan de opdracht kon worden gewerkt, dit blijkt onder andere uit de commits in Github.
 {{% /expand %}}
 
 {{% expand "Inleveren" %}}
@@ -80,31 +81,11 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 {{% /expand %}}
 
 ## Startcode
-{{<figure src="../game_github.png" link="https://github.com/emmauscollege/4HV-game-template">}}
+{{<figure src="../webshop_github.png" link="https://github.com/emmauscollege/5HV-webshop-template">}}
 
-<!--
-[![Open GitHub](https://img.shields.io/badge/open-GitHub-brightgreen)](https://github.com)
-[![Open Gitpod](https://img.shields.io/badge/open-Gitpod-brightgreen)](https://gitpod.io)
-[![Open Replit](https://img.shields.io/badge/open-Replit-brightgreen)](https://replit.com)
--->
+## Uitlegvideo's (havo)
+{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5CZQu8A4igpazZsRUEA7NHJ">}}
 
-<!--
-## Planning
-{{<figure src="planning-preview.png" link="planning.pptx">}}
-gebruiken we liever de pdf (universeel viewable) of pptx (brondocument, snel editbaar)
--->
-
-## Uitlegvideo's
-{{<youtube id="videoseries?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
+## Uitlegvideo's (vwo)
+{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5CiJtenJC9FZT7vZcOklU4X">}}
   
-<i>
-- algemene gitpod en rpelit link
-- stappenplan en uitleg van de repo en gebruikte technieken zet je in de readme
-- rijkere uitleg zoals video's of code voorbeelden zetten we op de website
-- zet in de description van de repo een link naar informatica.emmauscollege.nl
-- hoe verspreiden we de link naar het google-docs document waarin leerlingen zich opgeven voor de groepjes en hun github account opgeven?  => op de pagina van de opdracht en dan bovenaan bij de opdracht een kopje "inschrijven voor deze opdracht" toevoegen.
-</i>
-
-</i>    
-
-

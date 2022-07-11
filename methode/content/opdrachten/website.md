@@ -7,9 +7,7 @@ Je gaat je eigen website maken!
 <!--more-->
 
 ## Opdrachtbeschrijving
-De opdracht in het kort is: ...
-
-## DEZE PAGINA BEVAT NOG NIET DE GOEDE INFO
+De opdracht in het kort is: Maak je eigen informatieve website over een zelfgekozen onderwerp. Je gebruikt de startcode met HTML en CSS.
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via het onderstaande formulier dat de docent aanlevert. 
@@ -19,24 +17,20 @@ Je schrijft je in via het onderstaande formulier dat de docent aanlevert.
 - 4vin2, link naar formulier volgt
 {{% /expand %}}
 
-{{% expand "Game kiezen" %}}
-Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game die je kiest goedkeuren. Enkele voorbeelden van een game die je kunt maken zijn: Tennis, Flappy Bird, Snake (voorganger van Slither.io), een Break Out Game (zoals Arkanoid), een race spelletje, een eenvoudige platform game (zoals pacman), een puzzelspel enzovoort. 
+{{% expand "Onderwerp kiezen" %}}
+Je bent vrij om zelf een onderwerp voor je website te bedenken. Je docent moet het onderwerp goedkeuren. Je kunt denken aan een hobby, sport, jouw favoriete lifestyle enzovoort. Misschien is het wel mogelijk om de website te gebruiken voor een schrijfopdracht voor een ander vak. 
 {{% /expand %}}
 
 {{% expand "Werkwijze" %}}
-- Je maakt deze opdracht in een team van twee personen. De docent geeft aan hoe de teams gemaakt worden. Je bepaalt zelf hoe je het werk binnen je team verdeelt, zolang iedereen een gelijkwaardige bijdrage levert. Je krijgt één cijfer per team, maar de docent kan hiervan afwijken als teamleden geen gelijkwaardige bijdrage hebben geleverd. 
-- Je krijgt van de docent startcode voor deze opdracht. Deze staat klaar in een repo op GitHub. Er is één repo per team. 
-- Je maakt code in Replit (havo) of Gitpod (vwo). Elk teamlid heeft zijn eigen Replit of Gitpod omgeving.
-- Elke week (liefst vaker) slaan alle teamleden hun tussentijdse werk op in de repo op GitHub. Zo zorgen jullie ervoor dat de laatste werkende versie van jullie game steeds op GitHub staat.
-- Deze opdracht maak je alsof het een echt project is. Je maakt eerst een planning. Daarna kijk je wekelijks of je nog volgens plan loopt. Als je niet volgens plan loopt, dan stuur je bij. In de les word je hiermee geholpen, maar uiteindelijk moet jij zorgen dat je op tijd klaar bent en een goed resultaat oplevert. 
+- Je maakt deze opdracht in je eentje. 
+- Je krijgt van de docent startcode voor deze opdracht. Deze staat klaar in een repo op GitHub. 
+- Je maakt code in Replit (havo) of Gitpod (vwo). 
+- Elke week (liefst vaker) sla je je tussentijdse werk op in de repo op GitHub. Zo zorg je ervoor dat de laatste werkende versie van je opdracht steeds op GitHub staat.
+- Deze opdracht maak je alsof het een echt project is. De stappen uit README.md in de starterscode zijn de basis van je planning. De voortgang hou je wekelijks bij in README.md. Als het niet volgens je plan gaat, dan stuur je bij. In de les kun je hulp vragen, maar uiteindelijk moet jij zorgen dat je op tijd klaar bent en een goed project oplevert. 
 {{% /expand %}}
 
 {{% expand "Beoordeling" %}}
-Het cijfer dat je voor je PO krijgt wordt vanuit vier invalshoeken bepaald: 
-- basiswerking
-- uiterlijk
-- techniek
-- inzet, planning en samenwerking 
+Het cijfer dat je voor je PO krijgt wordt vanuit verschillende invalshoeken bepaald: 
 
 **Minimale eisen**
 
@@ -47,64 +41,41 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - Je gebruikt het stappenplan dat in README.md van het template staat.
 - Een download in zip-formaat van je opdracht mag maximaal 50 MB groot zijn.
 
-**Werking en aantrekkelijkheid**
-- Spel start op
-- Het spel werkt (hoe klein ook)
-- Behaalde punten zijn zichtbaar bij game-over
-- Het doel en de bediening van het spel is duidelijk
-- Aantrekkelijk uiterlijk
-- Prettige bediening
-- Eenvoudig om mee te beginnen en moeilijker als je verder komt
-- Afwisselend
+**Vormgeving en inhoud**
+Enkele punten waarop gelet kan worden bij de beoordeling van vormgeving en inhoud zijn
+- De website bestaat uit mimimaal 4 pagina’s. 
+- Uit de home-page (index.html) blijkt duidelijk wat er op je website te vinden is.
+- De vormgeving ziet er aantrekkelijk uit en nodigt uit om verder te kijken op je website.
+- De inhoud is compleet en informatief, de teksten heb je niet klakkeloos gekopieerd van een andere website. 
+- De website is goed te bekijken op gangbare browsers en computers met verschillende schermresoluties. Het is een pre als je website er op een telefoon ook goed uitziet.
+- De uitlijning van de verschillende onderdelen op je website is netjes.
+- Je respecteert auteursrecht, daar waar je voorbeelden of plaatjes van anderen gebruikt geef je tenminste in commentaar de bron aan.
+- … 
 
 **Techniek**
-- De code volgt de lijn van het template
-- De code is netjes en duidelijk leesbaar
-- De code bevat geen dubbele stukken code
-- Je hebt de technieken gebruikt die in de programmeerlessen zijn aangeboden.
-- Je hebt dingen toegevoegd waarvan je zelf hebt uitgezocht hoe ze werken
+Enkele punten waarop gelet kan worden bij de beoordeling van techniek zijn
+- Je laat zien dat je de in de les aangereikte technieken begrijpt en op een nette manier kan toepassen, hierbij hoort zeker het gebruik van floats om een nette layout te maken.
+- Je laat zien dat je in staat bent om zelf nieuwe dingen kunt toevoegen die voortbouwen op wat je al geleerd hebt.
+- Alle code (HTML / CSS / JavaScript / ...) is goed leesbaar en overzichtelijk. Je springt netjes in waar dat verwacht wordt. Je gebruikt duidelijk commentaar in HTML en CSS. CSS-klassen en ID’s hebben duidelijke en begrijpelijke namen. Er is geen ongebruikte code aanwezig. Je maakt gebruik van een nette mappen structuur, met logische bestandsnamen. Ongebruikte of oude bestanden zijn verwijderd. CSS bevindt zich niet in de HTML-pagina, maar in een los CSS-bestand. Je gebruikt één CSS-bestand voor je hele website. Met commentaar geef je aan welke delen eventueel paginaspecifiek zijn. Je linkt niet naar afbeeldingen op andere websites, alle afbeeldingen die je gebruikt heb je lokaal opgeslagen.  Je afbeeldingen hebben een passende resolutie, zodat ze niet blokkerig zijn (te lage resolutie) of langzaam laden (te hoge resolutie).
+- … 
 
-**Inzet, planning en samenwerking**
+**Inzet en planning**
 - Je toont inzet tijdens de lessen
 - De planning is vooraf gemaakt, gevolgd en als nodig bijgesteld.
-- De taakverdeling is duidelijk en alle teamleden dragen in gelijke mate bij.
-- Het werk is verdeeld over de weken waarin aan de opdracht kon worden gewerkt.
+- Het werk is verdeeld over de weken waarin aan de opdracht kon worden gewerkt, dit blijkt onder andere uit de commits in Github.
 {{% /expand %}}
 
 {{% expand "Inleveren" %}}
 - De deadline voor inleveren vind je in de lesplanner.
 - Je kunt vragen stellen tot de laatste les voor de deadline.
-- Je zorgt dat alle bestanden in die nodig zijn om je spel te spelen in GitHub staan, dit zijn ten minste: index.html, style.css en script.js. Als je plaatjes gebruikt, dan staan die er ook bij.
+- Je zorgt dat alle bestanden in die nodig zijn om je spel te spelen in GitHub staan, dit zijn ten minste: index.html, 3 .html bestanden voor de subpagina's en style.css. Als je plaatjes gebruikt, dan staan die er ook bij.
 - Je zorgt dat het README.md bestand met je planning aanwezig is. Je hebt aangegeven welke onderdelen gereed zijn. Uit de versie historie in GitHub blijkt hoe je je planning tussentijds hebt gevolgd en bijgesteld. 
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
 
 ## Startcode
-{{<figure src="../game_github.png" link="https://github.com/emmauscollege/4HV-game-template">}}
-
-<!--
-[![Open GitHub](https://img.shields.io/badge/open-GitHub-brightgreen)](https://github.com)
-[![Open Gitpod](https://img.shields.io/badge/open-Gitpod-brightgreen)](https://gitpod.io)
-[![Open Replit](https://img.shields.io/badge/open-Replit-brightgreen)](https://replit.com)
--->
-
-<!--
-## Planning
-{{<figure src="planning-preview.png" link="planning.pptx">}}
-gebruiken we liever de pdf (universeel viewable) of pptx (brondocument, snel editbaar)
--->
+{{<figure src="../website_github.png" link="https://github.com/emmauscollege/4HV-website-template">}}
 
 ## Uitlegvideo's
-{{<youtube id="videoseries?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
+{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5CUXaW9KdM10pj80ZqmZWBs">}}
   
-<i>
-- algemene gitpod en rpelit link
-- stappenplan en uitleg van de repo en gebruikte technieken zet je in de readme
-- rijkere uitleg zoals video's of code voorbeelden zetten we op de website
-- zet in de description van de repo een link naar informatica.emmauscollege.nl
-- hoe verspreiden we de link naar het google-docs document waarin leerlingen zich opgeven voor de groepjes en hun github account opgeven?  => op de pagina van de opdracht en dan bovenaan bij de opdracht een kopje "inschrijven voor deze opdracht" toevoegen.
-</i>
-
-</i>    
-
-
