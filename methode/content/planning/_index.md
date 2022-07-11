@@ -72,13 +72,13 @@ Datum maandag|Les 1 theorie|Les 2+3 praktijk
 {{% /tab %}}
 
 {{% tab name="5H" %}}
-Datum        | Code     | Toestvorm.     | Stof
+Datum        | Code     | Toestvorm     | Stof
 -------------|----------|----------------|-----
- Toetsweek 1 |4H-IN-S01 | Digitale toets | 1.1 Web Design 
- Toetsweek 2 |4H-IN-S02 | Digitale toets | 1.2 Digitale Informatie 
-zondag 23:59 week P2.x |4H-IN-S04 | Praktische Opdracht | 2.1 Website
-zondag 23:59 week P2.x |4H-IN-S05 | Praktische Opdracht | 2.2 Game
- Toetsweek 3 |4H-IN-S03 | Digitale Toets | 1.3 Programmeren + 1.4 Algoritmen 
+ Toetsweek 1 |4H-IN-S01 | Digitale toets | [2.1 Web Design](https://informatica.emmauscollege.nl/theorie/webdesign/#leerdoelen)
+ zondag 22 jan |4H-IN-S04 | Praktische Opdracht | [3.1 Website](https://informatica.emmauscollege.nl/opdrachten/website/)
+ Toetsweek 2 |4H-IN-S02 | Digitale toets | (2.2 Digitale Informatie](https://informatica.emmauscollege.nl/theorie/informatie/#leerdoelen] 
+ zondag 18 jun |4H-IN-S05 | Praktische Opdracht | [3.2 Game](https://informatica.emmauscollege.nl/opdrachten/game/)
+ Toetsweek 3 |4H-IN-S03 | Digitale Toets | [2.3 Programmeren](https://informatica.emmauscollege.nl/theorie/programmeren/#leerdoelen) + [2.4 Algoritmen](https://informatica.emmauscollege.nl/theorie/algoritmen/#leerdoelen) 
       
 {{% /tab %}}
 
