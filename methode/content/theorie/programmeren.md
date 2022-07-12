@@ -10,7 +10,7 @@ Je leert hoe je eenvoudige programma's kunt maken met de programmeertaal Javascr
 [Khanacademy, module Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
 1. [Intro to programming](https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming)
 1. [Drawing basics](https://www.khanacademy.org/computing/computer-programming/programming#drawing-basics)
-1. [Drawing basics](https://www.khanacademy.org/computing/computer-programming/programming#coloring)
+1. [Coloring](https://www.khanacademy.org/computing/computer-programming/programming#coloring)
 1. [Variables](https://www.khanacademy.org/computing/computer-programming/programming#variables)
 1. [Animation basics](https://www.khanacademy.org/computing/computer-programming/programming#animation-basics)
 1. [Interactive programs](https://www.khanacademy.org/computing/computer-programming/programming#interactive-programs)
