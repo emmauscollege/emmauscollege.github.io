@@ -13,9 +13,10 @@ Je leert hoe je informatie op een website zet met de programmeertalen HTML en CS
 3. [More html tags](https://www.khanacademy.org/computing/computer-programming/html-css#html-tags-continued)
 5. [Css text properties](https://www.khanacademy.org/computing/computer-programming/html-css#css-text-properties)
 5. [Web development tools](https://www.khanacademy.org/computing/computer-programming/html-css#web-development-tools) (geen toetsstof)
-6. [Css layout](https://www.khanacademy.org/computing/computer-programming/html-css#css-layout-properties)
-7. [Other ways to embed css](https://www.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css) (geen toetsstof)
-8. [Further learning](https://www.khanacademy.org/computing/computer-programming/html-css#html-css-further-learning)
+6. [CSS layout](https://www.khanacademy.org/computing/computer-programming/html-css#css-layout-properties)
+7. [More css selectors](https://www.khanacademy.org/computing/computer-programming/html-css#more-css-selectors)
+8. [Other ways to embed css](https://www.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css) (geen toetsstof)
+9. [Further learning](https://www.khanacademy.org/computing/computer-programming/html-css#html-css-further-learning) (geen toetsstof)
 
 Intellectueel eigendom
 1. [Intellectueel eigendom (online reader)](../webdesign_auteursrecht/)
