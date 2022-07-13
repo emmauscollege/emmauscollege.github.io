@@ -105,52 +105,53 @@ Week|Theorieles (enkel uur)|Praktijkles (blokuur)
 {{% tab name="4V" %}}
 Week|Theorieles (enkel uur)|Praktijkles (blokuur)
 --|--|--
-34	intro	
-35	[T1 Uitleg HTML tags ](https://informatica.emmauscollege.nl/theorie/webdesign/)	[T1 Khan t/m 2 intro to CSS](https://informatica.emmauscollege.nl/theorie/webdesign/)
-36	[T1 Uitleg CSS selectors en properties ](https://informatica.emmauscollege.nl/theorie/webdesign/)	[T1 Khan t/m 4 CSS text properties](https://informatica.emmauscollege.nl/theorie/webdesign/)
-37	[T1 Uitleg boxmodel](https://informatica.emmauscollege.nl/theorie/webdesign/)	[T1 Khan t/m 6 CSS layout](https://informatica.emmauscollege.nl/theorie/webdesign/)
-38	[T1 Uitleg floats](https://informatica.emmauscollege.nl/theorie/webdesign/)	[T1 Khan t/m 9 Further learning](https://informatica.emmauscollege.nl/theorie/webdesign/)
-39	[T1 Uitleg wireframes](https://informatica.emmauscollege.nl/theorie/webdesign/)	[O1 Website stap 1 eerste wijziging gemaakt](https://informatica.emmauscollege.nl/opdrachten/website/)
-40	[T1 Uitleg client-server](https://informatica.emmauscollege.nl/theorie/webdesign/)	[O1 Website stap 2 menu + vier lege pagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
-41	[T1 Uitleg intro security](https://informatica.emmauscollege.nl/theorie/webdesign/)	[O1 Website stap 3 layout hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
-42	[T1 Uitleg intellectueel eigendom](https://informatica.emmauscollege.nl/theorie/webdesign/)	[O1 Website stap 3 layout hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
-43	**Herfstvakantie**	
-44	[T2 Uitleg bits & IA gestart](https://informatica.emmauscollege.nl/theorie/informatie/)	[O1 Website stap 4 inhoud en plaatjes hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
-45	[T2 Uitleg BIN & IA t/m 1](https://informatica.emmauscollege.nl/theorie/informatie/)	[O1 Website stap 5 layout subpagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
-46	**TW1: Toets 4V-IN-S01** over T1 Web Design	
-47	**TW1**	
-48	[T2 Uitleg HEX & IA t/m 2](https://informatica.emmauscollege.nl/theorie/informatie/)	[O1 Website stap 6 inhoud en plaatjes subpagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
-49	[T2 Uitleg kleuren + plaatjes & IA t/m 3](https://informatica.emmauscollege.nl/theorie/informatie/)	[O1 Website stap 7 kleuren](https://informatica.emmauscollege.nl/opdrachten/website/)
-50	[T2 Uitle tekst + geluid + video & IA t/m 6](https://informatica.emmauscollege.nl/theorie/informatie/)	[O1 Website stap 8 perfectioneren](https://informatica.emmauscollege.nl/opdrachten/website/)
-51	[T2 Uitleg compressie + bestanden & IA t/m 8](https://informatica.emmauscollege.nl/theorie/informatie/)	[O1 Website stap 9 eyecathers](https://informatica.emmauscollege.nl/opdrachten/website/)
-52	**Kerstvakantie**	
-1	**Kerstvakantie**	
-2	[Beeldbewerking](https://informatica.emmauscollege.nl/theorie/informatie/)	[O1 Website stap 9 eyecathers](https://informatica.emmauscollege.nl/opdrachten/website/)
-3	[Beeldbewerking](https://informatica.emmauscollege.nl/theorie/informatie/)	**PO 4V-IN-S04 website inleveren**
-4	[T3 Uitleg programmeertalen](https://informatica.emmauscollege.nl/theorie/programmeren/)	[T3 Khan t/m 5 Animation basics](https://informatica.emmauscollege.nl/theorie/programmeren/)
-5	[T3 Uitleg P5js](https://informatica.emmauscollege.nl/theorie/programmeren/)	[T3 Khan t/m 10 Functions](https://informatica.emmauscollege.nl/theorie/programmeren/)
-6	[T3 Uitleg variabelen](https://informatica.emmauscollege.nl/theorie/programmeren/)	[T3 Khan t/m 13 Loopings](https://informatica.emmauscollege.nl/theorie/programmeren/)
-7	[T3 Uitleg functies](https://informatica.emmauscollege.nl/theorie/programmeren/)	[T3 Khan t/m 15 Arrays](https://informatica.emmauscollege.nl/theorie/programmeren/)
-8	[T3 Uitleg logica en if](https://informatica.emmauscollege.nl/theorie/programmeren/)	[O2 Game: eerste wijziging gemaakt](https://informatica.emmauscollege.nl/opdrachten/game/)
-9	**Voorjaarsvakantie**	
-10	[T3 Uitleg loops](https://informatica.emmauscollege.nl/theorie/programmeren/)	[O2 Game: speler beweegt](https://informatica.emmauscollege.nl/opdrachten/game/)
-11	**TW2: Toets 4V-IN-S01** over T2 Informatie	
-12	**TW2**	
-13	[T3 Uitleg lijsten](https://informatica.emmauscollege.nl/theorie/programmeren/)	[O2 Game: vijand](https://informatica.emmauscollege.nl/opdrachten/game/)
-14	[T3 Uitleg nesten](https://informatica.emmauscollege.nl/theorie/programmeren/)	[O2 Game: botsingdetectie + afgaan](https://informatica.emmauscollege.nl/opdrachten/game/)
-15	[T4 Uitleg stroomdiagrammen](https://informatica.emmauscollege.nl/theorie/algoritmen/)	[O2 Game: punten + gameoverscherm](https://informatica.emmauscollege.nl/opdrachten/game/)
-16	[T4 Oefenen eenvoudige algoritmen 1/m 2](https://informatica.emmauscollege.nl/theorie/algoritmen/)	[O2 Game: uitlegscherm (je hebt nu een speelbaar spel)](https://informatica.emmauscollege.nl/opdrachten/game/)
-17	**Meivakantie **	
-18	**Meivakantie **	
-19	[T4 Oefenen eenvoudige algoritmen t/m 6](https://informatica.emmauscollege.nl/theorie/algoritmen/)	[O2 Game: werk aan uitbreiding 1](https://informatica.emmauscollege.nl/opdrachten/game/)
-20	[T4 oefenen eenvoudige algoritmen t/m 8](https://informatica.emmauscollege.nl/theorie/algoritmen/)	[O2 Game: werk aan uitbreiding 1](https://informatica.emmauscollege.nl/opdrachten/game/)
-21	[T4 oefenen eenvoudige algoritmen t/m 10](https://informatica.emmauscollege.nl/theorie/algoritmen/)	[O2 Game: uitbreiding 1 af](https://informatica.emmauscollege.nl/opdrachten/game/)
-22	[T4 Uitleg: bubble sort (geen leerdoel)](https://informatica.emmauscollege.nl/theorie/algoritmen/)	[O2 Game: werk aan uitbreiding 2](https://informatica.emmauscollege.nl/opdrachten/game/)
-23	[Algoritmen, nader te bepalen](https://informatica.emmauscollege.nl/theorie/algoritmen/)	[O2 Game: werk aan uitbreiding 2](https://informatica.emmauscollege.nl/opdrachten/game/)
-24	[Algoritmen, nader te bepalen](https://informatica.emmauscollege.nl/theorie/algoritmen/)	**PO 4V-IN-S05 game inleveren**
-25	**TW3: Toets 4V-IN-S03** over T3 Programmeren + T4 Algoritmen	
-26	**TW3**	
-27	**Zomervakantie**	
+Week|Les 1 theorie|Les 2+3 praktijk
+34|intro|
+35|[T1 Uitleg HTML tags ](https://informatica.emmauscollege.nl/theorie/webdesign/)|[T1 Khan t/m 2 intro to CSS](https://informatica.emmauscollege.nl/theorie/webdesign/)
+36|[T1 Uitleg CSS selectors en properties ](https://informatica.emmauscollege.nl/theorie/webdesign/)|[T1 Khan t/m 4 CSS text properties](https://informatica.emmauscollege.nl/theorie/webdesign/)
+37|[T1 Uitleg boxmodel](https://informatica.emmauscollege.nl/theorie/webdesign/)|[T1 Khan t/m 6 CSS layout](https://informatica.emmauscollege.nl/theorie/webdesign/)
+38|[T1 Uitleg floats](https://informatica.emmauscollege.nl/theorie/webdesign/)|[T1 Khan t/m 9 Further learning](https://informatica.emmauscollege.nl/theorie/webdesign/)
+39|[T1 Uitleg wireframes](https://informatica.emmauscollege.nl/theorie/webdesign/)|[O1 Website stap 1 eerste wijziging gemaakt](https://informatica.emmauscollege.nl/opdrachten/website/)
+40|[T1 Uitleg client-server](https://informatica.emmauscollege.nl/theorie/webdesign/)|[O1 Website stap 2 menu + vier lege pagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
+41|[T1 Uitleg intro security](https://informatica.emmauscollege.nl/theorie/webdesign/)|[O1 Website stap 3 layout hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
+42|[T1 Uitleg intellectueel eigendom](https://informatica.emmauscollege.nl/theorie/webdesign/)|[O1 Website stap 3 layout hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
+43|**Herfstvakantie**|
+44|[T2 Uitleg bits & IA gestart](https://informatica.emmauscollege.nl/theorie/informatie/)|[O1 Website stap 4 inhoud en plaatjes hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
+45|[T2 Uitleg BIN & IA t/m 1](https://informatica.emmauscollege.nl/theorie/informatie/)|[O1 Website stap 5 layout subpagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
+46|**TW1: Toets 4V-IN-S01** over T1 Web Design|
+47|**TW1**|
+48|[T2 Uitleg HEX & IA t/m 2](https://informatica.emmauscollege.nl/theorie/informatie/)|[O1 Website stap 6 inhoud en plaatjes subpagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
+49|[T2 Uitleg kleuren + plaatjes & IA t/m 3](https://informatica.emmauscollege.nl/theorie/informatie/)|[O1 Website stap 7 kleuren](https://informatica.emmauscollege.nl/opdrachten/website/)
+50|[T2 Uitle tekst + geluid + video & IA t/m 6](https://informatica.emmauscollege.nl/theorie/informatie/)|[O1 Website stap 8 perfectioneren](https://informatica.emmauscollege.nl/opdrachten/website/)
+51|[T2 Uitleg compressie + bestanden & IA t/m 8](https://informatica.emmauscollege.nl/theorie/informatie/)|[O1 Website stap 9 eyecathers](https://informatica.emmauscollege.nl/opdrachten/website/)
+52|**Kerstvakantie**|
+1|**Kerstvakantie**|
+2|[Beeldbewerking](https://informatica.emmauscollege.nl/theorie/informatie/)|[O1 Website stap 9 eyecathers](https://informatica.emmauscollege.nl/opdrachten/website/)
+3|[Beeldbewerking](https://informatica.emmauscollege.nl/theorie/informatie/)|**PO 4V-IN-S04 website inleveren**
+4|[T3 Uitleg programmeertalen](https://informatica.emmauscollege.nl/theorie/programmeren/)|[T3 Khan t/m 5 Animation basics](https://informatica.emmauscollege.nl/theorie/programmeren/)
+5|[T3 Uitleg P5js](https://informatica.emmauscollege.nl/theorie/programmeren/)|[T3 Khan t/m 10 Functions](https://informatica.emmauscollege.nl/theorie/programmeren/)
+6|[T3 Uitleg variabelen](https://informatica.emmauscollege.nl/theorie/programmeren/)|[T3 Khan t/m 13 Loopings](https://informatica.emmauscollege.nl/theorie/programmeren/)
+7|[T3 Uitleg functies](https://informatica.emmauscollege.nl/theorie/programmeren/)|[T3 Khan t/m 15 Arrays](https://informatica.emmauscollege.nl/theorie/programmeren/)
+8|[T3 Uitleg logica en if](https://informatica.emmauscollege.nl/theorie/programmeren/)|[O2 Game: eerste wijziging gemaakt](https://informatica.emmauscollege.nl/opdrachten/game/)
+9|**Voorjaarsvakantie**|
+10|[T3 Uitleg loops](https://informatica.emmauscollege.nl/theorie/programmeren/)|[O2 Game: speler beweegt](https://informatica.emmauscollege.nl/opdrachten/game/)
+11|**TW2: Toets 4V-IN-S01** over T2 Informatie|
+12|**TW2**|
+13|[T3 Uitleg lijsten](https://informatica.emmauscollege.nl/theorie/programmeren/)|[O2 Game: vijand](https://informatica.emmauscollege.nl/opdrachten/game/)
+14|[T3 Uitleg nesten](https://informatica.emmauscollege.nl/theorie/programmeren/)|[O2 Game: botsingdetectie + afgaan](https://informatica.emmauscollege.nl/opdrachten/game/)
+15|[T4 Uitleg stroomdiagrammen](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[O2 Game: punten + gameoverscherm](https://informatica.emmauscollege.nl/opdrachten/game/)
+16|[T4 Oefenen eenvoudige algoritmen 1/m 2](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[O2 Game: uitlegscherm (je hebt nu een speelbaar spel)](https://informatica.emmauscollege.nl/opdrachten/game/)
+17|**Meivakantie **|
+18|**Meivakantie **|
+19|[T4 Oefenen eenvoudige algoritmen t/m 6](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[O2 Game: werk aan uitbreiding 1](https://informatica.emmauscollege.nl/opdrachten/game/)
+20|[T4 oefenen eenvoudige algoritmen t/m 8](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[O2 Game: werk aan uitbreiding 1](https://informatica.emmauscollege.nl/opdrachten/game/)
+21|[T4 oefenen eenvoudige algoritmen t/m 10](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[O2 Game: uitbreiding 1 af](https://informatica.emmauscollege.nl/opdrachten/game/)
+22|[T4 Uitleg: bubble sort (geen leerdoel)](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[O2 Game: werk aan uitbreiding 2](https://informatica.emmauscollege.nl/opdrachten/game/)
+23|[Algoritmen, nader te bepalen](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[O2 Game: werk aan uitbreiding 2](https://informatica.emmauscollege.nl/opdrachten/game/)
+24|[Algoritmen, nader te bepalen](https://informatica.emmauscollege.nl/theorie/algoritmen/)|**PO 4V-IN-S05 game inleveren**
+25|**TW3: Toets 4V-IN-S03** over T3 Programmeren + T4 Algoritmen|
+26|**TW3**|
+27|**Zomervakantie**|
 
 {{% /tab %}}
 
