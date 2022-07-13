@@ -17,57 +17,81 @@ Vervang tab door | (kan in texteditor maar ook in Word: knip en plak een tab in 
 Knip en plak het resultaat hieronder
 -->
 
+Het is vandaag <span id="vandaag"></span>.
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/luxon@3.0.1/build/global/luxon.min.js"></script>
+<script>
+/* source: https://stackoverflow.com/questions/6117814/get-week-of-year-in-javascript-like-in-php */
+function getWeekNumber(d) {
+    // Copy date so don't modify original
+    d = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+    // Set to nearest Thursday: current date + 4 - current day number
+    // Make Sunday's day number 7
+    d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay()||7));
+    // Get first day of year
+    var yearStart = new Date(Date.UTC(d.getUTCFullYear(),0,1));
+    // Calculate full weeks to nearest Thursday
+    var weekNo = Math.ceil(( ( (d - yearStart) / 86400000) + 1)/7);
+    // Return array of year and week number
+    return [weekNo];
+}
+const days =["zondag", "maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag"];
+const months =["januari","februari","maart","april","mei","juni","juli","augustus","september","oktober","november","december"]
+const date = new Date();
+document.getElementById("vandaag").innerHTML = `${days[date.getDay()]} ${date.getDate()} ${months[date.getMonth()]} ${date.getFullYear()}, week ${getWeekNumber(date)}`;
+console.log("done");
+</script>
+
 {{< tabs >}}
 
 {{% tab name="4H" %}}
-Datum maandag|Les 1 theorie|Les 2+3 praktijk
+Week|Theorieles (enkel uur)|Praktijkles (blokuur)
 --|--|--
-22-aug||intro
-29-aug|[2.1 Uitleg HTML tags ](https://informatica.emmauscollege.nl/theorie/webdesign/)|[2.1 Khan t/m 2 intro to CSS](https://informatica.emmauscollege.nl/theorie/webdesign/)
-05-sep|[2.1 Uitleg CSS selectors en properties ](https://informatica.emmauscollege.nl/theorie/webdesign/)|[2.1 Khan t/m 4 CSS text properties](https://informatica.emmauscollege.nl/theorie/webdesign/)
-12-sep|[2.1 Uitleg boxmodel](https://informatica.emmauscollege.nl/theorie/webdesign/)|[2.1 Khan t/m 6 CSS layout](https://informatica.emmauscollege.nl/theorie/webdesign/)
-19-sep|[2.1 Uitleg floats](https://informatica.emmauscollege.nl/theorie/webdesign/)|[2.1 Khan t/m 9 Further learning](https://informatica.emmauscollege.nl/theorie/webdesign/)
-26-sep|[2.1 Uitleg wireframes](https://informatica.emmauscollege.nl/theorie/webdesign/)|[3.1 Website stap 1 eerste wijziging gemaakt](https://informatica.emmauscollege.nl/opdrachten/website/)
-03-okt|[2.1 Uitleg client-server](https://informatica.emmauscollege.nl/theorie/webdesign/)|[3.2 Website stap 2 menu + vier lege pagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
-10-okt|[2.1 Uitleg intro security](https://informatica.emmauscollege.nl/theorie/webdesign/)|[3.2 Website stap 3 layout hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
-17-okt|[2.1 Uitleg intellectueel eigendom](https://informatica.emmauscollege.nl/theorie/webdesign/)|[3.2 Website stap 3 layout hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
-24-okt|**Herfstvakantie**|
-31-okt|[2.2 Uitleg bits & IA gestart](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 4 inhoud en plaatjes hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
-07-nov|[2.2 Uitleg BIN & IA t/m 1](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 5 layout subpagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
-14-nov|**TW1: Toets 4H-IN-S01** over 2.1 Web Design|
-21-nov|**TW1**|
-28-nov|[2.2 Uitleg HEX & IA t/m 2](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 6 inhoud en plaatjes subpagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
-05-dec|[2.2 Uitleg kleuren + plaatjes & IA t/m 3](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 7 kleuren](https://informatica.emmauscollege.nl/opdrachten/website/)
-12-dec|[2.2 Uitle tekst + geluid + video & IA t/m 6](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 8 perfectioneren](https://informatica.emmauscollege.nl/opdrachten/website/)
-19-dec|[2.2 Uitleg compressie + bestanden & IA t/m 8](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 9 eyecathers](https://informatica.emmauscollege.nl/opdrachten/website/)
-26-dec|**Kerstvakantie**|
-02-jan|**Kerstvakantie**|
-09-jan|[Beeldbewerking](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 9 eyecathers](https://informatica.emmauscollege.nl/opdrachten/website/)
-16-jan|[Beeldbewerking](https://informatica.emmauscollege.nl/theorie/informatie/)|**PO 4H-IN-S04 website inleveren**
-23-jan|[2.3 Uitleg programmeertalen](https://informatica.emmauscollege.nl/theorie/programmeren/)|[2.3 Khan t/m 5 Animation basics](https://informatica.emmauscollege.nl/theorie/programmeren/)
-30-jan|[2.3 Uitleg P5js](https://informatica.emmauscollege.nl/theorie/programmeren/)|[2.3 Khan t/m 10 Functions](https://informatica.emmauscollege.nl/theorie/programmeren/)
-06-feb|[2.3 Uitleg variabelen](https://informatica.emmauscollege.nl/theorie/programmeren/)|[2.3 Khan t/m 13 Loopings](https://informatica.emmauscollege.nl/theorie/programmeren/)
-13-feb|[2.3 Uitleg functies](https://informatica.emmauscollege.nl/theorie/programmeren/)|[2.3 Khan t/m 15 Arrays](https://informatica.emmauscollege.nl/theorie/programmeren/)
-20-feb|[2.3 Uitleg logica en if](https://informatica.emmauscollege.nl/theorie/programmeren/)|[3.3 Game: eerste wijziging gemaakt](https://informatica.emmauscollege.nl/opdrachten/game/)
-27-feb|**Voorjaarsvakantie**|
-06-mrt|[2.3 Uitleg loops](https://informatica.emmauscollege.nl/theorie/programmeren/)|[3.3 Game: speler beweegt](https://informatica.emmauscollege.nl/opdrachten/game/)
-13-mrt|**TW2: Toets 4H-IN-S01** over 2.2 Informatie|
-20-mrt|**TW2**|
-27-mrt|[2.3 Uitleg lijsten](https://informatica.emmauscollege.nl/theorie/programmeren/)|[3.3 Game: vijand](https://informatica.emmauscollege.nl/opdrachten/game/)
-03-apr|[2.3 Uitleg nesten](https://informatica.emmauscollege.nl/theorie/programmeren/)|[3.3 Game: botsingdetectie + afgaan](https://informatica.emmauscollege.nl/opdrachten/game/)
-10-apr|[2.4 Uitleg stroomdiagrammen](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.3 Game: punten + gameoverscherm](https://informatica.emmauscollege.nl/opdrachten/game/)
-17-apr|[2.4 Oefenen eenvoudige algoritmen 1/m 2](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: uitlegscherm (je hebt nu een speelbaar spel)](https://informatica.emmauscollege.nl/opdrachten/game/)
-24-apr|**Meivakantie **|
-01-mei|**Meivakantie **|
-08-mei|[2.4 Oefenen eenvoudige algoritmen t/m 6](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: werk aan uitbreiding 1](https://informatica.emmauscollege.nl/opdrachten/game/)
-15-mei|[2.4 oefenen eenvoudige algoritmen t/m 8](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: werk aan uitbreiding 1](https://informatica.emmauscollege.nl/opdrachten/game/)
-22-mei|[2.4 oefenen eenvoudige algoritmen t/m 10](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: uitbreiding 1 af](https://informatica.emmauscollege.nl/opdrachten/game/)
-29-mei|[2.4 Uitleg: bubble sort (geen leerdoel)](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: werk aan uitbreiding 2](https://informatica.emmauscollege.nl/opdrachten/game/)
-05-jun|[Algoritmen, nader te bepalen](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: werk aan uitbreiding 2](https://informatica.emmauscollege.nl/opdrachten/game/)
-12-jun|[Algoritmen, nader te bepalen](https://informatica.emmauscollege.nl/theorie/algoritmen/)|**PO 4H-IN-S05 game inleveren**
-19-jun|**TW3: Toets 4H-IN-S03** over 2.3 Programmeren + 2.4 Algoritmen|
-26-jun|**TW3**|
-03-jul|**Zomervakantie**|
+34|intro|
+35|[2.1 Uitleg HTML tags ](https://informatica.emmauscollege.nl/theorie/webdesign/)|[2.1 Khan t/m 2 intro to CSS](https://informatica.emmauscollege.nl/theorie/webdesign/)
+36|[2.1 Uitleg CSS selectors en properties ](https://informatica.emmauscollege.nl/theorie/webdesign/)|[2.1 Khan t/m 4 CSS text properties](https://informatica.emmauscollege.nl/theorie/webdesign/)
+37|[2.1 Uitleg boxmodel](https://informatica.emmauscollege.nl/theorie/webdesign/)|[2.1 Khan t/m 6 CSS layout](https://informatica.emmauscollege.nl/theorie/webdesign/)
+38|[2.1 Uitleg floats](https://informatica.emmauscollege.nl/theorie/webdesign/)|[2.1 Khan t/m 9 Further learning](https://informatica.emmauscollege.nl/theorie/webdesign/)
+39|[2.1 Uitleg wireframes](https://informatica.emmauscollege.nl/theorie/webdesign/)|[3.1 Website stap 1 eerste wijziging gemaakt](https://informatica.emmauscollege.nl/opdrachten/website/)
+40|[2.1 Uitleg client-server](https://informatica.emmauscollege.nl/theorie/webdesign/)|[3.2 Website stap 2 menu + vier lege pagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
+41|[2.1 Uitleg intro security](https://informatica.emmauscollege.nl/theorie/webdesign/)|[3.2 Website stap 3 layout hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
+42|[2.1 Uitleg intellectueel eigendom](https://informatica.emmauscollege.nl/theorie/webdesign/)|[3.2 Website stap 3 layout hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
+43|**Herfstvakantie**|
+44|[2.2 Uitleg bits & IA gestart](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 4 inhoud en plaatjes hoofdpagina](https://informatica.emmauscollege.nl/opdrachten/website/)
+45|[2.2 Uitleg BIN & IA t/m 1](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 5 layout subpagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
+46|**TW1: Toets 4H-IN-S01** over 2.1 Web Design|
+47|**TW1**|
+48|[2.2 Uitleg HEX & IA t/m 2](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 6 inhoud en plaatjes subpagina's](https://informatica.emmauscollege.nl/opdrachten/website/)
+49|[2.2 Uitleg kleuren + plaatjes & IA t/m 3](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 7 kleuren](https://informatica.emmauscollege.nl/opdrachten/website/)
+50|[2.2 Uitle tekst + geluid + video & IA t/m 6](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 8 perfectioneren](https://informatica.emmauscollege.nl/opdrachten/website/)
+51|[2.2 Uitleg compressie + bestanden & IA t/m 8](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 9 eyecathers](https://informatica.emmauscollege.nl/opdrachten/website/)
+52|**Kerstvakantie**|
+1|**Kerstvakantie**|
+2|[Beeldbewerking](https://informatica.emmauscollege.nl/theorie/informatie/)|[3.2 Website stap 9 eyecathers](https://informatica.emmauscollege.nl/opdrachten/website/)
+3|[Beeldbewerking](https://informatica.emmauscollege.nl/theorie/informatie/)|**PO 4H-IN-S04 website inleveren**
+4|[2.3 Uitleg programmeertalen](https://informatica.emmauscollege.nl/theorie/programmeren/)|[2.3 Khan t/m 5 Animation basics](https://informatica.emmauscollege.nl/theorie/programmeren/)
+5|[2.3 Uitleg P5js](https://informatica.emmauscollege.nl/theorie/programmeren/)|[2.3 Khan t/m 10 Functions](https://informatica.emmauscollege.nl/theorie/programmeren/)
+6|[2.3 Uitleg variabelen](https://informatica.emmauscollege.nl/theorie/programmeren/)|[2.3 Khan t/m 13 Loopings](https://informatica.emmauscollege.nl/theorie/programmeren/)
+7|[2.3 Uitleg functies](https://informatica.emmauscollege.nl/theorie/programmeren/)|[2.3 Khan t/m 15 Arrays](https://informatica.emmauscollege.nl/theorie/programmeren/)
+8|[2.3 Uitleg logica en if](https://informatica.emmauscollege.nl/theorie/programmeren/)|[3.3 Game: eerste wijziging gemaakt](https://informatica.emmauscollege.nl/opdrachten/game/)
+9|**Voorjaarsvakantie**|
+10|[2.3 Uitleg loops](https://informatica.emmauscollege.nl/theorie/programmeren/)|[3.3 Game: speler beweegt](https://informatica.emmauscollege.nl/opdrachten/game/)
+11|**TW2: Toets 4H-IN-S01** over 2.2 Informatie|
+12|**TW2**|
+13|[2.3 Uitleg lijsten](https://informatica.emmauscollege.nl/theorie/programmeren/)|[3.3 Game: vijand](https://informatica.emmauscollege.nl/opdrachten/game/)
+14|[2.3 Uitleg nesten](https://informatica.emmauscollege.nl/theorie/programmeren/)|[3.3 Game: botsingdetectie + afgaan](https://informatica.emmauscollege.nl/opdrachten/game/)
+15|[2.4 Uitleg stroomdiagrammen](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.3 Game: punten + gameoverscherm](https://informatica.emmauscollege.nl/opdrachten/game/)
+16|[2.4 Oefenen eenvoudige algoritmen 1/m 2](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: uitlegscherm (je hebt nu een speelbaar spel)](https://informatica.emmauscollege.nl/opdrachten/game/)
+17|**Meivakantie **|
+18|**Meivakantie **|
+19|[2.4 Oefenen eenvoudige algoritmen t/m 6](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: werk aan uitbreiding 1](https://informatica.emmauscollege.nl/opdrachten/game/)
+20|[2.4 oefenen eenvoudige algoritmen t/m 8](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: werk aan uitbreiding 1](https://informatica.emmauscollege.nl/opdrachten/game/)
+21|[2.4 oefenen eenvoudige algoritmen t/m 10](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: uitbreiding 1 af](https://informatica.emmauscollege.nl/opdrachten/game/)
+22|[2.4 Uitleg: bubble sort (geen leerdoel)](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: werk aan uitbreiding 2](https://informatica.emmauscollege.nl/opdrachten/game/)
+23|[Algoritmen, nader te bepalen](https://informatica.emmauscollege.nl/theorie/algoritmen/)|[3.2 Game: werk aan uitbreiding 2](https://informatica.emmauscollege.nl/opdrachten/game/)
+24|[Algoritmen, nader te bepalen](https://informatica.emmauscollege.nl/theorie/algoritmen/)|**PO 4H-IN-S05 game inleveren**
+25|**TW3: Toets 4H-IN-S03** over 2.3 Programmeren + 2.4 Algoritmen|
+26|**TW3**|
+27|**Zomervakantie**|
 
 {{% /tab %}}
 
