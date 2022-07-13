@@ -1,5 +1,5 @@
 +++
-title = "2.5. Databases met SQL"
+title = "T5. Databases met SQL"
 weight = 5
 +++
 
@@ -15,8 +15,8 @@ Je leert hoe je heel veel informatie kunt bekijken en bewaren in databases met d
 1. Further learning in SQL (overslaan)
 
 Ruimtedatabase *(alleen vwo)*
-- [Opgaven met antwoorden in Woots](https://app.woots.nl)
-- [Uitlegvideo's met antwoorden](https://www.youtube.com/playlist?list=PLpTljPS--R5DB_lVbQ2HzzQD0eADMwjf3)
+1. [Opgaven met antwoorden in Woots](https://app.woots.nl)
+1. [Uitlegvideo's met antwoorden](https://www.youtube.com/playlist?list=PLpTljPS--R5DB_lVbQ2HzzQD0eADMwjf3)
 
 ## Uitlegvideo's
 {{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5DXZh6jR-dKteKGtJmHI-yi">}}

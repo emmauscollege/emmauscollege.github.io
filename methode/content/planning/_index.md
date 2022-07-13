@@ -1,5 +1,6 @@
 +++
-title = "1. Planning"
+title = "Planning"
+weight = 1
 +++
 
 Hier vind je de lesplanner, geplande toetsen en inlevermomenten, vakoverzicht en PTA's per jaarlaag.

@@ -1,5 +1,5 @@
 +++
-title = "2.1. Web Design met HTML en CSS"
+title = "T1. Web Design met HTML en CSS"
 weight = 1
 +++
 

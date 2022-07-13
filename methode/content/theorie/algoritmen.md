@@ -1,5 +1,5 @@
 +++
-title = "2.4. Algoritmen in Javascript"
+title = "T4. Algoritmen in Javascript"
 weight = 4
 +++
 

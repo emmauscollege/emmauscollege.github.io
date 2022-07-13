@@ -1,5 +1,5 @@
 +++
-title = "2.3. Programmeren met Javascript"
+title = "T3. Programmeren met Javascript"
 weight = 3
 +++
 

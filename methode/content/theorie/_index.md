@@ -1,9 +1,10 @@
 +++
-title = "2. Theorie"
+title = "Theorie"
+weight = 2
 +++
 
-Hier vind je alle theorie per onderwerp.
+Hier vind je alle theorie per module.
 
 <!--more-->
-## modules
+## Theorie modules
 {{% children containerstyle="div" style="h3" depth="3" description="false" %}}

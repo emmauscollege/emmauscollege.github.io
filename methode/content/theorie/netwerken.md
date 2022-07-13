@@ -1,5 +1,5 @@
 +++
-title = "2.7. Netwerken met IP"
+title = "T7. Netwerken met IP"
 weight = 7
 +++
 

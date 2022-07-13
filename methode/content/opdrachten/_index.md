@@ -1,5 +1,6 @@
 +++
-title = "3. Opdrachten"
+title = "Opdrachten"
+weight = 3
 +++
 
 Hier vind je de praktische opdrachten. 

@@ -1,5 +1,5 @@
 +++
-title = "2.2. Digitale informatie"
+title = "T2. Digitale informatie"
 weight = 2
 +++
 
@@ -8,15 +8,15 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 
 ## Lesstof
 [Informatica Actief, module informatie digitaal](https://moodle.informatica-actief.nl/course/view.php?id=742)
-- [1: Digitale afbeeldingen, pixels met kleur](https://moodle.informatica-actief.nl/course/view.php?id=742#section-4) (alleen theorie 1 t/m 7)
-- [2: Bits en Bytes](https://moodle.informatica-actief.nl/course/view.php?id=742#section-5) (alleen theorie 1 t/m 5)
-- [3: Talstelsels: decimale en binaire getallen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-6) (alleen theorie 1 t/m 9)
-- 4: Rekenen met binaire getallen (overslaan)
-- [5: Digitale tekst](https://moodle.informatica-actief.nl/course/view.php?id=742#section-8) (alleen theorie 1 t/m 9)
-- [6: Verschillende soorten afbeeldingen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-9) (alleen theorie 1 t/m 12)
-- [7: Bewegend beeld en geluid](https://moodle.informatica-actief.nl/course/view.php?id=742#section-10) (alleen theorie 1 t/m 7)
-- [8: Digitale informatie in bestanden](https://moodle.informatica-actief.nl/course/view.php?id=742#section-11) (alleen theorie 1 t/m 5)
-- 9: Diagnostische toets (overslaan)
+1. [Digitale afbeeldingen, pixels met kleur](https://moodle.informatica-actief.nl/course/view.php?id=742#section-4) (alleen theorie 1 t/m 7)
+2. [Bits en Bytes](https://moodle.informatica-actief.nl/course/view.php?id=742#section-5) (alleen theorie 1 t/m 5)
+3. [Talstelsels: decimale en binaire getallen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-6) (alleen theorie 1 t/m 9)
+4. Rekenen met binaire getallen (overslaan)
+5. [Digitale tekst](https://moodle.informatica-actief.nl/course/view.php?id=742#section-8) (alleen theorie 1 t/m 9)
+6. [Verschillende soorten afbeeldingen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-9) (alleen theorie 1 t/m 12)
+7. [Bewegend beeld en geluid](https://moodle.informatica-actief.nl/course/view.php?id=742#section-10) (alleen theorie 1 t/m 7)
+8. [Digitale informatie in bestanden](https://moodle.informatica-actief.nl/course/view.php?id=742#section-11) (alleen theorie 1 t/m 5)
+9. Diagnostische toets (overslaan)
 
 Beeldbewerking
 1. [Beeldbewerking oefeningen (powerpoint presentatie)](./informatie_lespresentatie_beeldbewerking.pptx) met [photopea.com](https://photopea.com)

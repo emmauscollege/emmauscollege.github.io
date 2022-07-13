@@ -1,5 +1,5 @@
 +++
-title = "2.6. Robotica met Arduino"
+title = "T6. Robotica met Arduino"
 weight = 6
 +++
 
@@ -8,7 +8,7 @@ Je leert hoe je met behulp van toestandsgrammen kunt programmeren. Je gebruikt d
 
 ## Lesstof
 Microcontrollers
-- [Microcontroller reader](../robotica_microcontrollers_programmeren) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
+1. [Microcontroller reader](../robotica_microcontrollers_programmeren) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
 
 [Arduino-lessen.nl, les 1 t/m 5](https://arduino-lessen.nl)
 1. [Knipperende led](https://arduino-lessen.nl/les/knipperende-led-op-arduino)

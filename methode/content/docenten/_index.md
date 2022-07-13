@@ -1,5 +1,6 @@
 +++
-title = "5. Docentenpagina"
+title = "Docentenpagina"
+weight = 5
 hidden = true
 +++
 

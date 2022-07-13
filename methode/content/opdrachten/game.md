@@ -1,5 +1,5 @@
 +++
-title = "3.2 Game"
+title = "O2. Game"
 weight = 2
 +++
 
