@@ -99,6 +99,44 @@ Week|Theorieles (enkel uur)|Praktijkles (blokuur)
 {{% tab name="5H" %}}
 Week|Theorieles (enkel uur)|Praktijkles (blokuur)
 --|--|--
+34|intro|
+35|[T6 Arduinolessen gestart](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Arduinolessen 1](https://informatica.emmauscollege.nl/theorie/robotica)
+36|[T6 Uitleg microcontrollers deel 1](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Arduinolessen 2](https://informatica.emmauscollege.nl/theorie/robotica)
+37|[T6 Uitleg microcontrollers deel 2](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Arduinolessen 3](https://informatica.emmauscollege.nl/theorie/robotica)
+38|[T6 Uitleg toestandsdiagrammen deel 1](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Arduinolessen 4](https://informatica.emmauscollege.nl/theorie/robotica)
+39|[T6 Uitleg toestandsdiagrammen deel 2](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Arduinolessen 5](https://informatica.emmauscollege.nl/theorie/robotica)
+40|[T6 Toestandsdiagrammen opdracht 1](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Toestandsdiagrammen opdracht 2](https://informatica.emmauscollege.nl/theorie/robotica)
+41|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+42|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+43|**Herfstvakantie**|
+44|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+45|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+46|**TW1: Toets 5H-IN-S06** over T6 Robotica|
+47|**TW1**|
+48|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+49|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[**PO 5H-IN-S08 robot inleveren**](https://informatica.emmauscollege.nl/opdrachten/robot/)
+50|[T5 Khan t/m 1 SQL Basics](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Khan t/m halverwege 2 More advanced SQL-queries](https://informatica.emmauscollege.nl/theorie/databases/)
+51|[T5 uitleg SELECT WHERE](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Khan t/m halverwege eind 2 More advanced SQL-queries](https://informatica.emmauscollege.nl/theorie/databases/)
+52|**Kerstvakantie**|
+1|**Kerstvakantie**|
+2|[T5 uitleg GROUP BY](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Khan t/m halverwege 3 Relational Queries](https://informatica.emmauscollege.nl/theorie/databases/)
+3|[T5 uitleg JOIN](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Khan t/m eind 3 Relational Queries ](https://informatica.emmauscollege.nl/theorie/databases/)
+4|[T5 uitleg nader te bepalen](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Khan t/m 4 Modifying Databases](https://informatica.emmauscollege.nl/theorie/databases/)
+5|[T5 Oefentoets eerste helft](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Oefentoets tweede helft](https://informatica.emmauscollege.nl/theorie/databases/)
+6|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+7|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+8|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+9|**Voorjaarsvakantie**|
+10|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+11|**TW2: Toets 5H-IN-S07** over T5 Databases|
+12|**TW2**|
+13|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+14|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[**PO 5H-IN-S08 webshop inleveren**](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+15|nader te bepalen|nader te bepalen
+16|nader te bepalen|**informatica afgerond**
+17|**Meivakantie **|
+18|**Meivakantie **|**examencijfer informatica bekend**
+19|**CE** |**geen CE voor informatica**
       
 {{% /tab %}}
 
@@ -158,13 +196,97 @@ Week|Les 1 theorie|Les 2+3 praktijk
 {{% tab name="5V" %}}
 Week|Theorieles (enkel uur)|Praktijkles (blokuur)
 --|--|--
+34|intro|
+35|[T7 netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)|[T7 netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)
+36|[T7 uitleg netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)|[T7 netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)
+37|[T7 uitleg netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)|[T7 netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)
+38|[T7 uitleg netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)|[T7 netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)
+39|[T7 uitleg netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)|[T7 netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)
+40|[T7 netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)|[T7 netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/)
+41|[T5 Khan t/m 1 SQL Basics](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Khan t/m halverwege 2 More advanced SQL-queries](https://informatica.emmauscollege.nl/theorie/databases/)
+42|[T5 uitleg SELECT WHERE](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Khan t/m halverwege eind 2 More advanced SQL-queries](https://informatica.emmauscollege.nl/theorie/databases/)
+43|**Herfstvakantie**|
+44|[T5 uitleg GROUP BY](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Khan t/m halverwege 3 Relational Queries](https://informatica.emmauscollege.nl/theorie/databases/)
+45|[T5 uitleg JOIN](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Khan t/m eind 3 Relational Queries ](https://informatica.emmauscollege.nl/theorie/databases/)
+46|**TW1: Toets 5V-IN-S06** over T7 Netwerken|
+47|**TW1**|
+48|[T5 uitleg multipliciteiten- en strokendiagram](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Khan t/m 4 Modifying Databases](https://informatica.emmauscollege.nl/theorie/databases/)
+49|[T5 Ruimtedatabase eerste helft](https://informatica.emmauscollege.nl/theorie/databases/)|[T5 Ruimtedatabase tweede helft](https://informatica.emmauscollege.nl/theorie/databases/)
+50|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+51|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+52|**Kerstvakantie**|
+1|**Kerstvakantie**|
+2|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+3|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+4|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+5|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+6|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+7|[O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)|[** 5V-IN-S09 webshop inleveren **](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+8|[T6 Arduinolessen gestart](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Arduinolessen 1](https://informatica.emmauscollege.nl/theorie/robotica)
+9|**Voorjaarsvakantie**|
+10|[T6 Uitleg microcontrollers deel 1](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Arduinolessen 2](https://informatica.emmauscollege.nl/theorie/robotica)
+11|**TW2: Toets 5V-IN-S07** over T5 Databases|
+12|**TW2**|
+13|[T6 Uitleg microcontrollers deel 2](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Arduinolessen 3](https://informatica.emmauscollege.nl/theorie/robotica)
+14|[T6 Uitleg toestandsdiagrammen deel 1](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Arduinolessen 4](https://informatica.emmauscollege.nl/theorie/robotica)
+15|[T6 Uitleg toestandsdiagrammen deel 2](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Arduinolessen 5](https://informatica.emmauscollege.nl/theorie/robotica)
+16|[T6 Toestandsdiagrammen opdracht 1](https://informatica.emmauscollege.nl/theorie/robotica)|[T6 Toestandsdiagrammen opdracht 2](https://informatica.emmauscollege.nl/theorie/robotica)
+17|**Meivakantie **|
+18|**Meivakantie **|
+19|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+20|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+21|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+22|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+23|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+24|[O4-Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)|[** 5V-IN-S10 robot inleveren **](https://informatica.emmauscollege.nl/opdrachten/robot/)
+25|**TW3: Toets 5V-IN-S08** over T6 Robotica|
+26|**TW3**|
+27|**Zomervakantie**|
 
 {{% /tab %}}
 
 {{% tab name="6V" %}}
 Week|Theorieles (enkel uur)|Praktijkles (blokuur)
 --|--|--
-     
+34|intro|
+35|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)
+36|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)
+37|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)
+38|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)
+39|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)
+40|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)|[T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented)
+41|[O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+42|[O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+43|**Herfstvakantie**|
+44|[O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+45|[O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+46|**TW1: Toets 6V-IN-S11** over T8 Object Oriented Programming|
+47|**TW1**|
+48|[O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+49|[O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[**PO 5H-IN-S13 marble mania deel 1 inleveren**](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+50|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
+51|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
+52|**Kerstvakantie**|
+1|**Kerstvakantie**|
+2|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
+3|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
+4|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
+5|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
+6|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+7|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+8|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+9|**Voorjaarsvakantie**|
+10|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+11|**TW2: Toets 5H-IN-S12** over T5 Databases|
+12|**TW2**|
+13|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+14|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[**PO 5H-IN-S14 marble mania deel 2 inleveren**](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+15|nader te bepalen|nader te bepalen
+16|nader te bepalen|**informatica afgerond**
+17|**Meivakantie **|
+18|**Meivakantie **|**examencijfer informatica bekend**
+19|**CE** |**geen CE voor informatica**
+
 {{% /tab %}}
 
 {{< /tabs >}}
@@ -187,8 +309,8 @@ Datum        | Code     | Toestvorm.     | Stof
 Datum        | Code     | Toestvorm.     | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |5H-IN-S06 | Digitale toets | [T6 Robotica](https://informatica.emmauscollege.nl/theorie/robotica/#leerdoelen)
- Zondag xx 23:59|5H-IN-S08 | Praktische Opdracht | [O4 Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
- Zondag xx 23:59|5H-IN-S09 | Praktische Opdracht | [O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+ Zondag 11 dec 23:59|5H-IN-S08 | Praktische Opdracht | [O4 Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+ Zondag 9 apr 23:59|5H-IN-S09 | Praktische Opdracht | [O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
  Toetsweek 2 |5H-IN-S07 | Digitale toets | [T5 Databases](https://informatica.emmauscollege.nl/theorie/databases/#leerdoelen)  
       
 {{% /tab %}}
@@ -208,9 +330,9 @@ Datum        | Code     | Toestvorm.     | Stof
 Datum        | Code     | Toestvorm.     | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |4V-IN-S06 | Digitale toets | [T7 Netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/#leerdoelen)
- Zondag xx 23:59|4V-IN-S09 | Praktische Opdracht | [O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
+ Zondag 19 feb 23:59|4V-IN-S09 | Praktische Opdracht | [O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
  Toetsweek 2 |4V-IN-S07 | Digitale toets | [T5 Databases](https://informatica.emmauscollege.nl/theorie/databases/#leerdoelen) 
- Zondag xx 23:59|4V-IN-S10 | Praktische Opdracht | [O4 Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
+ Zondag 18 juni 23:59|4V-IN-S10 | Praktische Opdracht | [O4 Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
  Toetsweek 3 |4V-IN-S08 | Digitale Toets | [T6 Robotica](https://informatica.emmauscollege.nl/theorie/robotica/#leerdoelen) 
 
 {{% /tab %}}
@@ -218,10 +340,10 @@ Datum        | Code     | Toestvorm.     | Stof
 {{% tab name="6V" %}}
 Datum        | Code     | Toestvorm.     | Stof
 -------------|----------|----------------|-----
-Toetsweek 1 |6V-IN-S09 | Digitale toets | [T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented/#leerdoelen)
- Zondag xx 23:59|6V-IN-S11 | Praktische Opdracht | [T5 Eindopdracht Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
- Zondag xx 23:59|6V-IN-S12 | Praktische Opdracht | [T5 Eindopdracht deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
- Toetsweek 2 |6V-IN-S10 | Digitale toets | [T9 security](https://informatica.emmauscollege.nl/theorie/security/#leerdoelen) 
+Toetsweek 1 |6V-IN-S11 | Digitale toets | [T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented/#leerdoelen)
+ Zondag 11 dec 23:59|6V-IN-S13 | Praktische Opdracht | [O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+ Zondag 9 apr 23:59|6V-IN-S14 | Praktische Opdracht | [O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+ Toetsweek 2 |6V-IN-S12 | Digitale toets | [T9 security](https://informatica.emmauscollege.nl/theorie/security/#leerdoelen) 
      
 {{% /tab %}}
 
