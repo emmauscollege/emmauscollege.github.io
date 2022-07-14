@@ -1,6 +1,10 @@
 +++
 title = "Filius"
+weight = 20
 +++
+
+Filius is een programma waarmee je netwerken kunt namaken en simuleren.
+<!--more-->
 
 ## Wat is Filius?
 Filius is een programma waarmee je netwerken kunt bouwen en simuleren.

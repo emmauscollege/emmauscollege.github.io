@@ -1,6 +1,10 @@
 +++
 title = "Arduino IDE"
+weight = 13
 +++
+
+Arduino IDE is een programma waarin je code kunt schrijven en downloaden in je Arduino.
+<!--more-->
 
 ## Wat is de Arduino IDE?
 De Arduino IDE is een programma waarmee je je Arduino kunt programmeren.

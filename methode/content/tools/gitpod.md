@@ -1,6 +1,10 @@
 +++
 title = "Gitpod"
+weight = 12
 +++
+
+Gitpod is een online ontwikkelomgeving waarin je code kunt wijzigen en uitvoeren (en veel meer). We gebruiken dit op het vwo.
+<!--more-->
 
 ## Wat is Gitpod?
 - Gitpod is een online editor (en veel meer)
