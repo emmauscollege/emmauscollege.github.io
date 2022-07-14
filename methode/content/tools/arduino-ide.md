@@ -44,9 +44,21 @@ Functies van de Arduino IDE:
 1. Kies in het menu "Bestand" -> "Opslaan als", kies een map en geef je schets een naam. Een schets wordt altijd opgeslagen in een map met dezelfde naam als de schets.
 
 ## Q&A
+### Hij doet het niet
+1. Kijk of de USB-kabel goed in de Arduino zit (je voelt een kleine klik)
+2. Kijk of je de juiste Arduino hebt aangeven in de IDE (Arduino Nano)
+3. Kijk of je de juiste USB-poort het aangegeven in de IDE
+4. Kijk of er foutmeldingen zijn bij uploaden en lees die aandachtig
 ### Bij het uploaden krijg ik de melding "avrdude: ser_open(): can't open device"...
 Je hebt waarschijnlijk vergeten de juiste USB-poort te kiezen. Kies de juiste USB-poort in het menu onder "Hulpmiddelen"->"Poort"
 ### Ik krijg één of meerdere foutmelding(en) tijdens het compileren
 Je hebt fout gemaakt in de code. Bekijk de bovenste foutmelding. Kijk of je de melding begrijpt. Er staat bij op welke regel de fout gevonden is. Probeer de fout in je code op te lossen. Compileer de code daarna opnieuw.
-### Ik krijg een foutmelding met "undefined"
+### Ik krijg een foutmelding met "undefined" tijdens het compileren
 Je hebt waarschijnlijk een variabele gebruikt zonder deze te declareren of een typefout gemaakt in de naam van de variabele.
+### Compileren en uploaden gaat goed, maar mijn programma doet niet wat ik wil
+Laat je programma berichten op de Seriële monitor zetten, zodat kunt meekijken wat er gebeurt en de fout kunt vinden. De seriële monitor van Arduino is een soort console, die je misschien kent van eerdere opdrachten.
+1. Zet in de setup() functie de opdracht `Serial.begin(115200);`
+2. Zet aan het begin van loop() functie de opdracht `Serial.println("Start");`
+3. Voeg op meer nuttige plaatsen berichten toe, zodat je weet welke code wel en niet wordt uitgevoerd.
+5. Je kunt ook de inhoud van variabelen of de uitkomst van functies afdrukken, bijvoorbeeld met `Serial.println("Milliseconde na opstarten" + millis());`
+4. Open voordat je programma upload de seriele monitor door in de Arduino-IDE te klikken op het menu "Hulpmiddelen" -> "Seriële monitor", let op dat de snelheid staat ingesteld op 115200.
