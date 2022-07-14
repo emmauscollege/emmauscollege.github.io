@@ -41,6 +41,10 @@ Sander van Geest GEE@emmaus <br>
 Beide docent informatica op het Emmauscollege Rotterdam <br>
 (volledige mailadres niet opgenomen ter bescherming tegen spam, tip: het mailadres eindigt op emmauscollege.nl 😉)
 
+## Meer inspiratie
+Kijk voor meer inspiratie ook eens op de informatica site van deze scholen:
+- [Metis Montessori Lyceum Amsterdam](https://metis-montessori-lyceum.gitbook.io/)
+
 ## License
 
 This site is licensed under the [MIT License](https://github.com/emmauscollege/emmauscollege.github.io/blob/main/LICENSE).
