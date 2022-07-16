@@ -1,9 +1,9 @@
 +++
-title = "T8. Object Oriented Programmeren"
+title = "T8. Objectgeoriënteerd Programmeren"
 weight = 8
 +++
 
-Je leert object georienteerd programmeren. Dat is een manier van programmeren waarbij data en logica gebundeld zijn in objecten. Je gebruikt daarvoor de programmeertaal C++ (spreek uit als "See-plus-plus").
+Je leert object georienteerd programmeren. Dat is een manier van programmeren waarbij data en logica gebundeld zijn in objecten. We leren dit voor zowel JavaScript als C++.
 <!--more-->
 
 ## Theorie
