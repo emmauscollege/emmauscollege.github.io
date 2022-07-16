@@ -340,10 +340,9 @@ Datum        | Code     | Toetsvorm      | Stof
 {{% tab name="6V" %}}
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
-Toetsweek 1 |6V-IN-S11 | Digitale toets | [T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented/#leerdoelen)
- Zondag 11 dec 23:59|6V-IN-S13 | Praktische Opdracht | [O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
- Zondag 9 apr 23:59|6V-IN-S14 | Praktische Opdracht | [O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
- Toetsweek 2 |6V-IN-S12 | Digitale toets | [T9 security](https://informatica.emmauscollege.nl/theorie/security/#leerdoelen) 
+Toetsweek 1 | 6V-IN-S11 | Digitale toets | [T8 Objectgeoriënteerd Programmeren](https://informatica.emmauscollege.nl/theorie/objectoriented/#leerdoelen)
+week 7 - 1e les | 6V-IN-S13 | Praktische Opdracht | [O5 Marble Mania](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
+Toetsweek 2 |6V-IN-S12 | Digitale toets | [T9 Security](https://informatica.emmauscollege.nl/theorie/security/#leerdoelen) 
      
 {{% /tab %}}
 
