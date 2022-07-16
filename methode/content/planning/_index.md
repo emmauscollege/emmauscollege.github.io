@@ -295,7 +295,7 @@ Week|Theorieles (enkel uur)|Praktijkles (blokuur)
 {{< tabs >}}
 
 {{% tab name="4H" %}}
-Datum        | Code     | Toestvorm.     | Stof
+Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |4H-IN-S01 | Digitale toets | [2.1 Web Design](https://informatica.emmauscollege.nl/theorie/webdesign/#leerdoelen)
  Zondag 22 jan 23:59|4H-IN-S04 | Praktische Opdracht | [3.1 Website](https://informatica.emmauscollege.nl/opdrachten/website/)
@@ -306,7 +306,7 @@ Datum        | Code     | Toestvorm.     | Stof
 {{% /tab %}}
 
 {{% tab name="5H" %}}
-Datum        | Code     | Toestvorm.     | Stof
+Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |5H-IN-S06 | Digitale toets | [T6 Robotica](https://informatica.emmauscollege.nl/theorie/robotica/#leerdoelen)
  Zondag 11 dec 23:59|5H-IN-S08 | Praktische Opdracht | [O4 Robot](https://informatica.emmauscollege.nl/opdrachten/robot/)
@@ -316,7 +316,7 @@ Datum        | Code     | Toestvorm.     | Stof
 {{% /tab %}}
 
 {{% tab name="4V" %}}
-Datum        | Code     | Toestvorm.     | Stof
+Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |4V-IN-S01 | Digitale toets | [2.1 Web Design](https://informatica.emmauscollege.nl/theorie/webdesign/#leerdoelen)
  Zondag 22 jan 23:59|4V-IN-S04 | Praktische Opdracht | [3.1 Website](https://informatica.emmauscollege.nl/opdrachten/website/)
@@ -327,7 +327,7 @@ Datum        | Code     | Toestvorm.     | Stof
 {{% /tab %}}
 
 {{% tab name="5V" %}}
-Datum        | Code     | Toestvorm.     | Stof
+Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |5V-IN-S06 | Digitale toets | [T7 Netwerken](https://informatica.emmauscollege.nl/theorie/netwerken/#leerdoelen)
  Zondag 19 feb 23:59|5V-IN-S09 | Praktische Opdracht | [O3 Webshop](https://informatica.emmauscollege.nl/opdrachten/webshop/)
@@ -338,7 +338,7 @@ Datum        | Code     | Toestvorm.     | Stof
 {{% /tab %}}
 
 {{% tab name="6V" %}}
-Datum        | Code     | Toestvorm.     | Stof
+Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
 Toetsweek 1 |6V-IN-S11 | Digitale toets | [T8 Object Oriented Programming](https://informatica.emmauscollege.nl/theorie/objectoriented/#leerdoelen)
  Zondag 11 dec 23:59|6V-IN-S13 | Praktische Opdracht | [O5 Marble Mania deel 1](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
