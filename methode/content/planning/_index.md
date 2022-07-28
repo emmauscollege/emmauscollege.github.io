@@ -248,44 +248,44 @@ Week|Theorieles (enkel uur)|Praktijkles (blokuur)
 {{% tab name="6V" %}}
 Week| Les 1 | Les 2
 ----|-------|------
-34|intro|
-35|[T8 - Objectgeoriënteerd programmeren](https://informatica.emmauscollege.nl/theorie/objectoriented)<br/>Praktijkles - maak vooraf opdracht 1 | [T8 - Objectgeoriënteerd programmeren](https://informatica.emmauscollege.nl/theorie/objectoriented)<br/>Praktijkles - maak vooraf opdracht 2
-36|[T8 Objecten, klassen, constructors, attributen en methoden](https://informatica.emmauscollege.nl/theorie/objectoriented) | [T8 - Objectgeoriënteerd programmeren](https://informatica.emmauscollege.nl/theorie/objectoriented)<br/>Praktijkles - maak vooraf opdracht 3
-37|[T8 Overerving, abstracte methoden en inkapseling ](https://informatica.emmauscollege.nl/theorie/objectoriented) | [T8 - Objectgeoriënteerd programmeren](https://informatica.emmauscollege.nl/theorie/objectoriented)<br/>Praktijkles - maak vooraf opdracht 4
-38|[T8 Objectgeoriënteerd ontwerpen mbv UML](https://informatica.emmauscollege.nl/theorie/objectoriented) | [T8 - Objectgeoriënteerd programmeren](https://informatica.emmauscollege.nl/theorie/objectoriented)<br/>Praktijkles - maak vooraf opdracht 5
-39|[T8 Objectgeoriënteerd C++](https://informatica.emmauscollege.nl/theorie/objectoriented) | [T8 - Objectgeoriënteerd programmeren](https://informatica.emmauscollege.nl/theorie/objectoriented)<br/>Praktijkles - maak vooraf opdracht 6
-40|[T8 - Objectgeoriënteerd programmeren](https://informatica.emmauscollege.nl/theorie/objectoriented)<br/>Praktijkles - maak vooraf opdracht 7 | [T8 - Objectgeoriënteerd programmeren](https://informatica.emmauscollege.nl/theorie/objectoriented)<br/>Praktijkles - maak vooraf opdracht 8
-41 | Marble Mania / CanSat - intro, taakverdeling, repository aanmaken | Marble Mania / CanSat - projectmatig werken & uitleg techniek achter knikkerbaan
-42 | Marble Mania / CanSat <br/>**Start run 1:** Proof of concept / Primary mission | Marble Mania / CanSat <br/> run 1
+34  | **T8 - Objectgeoriënteerd programmeren** - intro | 
+35  | T8 - Praktijkles <br/> maak vooraf [opdracht 1](https://informatica.emmauscollege.nl/theorie/objectoriented#opdracht-1) | T8 - Praktijkles <br/> maak vooraf [opdracht 2](https://informatica.emmauscollege.nl/theorie/objectoriented#opdracht-2)
+36  | T8 - Theorieles 1 <br/>maak vooraf [opdracht 3](https://informatica.emmauscollege.nl/theorie/objectoriented#opdracht-3) | T8 - Praktijkles
+37  | T8 - Theorieles 2 <br/> maak vooraf [opdracht 4](https://informatica.emmauscollege.nl/theorie/objectoriented#opdracht-4) | T8 - Praktijkles
+38  | T8 - Theorieles 3 <br/> maak vooraf [opdracht 5](https://informatica.emmauscollege.nl/theorie/objectoriented#opdracht-5) | T8 - Praktijkles
+39  | T8 - Theorieles 4 <br/> maak vooraf [opdracht 6](https://informatica.emmauscollege.nl/theorie/objectoriented#opdracht-6) | T8 - Praktijkles
+40  | T8 - Praktijkles <br/> maak vooraf [opdracht 7](https://informatica.emmauscollege.nl/theorie/objectoriented#opdracht-7) | T8 - Eindles <br/> maak vooraf maak vooraf [opdracht 8](https://informatica.emmauscollege.nl/theorie/objectoriented#opdracht-8)
+41 | Marble Mania / CanSat - intro, taakverdeling, repository aanmaken, SCRUM | Marble Mania / CanSat - uitleg techniek achter knikkerbaan
+42 | Marble Mania / CanSat <br/>**Start run 1:** Proof of concept / Primary mission | Marble Mania / CanSat – run 1
 43 | **Herfstvakantie**|
-44 | Marble Mania / CanSat <br/> run 1 | Marble Mania / CanSat <br/> run 1
-45 | Marble Mania / CanSat <br/> run 1 | Marble Mania / CanSat <br/> **Einde run 1:** demo en retro
+44 | Marble Mania / CanSat – run 1 | Marble Mania / CanSat – run 1
+45 | Marble Mania / CanSat – run 1 | Marble Mania / CanSat – **Einde run 1:** demo en retro
 46 | **TW1: Toets 6V-IN-S11** over T8 Object Oriented Programming|
 47 | **TW1**|
-48 | Marble Mania / CanSat <br/>**Start run 2:** Minimal Viable Product | Marble Mania / CanSat <br/> run 2
-49 | Marble Mania / CanSat <br/> run 2 | Marble Mania / CanSat <br/> run 2
-50 | Marble Mania / CanSat <br/> run 2 | Marble Mania / CanSat <br/> **Einde run 2:** demo en retro
-51 | Marble Mania / CanSat <br/>**Start run 3:** Uitbreiding | Marble Mania / CanSat <br/> run 3
+48 | Marble Mania / CanSat <br/>**Start run 2:** Minimal Viable Product | Marble Mania / CanSat – run 2
+49 | Marble Mania / CanSat – run 2 & bespreken 6V-IN-S11 | Marble Mania / CanSat – run 2
+50 | Marble Mania / CanSat – run 2 | Marble Mania / CanSat – **Einde run 2:** demo en retro
+51 | Marble Mania / CanSat – **Start run 3:** Uitbreiding | Marble Mania / CanSat – run 3
 52 | **Kerstvakantie**|
-1 | **Kerstvakantie**|
-2 | Marble Mania / CanSat <br/> run 3 | Marble Mania / CanSat <br/> run 3
-3 | Marble Mania / CanSat <br/> run 3 | Marble Mania / CanSat <br/> **Einde run 3:** demo en retro
-4 | [T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
-5|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
-6|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
-7|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
-8|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
-9|**Voorjaarsvakantie**|
-10|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
-11|**TW2: Toets 5H-IN-S12** over T5 Databases|
-12|**TW2**|
-13|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
-14|[O5 Marble Mania deel 2](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)|[**PO 5H-IN-S14 marble mania deel 2 inleveren**](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/)
-15|nader te bepalen|nader te bepalen
-16|nader te bepalen|**informatica afgerond**
-17|**Meivakantie **|
-18|**Meivakantie **|**examencijfer informatica bekend**
-19|**CE** |**geen CE voor informatica**
+1  | **Kerstvakantie**|
+2  | Marble Mania / CanSat – run 3 | Marble Mania / CanSat – run 3
+3  | Marble Mania / CanSat – run 3 | Marble Mania / CanSat – **Einde run 3:** demo en retro
+4  | Uitloop | Uitloop
+5  | [T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
+6  | [T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
+7  | [T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
+8  | [T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
+9  | **Voorjaarsvakantie**|
+10 | [T9 Security](https://informatica.emmauscollege.nl/theorie/security/)|[T9 Security](https://informatica.emmauscollege.nl/theorie/security/)
+11  | **TW2: Toets 6V-IN-S12** over T9 Security |
+12  | **TW2** |
+13  | [T9 Security](https://informatica.emmauscollege.nl/theorie/security/) - Capture the flag | [T9 Security](https://informatica.emmauscollege.nl/theorie/security/) - Capture the flag
+14  | Bespreken 6V-IN-S11 | nader te bepalen
+15  | nader te bepalen | nader te bepalen
+16  | nader te bepalen | **informatica afgerond**
+17  | **Meivakantie** |
+18  | **Meivakantie** | *examencijfer informatica bekend*
+19  | **Start CE** | **geen CE voor informatica**
 
 {{% /tab %}}
 
@@ -341,7 +341,7 @@ Datum        | Code     | Toetsvorm      | Stof
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
 Toetsweek 1 | 6V-IN-S11 | Digitale toets | [T8 Objectgeoriënteerd Programmeren](https://informatica.emmauscollege.nl/theorie/objectoriented/#leerdoelen)
-week 3 - 1e les | 6V-IN-S13 | Praktische Opdracht | [O5 Marble Mania](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/) of [CanSat](https://esero.nl/paginas/doe-mee-aan-de-cansat-competitie)
+week 3 - 2e les | 6V-IN-S13 | Praktische Opdracht | [O5 Marble Mania](https://informatica.emmauscollege.nl/opdrachten/knikkerbaan/) of [CanSat](https://esero.nl/paginas/doe-mee-aan-de-cansat-competitie)
 Toetsweek 2 |6V-IN-S12 | Digitale toets | [T9 Security](https://informatica.emmauscollege.nl/theorie/security/#leerdoelen) 
      
 {{% /tab %}}
