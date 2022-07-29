@@ -21,12 +21,10 @@ Uitlegvideo's bij deze theorie moeten we nog opzoeken
 
 # Objectgeoriënteerd programmeren
 
-_A.P. Cammeraat_
-
 ## Introductie
-In de vierde klas heb je in JavaScript met behulp van de _library P5js_ een spelletje gemaakt. Later leerde je de taal C++ om daarmee een microcontroller te programmeren. JavaScript en C++ zijn verschillende programmeertalen, toch lijken ze ook wat op elkaar: het programma dat je in deze talen maakt wordt stap voor stap uitgevoerd, commando na commando. Na ieder commando is de staat waarin je programma zich bevindt weer een beetje anders.
+In de vierde klas heb je in JavaScript met behulp van de _library P5js_ een spelletje gemaakt. Later leerde je de taal C++ om daarmee een microcontroller te programmeren. JavaScript en C++ zijn verschillende programmeertalen, toch lijken ze ook wat op elkaar: het programma dat je in deze talen maakt wordt stap voor stap uitgevoerd, commando na commando. Na ieder commando is de toestand waarin je programma zich bevindt weer een beetje anders.
 
-Deze manier van programmeren heet _imperatief programmeren_. Een andere manier van programmeren is bijvoorbeeld [_declaratief programmeren_](http://wikipedia.org). Zo'n manier van programmeren heet een _programmeerparadigma_. Vanuit *imperatief programmeren* is in de loop der tijd een aparte paradigma onstaan: _objectgeoriënteerd programmeren_. De Engelse term hiervoor is _object oriënted programming_, ofwel OOP. Heel veel programma's zijn gemaakt met behulp van dit paradigma. Zonder dat je het misschien hebt doorgehad, heb bij bij het werken met Arduino ook gebruik gemaakt van objectgeoriënteerd programmeren. In deze module gaan we leren dit paradigma bewust toe te passen.
+Deze manier van programmeren heet _imperatief programmeren_. Een andere manier van programmeren is bijvoorbeeld [_declaratief programmeren_](http://wikipedia.org). Zo'n manier van programmeren heet een _programmeerparadigma_. Vanuit *imperatief programmeren* is in de loop der tijd een aparte paradigma onstaan: _objectgeoriënteerd programmeren_. De Engelse term hiervoor is _object oriented programming_, ofwel OOP. Heel veel programma's zijn gemaakt met behulp van dit paradigma. Zonder dat je het misschien hebt doorgehad, heb bij bij het werken met Arduino ook gebruik gemaakt van objectgeoriënteerd programmeren. In deze module gaan we leren dit paradigma bewust toe te passen.
 
 ## Aan de slag met OOP
 Om de overstap naar objectgeoriënteerd programmeren te maken, beginnen we met een puur imperatief programma en werken we dit stap voor stap uit naar een objectgeoriënteerd programma. We maken hiervoor een **epidemiesimulator** die visueel maakt hoe organismen elkaar kunnen besmetten met een ziekteverwekker. Tussen de opdrachten door vind je theorie over objectgeoriënteerd programmeren.
