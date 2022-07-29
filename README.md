@@ -1,32 +1,10 @@
-
-
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/emmauscollege/emmauscollege.github.io)<br>
 Edit de content van deze site in Gitpod, je hebt dan een supersnelle preview.
 
-# letsboot
-Deze site is under construction
+This repo contains source code for the course Computer Engineering at Emmauscollege Rotterdam, The Netherlands.
 
-## mogelijke opbouw:
-- Informatie digitaal
-- HTML en CSS
-  - uitleg
-  - how-to's
-- JavaScript
-  - eenvoudig
-  - objecten
-  - classes 
-- Arduino / physical programming
-- Netwerken
-- Relationele Databases
-- Security
+It is build on gohugo and the relearn theme.
+Content of the site can be found in /methode/content
 
-- Game Theory
-- Auteursrecht
-
-- GitHub
-- Fusion / ...
-- 
-
-Hoe wel / geen vermenging van uitleg / huiswerkopdrachten / grote PO's
-
-PO beschrijving: in github repository van opdracht
+The site is hosted at https://informatica.emmauscollege.nl/
+Teachers who want to re-use this site are being invited to look at https://informatica.emmauscollege.nl/docenten/
