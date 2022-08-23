@@ -5,6 +5,7 @@ weight = 1
 
 Je leert hoe je informatie op een website zet met de programmeertalen HTML en CSS.
 <!--more-->
+Hulpmiddelen: [Khan Academy](/tools/khan/)
 
 ## Lesstof
 [Khanacademy, module Intro to HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
