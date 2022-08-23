@@ -23,7 +23,7 @@ Inloggen kan als volgt:
 De eerste keer dat je inlogt krijg je een aantal vragen
 
 4. "What grade are you in?" -> kies "Grade 12 / Year 12"
-5. "What courses can we help you learn?" -> scroll omlaag en kies "Computer Science"
+5. "What courses can we help you learn?" -> scroll omlaag en kies "Computer Programming"
 
 Je kunt nu naar je cursus zoals hierboven aangegeven
 
