@@ -3,7 +3,7 @@ title = "T8. Objectgeoriënteerd Programmeren"
 weight = 8
 +++
 
-Je leert object georienteerd programmeren. Dat is een manier van programmeren waarbij data en logica gebundeld zijn in objecten. We leren dit voor zowel JavaScript als C++.
+Je leert object georiënteerd programmeren. Dat is een manier van programmeren waarbij data en logica gebundeld zijn in objecten. We leren dit voor zowel JavaScript als C++.
 <!--more-->
 
 ## Theorie
@@ -22,32 +22,35 @@ Uitlegvideo's bij deze theorie moeten we nog opzoeken
 # Objectgeoriënteerd programmeren
 
 ## Introductie
-In de vierde klas heb je in JavaScript met behulp van de _library P5js_ een spelletje gemaakt. Later leerde je de taal C++ om daarmee een microcontroller te programmeren. JavaScript en C++ zijn verschillende programmeertalen, toch lijken ze ook wat op elkaar: het programma dat je in deze talen maakt wordt stap voor stap uitgevoerd, commando na commando. Na ieder commando is de toestand waarin je programma zich bevindt weer een beetje anders.
+In de vierde klas heb je in JavaScript met behulp van de _library_ [p5.js](http://p5js.org) een spelletje gemaakt. Later leerde je de taal C++ om daarmee een microcontroller te programmeren. JavaScript en C++ zijn verschillende programmeertalen, toch lijken ze ook wat op elkaar: het programma dat je in deze talen maakt wordt stap voor stap uitgevoerd, commando na commando. Na ieder commando is de toestand waarin je programma zich bevindt weer een beetje anders.
 
 Deze manier van programmeren heet _imperatief programmeren_. Een andere manier van programmeren is bijvoorbeeld [_declaratief programmeren_](http://wikipedia.org). Zo'n manier van programmeren heet een _programmeerparadigma_. Vanuit *imperatief programmeren* is in de loop der tijd een aparte paradigma onstaan: _objectgeoriënteerd programmeren_. De Engelse term hiervoor is _object oriented programming_, ofwel OOP. Heel veel programma's zijn gemaakt met behulp van dit paradigma. Zonder dat je het misschien hebt doorgehad, heb bij bij het werken met Arduino ook gebruik gemaakt van objectgeoriënteerd programmeren. In deze module gaan we leren dit paradigma bewust toe te passen.
 
 ## Aan de slag met OOP
 Om de overstap naar objectgeoriënteerd programmeren te maken, beginnen we met een puur imperatief programma en werken we dit stap voor stap uit naar een objectgeoriënteerd programma. We maken hiervoor een **epidemiesimulator** die visueel maakt hoe organismen elkaar kunnen besmetten met een ziekteverwekker. Tussen de opdrachten door vind je theorie over objectgeoriënteerd programmeren.
 
-Is het programmeren een beetje weggezakt? Kijk nog eens op [Khan Academy](http://khanacademy.org) en gebruik gerust het [syntaxblad](/syntaxblad.pfd).
+Is het programmeren een beetje weggezakt? Kijk dan eerst nog eens op [Khan Academy](http://khanacademy.org) en gebruik gerust het [syntaxblad](/syntaxblad.pfd).
 
-#### Opdracht 1 - Eén mens
+#### Opdracht 0 - Klaar voor de start
 
-##### Start een eigen repo:
+##### Start een eigen repo en begrijp de code:
 - Ga naar het GitHub-repository [objectgeorienteerd programmeren](http://github.com/emmaus-6V).
 - Gebruik de knop **Use Template** om een kopie hiervan te maken in je eigen GitHub account.
 - Maak van jouw repo een workspace in GitPod.
+- Pin deze workspace als je dat handig vindt, zo wordt deze niet automatisch door GitPod verwijderd.
 
-De code doet nog niet veel: het tekent een vierkantje in het midden van het scherm. In onze simulator stelt dit vierkantje een mens voor. Het is de bedoeling dat deze mens zich door onze wereld gaat bewegen. In de code zie je _globale variabelen_ die de positie en de horizontale en verticale snelheid bevatten:
+De code doet nog niet veel: het laat een vierkantje bewegen en stuiteren tegen de randen van het scherm. In de code zie je _globale variabelen_ die de positie en de horizontale en verticale snelheid bevatten. Ook zie je de constante `BREEDTE`, die de waarde van de grootte van het vierkantje bevat.
 
 ``` js
 var x;
 var y;
 var speedX;
 var speedY;
+
+const BREEDTE = 20;
 ```
 
-In `setup` krijgen deze variabelen hun initiële waarde. De positie is in het midden van het canvas. (Het midden van het vierkant is overigens niet exact in het midden. De waarden `x` en `y` worden gebruikt voor de linkerbovenhoek...) De horizontale en verticale snelheid hebben een random waarde tussen -5 en 5.
+In `setup` krijgen deze variabelen hun initiële waarde. De positie is in het midden van het canvas. (Het midden van het vierkant is overigens niet exact in het midden. De waarden `x` en `y` worden gebruikt voor de linkerbovenhoek...) De horizontale en verticale snelheid krijgen bij de start een random waarde tussen -5 en 5.
 
 ```js
 x = width / 2;
@@ -56,39 +59,32 @@ speedX = random(-5, 5);
 speedY = random(-5, 5);
 ```
 
-In `draw` wordt netjes een wit vierkantje getekend dat 20 pixels breed is. Herinner je je nog dat de functie `rect` een vierkant tekent vanuit de linkerbovenhoek?
+In `draw` wordt netjes een wit vierkantje getekend met behulp van de waarden van `x`, `y` en `BREEDTE`. Herinner je je nog dat de functie [`rect`](https://p5js.org/reference/#/p5/rect) een vierkant tekent met de linkerbovenhoek op de meegeven positie?
 
 ```js
-rect(x, y, 20, 20);
+rect(x, y, BREEDTE, BREEDTE);
 ```
 
-##### Zelf programmeren:
-De breedte van 20 pixels gaan we waarschijnlijk heel vaak gebruiken. Overal de waarde 20 typen gaat uiteindelijk leiden tot onoverzichtelijke code en waarschijnlijk ook tot fouten.
-
-- Maak bij de globale variabelen een nieuwe constante `BREEDTE` aan met de waarde 20; Verander de code zo, dat het vierkantje getekend wordt, gebruik makend van deze constante. Gebruik voortaan deze constante als je de breedte van het vierkantje nodig heb.
-- Voeg op de aangegeven plek code in `draw` toe die de variabelen `x` en `y` met behulp van `speedX` en `speedY` verandert. Test of je simulatiemens beweegt.
-- De mens beweegt zich waarschijnlijk al snel uit jouw simulatiewereld. Voeg in `draw` code toe die ervoor zorgt dat hij tegen de kanten 'stuitert'.
-  Tips:
-    - je hebt hier meerdere `if`-statements voor nodig.
-    - De p5js-variabelen `width` en `height` bevatten automatisch de juiste breedte en hoogte van het p5js-canvas.
-    - Vermenigvulden met -1 maakt van een negatief een positief getal en andersom (handig bij het botsen).
-- Controleer of het vierkantje stuitert als deze *met de buitenrand* tegen de kant botst. Dus bijvoorbeeld niet pas als de linkerrand van het vierkantje tegen de rechterkant van de wereld botst.
-
-### Opdracht 2 – meerdere mensen
-Je simulatie-omgeving bestaat nu uit één mens. Er zijn er natuurlijk meer nodig. Hiervoor hebben we niet één `x`, `y`, `speedX` en `speedY` nodig, maar meerdere. Je kunt dit in je programma voor elkaar krijgen door te werken met een arrays. Voor iedere mens staat er in verschillende de arrays een waarde. Dezelfde mens heeft z'n waarde steeds op dezelfde plek / index van de array.
+### Opdracht 1 – Meerdere mensen
+Je simulatie-omgeving bestaat nu uit één mens. Er zijn er natuurlijk meer nodig. Hiervoor hebben we niet één `x`, `y`, `speedX` en `speedY` nodig, maar meerdere. Je kunt dit in je programma voor elkaar krijgen door te werken met arrays. Voor ieder mens staat er in de verschillende arrays een waarde. Dezelfde mens heeft z'n waarde steeds op dezelfde plek / index van de arrays. Dus, stel je de volgende code voor:
+```js
+xPosities = [130, 60, 470];
+yPosities = [700, 1010, 40]
+```
 
 ##### Begrijpen
 - Zie je niet helemaal voor je hoe bovenstaande techniek werkt? Maak eerst weer eens de opdracht [Make it rain](https://khanacademy.org) van KhanAcademy. Daar gebruiken ze deze techniek voor de x- en y-waarde van de regendruppels.
 
 ##### Zelf programmeren
-- Verander in `setup` de initiële waarden zo in arrays met 5 waarden, zo dat er vijf mensen getekend kunnen worden.
-- Verander in `draw` de code zo, dat je voor iedere mens:
+- Verander de namen van de globale variabelen zo, dat je ze herkent als een array. Dus bijv. `xPosities` in plaats van `x`, etc.
+- Verander in `setup` de initiële waarden in arrays met ieder 5 waarden, zodat er vijf mensen getekend kunnen worden. Je mag *voor nu* zelf beslissen of je de waarden zelf bedenkt of ze random laat zijn. Hoe meer waarden je random laat zijn, hoe verrassender je simulator wordt.
+- Verander in `draw` de code zo, dat je voor **iedere mens**:
   - de positie verandert met de bijbehorende snelheden
   - checkt of deze moet stuiteren
 
   Check nogmaals [Make it rain](https://khanacademy.org) als je hier niet uitkomt. Tip: je moet een `for`-loop gebruiken samen met de `length` van een array.
 
-### Opdracht 3 – objecten
+### Opdracht 2 – objecten
 De manier waarop je bij opdracht 2 de gegevens in arrays hebt gestopt werkt prima, maar is niet in overeenstemming met welke gegevens er volgens je gevoel bij elkaar horen: niet alle x-posities, y-posities, etc. horen bij elkaar, maar alle gegevens van 1 bepaald mens. Je zou eigenlijk willen dat je die gegevens bij elkaar zou kunnen zetten. Dat kan met behulp van objecten.
 
 - Maak het gehele onderdeel [Objects](https://www.khanacademy.org/computing/computer-programming/programming/objects/pt/intro-to-objects) van Khan Academy. Dus van 'Intro' tot en met 'Bookshelf').
@@ -234,7 +230,7 @@ var mensA = new Mens(300, 600, 2 -3);
 
 
 ### Opdracht 4 – 25 random mensen maken. En wat doen die katten daar? 😼
-In de theorie hierboven is een heel groot deel van de klasse `Mens` gegeven. Je maakt deze klasse verder af en gebruikt deze om 25 mensobjecten te maken die zich in onze simulatie bewegen.
+In de theorie hierboven is een heel groot deel van de klasse `Mens` gegeven. Je maakt deze klasse verder af en gebruikt deze om 25 mensobjecten te maken die zich in onze simulatie bewegen:
 
 - De klasse `Mens` bevat alle code die nodig is om de positie van een mensobject te updaten. Verwijder deze code uit `draw` en roep in plaats daarvan `update` aan op het betreffende object.
 - De code die controleert of een mens tegen de rand van de simulatiewereld botst, moet ook verhuizen naar de klasse `Mens`. Breidt de methode `update` uit. Gebruik hiervoor de betreffende code die je in `draw` vindt en pas deze aan.
@@ -250,8 +246,8 @@ for (var teller = 0; teller < 25; teller++) {
   var ruimteTotRand = 50;
   
   // creëer random positie en snelheid
-  var randomX = random(ruimteTotRand, width-ruimteTotRand);
-  var randomY = random(ruimteTotRand, height-ruimteTotRand);
+  var randomX = random(ruimteTotRand, width - ruimteTotRand);
+  var randomY = random(ruimteTotRand, height - ruimteTotRand);
   var randomSpeedX = random(-5, 5);
   var randomSpeedY = random(-5, 5);
 
@@ -263,12 +259,12 @@ for (var teller = 0; teller < 25; teller++) {
 }
 ```
 
-Deze code maakt 25 keer een nieuw mens-object met [random](https://p5js.org/reference/#/p5/random) waarden aan en voegt deze toe aan de array `mensen`. Zorg ervoor dat je deze regels begrijpt.
+Deze code maakt 25 keer een nieuw mens-object met [random](https://p5js.org/reference/#/p5/random) waarden aan en voegt deze toe aan de array `mensen`. Zorg ervoor dat je deze regels begrijpt. Uitleg over push vind je onder andere op de shite van [w3schools](https://www.w3schools.com/jsref/jsref_push.asp)
 Bekijk het resultaat. Als het goed is, heb je nu 25 vierkantjes die door elkaar heen vliegen en tegen de randen stuiteren.
 
 Het wordt tijd dat deze mensen elkaar kunnen besmetten. Het idee is dat mensen elkaar besmetten als ze elkaar in hun beweging overlappen.
 - Geef de klasse `Mens` een nieuw attribuut `isBesmet`. Dit attribuut initialiseer je in de constructor op `false`. Je hoeft hiervoor dus geen argument aan je constructor toe te voegen.
-- Voeg in `setup` deze regel code toe na de `for`-loop die de 25 mensen aanmaakt:
+- Voeg in `setup`, na de `for`-loop die de 25 mensen aanmaakt, deze regel code toe:
 
   ```js
   mensen[0].besmet = true;
@@ -336,6 +332,7 @@ for (var j = i+1; j < mensen.length; j++)
 
 Op deze wijze is de eerste mensB altijd het *volgende* object in `mensen` en gaat de *loop* daarna netjes de array af.
 
+
 #### Katten... 🐈
 
 Helaas komen de gezondheidsinstanties erachter dat ook katten een rol spelen in de verspreiding van de ziekte. We zullen ook deze moeten opnemen in onze simulatie.
@@ -345,6 +342,7 @@ Helaas komen de gezondheidsinstanties erachter dat ook katten een rol spelen in 
   - een niet-besmette kat is blauw in plaats van wit
   - een besmette kat is oranje in plaats van rood
 - Voeg in `setup` na de 25 mensen ook 10 katten toe aan de simulatie. Geef de katten een random snelheid tussen -2 en 2.
+
 
 ### College 2 – Overerving, *super*, polymorfie en abstracte klassen
 Een programmeur die objectgeoriënteerd programmeert, komt vroeg of laat tot de ontdekking dat er twee klassen zijn, die heel erg op elkaar lijken, zoals een mens en een kat in onze simulatie. Beide organismen hebben een positie en een snelheid en kunnen besmet raken. Als programmeur krijg je de rillingen van dubbele code, dus hier moet toch wel een oplossing voor zijn?
@@ -445,7 +443,7 @@ class Dokter extends Mens {
 }
 ```
 
-De code onder `draw` moeten we nu zo aanpassen, dat dokters niet besmet kunnen raken en zieke mensen genezen. Verander daarom deze code
+De code onder `draw` moeten we nu zo aanpassen, dat dokters niet besmet kunnen raken en juist zieke mensen genezen. Verander daarom deze code
 
 ```js
 // check of er een besmetting optreedt
@@ -483,13 +481,11 @@ Bestudeer de code hierboven. Er vallen een paar dingen op.
 - De klasse `Dokter` bevat verder alleen de methode `show`. Wanneer op een dokterobject `show` wordt aangeroepen, wordt niet de methode `show` van de klasse `Mens` uitgevoerd, maar die van `Dokter`. Een methodes uit subklassen *overschaduwen* als het ware methodes met dezelfde naam uit de superklasse. Omdat we in dit geval *wel* gebruik willen maken van de fucntionaliteit van de methode `show` van `Mens`, zouden we die graag alsnog willen aanroepen. Dat doen we met `super.show`. Daardoor wordt bij het uitvoeren van `show` eerst getekend zoals de klasse `Mens` dat doet, en tekent de klasse `Dokter` daar nog wat bovenop.
 - met de operator `instanceof` kun je controleren of een object een instantie is van een bepaalde klasse. Deze operator geeft `true` terug als het object een instantie van die specifieke klasse is, maar ook als het een subklasse daarvan is. Dus, stel dat `mensA` een dokterobject is, dan geeft `mensA instanceof Mens` ook `true` terug.
 
-##### Iets over polymorfie?
-
 ##### Dubbele code van Kat
 We hebben zojuist gezien dat we met `Dokter` een actor hebben gemaakt die vrijwel identiek was aan `Mens`. Door `Dokter` een subklasse van `Mens` te laten zijn, hoeven we maar een klein beetje `Dokter`-specifieke code te schrijven. De rest neemt de klasse over van `Mens`.
 Maar hoe lossen we dit op voor de code die `Mens` en `Kat` hetzelfde hebben? Immers, `Mens` is niet een speciaal soort `Kat` of vice versa. Maar `Mens` en `Kat` zijn wel beide actors. Deze klasse bestaat nog niet, maar die kunnen we wel maken. Actor wordt dan de superklasse van zowel `Mens` als `Kat` en bevat alle attibuten en methodes die deze twee klassen gemeenschappelijk hebben. Je zou de klasse `Actor` dan kunnen zien als de basisklasse voor alle actoren in onze simulatie.
 
-    plaatje van klassen
+    @TODO: plaatje van klassen
 
 Welke onderdelen hebben `Mens` en `Kat` gemeenschappelijk?
 
