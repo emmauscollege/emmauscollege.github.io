@@ -5,8 +5,9 @@ weight = 7
 
 Je leert hoe het internet van binnen werkt.
 <!--more-->
+Hulpmiddelen: [Informatica Actief](/tools/ia/) en [Filius](/tools/filius/)
 
-Deze module wordt misschien herzien.
+**Deze module wordt in de loop van 22/23 op onderdelen aangepast.**
 
 ## Lesstof
 Theorie
@@ -14,6 +15,7 @@ Theorie
 2. [Geschiedenis van netwerken (reader)](../netwerken_geschiedenis.pdf)
 2. [Netwerktopologieën (reader)](../netwerken_topologieen.pdf)
 4. [How the internet works (video's)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+5. [Theorie netwerkprotocollen](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/index.html) (alleen hoofdtstuk 5, dit is best pittig, aanvulling op uitleg in de les).
 
 Oefeningen <br>
 [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917) 

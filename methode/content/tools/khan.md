@@ -1,6 +1,6 @@
 +++
 title = "Khan Academy"
-weight = 21
+weight = 1
 +++
 
 Khan Academy is internationale online lesmethode met cursussen voor diverse onderwerpen. Wij gebruiken enkele cursussen uit de sectie Computer Programming.
