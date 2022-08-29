@@ -6,7 +6,6 @@ weight = 1
 Je leert hoe je informatie op een website zet met de programmeertalen HTML en CSS.
 <!--more-->
 
-
 ## Hulpmiddelen
 We gebruiken in deze module de volgende hulpmiddelen:
 1. [Khan Academy](/tools/khan/)
@@ -22,9 +21,6 @@ Khanacademy, module Intro to HTML/CSS
 7. [More css selectors](https://www.khanacademy.org/computing/computer-programming/html-css#more-css-selectors)
 8. [Other ways to embed css](https://www.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css) (geen toetsstof)
 9. [Further learning](https://www.khanacademy.org/computing/computer-programming/html-css#html-css-further-learning) (geen toetsstof)
-
-Intellectueel eigendom
-1. [Intellectueel eigendom (online reader)](../webdesign_auteursrecht/)
 
 ## Uitlegvideo's
 <!-- {{<youtube id="">}} -->
@@ -50,15 +46,6 @@ CSS
 14. Je kunt de werking van boxen in CSS toelichten. Je kunt daarbij uitleggen wat de content, padding, border en margin van een box zijn.
 15. Je kunt eenvoudige stukken CSS interpreteren, dat wil zeggen dat je kunt uitleggen hoe een webbrowser omgaat met een eenvoudig stuk CSS en hoe het eruit ziet in een webbrowser.
 16. Je kunt wijzigingen aanbrengen in een eenvoudig stuk CSS, de properties die daarvoor nodig zijn worden beschreven in de vraag.
-
-Intellectueel eigendom
-1. je weet kunt kort en bondig formuleren wat het auteursrecht in Nederland inhoudt.
-2. je weet wat een thuiskopie is.
-3. je weet wat het downloadverbod inhoudt.
-4. je kent de regels rondom portretrecht (al dan niet in opdracht).
-5. je kent de verschillen tussen deze software licenties: commercieel, shareware, freeware, open source. Daarnaast kun je uitleggen op welke punten open source licenties van elkaar kunnen verschillen.
-6. je kunt uitleggen waar Creative Commons vandaan komt en kunt uitleggen uit welke licenties met verschillende bouwstenen kunnen worden gevormd.
-7. je bent in staat om je kennis van intellectueel eigendom toe te passen op een beschreven situatie.
 
 ## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
