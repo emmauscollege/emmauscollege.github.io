@@ -3,17 +3,15 @@ title = "T8. Objectgeoriënteerd Programmeren"
 weight = 8
 +++
 
-Je leert object georiënteerd programmeren. Dat is een manier van programmeren waarbij data en logica gebundeld zijn in objecten. We leren dit voor zowel JavaScript als C++.
+Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren waarbij data en logica gebundeld zijn in objecten. We leren dit voor zowel JavaScript als C++.
 <!--more-->
 
 ## Theorie
-[Arduino-lessen.nl, les 1 t/m 5](https://arduino-lessen.nl)
 - 
 -
 
 ## Uitlegvideo's
-{{<youtube id="">}}
-Uitlegvideo's bij deze theorie moeten we nog opzoeken
+
 
 ## Leerdoelen
 1.	Je kunt 
@@ -85,7 +83,7 @@ yPosities = [700, 1010, 40]
   Check nogmaals [Make it rain](https://khanacademy.org) als je hier niet uitkomt. Tip: je moet een `for`-loop gebruiken samen met de `length` van een array.
 
 ### Opdracht 2 – objecten
-De manier waarop je bij opdracht 2 de gegevens in arrays hebt gestopt werkt prima, maar is niet in overeenstemming met welke gegevens er volgens je gevoel bij elkaar horen: niet alle x-posities, y-posities, etc. horen bij elkaar, maar alle gegevens van 1 bepaald mens. Je zou eigenlijk willen dat je die gegevens bij elkaar zou kunnen zetten. Dat kan met behulp van objecten.
+De manier waarop je bij opdracht 1 de gegevens in arrays hebt gestopt werkt prima, maar is niet in overeenstemming met welke gegevens er volgens je gevoel bij elkaar horen: niet alle x-posities, y-posities, etc. horen bij elkaar, maar alle gegevens van 1 bepaald mens. Je zou eigenlijk willen dat je die gegevens bij elkaar zou kunnen zetten. Dat kan met behulp van objecten.
 
 - Maak het gehele onderdeel [Objects](https://www.khanacademy.org/computing/computer-programming/programming/objects/pt/intro-to-objects) van Khan Academy. Dus van 'Intro' tot en met 'Bookshelf').
 - Gebruik je opgedane kennis om in je Simulator in plaats van 4 arrays met losse waarden, 1 array genaamd `mensen` met objecten te maken: 5 objecten – voor iedere mens één. Zorg ervoor dat alles blijft werken.
@@ -229,14 +227,15 @@ var mensA = new Mens(300, 600, 2 -3);
 - Afspraken over de schrijfwijze: de naam van een klasse begint altijd met een hoofdletter. De naam van een object begint altijd met een kleine letter. Voor beide gebruik je [Camelcase](https://nl.wikipedia.org/wiki/CamelCase).
 
 
-### Opdracht 4 – 25 random mensen maken. En wat doen die katten daar? 😼
+### Opdracht 3 – 25 random mensen maken. En wat doen die katten daar? 😼
 In de theorie hierboven is een heel groot deel van de klasse `Mens` gegeven. Je maakt deze klasse verder af en gebruikt deze om 25 mensobjecten te maken die zich in onze simulatie bewegen:
 
+#### a) 25 random mensen
 - De klasse `Mens` bevat alle code die nodig is om de positie van een mensobject te updaten. Verwijder deze code uit `draw` en roep in plaats daarvan `update` aan op het betreffende object.
 - De code die controleert of een mens tegen de rand van de simulatiewereld botst, moet ook verhuizen naar de klasse `Mens`. Breidt de methode `update` uit. Gebruik hiervoor de betreffende code die je in `draw` vindt en pas deze aan.
 - De code die een mens tekent, is ook typisch iets wat bij de klasse Mens hoort. Maak een nieuwe methode `show` en teken hierin het vierkantje. Haal ook de constante `BREEDTE` weg. Maak hiervan een attribuut (gebruik dan `breedte`) en zet de waarde hiervan in de constructor op 50. Je hoeft hiervoor dus niet een argument aan de constructor toe te voegen. Verwijder de code die het vierkant tekent uit `draw` en roep in plaats daarvan `show` op de objecten aan.
 
-We gaan nu de array `mensen` vullen met 25 random mens-objecten. Verwijder de code die je bij opdracht 3 in `setup` hebt gezet om handmatig 5 mens-objecten te maken. Schrijf in plaats daarvan deze code:
+We gaan nu de array `mensen` vullen met 25 random mens-objecten. Verwijder de code die je bij opdracht 2 in `setup` hebt gezet om handmatig 5 mens-objecten te maken. Schrijf in plaats daarvan deze code:
 
 ```js
 // maak 25 random mensen
@@ -262,6 +261,7 @@ for (var teller = 0; teller < 25; teller++) {
 Deze code maakt 25 keer een nieuw mens-object met [random](https://p5js.org/reference/#/p5/random) waarden aan en voegt deze toe aan de array `mensen`. Zorg ervoor dat je deze regels begrijpt. Uitleg over push vind je onder andere op de shite van [w3schools](https://www.w3schools.com/jsref/jsref_push.asp)
 Bekijk het resultaat. Als het goed is, heb je nu 25 vierkantjes die door elkaar heen vliegen en tegen de randen stuiteren.
 
+#### b) besmettingen
 Het wordt tijd dat deze mensen elkaar kunnen besmetten. Het idee is dat mensen elkaar besmetten als ze elkaar in hun beweging overlappen.
 - Geef de klasse `Mens` een nieuw attribuut `isBesmet`. Dit attribuut initialiseer je in de constructor op `false`. Je hoeft hiervoor dus geen argument aan je constructor toe te voegen.
 - Voeg in `setup`, na de `for`-loop die de 25 mensen aanmaakt, deze regel code toe:
@@ -272,17 +272,23 @@ Het wordt tijd dat deze mensen elkaar kunnen besmetten. Het idee is dat mensen e
 
   Hierdoor wordt alvast één mens besmet.
 - Verander de code in de methode `show` zo, dat een mens als rood vierkant wordt getekend als deze besmet is. Als het goed is, wordt één vierkant nu rood getekend.
-- Vervolgens maken we een methode die kan controleren of een ander mens-object overlap heeft met het object dat de methode uitvoert. Ga voor jezelf na of je de volgende zin begrijpt: *Omdat een mens getekend wordt als een vierkant, overlappen twee mensen elkaar als één van de hoeken van het ene vierkant zich binnen het andere vierkant bevindt.*
-Onderstaande code bevat het begin van de methode `isOverlappend`. De methode controleert alleen voor de linkerbovenhoek. Voeg deze code toe aan de klasse `Mens` en voeg zelf de code toe die de andere drie hoeken van `this` controleert. Als je merkt dat het controleren van overlap moeilijk is, maak dan eerst de oefening [Smarter Button](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-smarter-button) van Khan Academy weer eens.
+- Vervolgens maken we een methode die kan controleren of een ander mens-object overlap heeft met het object dat de methode uitvoert. Ga voor jezelf na of je de volgende zin begrijpt: *Omdat een mens getekend wordt als een vierkant, overlappen twee mensen elkaar als één van de hoeken van het ene vierkant zich binnen de randen van het andere vierkant bevindt.*
+Onderstaande code bevat het begin van de methode `isOverlappend`. **De methode controleert alleen voor de linkerbovenhoek.** Voeg deze code toe aan de klasse `Mens` en voeg zelf de code toe die de andere drie hoeken van `this` controleert. Als je merkt dat het controleren van overlap moeilijk is, maak dan eerst de oefening [Smarter Button](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-smarter-button) van Khan Academy weer eens.
 
 ```js
 isOverlappend(andereMens) {
   // zet teruggeefwaarde standaard op false
   var overlappend = false;
 
-  // zet teruggeefwaarde op true als een hoekpunt overlapt met andereMens
-  if (this.x >= andereMens.x && this.x <= andereMens.x + andereMens.breedte  &&
-      this.y >= andereMens.y && this.y <= andereMens.y + andereMens.breedte) {
+  // zet teruggeefwaarde op true als er een overlap is
+  if ( (this.x >= andereMens.x &&
+        this.x <= andereMens.x + andereMens.breedte &&
+        this.y >= andereMens.y &&
+        this.y <= andereMens.Y + andereMens.breedte)
+
+        /* VUL HIER ZELF LATER AAN VOOR DE ANDERE HOEKEN*/
+      ) {
+
     overlappend = true;
   }
 
@@ -318,6 +324,7 @@ for (var i = 0; i < mensen.length; i++) {
 }
 ```
 
+<!--
 Met bovenstaande code worden alle mogelijke paren echter *twee keer* gecontroleerd. Kun je bedenken hoe dit komt? Stel, het eerste mensObject in de array `mensen` vergelijkt zijn positie met de andere mensen. Tot zover niets dubbels. Vervolgens gaat het tweede mensobject uit de array `mensen` zijn positie vergelijken met de andere mensen. De eerste waarmee de vergelijking plaatsvindt is het eerste object uit `mensen`. Er is echter al zojuist gecontroleerd of deze twee objecten overlap hadden. Dit was weliswaar andersom, maar dat maakt niet uit voor de uitkomst. Wanneer het laatste object uit `mensen` zijn positie gaat vergelijken, zijn al die vergelijkingen al eens gedaan. Om dit probleem op te lossen kunnen we mensen verlijken met mensen in de array `mensen` die een hogere index hebben, dus 'verder' staan in de lijst. Deze betere code heeft maar één wijziging nodig: in plaats van
 
 ```js
@@ -331,9 +338,9 @@ for (var j = i+1; j < mensen.length; j++)
 ```
 
 Op deze wijze is de eerste mensB altijd het *volgende* object in `mensen` en gaat de *loop* daarna netjes de array af.
+-->
 
-
-#### Katten... 🐈
+#### c) Katten... 🐈
 
 Helaas komen de gezondheidsinstanties erachter dat ook katten een rol spelen in de verspreiding van de ziekte. We zullen ook deze moeten opnemen in onze simulatie.
 - De array `mensen` gaat ook dieren bevatten. Het is raar als deze naam hetzelfde blijft. Alle 'dingen' die iets in onze simulatie doen, heten 'actoren. Verander door je hele code de naam van de array `mensen` in `actoren`.
@@ -578,7 +585,7 @@ Je *kunt* goede redenen hebben om van `Actor` juist GEEN abstracte klasse te mak
 Wat vind jij het meest logisch? `Actor` als abstracte klasse of juist niet?
 
 
-### Opdracht 5
+### Opdracht 4
 In de theorie hierboven heb je de gezien hoe je een code van de superklasse `Actor` eruit ziet. Je gaat nu de code van `Mens` en `Kat` aanpassen.
 
 - Maak van `Mens` en `Kat` superklassen van `Actor` en pas de code aan. Bedenk goed welke code weg mag en welke code veranderd moet worden. Eén methode blijft onveranderd. Weet je welke?

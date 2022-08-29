@@ -249,11 +249,11 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 Week| Les 1 | Les 2
 ----|-------|------
 34  | **T8 - Objectgeoriënteerd programmeren** - introweek | 
-35  | T8 - Theorieles 1 <br/> maak vooraf [opdracht 1](/theorie/objectoriented#opdracht-1) | T8 - Praktijkles <br/> maak vooraf [opdracht 2](/theorie/objectoriented#opdracht-2)
-36  | T8 - Theorieles 2 <br/>maak vooraf [opdracht 3](/theorie/objectoriented#opdracht-3) | T8 - Praktijkles
-37  | T8 - Theorieles 3 <br/> maak vooraf [opdracht 4](/theorie/objectoriented#opdracht-4) | T8 - Praktijkles
-38  | T8 - Theorieles 4 <br/> maak vooraf [opdracht 5](/theorie/objectoriented#opdracht-5) | T8 - Praktijkles
-39  | T8 - Theorieles 5 <br/> maak vooraf [opdracht 6](/theorie/objectoriented#opdracht-6) | T8 - Praktijkles <br/> hierin maak je [opdracht 7](/theorie/objectoriented#opdracht-7) af
+35  | T8 - Praktijkles <br/> maak vooraf [opdracht 1](/theorie/objectoriented#opdracht-1) | T8 - Praktijkles <br/> maak vooraf [opdracht 1](/theorie/objectoriented#opdracht-2)
+36  | T8 - Theorieles 1 <br/>maak vooraf [opdracht 2](/theorie/objectoriented#opdracht-3) | T8 - Praktijkles
+37  | T8 - Theorieles 2 <br/> maak vooraf [opdracht 3](/theorie/objectoriented#opdracht-4) | T8 - Praktijkles
+38  | T8 - Theorieles 2 <br/> maak vooraf [opdracht 4](/theorie/objectoriented#opdracht-5) | T8 - Praktijkles
+39  | T8 - Theorieles 3 <br/> maak vooraf [opdracht 5](/theorie/objectoriented#opdracht-6) | T8 - Praktijkles <br/> hierin maak je [opdracht 6](/theorie/objectoriented#opdracht-7) af
 41 | Marble Mania / CanSat - intro, taakverdeling, repository aanmaken, SCRUM | Marble Mania / CanSat - uitleg techniek achter knikkerbaan
 42 | Marble Mania / CanSat <br/>**Start run 1:** Proof of concept / Primary mission | Marble Mania / CanSat – run 1
 43 | **Herfstvakantie**|
