@@ -114,7 +114,7 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 46|**TW1: Toets 5H-IN-S06** over T6 Robotica|
 47|**TW1**|
 48|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
-49|[O4-Robot](/opdrachten/robot/)|[**PO 5H-IN-S08 robot inleveren**](/opdrachten/robot/)
+49|[O4-Robot](/opdrachten/robot/)|**PO 5H-IN-S08 robot inleveren**
 50|[T5 Khan t/m 1 SQL Basics](/theorie/databases/)|[T5 Khan t/m halverwege 2 More advanced SQL-queries](/theorie/databases/)
 51|[T5 uitleg SELECT WHERE](/theorie/databases/)|[T5 Khan t/m halverwege eind 2 More advanced SQL-queries](/theorie/databases/)
 52|**Kerstvakantie**|
@@ -131,7 +131,7 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 11|**TW2: Toets 5H-IN-S07** over T5 Databases|
 12|**TW2**|
 13|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-14|[O3 Webshop](/opdrachten/webshop/)|[**PO 5H-IN-S08 webshop inleveren**](/opdrachten/webshop/)
+14|[O3 Webshop](/opdrachten/webshop/)|**PO 5H-IN-S08 webshop inleveren**
 15|nader te bepalen|nader te bepalen
 16|nader te bepalen|**informatica afgerond**
 17|**meivakantie**|
@@ -221,7 +221,7 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 4|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
 5|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
 6|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-7|[O3 Webshop](/opdrachten/webshop/)|[** 5V-IN-S09 webshop inleveren **](/opdrachten/webshop/)
+7|[O3 Webshop](/opdrachten/webshop/)|** 5V-IN-S09 webshop inleveren **
 8|[T6 Arduinolessen gestart](/theorie/robotica)|[T6 Arduinolessen 1](/theorie/robotica)
 9|**Voorjaarsvakantie**|
 10|[T6 Uitleg microcontrollers deel 1](/theorie/robotica)|[T6 Arduinolessen 2](/theorie/robotica)
@@ -238,7 +238,7 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 21|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
 22|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
 23|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
-24|[O4-Robot](/opdrachten/robot/)|[** 5V-IN-S10 robot inleveren **](/opdrachten/robot/)
+24|[O4-Robot](/opdrachten/robot/)|** 5V-IN-S10 robot inleveren **
 25|**TW3: Toets 5V-IN-S08** over T6 Robotica|
 26|**TW3**|
 27|**Zomervakantie**|
