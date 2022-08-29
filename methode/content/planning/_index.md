@@ -197,12 +197,12 @@ Week|Les 1 theorie|Les 2+3 praktijk
 Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 --|--|--
 34|intro|
-35|[T7 netwerken](/theorie/netwerken/)|[T7 netwerken](/theorie/netwerken/)
+35|[T7 uitleg lagen](/theorie/netwerken/)|[T7 oefeneningen in IA met Filius](/theorie/netwerken/)
 36|[T7 uitleg netwerken](/theorie/netwerken/)|[T7 netwerken](/theorie/netwerken/)
 37|[T7 uitleg netwerken](/theorie/netwerken/)|[T7 netwerken](/theorie/netwerken/)
 38|[T7 uitleg netwerken](/theorie/netwerken/)|[T7 netwerken](/theorie/netwerken/)
 39|[T7 uitleg netwerken](/theorie/netwerken/)|[T7 netwerken](/theorie/netwerken/)
-40|[T7 netwerken](/theorie/netwerken/)|[T7 netwerken](/theorie/netwerken/)
+40|...|...
 41|[T5 Khan t/m 1 SQL Basics](/theorie/databases/)|[T5 Khan t/m halverwege 2 More advanced SQL-queries](/theorie/databases/)
 42|[T5 uitleg SELECT WHERE](/theorie/databases/)|[T5 Khan t/m halverwege eind 2 More advanced SQL-queries](/theorie/databases/)
 43|**Herfstvakantie**|
