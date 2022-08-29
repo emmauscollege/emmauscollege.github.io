@@ -6,16 +6,22 @@ weight = 6
 Je leert hoe je met behulp van toestandsgrammen kunt programmeren. Je gebruikt daarbij het Arduino platform.
 <!--more-->
 
+## Hulpmiddelen
+We gebruiken in deze module de volgende hulpmiddelen:
+1. [Arduino IDE](/tools/arduino-ide/)
+
 ## Lesstof
 Microcontrollers
 1. [Microcontroller reader](../robotica_microcontrollers_programmeren.pdf) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
 
-[Arduino-lessen.nl, les 1 t/m 5](https://arduino-lessen.nl)
+Arduino-lessen.nl, les 1 t/m 5
 1. [Knipperende led](https://arduino-lessen.nl/les/knipperende-led-op-arduino)
 2. [Knipperend led op breadboard](https://arduino-lessen.nl/les/knipperende-led-op-breadboard)
 3. [Fadende led op breadboard met PWM](https://arduino-lessen.nl/les/arduino-led-faden-met-pwm-pulse-width-modulation)
 4. [Knippersnelheid regelen met potmeter](https://arduino-lessen.nl/les/knippersnelheid-van-led-regelen-met-potmeter-op-arduino)
 5. [LED schakelen met drukknop](https://arduino-lessen.nl/les/led-met-arduino-schakelen-via-drukknop)
+
+[Meer lessen Arduino-lessen](https://arduino-lessen.nl) (geen toetsstof)
 
 Toestandsdiagrammen
 1. Lesstof volgt

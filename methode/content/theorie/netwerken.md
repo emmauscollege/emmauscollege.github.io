@@ -9,6 +9,11 @@ Hulpmiddelen: [Informatica Actief](/tools/ia/) en [Filius](/tools/filius/)
 
 **Deze module wordt in de loop van 22/23 op onderdelen aangepast.**
 
+## Hulpmiddelen
+We gebruiken in deze module de volgende hulpmiddelen:
+1. [Informatica Actief](/tools/ia/) 
+2. [Filius](/tools/filius/)
+
 ## Lesstof
 Theorie
 1. [Netwerken lespresentatie (Powerpoint presentatie)](../netwerken_lespresentatie.pptx)
