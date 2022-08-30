@@ -15,6 +15,7 @@ Functies van de Arduino IDE:
 - gecompileerde code uploaden naar een Arduino microcontroller (via een USB-kabel)
 
 ## Installeren van het programma
+Op de schoolcomputers is de Arduino-IDE al geïnstalleerd. Als je Arduino thuis wilt gebruiken, dan moet je het zelf installeren. Dat gaat als volgt.
 1. De Arduino IDE is gratis. Je hoeft geen account aan te maken.
 2. Download de Arduino IDE van
 [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
