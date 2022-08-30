@@ -88,7 +88,7 @@ Week|Theorie (enkel uur)|Praktijk (blokuur)
 19|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 8|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
 20|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 10|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
 21|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: bubble sort (geen leerdoel)|[O2 Game](/opdrachten/game/) uitbreiding 1 af
-22|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: korste pad (geen leerdoel)| **PO 4H-IN-S05 game inleveren**
+22|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: kortste pad (geen leerdoel)| **PO 4H-IN-S05 game inleveren**
 23|nog niet bepaald|nog niet bepaald
 24|nog niet bepaald|nog niet bepaald
 25|**TW3: Toets 4H-IN-S03** over T3 Programmeren + T4 Algoritmen|
@@ -146,49 +146,49 @@ Week|Theorie (enkel uur)|Praktijk (blokuur)
 --|--|--
 Week|Les 1 theorie|Les 2+3 praktijk
 34|intro|
-35|[T1 Uitleg HTML tags ](/theorie/webdesign/)|[T1 Khan t/m 2 intro to CSS](/theorie/webdesign/)
-36|[T1 Uitleg CSS selectors en properties ](/theorie/webdesign/)|[T1 Khan t/m 4 CSS text properties](/theorie/webdesign/)
-37|[T1 Uitleg boxmodel](/theorie/webdesign/)|[T1 Khan t/m 6 CSS layout](/theorie/webdesign/)
-38|[T1 Uitleg floats](/theorie/webdesign/)|[T1 Khan t/m 9 Further learning](/theorie/webdesign/)
-39|[T1 Uitleg wireframes](/theorie/webdesign/)|[O1 Website stap 1 eerste wijziging gemaakt](/opdrachten/website/)
-40|[T1 Uitleg client-server](/theorie/webdesign/)|[O1 Website stap 2 menu + vier lege pagina's](/opdrachten/website/)
-41|[T1 Uitleg intro security](/theorie/webdesign/)|[O1 Website stap 3 layout hoofdpagina](/opdrachten/website/)
-42|[T1 Uitleg intellectueel eigendom](/theorie/webdesign/)|[O1 Website stap 3 layout hoofdpagina](/opdrachten/website/)
+35|[T1 Web Design](/theorie/webdesign/) Uitleg: HTML tags|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 2 intro to CSS
+36|[T1 Web Design](/theorie/webdesign/) Uitleg: CSS selectors en properties|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 4 CSS text properties
+37|[T1 Web Design](/theorie/webdesign/) Uitleg: boxmodel|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 6 CSS layout
+38|[T1 Web Design](/theorie/webdesign/) Uitleg: floats|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 9 Further learning
+39|[T1 Web Design](/theorie/webdesign/) Uitleg: wireframes|[T1 Web Design](/theorie/webdesign/) Oefentoets in Woots maken
+40|[T2 Informatie](/theorie/informatie/) Uitleg: bits|[O1 Website](/opdrachten/website/) stap 1 eerste wijziging gemaakt
+41|[T2 Informatie](/theorie/informatie/) Uitleg: BIN|[O1 Website](/opdrachten/website/) stap 2 menu + vier lege pagina's
+42|[T2 Informatie](/theorie/informatie/) Uitleg: HEX|[O1 Website](/opdrachten/website/) stap 3 layout hoofdpagina
 43|**Herfstvakantie**|
-44|[T2 Uitleg bits & IA gestart](/theorie/informatie/)|[O1 Website stap 4 inhoud en plaatjes hoofdpagina](/opdrachten/website/)
-45|[T2 Uitleg BIN & IA t/m 1](/theorie/informatie/)|[O1 Website stap 5 layout subpagina's](/opdrachten/website/)
-46|**TW1: Toets 4V-IN-S01** over T1 Web Design|
+44|[T2 Informatie](/theorie/informatie/) Oefening: IA gestart|[O1 Website](/opdrachten/website/) stap 4 inhoud en plaatjes hoofdpagina
+45|[T2 Informatie](/theorie/informatie/) Oefening: IA t/m 3|[O1 Website](/opdrachten/website/) stap 5 layout subpagina's
+46|**TW1: Toets 4H-IN-S01** over T1 Web Design|
 47|**TW1**|
-48|[T2 Uitleg HEX & IA t/m 2](/theorie/informatie/)|[O1 Website stap 6 inhoud en plaatjes subpagina's](/opdrachten/website/)
-49|[T2 Uitleg kleuren + plaatjes & IA t/m 3](/theorie/informatie/)|[O1 Website stap 7 kleuren](/opdrachten/website/)
-50|[T2 Uitle tekst + geluid + video & IA t/m 6](/theorie/informatie/)|[O1 Website stap 8 perfectioneren](/opdrachten/website/)
-51|[T2 Uitleg compressie + bestanden & IA t/m 8](/theorie/informatie/)|[O1 Website stap 9 eyecathers](/opdrachten/website/)
+48|[T2 Informatie](/theorie/informatie/) Oefening: IA t/m 6|[O1 Website](/opdrachten/website/) stap 6 inhoud en plaatjes subpagina's
+49|[T2 Informatie](/theorie/informatie/) kleuren + plaatjes| [O1 Website](/opdrachten/website/) stap 7 kleuren
+50|[T2 Informatie](/theorie/informatie/) tekst + geluid + video + compressie| [O1 Website](/opdrachten/website/) stap 8 perfectioneren
+51|[T2 Informatie](/theorie/informatie/) Oefening: Beeldbewerking|[O1 Website](/opdrachten/website/) stap 9 eyecathers
 52|**Kerstvakantie**|
 1|**Kerstvakantie**|
-2|[Beeldbewerking](/theorie/informatie/)|[O1 Website stap 9 eyecathers](/opdrachten/website/)
-3|[Beeldbewerking](/theorie/informatie/)|**PO 4V-IN-S04 website inleveren**
-4|[T3 Uitleg programmeertalen](/theorie/programmeren/)|[T3 Khan t/m 5 Animation basics](/theorie/programmeren/)
-5|[T3 Uitleg P5js](/theorie/programmeren/)|[T3 Khan t/m 10 Functions](/theorie/programmeren/)
-6|[T3 Uitleg variabelen](/theorie/programmeren/)|[T3 Khan t/m 13 Loopings](/theorie/programmeren/)
-7|[T3 Uitleg functies](/theorie/programmeren/)|[T3 Khan t/m 15 Arrays](/theorie/programmeren/)
-8|[T3 Uitleg logica en if](/theorie/programmeren/)|[O2 Game: eerste wijziging gemaakt](/opdrachten/game/)
+2|[T2 Informatie](/theorie/informatie/) Oefening: Beeldbewerking|**PO 4H-IN-S04 website inleveren**
+3|[T3 Programmeren](/theorie/programmeren/) Uitleg: programmeertalen + P5JS|[T3 Oefening](/theorie/programmeren/) Khan t/m 5 Animation basics
+4|[T3 Programmeren](/theorie/programmeren/) Uitleg: variabelen|[T3 Oefening](/theorie/programmeren/) Khan t/m 10 Functions
+5|[T3 Programmeren](/theorie/programmeren/) Uitleg: functies|[T3 Oefening](/theorie/programmeren/) Khan t/m 11 Logic and if statements
+6|[T3 Programmeren](/theorie/programmeren/) Uitleg: logica en if|[T3 Oefening](/theorie/programmeren/) Khan t/m 13 Loopings
+7|[T3 Programmeren](/theorie/programmeren/) Uitleg: loops (les) arrays (thuis kijken)|[T3 Oefening](/theorie/programmeren/) Khan t/m 15 Arrays
+8|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: stroomdiagrammen|[O2 Game](/opdrachten/game/) eerste wijziging gemaakt
 9|**Voorjaarsvakantie**|
-10|[T3 Uitleg loops](/theorie/programmeren/)|[O2 Game: speler beweegt](/opdrachten/game/)
-11|**TW2: Toets 4V-IN-S01** over T2 Informatie|
+10|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: lijsten|[O2 Game](/opdrachten/game/) speler beweegt
+11|**TW2: Toets 4H-IN-S01** over T2 Informatie|
 12|**TW2**|
-13|[T3 Uitleg lijsten](/theorie/programmeren/)|[O2 Game: vijand](/opdrachten/game/)
-14|[T3 Uitleg nesten](/theorie/programmeren/)|[O2 Game: botsingdetectie + afgaan](/opdrachten/game/)
-15|[T4 Uitleg stroomdiagrammen](/theorie/algoritmen/)|[O2 Game: punten + gameoverscherm](/opdrachten/game/)
-16|[T4 Oefenen eenvoudige algoritmen 1/m 2](/theorie/algoritmen/)|[O2 Game: uitlegscherm (je hebt nu een speelbaar spel)](/opdrachten/game/)
+13|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: nesten|[O2 Game](/opdrachten/game/) vijand
+14|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 2|[O2 Game](/opdrachten/game/) botsingdetectie + afgaan
+15|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 4|[O2 Game](/opdrachten/game/) punten + gameoverscherm
+16|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 6|[O2 Game](/opdrachten/game/) uitlegscherm (je hebt nu een speelbaar spel)
 17|**meivakantie**|
 18|**meivakantie**|
-19|[T4 Oefenen eenvoudige algoritmen t/m 6](/theorie/algoritmen/)|[O2 Game: werk aan uitbreiding 1](/opdrachten/game/)
-20|[T4 oefenen eenvoudige algoritmen t/m 8](/theorie/algoritmen/)|[O2 Game: werk aan uitbreiding 1](/opdrachten/game/)
-21|[T4 oefenen eenvoudige algoritmen t/m 10](/theorie/algoritmen/)|[O2 Game: uitbreiding 1 af](/opdrachten/game/)
-22|[T4 Uitleg: bubble sort (geen leerdoel)](/theorie/algoritmen/)|[O2 Game: werk aan uitbreiding 2](/opdrachten/game/)
-23|[Algoritmen, nader te bepalen](/theorie/algoritmen/)|[O2 Game: werk aan uitbreiding 2](/opdrachten/game/)
-24|[Algoritmen, nader te bepalen](/theorie/algoritmen/)|**PO 4V-IN-S05 game inleveren**
-25|**TW3: Toets 4V-IN-S03** over T3 Programmeren + T4 Algoritmen|
+19|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 8|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
+20|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 10|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
+21|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: bubble sort (geen leerdoel)|[O2 Game](/opdrachten/game/) uitbreiding 1 af
+22|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: kortste pad (geen leerdoel)| **PO 4H-IN-S05 game inleveren**
+23|nog niet bepaald|nog niet bepaald
+24|nog niet bepaald|nog niet bepaald
+25|**TW3: Toets 4H-IN-S03** over T3 Programmeren + T4 Algoritmen|
 26|**TW3**|
 27|**Zomervakantie**|
 
@@ -198,21 +198,21 @@ Week|Les 1 theorie|Les 2+3 praktijk
 Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 --|--|--
 34|intro|
-35|[T7 uitleg lagen](/theorie/netwerken/)|[T7 oefeneningen in IA met Filius](/theorie/netwerken/)
-36|[T7 uitleg netwerken](/theorie/netwerken/)|[T7 netwerken](/theorie/netwerken/)
-37|[T7 uitleg netwerken](/theorie/netwerken/)|[T7 netwerken](/theorie/netwerken/)
-38|[T7 uitleg netwerken](/theorie/netwerken/)|[T7 netwerken](/theorie/netwerken/)
-39|[T7 uitleg netwerken](/theorie/netwerken/)|[T7 netwerken](/theorie/netwerken/)
-40|...|...
-41|[T5 Khan t/m 1 SQL Basics](/theorie/databases/)|[T5 Khan t/m halverwege 2 More advanced SQL-queries](/theorie/databases/)
-42|[T5 uitleg SELECT WHERE](/theorie/databases/)|[T5 Khan t/m halverwege eind 2 More advanced SQL-queries](/theorie/databases/)
+35|[T7 Netwerken](/theorie/netwerken/) Uitleg: lagen deel 1|[T7 Netwerken](/theorie/netwerken/) Oefenen: 1. IA (met Filius)
+36|[T7 Netwerken](/theorie/netwerken/) Uitleg: lagen deel 2|[T7 netwerken](/theorie/netwerken/) Oefenen: 2. IA (met Filius)
+37|[T7 Netwerken](/theorie/netwerken/) Uitleg: ethernet|[T7 netwerken](/theorie/netwerken/) Oefenen: 3. IA (met Filius)
+38|[T7 Netwerken](/theorie/netwerken/) Uitleg: IP|[T7 netwerken](/theorie/netwerken/) Oefenen: 4 + 5 IA (met Filius)
+39|[T7 Netwerken](/theorie/netwerken/) Uitleg: RFC's|[T7 netwerken](/theorie/netwerken/) Oefentoets in Woots
+40|[T5 Databases](/theorie/databases/) Uitleg: SELECT WHERE |[T5 Khan t/m 1 SQL Basics](/theorie/databases/)
+41|[T5 Databases](/theorie/databases/) Uitleg: GROUP BY| [T5 Khan t/m 2 More advanced SQL-queries](/theorie/databases/)
+42|[T5 Databases](/theorie/databases/) Uitleg: JOIN|[T5 Khan t/m halverwege 3 Relational Queries](/theorie/databases/)
 43|**Herfstvakantie**|
-44|[T5 uitleg GROUP BY](/theorie/databases/)|[T5 Khan t/m halverwege 3 Relational Queries](/theorie/databases/)
-45|[T5 uitleg JOIN](/theorie/databases/)|[T5 Khan t/m eind 3 Relational Queries ](/theorie/databases/)
+44|[T5 Databases](/theorie/databases/) Uitleg: multipliciteiten- en strokendiagram|[T5 Khan t/m eind 3 Relational Queries ](/theorie/databases/)
+45|[T5 Databases](/theorie/databases/) Uitleg: Ruimtedatabase voorbeeldopgave<br>Maak vooraf: Ruimtedatabase vragen met meerdere tabellen in Woots|[T5 Khan t/m 4 Modifying Databases](/theorie/databases/)
 46|**TW1: Toets 5V-IN-S06** over T7 Netwerken|
 47|**TW1**|
-48|[T5 uitleg multipliciteiten- en strokendiagram](/theorie/databases/)|[T5 Khan t/m 4 Modifying Databases](/theorie/databases/)
-49|[T5 Ruimtedatabase eerste helft](/theorie/databases/)|[T5 Ruimtedatabase tweede helft](/theorie/databases/)
+48|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
+49|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
 50|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
 51|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
 52|**Kerstvakantie**|
@@ -223,23 +223,23 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 5|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
 6|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
 7|[O3 Webshop](/opdrachten/webshop/)|** 5V-IN-S09 webshop inleveren **
-8|[T6 Arduinolessen gestart](/theorie/robotica)|[T6 Arduinolessen 1](/theorie/robotica)
+8|[T6 Robotica](/theorie/robotica) Intro en Arduino uitdelen|[T6 Arduinolessen 1 + 2](/theorie/robotica)
 9|**Voorjaarsvakantie**|
-10|[T6 Uitleg microcontrollers deel 1](/theorie/robotica)|[T6 Arduinolessen 2](/theorie/robotica)
+10|[T6 Robotica](/theorie/robotica) Uitleg: microcontrollers deel 1|[T6 Arduinolessen 3 + 4](/theorie/robotica)
 11|**TW2: Toets 5V-IN-S07** over T5 Databases|
 12|**TW2**|
-13|[T6 Uitleg microcontrollers deel 2](/theorie/robotica)|[T6 Arduinolessen 3](/theorie/robotica)
-14|[T6 Uitleg toestandsdiagrammen deel 1](/theorie/robotica)|[T6 Arduinolessen 4](/theorie/robotica)
-15|[T6 Uitleg toestandsdiagrammen deel 2](/theorie/robotica)|[T6 Arduinolessen 5](/theorie/robotica)
-16|[T6 Toestandsdiagrammen opdracht 1](/theorie/robotica)|[T6 Toestandsdiagrammen opdracht 2](/theorie/robotica)
+13|[T6 Robotica](/theorie/robotica) Uitleg: microcontrollers deel 2|[T6 Arduinolessen 5](/theorie/robotica)
+14|[T6 Robotica](/theorie/robotica) Uitleg: toestandsdiagrammen deel 1|[T6 Toestandsdiagrammen opdracht 1](/theorie/robotica)
+15|[T6 Robotica](/theorie/robotica) Uitleg: toestandsdiagrammen deel 2|[T6 Toestandsdiagrammen opdracht 2](/theorie/robotica)
+16|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
 17|**meivakantie**|
 18|**meivakantie**|
 19|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
 20|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
 21|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
-22|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
-23|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
-24|[O4-Robot](/opdrachten/robot/)|** 5V-IN-S10 robot inleveren **
+22|[O4-Robot](/opdrachten/robot/)|** 5V-IN-S10 robot inleveren **
+23|nog te bepalen|nog te bepalen
+24|nog te bepalen|nog te bepalen
 25|**TW3: Toets 5V-IN-S08** over T6 Robotica|
 26|**TW3**|
 27|**Zomervakantie**|
