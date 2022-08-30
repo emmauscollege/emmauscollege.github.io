@@ -249,27 +249,27 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 Week| Les 1 | Les 2
 ----|-------|------
 34  | **T8 - Objectgeoriënteerd programmeren** - introweek | 
-35  | T8 - Praktijkles <br/> maak vooraf [opdracht 1](/theorie/objectoriented#opdracht-1) | T8 - Praktijkles <br/> maak vooraf [opdracht 1](/theorie/objectoriented#opdracht-2)
-36  | T8 - Theorieles 1 <br/>maak vooraf [opdracht 2](/theorie/objectoriented#opdracht-3) | T8 - Praktijkles
-37  | T8 - Theorieles 2 <br/> maak vooraf [opdracht 3](/theorie/objectoriented#opdracht-4) | T8 - Praktijkles
-38  | T8 - Theorieles 3 <br/> maak vooraf [opdracht 4](/theorie/objectoriented#opdracht-5) | T8 - Praktijkles
-39  | T8 - Theorieles 4 <br/> maak vooraf [opdracht 5](/theorie/objectoriented#opdracht-6) | T8 - Praktijkles <br/> hierin maak je [opdracht 6](/theorie/objectoriented#opdracht-7) af
-41 | Marble Mania / CanSat - intro, taakverdeling, repository aanmaken, SCRUM | Marble Mania / CanSat - uitleg techniek achter knikkerbaan
-42 | Marble Mania / CanSat <br/>**Start run 1:** Proof of concept / Primary mission | Marble Mania / CanSat – run 1
+35  | T8 - Praktijkles <br/>maak vooraf [opdracht 0](/theorie/objectoriented#opdracht-0) | T8 - Praktijkles )
+36  | T8 - Theorieles 1 <br/>maak vooraf [opdracht 1](/theorie/objectoriented#opdracht-1) en [opdracht 2](/theorie/objectoriented#opdracht-2) | T8 - Praktijkles
+37  | T8 - Theorieles 2 <br/> maak vooraf [opdracht 3](/theorie/objectoriented#opdracht-3) | T8 - Praktijkles
+38  | T8 - Theorieles 3 <br/> maak vooraf [opdracht 4](/theorie/objectoriented#opdracht-4) | T8 - Praktijkles
+39  | T8 - Theorieles 4 <br/> maak vooraf [opdracht 5](/theorie/objectoriented#opdracht-5) | T8 - Praktijkles <br/> hierin maak je [opdracht 6](/theorie/objectoriented#opdracht-6) af
+41 | Marble Mania / CanSat <br/>intro, taakverdeling, repository aanmaken, SCRUM | Marble Mania / CanSat <br/>uitleg techniek achter knikkerbaan
+42 | Marble Mania / CanSat <br/>**Start sprint 1:** Basisfunctionaliteit | Marble Mania / CanSat <br/>sprint 1
 43 | **Herfstvakantie**|
-44 | Marble Mania / CanSat – run 1 | Marble Mania / CanSat – run 1
-45 | Marble Mania / CanSat – run 1 | Marble Mania / CanSat – **Einde run 1:** demo en retro
+44 | Marble Mania / CanSat <br/>sprint 1 | Marble Mania / CanSat <br/>**Einde sprint 1:** demo en evaluatie
+45 | Marble Mania / CanSat <br/>**start sprint 2** | Marble Mania / CanSat <br/>sprint 2
 46 | **TW1: Toets 6V-IN-S11** over T8 Object Oriented Programming|
 47 | **TW1**|
-48 | Marble Mania / CanSat <br/>**Start run 2:** Minimal Viable Product | Marble Mania / CanSat – run 2
-49 | Marble Mania / CanSat – run 2 & bespreken 6V-IN-S11 | Marble Mania / CanSat – run 2
-50 | Marble Mania / CanSat – run 2 | Marble Mania / CanSat – **Einde run 2:** demo en retro
-51 | Marble Mania / CanSat – **Start run 3:** Uitbreiding | Marble Mania / CanSat – run 3
+48 | Marble Mania / CanSat <br/>sprint 2 | Marble Mania / CanSat <br/>**Einde sprint 2:** demo en evaluatie
+49 | Marble Mania / CanSat <br/>**start sprint 3:** Minimal Viable Product <br/>bespreken 6V-IN-S11 | Marble Mania / CanSat <br/>sprint 3
+50 | Marble Mania / CanSat <br/>sprint 3 | Marble Mania / CanSat <br/>**Einde sprint 3:** demo en evaluatie
+51 | Marble Mania / CanSat <br/>**start sprint 4:** Uitbreiding | Marble Mania / CanSat <br/>sprint 4
 52 | **Kerstvakantie**|
 1  | **Kerstvakantie**|
-2  | Marble Mania / CanSat – run 3 | Marble Mania / CanSat – run 3
-3  | Marble Mania / CanSat – run 3 | Marble Mania / CanSat – **Einde run 3:** demo en retro
-4  | Uitloop | Uitloop
+2  | Marble Mania / CanSat – sprint 4 | Marble Mania / CanSat <br/>**Einde sprint 4:** demo en evaluatie
+3  | Marble Mania / CanSat – <br/>**start sprint 5 : Afronding** | Marble Mania / CanSat <br/>sprint 5
+4  | Marble Mania / CanSat – sprint 5 | Marble Mania / CanSat <br/>**Einde sprint 5:** demo eindproduct
 5  | [T9 Security](/theorie/security/)|[T9 Security](/theorie/security/)
 6  | [T9 Security](/theorie/security/)|[T9 Security](/theorie/security/)
 7  | [T9 Security](/theorie/security/)|[T9 Security](/theorie/security/)
