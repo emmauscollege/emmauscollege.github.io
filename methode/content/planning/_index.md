@@ -249,7 +249,7 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 Week| Les 1 | Les 2
 ----|-------|------
 34  | **T8 - Objectgeoriënteerd programmeren** - introweek | 
-35  | T8 - Praktijkles <br/>maak vooraf [opdracht 0](/theorie/objectoriented#opdracht-0) | T8 - Praktijkles )
+35  | T8 - Praktijkles <br/>maak vooraf [opdracht 0](/theorie/objectoriented#opdracht-0) | T8 - Praktijkles
 36  | T8 - Theorieles 1 <br/>maak vooraf [opdracht 1](/theorie/objectoriented#opdracht-1) en [opdracht 2](/theorie/objectoriented#opdracht-2) | T8 - Praktijkles
 37  | T8 - Theorieles 2 <br/> maak vooraf [opdracht 3](/theorie/objectoriented#opdracht-3) | T8 - Praktijkles
 38  | T8 - Theorieles 3 <br/> maak vooraf [opdracht 4](/theorie/objectoriented#opdracht-4) | T8 - Praktijkles
