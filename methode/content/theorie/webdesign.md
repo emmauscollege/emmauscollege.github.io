@@ -7,10 +7,10 @@ Je leert hoe je informatie op een website zet met de programmeertalen HTML en CS
 <!--more-->
 
 ## Hulpmiddelen
-We gebruiken in deze module de volgende hulpmiddelen:
+We gebruiken in deze module de volgende tools:
 1. [Khan Academy](/tools/khan/)
 
-## Lesstof
+## Oefeningen
 Khanacademy, module Intro to HTML/CSS
 1. [Intro to html](https://www.khanacademy.org/computing/computer-programming/html-css#intro-to-html)
 2. [Intro to css](https://www.khanacademy.org/computing/computer-programming/html-css#intro-to-css)
@@ -22,7 +22,7 @@ Khanacademy, module Intro to HTML/CSS
 8. [Other ways to embed css](https://www.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css) (geen toetsstof)
 9. [Further learning](https://www.khanacademy.org/computing/computer-programming/html-css#html-css-further-learning) (geen toetsstof)
 
-## Uitlegvideo's
+## Uitleg
 <!-- {{<youtube id="">}} -->
 Er zijn (nog) geen uitlegvideo's bij deze theorie
 

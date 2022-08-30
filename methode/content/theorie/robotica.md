@@ -7,13 +7,10 @@ Je leert hoe je met behulp van toestandsgrammen kunt programmeren. Je gebruikt d
 <!--more-->
 
 ## Hulpmiddelen
-We gebruiken in deze module de volgende hulpmiddelen:
+We gebruiken in deze module de volgende tools:
 1. [Arduino IDE](/tools/arduino-ide/)
 
-## Lesstof
-Microcontrollers
-1. [Microcontroller reader](../robotica_microcontrollers_programmeren.pdf) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
-
+## Oefeningen
 Arduino-lessen.nl, les 1 t/m 5
 1. [Knipperende led](https://arduino-lessen.nl/les/knipperende-led-op-arduino)
 2. [Knipperend led op breadboard](https://arduino-lessen.nl/les/knipperende-led-op-breadboard)
@@ -24,11 +21,15 @@ Arduino-lessen.nl, les 1 t/m 5
 [Meer lessen Arduino-lessen](https://arduino-lessen.nl) (geen toetsstof)
 
 Toestandsdiagrammen
-1. Lesstof volgt
+1. Oefenstof volgt
 
-## Uitlegvideo's
+## Uitleg
 <!-- {{<youtube id="">}} -->
 Er zijn (nog) geen uitlegvideo's bij deze theorie
+
+Naslagwerken
+1. [Microcontroller reader](../robotica_microcontrollers_programmeren.pdf) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
+2. Lespresentatie toetstandsdiagrammen volgt
 
 ## Leerdoelen
 Arduino
