@@ -38,6 +38,7 @@ title = "Informatica Emmauscollege Rotterdam"
   titleSeparator = "::"
   themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
   disableSeoHiddenPages = true
+  disableInlineCopyToClipBoard = true
   # this is for the stylesheet genertor to allow for interactivity in mermaid
   # graphs; you usually will not need it and you should remove this for
   # security reasons
@@ -68,7 +69,7 @@ title = "Informatica Emmauscollege Rotterdam"
     #   (here eg.: theme-relearn-light.css / theme-relearn-dark.css)
     noClasses = false
     # style = "tango"
-
+    
   [markup.goldmark.renderer]
     # activated for this showcase to use HTML and JavaScript; decide on your own needs;
     # if in doubt, remove this line
