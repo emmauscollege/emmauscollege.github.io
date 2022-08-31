@@ -1,2 +1,3 @@
 <!--externe links openen op nieuw tabblad, bron: https://agrimprasad.com/post/hugo-goldmark-markdown/-->
-<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text }}</a>
+<!--aanvulling CAM: aan .Text heb ik | safeHTML toegevoegd zodat bijv. een ' ook netjes wordt gerenderd-->
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text | safeHTML}}</a>
