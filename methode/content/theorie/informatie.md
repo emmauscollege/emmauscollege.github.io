@@ -11,7 +11,7 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 1. [Digitale afbeeldingen, pixels met kleur](https://moodle.informatica-actief.nl/course/view.php?id=742#section-4) (alleen theorie 1 t/m 7)
 2. [Bits en Bytes](https://moodle.informatica-actief.nl/course/view.php?id=742#section-5) (alleen theorie 1 t/m 5)
 3. [Talstelsels: decimale en binaire getallen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-6) (alleen theorie 1 t/m 9)
-4. ~Rekenen met binaire getallen~ (overslaan)
+4. ~~Rekenen met binaire getallen~~ (overslaan)
 5. [Digitale tekst](https://moodle.informatica-actief.nl/course/view.php?id=742#section-8) (alleen theorie 1 t/m 9)
 6. [Verschillende soorten afbeeldingen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-9) (alleen theorie 1 t/m 12)
 7. [Bewegend beeld en geluid](https://moodle.informatica-actief.nl/course/view.php?id=742#section-10) (alleen theorie 1 t/m 7)
