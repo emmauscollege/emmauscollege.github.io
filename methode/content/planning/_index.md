@@ -157,7 +157,7 @@ Week|Les 1 theorie|Les 2+3 praktijk
 43|**Herfstvakantie**|
 44|[T2 Informatie](/theorie/informatie/) Oefening: IA gestart|[O1 Website](/opdrachten/website/) stap 4 inhoud en plaatjes hoofdpagina
 45|[T2 Informatie](/theorie/informatie/) Oefening: IA t/m 3|[O1 Website](/opdrachten/website/) stap 5 layout subpagina's
-46|**TW1: Toets 4H-IN-S01** over T1 Web Design|
+46|**TW1: Toets 4V-IN-S01** over T1 Web Design|
 47|**TW1**|
 48|[T2 Informatie](/theorie/informatie/) Oefening: IA t/m 6|[O1 Website](/opdrachten/website/) stap 6 inhoud en plaatjes subpagina's
 49|[T2 Informatie](/theorie/informatie/) kleuren + plaatjes| [O1 Website](/opdrachten/website/) stap 7 kleuren
@@ -165,7 +165,7 @@ Week|Les 1 theorie|Les 2+3 praktijk
 51|[T2 Informatie](/theorie/informatie/) Oefening: Beeldbewerking|[O1 Website](/opdrachten/website/) stap 9 eyecathers
 52|**Kerstvakantie**|
 1|**Kerstvakantie**|
-2|[T2 Informatie](/theorie/informatie/) Oefening: Beeldbewerking|**PO 4H-IN-S04 website inleveren**
+2|[T2 Informatie](/theorie/informatie/) Oefening: Beeldbewerking|**PO 4V-IN-S04 website inleveren**
 3|[T3 Programmeren](/theorie/programmeren/) Uitleg: programmeertalen + P5JS|[T3 Oefening](/theorie/programmeren/) Khan t/m 5 Animation basics
 4|[T3 Programmeren](/theorie/programmeren/) Uitleg: variabelen|[T3 Oefening](/theorie/programmeren/) Khan t/m 10 Functions
 5|[T3 Programmeren](/theorie/programmeren/) Uitleg: functies|[T3 Oefening](/theorie/programmeren/) Khan t/m 11 Logic and if statements
@@ -174,7 +174,7 @@ Week|Les 1 theorie|Les 2+3 praktijk
 8|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: stroomdiagrammen|[O2 Game](/opdrachten/game/) eerste wijziging gemaakt
 9|**Voorjaarsvakantie**|
 10|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: lijsten|[O2 Game](/opdrachten/game/) speler beweegt
-11|**TW2: Toets 4H-IN-S01** over T2 Informatie|
+11|**TW2: Toets 4V-IN-S01** over T2 Informatie|
 12|**TW2**|
 13|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: nesten|[O2 Game](/opdrachten/game/) vijand
 14|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 2|[O2 Game](/opdrachten/game/) botsingdetectie + afgaan
@@ -185,10 +185,10 @@ Week|Les 1 theorie|Les 2+3 praktijk
 19|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 8|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
 20|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 10|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
 21|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: bubble sort (geen leerdoel)|[O2 Game](/opdrachten/game/) uitbreiding 1 af
-22|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: kortste pad (geen leerdoel)| **PO 4H-IN-S05 game inleveren**
+22|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: kortste pad (geen leerdoel)| **PO 4V-IN-S05 game inleveren**
 23|nog niet bepaald|nog niet bepaald
 24|nog niet bepaald|nog niet bepaald
-25|**TW3: Toets 4H-IN-S03** over T3 Programmeren + T4 Algoritmen|
+25|**TW3: Toets 4V-IN-S03** over T3 Programmeren + T4 Algoritmen|
 26|**TW3**|
 27|**Zomervakantie**|
 
