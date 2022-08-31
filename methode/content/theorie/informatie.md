@@ -16,7 +16,7 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 6. [Verschillende soorten afbeeldingen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-9) (alleen theorie 1 t/m 12)
 7. [Bewegend beeld en geluid](https://moodle.informatica-actief.nl/course/view.php?id=742#section-10) (alleen theorie 1 t/m 7)
 8. [Digitale informatie in bestanden](https://moodle.informatica-actief.nl/course/view.php?id=742#section-11) (alleen theorie 1 t/m 5)
-9. ~Diagnostische toets~ (overslaan)
+9. ~~Diagnostische toets~~ (overslaan)
 
 Beeldbewerking
 1. [Beeldbewerking oefeningen (powerpoint presentatie)](./informatie_lespresentatie_beeldbewerking.pptx) met [photopea.com](https://photopea.com)
