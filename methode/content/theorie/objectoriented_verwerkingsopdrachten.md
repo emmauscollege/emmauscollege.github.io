@@ -47,7 +47,7 @@ rect(x, y, BREEDTE, BREEDTE);
 Je simulatie-omgeving bestaat nu uit één mens. Er zijn er natuurlijk meer nodig. Hiervoor hebben we niet één `x`, `y`, `speedX` en `speedY` nodig, maar meerdere. Je kunt dit in je programma voor elkaar krijgen door te werken met arrays. Voor ieder mens staat er in de verschillende arrays een waarde. Dezelfde mens heeft z'n waarde steeds op dezelfde plek / index van de arrays. Dus voor de x- en y posities van 3 mensen zou je deze code kunnen gebruiken:
 ```js
 xPosities = [130, 60, 470];
-yPosities = [700, 1010, 40]
+yPosities = [700, 1010, 40];
 ```
 
 ###### Ondersteuning
