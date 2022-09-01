@@ -4,4 +4,4 @@ weight = 7.6
 hidden = true
 +++
 
-[opdrachten in pdf](../filius_opdrachten.pfd)
+[opdrachten in pdf](../filius_opdrachten.pdf)
