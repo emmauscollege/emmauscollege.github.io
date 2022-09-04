@@ -24,6 +24,9 @@ defaultContentLanguage = "en"
 # the site's title of this showcase; you should change this ;-)
 title = "Informatica Emmauscollege Rotterdam"
 
+# setting the Tracking ID / Google Tag for google analytics, we use google analytics v4
+googleAnalytics = "G-8X5DQ9T3E4"
+
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explaination
 [params]
