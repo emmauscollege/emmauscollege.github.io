@@ -50,8 +50,8 @@ xPosities = [130, 60, 470];
 yPosities = [700, 1010, 40];
 ```
 
-###### Ondersteuning
-- Zie je niet helemaal voor je hoe bovenstaande techniek werkt? Maak eerst weer eens de opdracht [Make it rain](https://khanacademy.org) van KhanAcademy. Daar gebruiken ze deze techniek voor de x- en y-waarde van de regendruppels.
+#### Ondersteuning
+Zie je niet helemaal voor je hoe bovenstaande techniek werkt? Maak eerst weer eens de opdracht [Make it rain](https://khanacademy.org) van KhanAcademy. Daar gebruiken ze deze techniek voor de x- en y-waarde van de regendruppels.
 
 #### Programmeren
 - Verander de namen van de globale variabelen zo, dat je ze herkent als een array. Dus bijv. `xPosities` in plaats van `x`, etc.
@@ -60,7 +60,52 @@ yPosities = [700, 1010, 40];
   - de positie verandert met de bijbehorende snelheden
   - checkt of deze moet stuiteren
 
-  Check nogmaals [Make it rain](https://khanacademy.org) als je hier niet uitkomt. Tip: je moet een `for`-loop gebruiken samen met de `length` van een array.
+#### Hints
+{{% expand "Hint 1" %}}
+  Check nogmaals [Make it rain](https://khanacademy.org) als je hier niet uitkomt. Als je niet 100% begrijpt wat er in die opdracht wordt gedaan, kun je beter daar eerst aandacht aan besteden, anders blijft wat hieronder komt abracadabra.
+{{% /expand %}}
+{{% expand "Hint 2" %}}
+  Verander `var x;` in `var xPosities;`, en verzin voor de andere drie globale variabelen ook namen die je laten vermoeden dat het om een array met meerdere waarden gaat.
+
+  Vervolgens moet je in de setup die variabele niet één waarde meegeven, maar een array met vijf waarden: `xPosities = [192, 450, 800, 120, 75]`. Doe dit ook voor de andere drie globale variabelen.
+
+  Je hebt nu 4 arrays, met waarden die bij elkaar horen. Dus de waarden van element 0 uit alle vier de arrays vormen samen de waarden voor één mens. De informatie staat dus als het ware 'verticaal' in je code.
+{{% /expand %}}
+{{% expand "Hint 3" %}}
+  Je moet op de plek waar je de mensen tekent, update en laat stuiteren een `for`-loop gebruiken die dit nu op alle waarden van de arrays toepast:
+  ```js
+    for (var i = 0; i < xPosities.length; i++) {
+      // hier moet de code komen voor het tekenen, updaten en stuiteren
+      // bedenk dat deze waarden in arrays staan. De variabele `i` kun je
+      // gebruiken om steeds het volgende element te 'kiezen'
+    }
+  ```
+{{% /expand %}}
+{{% expand "Hint 4" %}}
+  Deze tekencode in de for-loop werkt **niet**:
+  ```js
+    for (var i = 0; i < xPosities.length; i++) {
+      rect(xPosities, yPosities, BREEDTE, BREEDTE);
+
+      // hieronder zou de update- en stuitercode moeten staan
+    }
+  ```
+  Dat komt omdat `rect` een enkele waarde nodig heeft, en geen array met waarden. Dus bijvoorbeeld `rect(xPosities[0], yPosities[0], BREEDTE, BREEDTE);`
+
+  Met deze code worden echter 5 keer dezelfde waarden gebruikt, namelijk die van element nul. Je zou willen dat iedere keer het volgende element uit de arrays gebruikt wordt. Toevallig hebben we in de for-loop een variabele die precies van 0 tot en met 4 gaat: `i`.
+
+  Deze code werkt wel:
+  ```js
+    for (var i = 0; i < xPosities.length; i++) {
+      rect(xPosities[i], yPosities[i], BREEDTE, BREEDTE);
+
+      // hieronder zou de update- en stuitercode moeten staan
+    }
+  ```
+
+  Deze hint kun je ook toepassen op de update- en stuitercode.
+{{% /expand %}}
+
 
 ### Opdracht 2 – objecten
 De manier waarop je bij opdracht 1 de gegevens in arrays hebt gestopt werkt prima, maar is niet in overeenstemming met welke gegevens er volgens je gevoel bij elkaar horen: niet alle x-posities, y-posities, etc. horen bij elkaar, maar alle gegevens van 1 bepaald mens. Je zou eigenlijk willen dat je die gegevens bij elkaar zou kunnen zetten. Dat kan met behulp van objecten.
@@ -69,6 +114,37 @@ De manier waarop je bij opdracht 1 de gegevens in arrays hebt gestopt werkt prim
 - Maak het gehele onderdeel [Objects](https://www.khanacademy.org/computing/computer-programming/programming/objects/pt/intro-to-objects) van Khan Academy. Dus van 'Intro' tot en met 'Bookshelf').
 - Gebruik je opgedane kennis om in je Simulator in plaats van 4 arrays met losse waarden, 1 array genaamd `mensen` met objecten te maken: 5 objecten – voor iedere mens één. Zorg ervoor dat alles blijft werken.
 
+#### Hints
+{{% expand "Hint 1" %}}
+  - Verwijder boven de `setup` de declaratie van de vier globale variabelen en schrijf daar `var mensen;`
+  - Vervang in de `setup` de code waar je arrays met waarden aan die globale variabelen gaf en schrijf in plaats daarvan:
+  ```js
+  mensen = [  {x: 320,
+               y: 100,
+               speedX : 2
+               speedY : -4},
+              {x: 500,
+               y: 490,
+               speedX : -3
+               speedY : 1},
+              // voeg hier ZELF nog 3 extra mensobjecten toe
+            ];
+  ```
+  Mensen wordt met deze code een *array van objecten*. Verander je teken-, update- en stuitercode ook zo dat deze past bij deze nieuwe vorm.
+{{% /expand %}}
+{{% expand "Hint 2" %}}
+  Voor de tekencode ziet de aanpassing er zo uit:
+  ```js
+    for (var i = 0; i < mensen.length; i++) {
+      rect(mensen[i].x, mensen[i].y, BREEDTE, BREEDTE);
+
+      // hieronder zou de update- en stuitercode moeten staan
+    }
+  ```
+  `mensen[i].x` betekent: van de array `mensen` het i-de element, en van het object dat je daarmee krijgt, attribuut x.
+
+  Probeer zelf de code voor het updaten en stuiteren te maken.
+{{% /expand %}}
 
 
 <br/><br/><br/>
