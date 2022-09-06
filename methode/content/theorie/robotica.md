@@ -24,8 +24,7 @@ Toestandsdiagrammen
 1. Oefenstof volgt
 
 ## Uitleg
-<!-- {{<youtube id="">}} -->
-Er zijn (nog) geen uitlegvideo's bij deze theorie
+{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5B5flRg_1xdUrKlZyjZG68e">}}
 
 Naslagwerken
 1. [Microcontroller reader](../robotica_microcontrollers_programmeren.pdf) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
