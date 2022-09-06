@@ -59,15 +59,13 @@ Zie je niet helemaal voor je hoe bovenstaande techniek werkt? Maak eerst weer ee
 - Verander in `draw` de code zo, dat je voor **iedere mens**:
   - de positie verandert met de bijbehorende snelheden
   - checkt of deze moet stuiteren
-
-#### Hints
 {{% expand "Hint 1" %}}
   Check nogmaals [Make it rain](https://khanacademy.org) als je hier niet uitkomt. Als je niet 100% begrijpt wat er in die opdracht wordt gedaan, kun je beter daar eerst aandacht aan besteden, anders blijft wat hieronder komt abracadabra.
 {{% /expand %}}
 {{% expand "Hint 2" %}}
   Verander `var x;` in `var xPosities;`, en verzin voor de andere drie globale variabelen ook namen die je laten vermoeden dat het om een array met meerdere waarden gaat.
 
-  Vervolgens moet je in de setup die variabele niet één waarde meegeven, maar een array met vijf waarden: `xPosities = [192, 450, 800, 120, 75]`. Doe dit ook voor de andere drie globale variabelen.
+  Vervolgens moet je in de setup die variabele niet één waarde meegeven, maar een array met vijf waarden, bijvoorbeeld `xPosities = [192, 450, 800, 120, 75]`. Doe dit ook voor de andere drie globale variabelen.
 
   Je hebt nu 4 arrays, met waarden die bij elkaar horen. Dus de waarden van element 0 uit alle vier de arrays vormen samen de waarden voor één mens. De informatie staat dus als het ware 'verticaal' in je code.
 {{% /expand %}}
@@ -113,8 +111,6 @@ De manier waarop je bij opdracht 1 de gegevens in arrays hebt gestopt werkt prim
 #### Programmeren
 - Maak het gehele onderdeel [Objects](https://www.khanacademy.org/computing/computer-programming/programming/objects/pt/intro-to-objects) van Khan Academy. Dus van 'Intro' tot en met 'Bookshelf').
 - Gebruik je opgedane kennis om in je Simulator in plaats van 4 arrays met losse waarden, 1 array genaamd `mensen` met objecten te maken: 5 objecten – voor iedere mens één. Zorg ervoor dat alles blijft werken.
-
-#### Hints
 {{% expand "Hint 1" %}}
   - Verwijder boven de `setup` de declaratie van de vier globale variabelen en schrijf daar `var mensen;`
   - Vervang in de `setup` de code waar je arrays met waarden aan die globale variabelen gaf en schrijf in plaats daarvan:
@@ -127,7 +123,8 @@ De manier waarop je bij opdracht 1 de gegevens in arrays hebt gestopt werkt prim
                y: 490,
                speedX : -3
                speedY : 1},
-              // voeg hier ZELF nog 3 extra mensobjecten toe
+              // voeg hier ZELF nog 3 extra mensobjecten toe.
+              // na het laatste object GEEN komma
             ];
   ```
   Mensen wordt met deze code een *array van objecten*. Verander je teken-, update- en stuitercode ook zo dat deze past bij deze nieuwe vorm.
@@ -164,8 +161,24 @@ In de theorie van hoofdstuk 1 is een heel groot deel van de klasse `Mens` gegeve
 #### Programmeren
 
 ##### a) 25 random mensen
+- Neem de code van de class `Mens` uit de theorie over en plaats deze code nog boven je globale variabele(n).
 - De klasse `Mens` bevat alle code die nodig is om de positie van een mensobject te updaten. Verwijder deze code uit `draw` en roep in plaats daarvan `update` aan op het betreffende object.
-- De code die controleert of een mens tegen de rand van de simulatiewereld botst, moet ook verhuizen naar de klasse `Mens`. Breidt de methode `update` uit. Gebruik hiervoor de betreffende code die je in `draw` vindt en pas deze aan.
+{{% expand "Hint 1" %}}
+  De code die `speedX` bij `x` optelt en `speedY` bij `y` hebben we verhuisd naar de class `Mens`. Die hebben we in `draw` niet meer nodig.
+{{% /expand %}}
+{{% expand "Hint 2" %}}
+  De code staat in de for-loop:
+  ```js
+    mensen[i].x = mensen[i].x + mensen[i].speedX;
+    mensen[i].y = mensen[i].y + mensen[i].speedY;
+  ```
+  Deze updatecode zit nu in de class `Mens` en mag dus weg.
+{{% /expand %}}
+- De code die controleert of een mens tegen de rand van de simulatiewereld botst, moet ook verhuizen naar de klasse `Mens`. Breidt de methode `update` uit. Gebruik hiervoor de betreffende code die je in `draw` vindt en pas deze aan. Je kunt nu op de oude plek van de code de methode `update()` aanroepen.
+{{% expand "Hint 3" %}}
+  Bij de updatecode hoort niet alleen het geven van een nieuwe positie, maar ook het stuiteren. Haal deze code uit de for-loop en plaats deze in de methode update van de class `Mens`. Je moet het hiervoor nog wel even omvormen naar `this` enz.
+{{% /expand %}}
+
 - De code die een mens tekent, is ook typisch iets wat bij de klasse Mens hoort. Maak een nieuwe methode `show` en teken hierin het vierkantje. Haal ook de constante `BREEDTE` weg. Maak hiervan een attribuut (gebruik dan `breedte`) en zet de waarde hiervan in de constructor op 50. Je hoeft hiervoor dus niet een argument aan de constructor toe te voegen. Verwijder de code die het vierkant tekent uit `draw` en roep in plaats daarvan `show` op de objecten aan.
 
 We gaan nu de array `mensen` vullen met 25 random mens-objecten. Verwijder de code die je bij opdracht 2 in `setup` hebt gezet om handmatig 5 mens-objecten te maken. Schrijf in plaats daarvan deze code:
@@ -197,6 +210,12 @@ Bekijk het resultaat. Als het goed is, heb je nu 25 vierkantjes die door elkaar 
 ##### b) besmettingen
 Het wordt tijd dat deze mensen elkaar kunnen besmetten. Het idee is dat mensen elkaar besmetten als ze elkaar in hun beweging overlappen.
 - Geef de klasse `Mens` een nieuw attribuut `isBesmet`. Dit attribuut initialiseer je in de constructor op `false`. Je hoeft hiervoor dus geen argument aan je constructor toe te voegen.
+{{% expand "Hint" %}}
+  Bovenin de class `Mens`, onder `speedY`, schrijf je `isBesmet;` In de constructor typ je onder de regel `this.speedY = speedY`: `this.isBesmet = false;`
+
+  Daar heb je dus geen extra informatie voor nodig die meegegeven zou moeten worden aan de constructor. Het is gewoon altijd `false` als een mens-object wordt aangemaakt.
+{{% /expand %}}
+
 - Voeg in `setup`, na de `for`-loop die de 25 mensen aanmaakt, deze regel code toe:
 
   ```js
@@ -205,9 +224,11 @@ Het wordt tijd dat deze mensen elkaar kunnen besmetten. Het idee is dat mensen e
 
   Hierdoor wordt alvast één mens besmet.
 - Verander de code in de methode `show` zo, dat een mens als rood vierkant wordt getekend als deze besmet is. Als het goed is, wordt één vierkant nu rood getekend.
+{{% expand "Hint" %}}
+  Als `isBesmet` waar is, moet er iets anders getekend worden dan wanneer `isBesmet` onwaar is. Gebruik hiervoor een `if`-statement.
+{{% /expand %}}
 - Vervolgens maken we een methode die kan controleren of een ander mens-object overlap heeft met het object dat de methode uitvoert. Ga voor jezelf na of je de volgende zin begrijpt: *Omdat een mens getekend wordt als een vierkant, overlappen twee mensen elkaar als één van de hoeken van het ene vierkant zich binnen de randen van het andere vierkant bevindt.*
-Onderstaande code bevat het begin van de methode `isOverlappend`. **De methode controleert alleen voor de linkerbovenhoek.** Voeg deze code toe aan de klasse `Mens` en voeg zelf de code toe die de andere drie hoeken van `this` controleert. Als je merkt dat het controleren van overlap moeilijk is, maak dan eerst de oefening [Smarter Button](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-smarter-button) van Khan Academy weer eens.
-
+Onderstaande code bevat het begin van de methode `isOverlappend`. **De methode controleert nog alleen voor de linkerbovenhoek.** Voeg deze code toe aan de klasse `Mens` en voeg *zelf* de code toe die de andere drie hoeken van `this` controleert. Als je merkt dat het controleren van overlap moeilijk is, maak dan eerst de oefening [Smarter Button](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-smarter-button) van Khan Academy weer eens.
 ```js
 isOverlappend(andereMens) {
   // zet teruggeefwaarde standaard op false
@@ -229,9 +250,14 @@ isOverlappend(andereMens) {
   return overlappend;
 }
 ```
+{{% expand "Hint" %}}
+  Pak een vel papier en teken twee vierkantjes: één voor 'this', één voor 'andereMens'. Schrijf bij de randen van de vierkanten welke waarden daarbij horen. De bovenrand van 'andereMens' hoort bijvoorbeeld bij `andereMens.y`.
+
+  Als je dit voor alle 8 zijden hebt gedaan, teken de vierkantjes dan eens zo, dat het vierkant van 'this' met de linkerbovenhoek *in* het vierkant van 'andereMens' zit. Probeer nu te kijken of je de code in het `if`-statement hierboven kunt begrijpen.
+{{% /expand %}}
 
 - Nu moeten we in `draw` code toevoegen die alle mogelijke paren van mensobjecten controleert of ze overlappen. Indien ze overlappen, controleren we of een van die objecten besmet is. Als dat zo is wordt het andere ook besmet (als het dat nog niet is).
-Een simpele manier om dit te controleren is in een `for`-loop ieder object te controleren met ieder ander object, behalve zichzelf. Dit zou er ongeveer zo uitzien:
+Een simpele manier om dit te controleren is in een `for`-loop ieder object te controleren met ieder ander object, behalve zichzelf. Dit ziet er zo uit:
 
 ```js
 // ga alle mensen langs
@@ -257,6 +283,8 @@ for (var i = 0; i < mensen.length; i++) {
 }
 ```
 
+Ga de code eens regel voor regel af en leg aan jezelf (of je buur) uit wat hier gebeurt.
+
 <!--
 Met bovenstaande code worden alle mogelijke paren echter *twee keer* gecontroleerd. Kun je bedenken hoe dit komt? Stel, het eerste mensObject in de array `mensen` vergelijkt zijn positie met de andere mensen. Tot zover niets dubbels. Vervolgens gaat het tweede mensobject uit de array `mensen` zijn positie vergelijken met de andere mensen. De eerste waarmee de vergelijking plaatsvindt is het eerste object uit `mensen`. Er is echter al zojuist gecontroleerd of deze twee objecten overlap hadden. Dit was weliswaar andersom, maar dat maakt niet uit voor de uitkomst. Wanneer het laatste object uit `mensen` zijn positie gaat vergelijken, zijn al die vergelijkingen al eens gedaan. Om dit probleem op te lossen kunnen we mensen verlijken met mensen in de array `mensen` die een hogere index hebben, dus 'verder' staan in de lijst. Deze betere code heeft maar één wijziging nodig: in plaats van
 
@@ -277,11 +305,19 @@ Op deze wijze is de eerste mensB altijd het *volgende* object in `mensen` en gaa
 
 Helaas komen de gezondheidsinstanties erachter dat ook katten een rol spelen in de verspreiding van de ziekte. We zullen ook deze moeten opnemen in onze simulatie.
 - De array `mensen` gaat ook dieren bevatten. Het is raar als deze naam hetzelfde blijft. Alle 'dingen' die iets in onze simulatie doen, heten 'actoren. Verander door je hele code de naam van de array `mensen` in `actoren`.
-- Maak een nieuwe klasse met de naam `Kat`. Laat deze precies hetzelfde doen als `Mens`, maar met deze verschillen:
+{{% expand "Hint" %}}
+  Zoek de regel waar je de `mensen` als globale variabele declareert. Waarschijnlijk staat er `var mensen;`. Klik met de rechtermuisknop op `mensen` en kies in het menu dat verschijnt 'Rename Symbol'. Wanneer je op deze manier de naam wijzigt, wordt de naam van deze variabele overal gewijzigd. Wel moet je nog even door de comments gaan om te zien of je ook daar misschien 'mensen' moet wijzigen in 'actoren'
+{{% /expand %}}
+
+- Maak onder de klasse `Mens` een nieuwe klasse met de naam `Kat`. Laat deze precies hetzelfde doen als `Mens`, maar met deze verschillen:
   - de breedte van een kat is 10 pixels
   - een niet-besmette kat is blauw in plaats van wit
   - een besmette kat is oranje in plaats van rood
+
 - Voeg in `setup` na de 25 mensen ook 10 katten toe aan de simulatie. Geef de katten een random snelheid tussen -2 en 2.
+{{% expand "Hint" %}}
+  Je kunt hiervoor even snel de `for`-loop die je voor de 25 mensen gebruikt, kopiëren en direct daaronder plakken en aanpassen naar 10 katten.
+{{% /expand %}}
 
 
 
@@ -339,7 +375,14 @@ In de theorie van hoofdstuk 2 heb je de gezien hoe de code van de superklasse `A
   <script href="actor.js"></script>
   ```
 - Maak zelf een heel nieuwe actor voor de simulatie. Je mag zelf weten of het een directe subklasse van `Actor`, `Mens`, `Kat` of `Dokter` is, zolang je maar geen code in (één van de) superklassen gaat veranderen om jouw nieuwe klasse te laten werken. Zet deze code in een los bestand.
-- Maak een volledig UML klassendiagram van de klassen die in jouw simulatie voorkomen.
+- Maak een volledig UML klassendiagram van de *vijf* klassen die in jouw simulatie voorkomen.
+- Wissel met een klasgenoot jullie zelfbedachte actorklassen uit en neem deze op in je eigen simulatie. Als het goed is, heb je niet veel code nodig om dit voor elkaar te krijgen.
+{{% expand "Hint" %}}
+  Wissel uit door:
+  - de bijbehorende bestanden elkaar te sturen.
+  - in je HTML bestand ook dit nieuwe bestand te laden.
+  - in je `setup` een zelfbedacht aantal van deze nieuwe klasse actoren op te nemen.
+{{% /expand %}}
 
 
 
