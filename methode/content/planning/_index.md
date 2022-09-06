@@ -101,11 +101,11 @@ Week|Theorie (enkel uur)|Praktijk (blokuur)
 Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 --|--|--
 34|intro|
-35|[T6 Arduinolessen gestart](/theorie/robotica)|[T6 Arduinolessen 1](/theorie/robotica)
-36|[T6 Uitleg microcontrollers deel 1](/theorie/robotica)|[T6 Arduinolessen 2](/theorie/robotica)
-37|[T6 Uitleg microcontrollers deel 2](/theorie/robotica)|[T6 Arduinolessen 3](/theorie/robotica)
-38|[T6 Uitleg toestandsdiagrammen deel 1](/theorie/robotica)|[T6 Arduinolessen 4](/theorie/robotica)
-39|[T6 Uitleg toestandsdiagrammen deel 2](/theorie/robotica)|[T6 Arduinolessen 5](/theorie/robotica)
+35|[T6 Arduinolessen gestart](/theorie/robotica)|[T6 Arduinolessen](/theorie/robotica) 1. Knipperende led
+36|[T6 Uitleg](/theorie/robotica) breadboard, led, gedimd led |[T6 Arduinolessen](/theorie/robotica) 2. Knipperende led op breadboard
+37|[T6 Uitleg](/theorie/robotica) microcontrollers potmeter, knop, samenvatting |[T6 Arduinolessen](/theorie/robotica) 3. Fadende led op breadboard met PWM
+38|[T6 Uitleg toestandsdiagrammen deel 1](/theorie/robotica)|[T6 Arduinolessen](/theorie/robotica) 4. Knippersnelheid regelen met potmeter
+39|[T6 Uitleg toestandsdiagrammen deel 2](/theorie/robotica)|[T6 Arduinolessen](/theorie/robotica) 5. LED schakelen met drukknop
 40|[T6 Toestandsdiagrammen opdracht 1](/theorie/robotica)|[T6 Toestandsdiagrammen opdracht 2](/theorie/robotica)
 41|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
 42|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
