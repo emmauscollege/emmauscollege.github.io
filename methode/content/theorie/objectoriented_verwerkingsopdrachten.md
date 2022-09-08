@@ -238,7 +238,7 @@ isOverlappend(andereMens) {
   if ( (this.x >= andereMens.x &&
         this.x <= andereMens.x + andereMens.breedte &&
         this.y >= andereMens.y &&
-        this.y <= andereMens.Y + andereMens.breedte)
+        this.y <= andereMens.y + andereMens.breedte)
 
         /* VUL HIER ZELF LATER AAN VOOR DE ANDERE HOEKEN*/
       ) {
@@ -262,10 +262,10 @@ Een simpele manier om dit te controleren is in een `for`-loop ieder object te co
 ```js
 // ga alle mensen langs
 for (var i = 0; i < mensen.length; i++) {
-  mensA = mensen.[i];
+  var mensA = mensen[i];
   // ga met mensA opnieuw alle mensen langs om te checken op overlap, behalve met zichzelf
   for (var j = 0; j < mensen.length; j++) {
-    mensB = mensen[j];
+    var mensB = mensen[j];
     if (mensA != mensB) {
       // check overlap
       var mensenOverlappen = mensA.isOverlappend(mensB);
