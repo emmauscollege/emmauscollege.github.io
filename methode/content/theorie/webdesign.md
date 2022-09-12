@@ -22,10 +22,11 @@ Khanacademy, module Intro to HTML/CSS
 8. [Other ways to embed css](https://www.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css) (geen toetsstof)
 9. [Further learning](https://www.khanacademy.org/computing/computer-programming/html-css#html-css-further-learning) (geen toetsstof)
 
-## Uitleg
+## Uitleg (havo)
 {{<youtube id="https://youtube.com/playlist?list=PLpTljPS--R5C5UA22a7VhIMld1Z5vyF8O">}}
-<!-- {{<youtube id="">}} -->
-Er zijn (nog) geen uitlegvideo's bij deze theorie
+
+## Uitleg (vwo)
+{{<youtube id="https://youtube.com/playlist?list=PLpTljPS--R5C5ADZ-k7ArGq9-Cz85y87i">}}
 
 ## Leerdoelen
 HTML
