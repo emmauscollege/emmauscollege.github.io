@@ -167,10 +167,6 @@ class Mens {
 
   isBesmet;
 
-  const GEZOND = 0;
-  const ZIEK   = 1;
-  const IMMUUN = 2;
-
   constructor(newX, newY, newSpeedX, newSpeedY) {
     this.x = newX;
     this.y = newY;
