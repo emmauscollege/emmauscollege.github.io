@@ -8,6 +8,7 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 
 ## Theorie
 - [Theorie objectgeoriënteerd programmeren](../objectoriented_theorie)
+- [Lespresentatie](../objectoriented_lespresentatie.pdf)
 
 ## Opdrachten
 - [Verwerkingsopdrachten](../objectoriented_verwerkingsopdrachten)
