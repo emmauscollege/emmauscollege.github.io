@@ -104,6 +104,8 @@ Zie je niet helemaal voor je hoe bovenstaande techniek werkt? Maak eerst weer ee
   Deze hint kun je ook toepassen op de update- en stuitercode.
 {{% /expand %}}
 
+[Controleer je code](https://github.com/emmauscollege/objectgeorienteerd-programmeren/blob/opdracht-1/script.js)
+
 
 ### Opdracht 2 – objecten
 De manier waarop je bij opdracht 1 de gegevens in arrays hebt gestopt werkt prima, maar is niet in overeenstemming met welke gegevens er volgens je gevoel bij elkaar horen: niet alle x-posities, y-posities, etc. horen bij elkaar, maar alle gegevens van 1 bepaald mens. Je zou eigenlijk willen dat je die gegevens bij elkaar zou kunnen zetten. Dat kan met behulp van objecten.
@@ -143,7 +145,7 @@ De manier waarop je bij opdracht 1 de gegevens in arrays hebt gestopt werkt prim
   Probeer zelf de code voor het updaten en stuiteren te maken.
 {{% /expand %}}
 
-
+[Controleer je code](https://github.com/emmauscollege/objectgeorienteerd-programmeren/blob/opdracht-2/script.js)
 <br/><br/><br/>
 
 ---
@@ -206,6 +208,8 @@ for (var teller = 0; teller < 25; teller++) {
 
 Deze code maakt 25 keer een nieuw mens-object met [random](https://p5js.org/reference/#/p5/random) waarden aan en voegt deze toe aan de array `mensen`. Zorg ervoor dat je deze regels begrijpt. Uitleg over push vind je onder andere op de shite van [w3schools](https://www.w3schools.com/jsref/jsref_push.asp)
 Bekijk het resultaat. Als het goed is, heb je nu 25 vierkantjes die door elkaar heen vliegen en tegen de randen stuiteren.
+
+[Controleer je code](https://github.com/emmauscollege/objectgeorienteerd-programmeren/blob/opdracht-3a/script.js)
 
 ##### b) besmettingen
 Het wordt tijd dat deze mensen elkaar kunnen besmetten. Het idee is dat mensen elkaar besmetten als ze elkaar in hun beweging overlappen.
@@ -301,6 +305,8 @@ for (var j = i+1; j < mensen.length; j++)
 Op deze wijze is de eerste mensB altijd het *volgende* object in `mensen` en gaat de *loop* daarna netjes de array af.
 -->
 
+[Controleer je code](https://github.com/emmauscollege/objectgeorienteerd-programmeren/blob/opdracht-3b/script.js)
+
 ##### c) katten... 🐈
 
 Helaas komen de gezondheidsinstanties erachter dat ook katten een rol spelen in de verspreiding van de ziekte. We zullen ook deze moeten opnemen in onze simulatie.
@@ -319,7 +325,7 @@ Helaas komen de gezondheidsinstanties erachter dat ook katten een rol spelen in 
   Je kunt hiervoor even snel de `for`-loop die je voor de 25 mensen gebruikt, kopiëren en direct daaronder plakken en aanpassen naar 10 katten.
 {{% /expand %}}
 
-
+[Controleer je code](https://github.com/emmauscollege/objectgeorienteerd-programmeren/blob/opdracht-3c/script.js)
 
 <br/><br/><br/>
 
@@ -336,18 +342,47 @@ Helaas komen de gezondheidsinstanties erachter dat ook katten een rol spelen in 
 In de theorie van hoofdstuk 2 heb je de gezien hoe de code van de superklasse `Actor` eruit ziet. Je gaat nu de code van `Mens` en `Kat` aanpassen.
 
 ##### Programmeren
-- Maak van `Mens` en `Kat` subklassen van `Actor` en pas de code aan. Bedenk goed welke code weg mag en welke code veranderd moet worden. Eén methode blijft onveranderd. Weet je welke?
-- Vervolgens gaan we de 'statistieken' van onze simulatie laten zien. De verantwoordelijkheid voor deze code ligt niet bij een van de actoren, maar bij het 'raamwerk' van de simulatie. Deze code schrijven we daarom in dit geval onder `draw`. Zorg dat je op die plek met behulp van de p5js-functie [text](https://p5js.org/reference/#/p5/text) twee regels in de linkerbovenhoek plaatst: een met het aantal onbesmette actoren en een met het aantal besmette actoren. (Tip: hiervoor moet je de array `actoren` doorlopen met een `for`-loop).
-- Iedere actor die eenmaal besmet is, wordt in onze simulatie nooit meer beter. We gaan daarvoor een teller maken die bij besmetting voor een `Mens` begint bij 500 en voor een `Kat` begint op 1000. Bij iedere aanroep van de methode `update` wordt de afteltimer 1 kleiner. Als de afteltimer 0 is, wordt het attribuut `isBesmet` weer op `false` gezet. Vraag jezelf hiervoor het volgende af:
+a)
+- Voeg, zoals in de theorie voorgedaan, de klasse `Dokter` toe aan je code en voeg 1 dokterobject toe aan de actoren. Controleer of de dokter verschijnt en anderen geneest.
+
+[Controleer je code](https://github.com/emmauscollege/objectgeorienteerd-programmeren/blob/opdracht-4a/script.js)
+
+b)
+- Maak `Mens` en `Kat` subklassen van `Actor`. Bedenk goed welke code weg mag en welke code veranderd moet worden. Eén methode blijft onveranderd. Weet je welke?
+{{% expand "Hint" %}}
+  De methode `show` van `Actor` moet leeg blijven, omdat we `Actor` abstract maken. Dus de tekencode van `show` moet in subklassen staan.
+{{% /expand %}}
+{{% expand "Hint" %}}
+  Het is raar om in een abstracte klasse als `Actor` wel een breedte mee te geven. We definiëren `breedte` daarom wel in `Actor`, maar geven er geen waarde aan. Dat moet in de constructor van `Mens` en `Kat` gebeuren.
+{{% /expand %}}
+
+[Controleer je code](https://github.com/emmauscollege/objectgeorienteerd-programmeren/blob/opdracht-4b/script.js)
+
+c)
+- Vervolgens gaan we de 'statistieken' van onze simulatie laten zien. De verantwoordelijkheid voor deze code ligt niet bij een van de actoren, maar bij het 'raamwerk' van de simulatie. Deze code schrijven we daarom in dit geval onder `draw`. Zorg dat je op die plek met behulp van de p5js-functie [text](https://p5js.org/reference/#/p5/text) twee regels in de linkerbovenhoek plaatst: een met het aantal onbesmette actoren en een met het aantal besmette actoren.
+{{% expand "Hint" %}}
+  Tip: hiervoor moet je de array `actoren` doorlopen met een `for`-loop. Er is overigens al een `for`-loop die hier prima geschikt voor is.
+{{% /expand %}}
+{{% expand "Hint" %}}
+  Je hebt variabelen nodig om de telling tijdelijk in op te slaan. Zou je kieen voor globale of lokale variabelen?
+{{% /expand %}}
+
+[Controleer je code](https://github.com/emmauscollege/objectgeorienteerd-programmeren/blob/opdracht-4c/script.js)
+
+d)
+- Iedere actor die eenmaal besmet is, wordt in onze simulatie nooit meer beter, tenzij de dokter langskomt. Dat moet veranderen. Actoren moeten ook uit zichzelf weer beter kunnen worden. We gaan daarvoor een teller maken die bij besmetting voor een `Mens` begint bij 400 en voor een `Kat` begint op 200. Bij iedere aanroep van de methode `update` wordt de afteltimer 1 kleiner. Als de afteltimer 0 is, wordt het attribuut `isBesmet` weer op `false` gezet. Vraag jezelf hiervoor het volgende af:
   - in welke klasse definieer je `besmettelijkheidsTeller`?
-  - hoe maak je het verschil in gedrag tussen `Mens` en `Kat`? Tip:
-    - maak het eerst werkend voor één klasse.
+  - hoe zorg je dat `besmettelijkheidsTeller` wordt ingesteld wanneer er een besmetting plaatsvindt? Tip: maak een methode `besmet()` die `isBesmet` op `true` zet EN de `besmettelijkheidsTeller` instelt.
+  - hoe maak je het verschil in gedrag tussen `Mens` en `Kat`? Als je het in kleine stapjes wilt doen:
+    - Maak het eerst werkend voor één klasse.
     - Maak het daarna werkend voor de andere klasse.
     - Verplaats waar mogelijk dubbele code naar `Actor`.
-  - wat gebeurt er met de `besmettelijkheidsTeller` als `update` wordt aangeroepen en de actor niet besmet?
+  - wat gebeurt er met de `besmettelijkheidsTeller` als `update` wordt aangeroepen en de actor is niet besmet?
   - wat gebeurt er met de `besmettelijkheidsTeller` als deze aan het aflopen is en er opnieuw contact is met een andere, besmette, actor?
 
+[Controleer je code](https://github.com/emmauscollege/objectgeorienteerd-programmeren/blob/opdracht-4d/script.js)
 
+Speel gerust eens met de waarden van de besmettelijkheidsTeller of het aantal dokters om te zien wat er in je simulatie gebeurt.
 
 <br/><br/><br/>
 
