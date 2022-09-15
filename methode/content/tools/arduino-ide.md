@@ -44,11 +44,8 @@ Op de schoolcomputers is de Arduino-IDE al geïnstalleerd. Als je Arduino thuis 
 2. Meer informatie over de pinnen van je Arduino vind je op \
    [https://www.arduino.cc/](https://www.arduino.cc/) klik op "hardware" -> kies jouw Arduino -> kies het tabblad "FAQ"
     
-## How-to
-### Schets opslaan
-1. Kies in het menu "Bestand" -> "Opslaan als", kies een map en geef je schets een naam. Een schets wordt altijd opgeslagen in een map met dezelfde naam als de schets.
+## Veelgestelde vragen
 
-## Q&A
 ### Hij doet het niet
 1. Kijk of de USB-kabel goed in de Arduino zit (je voelt een kleine klik)
 2. Kijk of je de juiste Arduino hebt aangeven in de IDE (Arduino Nano)
@@ -67,3 +64,9 @@ Laat je programma berichten op de Seriële monitor zetten, zodat kunt meekijken 
 3. Voeg op meer nuttige plaatsen berichten toe, zodat je weet welke code wel en niet wordt uitgevoerd.
 5. Je kunt ook de inhoud van variabelen of de uitkomst van functies afdrukken, bijvoorbeeld met `Serial.println("Milliseconde na opstarten" + millis());`
 4. Open voordat je programma upload de seriele monitor door in de Arduino-IDE te klikken op het menu "Hulpmiddelen" -> "Seriële monitor", let op dat de snelheid staat ingesteld op 115200.
+### Ik heb een kleine rode arduino en op de video van arduino-lessen.nl zie ik een grote blauwe arduino
+Op school gebruiken wij een [Arduino Nano van het merk Suideeeno](https://wiki.seeedstudio.com/Seeeduino-Nano/). Deze heeft dezelfde mogelijkheden als de grote blauwe of groene [Arduino Uno](https://store.arduino.cc/products/arduino-uno-rev3). Bij de Nano sluit je draadjes aan via het breadboard, terwijl je de draadjes bij de Uno direct in de Arduino prikt. De pinnen op beide Arduino's werken hetzelfde, je kunt aan de namen die erbij staan zien welke je moet hebben.
+### Mijn display heeft andere stekkers dan het display op de video van arduino-lessen.nl
+Op school gebruiken we een [display van het merk Seeeduino](https://wiki.seeedstudio.com/Grove-16x2_LCD_Series/). Dit display kun je met een grove kabeltje aansluiten op de rode Arduino Nano. Het grove kabeltje is het kabeltje met vier draadjes in de kleuren geel-wit-rood-zwart draadjes en twee witte plastic stekkers aan de uiteinden. 
+### Hoe sla ik een sketch op?
+1. Kies in het menu "Bestand" -> "Opslaan als", kies een map en geef je schets een naam. Een schets wordt altijd opgeslagen in een map met dezelfde naam als de schets.
