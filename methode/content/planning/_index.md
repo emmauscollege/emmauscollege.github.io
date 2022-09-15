@@ -50,10 +50,10 @@ console.log("done");
 Week|Theorie (enkel uur)|Praktijk (blokuur)
 --|--|--
 34|intro|
-35|[T1 Web Design](/theorie/webdesign/) Uitleg: HTML tags|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 2 intro to CSS
-36|[T1 Web Design](/theorie/webdesign/) Uitleg: CSS selectors en properties|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 4 CSS text properties
-37|[T1 Web Design](/theorie/webdesign/) Uitleg: boxmodel|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 6 CSS layout
-38|[T1 Web Design](/theorie/webdesign/) Uitleg: floats|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 9 Further learning
+35|[T1 Web Design](/theorie/webdesign/) Uitleg: HTML tags|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 1 Intro to HTML + 2 Intro to CSS
+36|[T1 Web Design](/theorie/webdesign/) Uitleg: CSS selectors en properties|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 3 More HTML tags + 4 CSS text properties
+37|[T1 Web Design](/theorie/webdesign/) Uitleg: boxmodel|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 6 CSS layout
+38|[T1 Web Design](/theorie/webdesign/) Uitleg: floats|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 7 More CSS selectors
 39|[T1 Web Design](/theorie/webdesign/) Uitleg: wireframes|[T1 Web Design](/theorie/webdesign/) Oefentoets in Woots maken
 40|[T2 Informatie](/theorie/informatie/) Uitleg: bits|[O1 Website](/opdrachten/website/) stap 1 eerste wijziging gemaakt
 41|[T2 Informatie](/theorie/informatie/) Uitleg: BIN|[O1 Website](/opdrachten/website/) stap 2 menu + vier lege pagina's
@@ -149,10 +149,10 @@ Week|Theorie (enkel uur)|Praktijk (blokuur)
 --|--|--
 Week|Les 1 theorie|Les 2+3 praktijk
 34|intro|
-35|[T1 Web Design](/theorie/webdesign/) Uitleg: HTML tags|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 2 intro to CSS
-36|[T1 Web Design](/theorie/webdesign/) Uitleg: CSS selectors en properties|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 4 CSS text properties
-37|[T1 Web Design](/theorie/webdesign/) Uitleg: boxmodel|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 6 CSS layout
-38|[T1 Web Design](/theorie/webdesign/) Uitleg: floats|[T1 Web Design](/theorie/webdesign/) Oefening: Khan t/m 9 Further learning
+35|[T1 Web Design](/theorie/webdesign/) Uitleg: HTML tags|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 1 Intro to HTML + 2 Intro to CSS
+36|[T1 Web Design](/theorie/webdesign/) Uitleg: CSS selectors en properties|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 3. More HTML tags + 4 CSS text properties
+37|[T1 Web Design](/theorie/webdesign/) Uitleg: boxmodel|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 5 Web development tools + 6 CSS layout
+38|[T1 Web Design](/theorie/webdesign/) Uitleg: floats|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 7 More CSS selectors + 8 Other ways to embed CSS + 9 Further learning
 39|[T1 Web Design](/theorie/webdesign/) Uitleg: wireframes|[T1 Web Design](/theorie/webdesign/) Oefentoets in Woots maken
 40|[T2 Informatie](/theorie/informatie/) Uitleg: bits|[O1 Website](/opdrachten/website/) stap 1 eerste wijziging gemaakt
 41|[T2 Informatie](/theorie/informatie/) Uitleg: BIN|[O1 Website](/opdrachten/website/) stap 2 menu + vier lege pagina's
