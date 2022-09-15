@@ -46,6 +46,7 @@ console.log("done");
 {{< tabs >}}
 
 {{% tab name="4H" %}}
+
 Week|Theorie (enkel uur)|Praktijk (blokuur)
 --|--|--
 34|intro|
@@ -98,41 +99,42 @@ Week|Theorie (enkel uur)|Praktijk (blokuur)
 {{% /tab %}}
 
 {{% tab name="5H" %}}
+
 Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 --|--|--
 34|intro|
-35|[T6 Arduinolessen gestart](/theorie/robotica)|[T6 Arduinolessen](/theorie/robotica) 1. Knipperende led
-36|[T6 Uitleg](/theorie/robotica) breadboard, led, gedimd led |[T6 Arduinolessen](/theorie/robotica) 2. Knipperende led op breadboard
-37|[T6 Uitleg](/theorie/robotica) microcontrollers potmeter, knop, samenvatting |[T6 Arduinolessen](/theorie/robotica) 3. Fadende led op breadboard met PWM
-38|[T6 Uitleg toestandsdiagrammen deel 1](/theorie/robotica)|[T6 Arduinolessen](/theorie/robotica) 4. Knippersnelheid regelen met potmeter
-39|[T6 Uitleg toestandsdiagrammen deel 2](/theorie/robotica)|[T6 Arduinolessen](/theorie/robotica) 5. LED schakelen met drukknop
-40|[T6 Toestandsdiagrammen opdracht 1](/theorie/robotica)|[T6 Toestandsdiagrammen opdracht 2](/theorie/robotica)
+35|[T6 Arduinolessen gestart](/theorie/robotica)|[T6 Arduinolessen](/theorie/robotica) 1. Knipperende led + 2. Knipperende led op breadboard
+36|[T6 Uitleg](/theorie/robotica) breadboard, led, gedimd led |[T6 Arduinolessen](/theorie/robotica) 3. Fadende led op breadboard met PWM
+37|[T6 Uitleg](/theorie/robotica) microcontrollers potmeter, knop, samenvatting |[T6 Arduinolessen](/theorie/robotica) 4. Knippersnelheid regelen met potmeter
+38|[T6 Uitleg toestandsdiagrammen deel 1](/theorie/robotica)|[T6 Arduinolessen](/theorie/robotica) 5. LED schakelen met drukknop
+39|[T6 Uitleg toestandsdiagrammen deel 2](/theorie/robotica)|[T6 Toestandsdiagrammen](/theorie/robotica) Oefening
+40|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
 41|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
 42|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
 43|**Herfstvakantie**|
 44|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
-45|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
+45|[O4-Robot](/opdrachten/robot/)|**PO 5H-IN-S08 robot inleveren**
 46|**TW1: Toets 5H-IN-S06** over T6 Robotica|
 47|**TW1**|
-48|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
-49|[O4-Robot](/opdrachten/robot/)|**PO 5H-IN-S08 robot inleveren**
-50|[T5 Khan t/m 1 SQL Basics](/theorie/databases/)|[T5 Khan t/m halverwege 2 More advanced SQL-queries](/theorie/databases/)
-51|[T5 uitleg SELECT WHERE](/theorie/databases/)|[T5 Khan t/m halverwege eind 2 More advanced SQL-queries](/theorie/databases/)
+48|[T5 Databases](/theorie/databases/) Uitleg: SELECT WHERE |[T5 Khan t/m 1 SQL Basics](/theorie/databases/)
+49|[T5 Databases](/theorie/databases/) Uitleg: GROUP BY| [T5 Khan t/m 2 More advanced SQL-queries](/theorie/databases/)
+50|[T5 Databases](/theorie/databases/) Uitleg: JOIN 1:N|[T5 Khan t/m halverwege 3 Relational Queries](/theorie/databases/)
+51|[T5 Databases](/theorie/databases/) Uitleg: JOIN N:M|[T5 Khan t/m eind 3 Relational Queries ](/theorie/databases/)
 52|**Kerstvakantie**|
 1|**Kerstvakantie**|
-2|[T5 uitleg GROUP BY](/theorie/databases/)|[T5 Khan t/m halverwege 3 Relational Queries](/theorie/databases/)
-3|[T5 uitleg JOIN](/theorie/databases/)|[T5 Khan t/m eind 3 Relational Queries ](/theorie/databases/)
-4|[T5 uitleg nader te bepalen](/theorie/databases/)|[T5 Khan t/m 4 Modifying Databases](/theorie/databases/)
-5|[T5 Oefentoets eerste helft](/theorie/databases/)|[T5 Oefentoets tweede helft](/theorie/databases/)
+2|[T5 Oefentoets eerste helft](/theorie/databases/)|[T5 Oefentoets tweede helft](/theorie/databases/)
+3|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
+4|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
+5|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
 6|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
 7|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-8|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
+8|[O3 Webshop](/opdrachten/webshop/)|**PO 5H-IN-S08 webshop inleveren**
 9|**Voorjaarsvakantie**|
-10|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
+10|nader te bepalen|nader te bepalen
 11|**TW2: Toets 5H-IN-S07** over T5 Databases|
 12|**TW2**|
-13|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-14|[O3 Webshop](/opdrachten/webshop/)|**PO 5H-IN-S08 webshop inleveren**
+13|nader te bepalen|nader te bepalen
+14|nader te bepalen|nader te bepalen
 15|nader te bepalen|nader te bepalen
 16|nader te bepalen|**informatica afgerond**
 17|**meivakantie**|
@@ -142,6 +144,7 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 {{% /tab %}}
 
 {{% tab name="4V" %}}
+
 Week|Theorie (enkel uur)|Praktijk (blokuur)
 --|--|--
 Week|Les 1 theorie|Les 2+3 praktijk
@@ -195,6 +198,7 @@ Week|Les 1 theorie|Les 2+3 praktijk
 {{% /tab %}}
 
 {{% tab name="5V" %}}
+
 Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 --|--|--
 34|intro|
@@ -247,6 +251,7 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 {{% /tab %}}
 
 {{% tab name="6V" %}}
+
 Week| Les 1 | Les 2
 ----|-------|------
 34  | **T8 - Objectgeoriënteerd programmeren** <br/> introweek | 
@@ -295,6 +300,7 @@ Week| Les 1 | Les 2
 {{< tabs >}}
 
 {{% tab name="4H" %}}
+
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |4H-IN-S01 | Digitale toets | [2.1 Web Design](/theorie/webdesign/#leerdoelen)
@@ -306,6 +312,7 @@ Datum        | Code     | Toetsvorm      | Stof
 {{% /tab %}}
 
 {{% tab name="5H" %}}
+
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |5H-IN-S06 | Digitale toets | [T6 Robotica](/theorie/robotica/#leerdoelen)
@@ -316,6 +323,7 @@ Datum        | Code     | Toetsvorm      | Stof
 {{% /tab %}}
 
 {{% tab name="4V" %}}
+
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |4V-IN-S01 | Digitale toets | [2.1 Web Design](/theorie/webdesign/#leerdoelen)
@@ -327,6 +335,7 @@ Datum        | Code     | Toetsvorm      | Stof
 {{% /tab %}}
 
 {{% tab name="5V" %}}
+
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |5V-IN-S06 | Digitale toets | [T7 Netwerken](/theorie/netwerken/#leerdoelen)
@@ -338,6 +347,7 @@ Datum        | Code     | Toetsvorm      | Stof
 {{% /tab %}}
 
 {{% tab name="6V" %}}
+
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
 Toetsweek 1 | 6V-IN-S11 | Digitale toets | [T8 Objectgeoriënteerd Programmeren](/theorie/objectoriented/#leerdoelen)
