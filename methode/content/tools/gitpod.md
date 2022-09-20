@@ -41,7 +41,7 @@ Gebruik Chrome of anders Firefox, in 21/22 zijn er problemen met een wit-scherm 
 7. Synchroniseer je code in Gitpod met Github
 8. Check in Github dat je codewijzigingen zijn opgeslagen
 
-## Q&A
+## Veelgestelde vragen
 ### Bewaren op Github lukt niet, er is een foutmelding met access
 Zet de permissies van Gitpod goed, zodat hij op jouw account in Github wijzigingen kan maken
 1. klik op het icoontje van een poppetje linksonderin, een menu verschijnt

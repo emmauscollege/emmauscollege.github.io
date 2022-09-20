@@ -40,7 +40,12 @@ Gebruik bij voorkeur Chrome of anders Firefox.
 6. Commit en Push je wijzigingen. Klik daarvoor op het "version control" icoontje (een gesplitst lijntje met twee bolletjes) links in het scherm.
 7. Check in Github dat je codewijzigingen zijn opgeslagen
 
-## Q&A => DEZE INFO MOET NOG WORDEN AANGEPAST
+## Veelgestelde vragen
+
+### Mijn code springt niet goed in, hoe los ik dat op?
+Klik op het icoontje met de drie streepjes rechtsboven het bestand dat je aan het bewerken bent. Replit auto-format het bestand dat je aan het bewerken bent. 
+
+## => DEZE INFO MOET NOG WORDEN AANGEPAST
 ### Bewaren op Replit lukt niet, er is een foutmelding met access
 Zet de permissies van Gitpod goed, zodat hij op jouw account in Github wijzigingen kan maken
 1. klik op het icoontje van een poppetje linksonderin, een menu verschijnt
