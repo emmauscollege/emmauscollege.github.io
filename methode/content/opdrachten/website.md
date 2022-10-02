@@ -31,6 +31,10 @@ Je bent vrij om zelf een onderwerp voor je website te bedenken. Je docent moet h
 
 {{% expand "Beoordeling" %}}
 Het cijfer dat je voor je PO krijgt wordt vanuit verschillende invalshoeken bepaald: 
+- minimale eisen
+- uiterlijk
+- techniek
+- inzet en planning
 
 **Minimale eisen**
 
