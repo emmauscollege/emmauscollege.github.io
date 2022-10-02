@@ -10,9 +10,10 @@ Je gaat je eigen website maken!
 De opdracht in het kort is: programmeer een apparaat naar keuze met behulp van een toestandsdiagram.
 
 {{% expand "Inschrijven" %}}
-Je schrijft je in via het onderstaande formulier dat de docent aanlevert. 
-- 5hin1, link naar formulier volgt
-- 5hin2, link naar formulier volgt
+Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je google account van school voor toegang).
+- [gsr 22/23](https://docs.google.com/spreadsheets/d/150QpnvFvxZxhiYioHWtRMPT6MByoXTHD)
+- [5hin1 22/23](https://docs.google.com/spreadsheets/d/154HkbDKdiV4zjNt2-HMua6KBCxg3R1HO)
+- [5hin2 22/23](https://docs.google.com/spreadsheets/d/1536gbIVDMrdd1K43W7Z0xQkFfdhxqYOO)
 - 5vin1, link naar formulier volgt
 - 5vin2, link naar formulier volgt
 - gsr, link naar formulier volgt
