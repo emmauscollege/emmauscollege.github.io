@@ -73,6 +73,12 @@ Enkele punten waarop gelet kan worden bij de beoordeling van techniek zijn
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
 
+## Hulpmiddelen
+We gebruiken in deze opdracht de volgende tools:
+1. [GitHub](/tools/github/)
+2. [Replit](/tools/replit/) (havo)
+3. [Gitpod](/tools/gitpod/) (vwo)
+
 ## Startcode
 {{<figure src="../website_github.png" link="https://github.com/emmauscollege/4HV-website-template">}}
 

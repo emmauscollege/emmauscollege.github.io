@@ -73,6 +73,12 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
 
+## Hulpmiddelen
+We gebruiken in deze opdracht de volgende tools:
+1. [GitHub](/tools/github/)
+2. [Replit](/tools/replit/) (havo)
+3. [Gitpod](/tools/gitpod/) (vwo)
+
 ## Startcode
 {{<figure src="../game_github.png" link="https://github.com/emmauscollege/4HV-game-template">}}
 
