@@ -116,13 +116,13 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 45|[O4-Robot](/opdrachten/robot/) Stap 5 video en inleveren |**PO 5H-IN-S08 robot inleveren** Stap 5 video en inleveren
 46|**TW1: Toets 5H-IN-S06** over T6 Robotica|
 47|**TW1**|
-48|[T5 Databases](/theorie/databases/) Uitleg: SELECT WHERE |[T5 Khan t/m 1 SQL Basics](/theorie/databases/)
-49|[T5 Databases](/theorie/databases/) Uitleg: GROUP BY| [T5 Khan t/m 2 More advanced SQL-queries](/theorie/databases/)
-50|[T5 Databases](/theorie/databases/) Uitleg: JOIN 1:N|[T5 Khan t/m halverwege 3 Relational Queries](/theorie/databases/)
-51|[T5 Databases](/theorie/databases/) Uitleg: JOIN N:M|[T5 Khan t/m eind 3 Relational Queries ](/theorie/databases/)
+48|[T5 Databases](/theorie/databases/) Uitleg: SELECT WHERE |[T5 Databases](/theorie/databases/) Oefening: Khan 1 SQL Basics
+49|[T5 Databases](/theorie/databases/) Uitleg: GROUP BY| [T5 Databases](/theorie/databases/)  Oefening: Khan 2 More advanced SQL-queries
+50|[T5 Databases](/theorie/databases/) Uitleg: JOIN 1:N|[T5 Databases](/theorie/databases/) Oefening: Khan 1e helft van 3 Relational Queries
+51|[T5 Databases](/theorie/databases/) Uitleg: JOIN N:M|[T5 Databases](/theorie/databases/) Oefening: Khan 2e helft van 3 Relational Queries
 52|**Kerstvakantie**|
 1|**Kerstvakantie**|
-2|[T5 Oefentoets eerste helft](/theorie/databases/)|[T5 Oefentoets tweede helft](/theorie/databases/)
+2|[T5 Oefentoets](/theorie/databases/) 1e helft |[T5 Oefentoets](/theorie/databases/) 2e helft
 3|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
 4|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
 5|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
@@ -207,12 +207,12 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 37|[T7 Netwerken](/theorie/netwerken/) Uitleg: ethernet|[T7 netwerken](/theorie/netwerken/) Oefenen: 3. IA (met Filius)
 38|[T7 Netwerken](/theorie/netwerken/) Uitleg: IP|[T7 netwerken](/theorie/netwerken/) Oefenen: 4 + 5 IA (met Filius)
 39|[T7 Netwerken](/theorie/netwerken/) Uitleg: RFC's|[T7 netwerken](/theorie/netwerken/) Oefentoets in Woots
-40|[T5 Databases](/theorie/databases/) Uitleg: SELECT WHERE |[T5 Khan t/m 1 SQL Basics](/theorie/databases/)
-41|[T5 Databases](/theorie/databases/) Uitleg: GROUP BY| [T5 Khan t/m 2 More advanced SQL-queries](/theorie/databases/)
-42|[T5 Databases](/theorie/databases/) Uitleg: JOIN|[T5 Khan t/m halverwege 3 Relational Queries](/theorie/databases/)
+40|[T5 Databases](/theorie/databases/) Uitleg: SELECT WHERE |[T5 Databases](/theorie/databases/) Oefening: Khan 1 SQL Basics
+41|[T5 Databases](/theorie/databases/) Uitleg: GROUP BY| [T5 Databases](/theorie/databases/) Oefening: Khan 2 More advanced SQL-queries
+42|[T5 Databases](/theorie/databases/) Uitleg: JOIN|[T5 Databases](/theorie/databases/) Oefening: Khan 1e helft van Khan 3 Relational Queries
 43|**Herfstvakantie**|
-44|[T5 Databases](/theorie/databases/) Uitleg: multipliciteiten- en strokendiagram|[T5 Khan t/m eind 3 Relational Queries ](/theorie/databases/)
-45|[T5 Databases](/theorie/databases/) Uitleg: Ruimtedatabase voorbeeldopgave<br>Maak vooraf: Ruimtedatabase vragen met meerdere tabellen in Woots|[T5 Khan t/m 4 Modifying Databases](/theorie/databases/)
+44|[T5 Databases](/theorie/databases/) Uitleg: multipliciteiten- en strokendiagram|[T5 Databases](/theorie/databases/) Oefening: Khan 2e helft van 3 Relational Queries 
+45|[T5 Databases](/theorie/databases/) Uitleg: Ruimtedatabase voorbeeldopgave<br>Maak vooraf: Ruimtedatabase vragen met meerdere tabellen in Woots|[T5 Databases](/theorie/databases/) Oefening: Khan 4 Modifying Databases
 46|**TW1: Toets 5V-IN-S06** over T7 Netwerken|
 47|**TW1**|
 48|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
