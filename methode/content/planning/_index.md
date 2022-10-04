@@ -108,12 +108,12 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 37|[T6 Uitleg](/theorie/robotica) microcontrollers potmeter, knop, samenvatting |[T6 Arduinolessen](/theorie/robotica) 4. Knippersnelheid regelen met potmeter
 38|[T6 Uitleg toestandsdiagrammen deel 1](/theorie/robotica)|[T6 Arduinolessen](/theorie/robotica) 5. LED schakelen met drukknop
 39|[T6 Uitleg toestandsdiagrammen deel 2](/theorie/robotica)|[T6 Toestandsdiagrammen](/theorie/robotica) Oefening
-40|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
-41|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
-42|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
+40|[O4-Robot](/opdrachten/robot/) Stap 1 starten|[O4-Robot](/opdrachten/robot/) Stap 1 starten
+41|[O4-Robot](/opdrachten/robot/) Stap 2 toestandsdiagram|[O4-Robot](/opdrachten/robot/) Stap 2 toestandsdiagram
+42|[O4-Robot](/opdrachten/robot/) Stap 3 code|[O4-Robot](/opdrachten/robot/) Stap 3 code
 43|**Herfstvakantie**|
-44|[O4-Robot](/opdrachten/robot/)|[O4-Robot](/opdrachten/robot/)
-45|[O4-Robot](/opdrachten/robot/)|**PO 5H-IN-S08 robot inleveren**
+44|[O4-Robot](/opdrachten/robot/) Stap 4 uitbreidingen |[O4-Robot](/opdrachten/robot/) Stap 4 uitbreidingen 
+45|[O4-Robot](/opdrachten/robot/) Stap 5 video en inleveren |**PO 5H-IN-S08 robot inleveren** Stap 5 video en inleveren
 46|**TW1: Toets 5H-IN-S06** over T6 Robotica|
 47|**TW1**|
 48|[T5 Databases](/theorie/databases/) Uitleg: SELECT WHERE |[T5 Khan t/m 1 SQL Basics](/theorie/databases/)
@@ -316,8 +316,8 @@ Datum        | Code     | Toetsvorm      | Stof
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |5H-IN-S06 | Digitale toets | [T6 Robotica](/theorie/robotica/#leerdoelen)
- Zondag 11 dec 23:59|5H-IN-S08 | Praktische Opdracht | [O4 Robot](/opdrachten/robot/)
- Zondag 9 apr 23:59|5H-IN-S09 | Praktische Opdracht | [O3 Webshop](/opdrachten/webshop/)
+ Zondag 13 nov 23:59|5H-IN-S08 | Praktische Opdracht | [O4 Robot](/opdrachten/robot/)
+ Zondag 26 feb 23:59|5H-IN-S09 | Praktische Opdracht | [O3 Webshop](/opdrachten/webshop/)
  Toetsweek 2 |5H-IN-S07 | Digitale toets | [T5 Databases](/theorie/databases/#leerdoelen)  
       
 {{% /tab %}}
