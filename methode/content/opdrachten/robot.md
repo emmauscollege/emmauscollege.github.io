@@ -81,8 +81,10 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 
 ## Hulpmiddelen
 We gebruiken in deze opdracht de volgende tools:
-1. [GitHub](/tools/github/)
-2. [Arduino IDE](/tools/arduino-ide/)
+1. [GitHub](/tools/github/) om je werk op te slaan.
+2. [Arduino IDE](/tools/arduino-ide/) om je code voor de arduino te bewerken en in je apparaat te laden.
+
+Er is geen automatische koppeling tussen Arduino IDE en GitHub. Dat betekent dat je je bestanden via de webinterface van GitHub moet downloaden en uploaden.
 
 ## Startcode
 {{<figure src="../robot_github.png" link="https://github.com/emmauscollege/5HV-robot-template">}}
