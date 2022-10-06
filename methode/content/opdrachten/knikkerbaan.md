@@ -13,10 +13,7 @@ De opdracht in het kort is: ...
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via het onderstaande formulier dat de docent aanlevert. 
-- 4hin1, link naar formulier volgt
-- 4hin2, link naar formulier volgt
-- 4vin1, link naar formulier volgt
-- 4vin2, link naar formulier volgt
+- [6Vin1](https://docs.google.com/spreadsheets/d/1f3Y1B4zmQebQ-yE6Cd4uWfoR940aeAQe)
 {{% /expand %}}
 
 {{% expand "Game kiezen" %}}
