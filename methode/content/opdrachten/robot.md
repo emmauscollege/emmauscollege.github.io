@@ -3,7 +3,7 @@ title = "O4. Robot"
 weight = 4
 +++
 
-Je gaat je eigen website maken!
+Je gaat je robot programmeren!
 <!--more-->
 
 ## Opdrachtbeschrijving
