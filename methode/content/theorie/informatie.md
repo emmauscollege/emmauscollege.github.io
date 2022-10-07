@@ -25,9 +25,12 @@ Informatica Actief, module informatie digitaal
 Beeldbewerking
 1. [Beeldbewerking oefeningen (powerpoint presentatie)](./informatie_lespresentatie_beeldbewerking.pptx) met [photopea.com](https://photopea.com)
 
-## Uitleg
+## Uitleg (havo)
 {{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5A9aLTfJz1RvxnqZHaPWpK8">}}
-
+  
+## Uitleg (vwo)
+{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5BGpGmJHk7W6InW5uclScIp">}}
+ 
 ## Leerdoelen
 Informatie digitaal
 1.	Je kunt binaire getallen omzet naar decimale getallen en andersom.
