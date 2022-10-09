@@ -20,7 +20,37 @@ Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login 
 {{% /expand %}}
 
 {{% expand "Apparaat kiezen" %}}
-Je bent vrij om zelf te kiezen voor welk van de aangeboden apparaten je een programma gaat maken. Je docent moet je keuze goedkeuren. Enkele voorbeelden van een apparaat dat kunt programmeren zijn: een stoplichtenplein (havo), een arcade game box (havo en vwo) en een alphabot2 rijdende robot (havo en vwo). In overleg met je docent mag je ook een eigen apparaat kiezen of een bestaand apparaat uitbreiden.
+Je bent vrij om zelf te kiezen voor welk van de aangeboden apparaten je een programma gaat maken. Je docent moet je keuze goedkeuren. De apparaten die je kunt programmeren zijn:
+
+1. **Stoplichtenplein** (havo) <br>
+*De opdracht voor dit apparaat*<br>
+Maak een programma waarmee de stoplichten zo op groen, oranje en rood springen dat auto's en voetgangers zo efficient mogelijk over de kruising kunnen.<br><br>
+*Het stoplichtenplein*<br>
+Je mag het plein uitbreiden met sensoren die auto's waarnemen.
+
+2. **Arcade game box** (havo en vwo) <br>
+*De opdracht voor dit apparaat*<br>
+Maak een game die zo boeiend mogelijk is. <br><br>
+*De arcade box*<br>
+Je mag gebruik maken van alle mogelijkheden die de hardware in de arcadebox biedt. Dit zijn 4 knoppen met dimbare verlichting, een speaker en een display met twee regels van zestien karakters en de mogelijkheid om zelf een beperkt aantal karakters te ontwerpen.
+
+3. **Alphabot2 rijdende robot** (havo en vwo)<br>
+*De opdracht voor dit apparaat*<br>
+Maak een programma dat de alphabot zo snel mogelijk de uitgang van een doolhof laat vinden.<br><br>
+*De alphabot*<br>
+Je moet mimimaal de beide motoren en één type afstandssensor van de alphabot2 gebruiken. De afstandssensoren waar je uit kunt kiezen zijn de ultrasone afstandssensor voorop, de twee infrarode aftandssensoren schuin links- en rechtsvoor en de lijnvolgsensoren onderop. Je kunt je oplossing uitbreiden door meerdere sensortypen te gebruiken. Je kunt je programma ook uitbreiden door het display, de speaker of de RGB-leds onderop te gebruiken om te laten merken wat de alphabot aan het doen is.<br><br>
+*Het doolhof*<br>
+Het doolhof bestaat uit en pad met doodlopende vertakkingen. In het doolhof zitten geen rondjes. De paden worden gevormd door vierkanten van ongeveer 30x30 cm. Aan de randen van de paden staan muren. De muren bestaan uit stukken van ongeveer 30 centimeter lang. De stukken muur sluiten recht op elkaar aan of maken een hoek van ongeveer 90 graden. In de midden van het pad is er een strook zwart tape op de vloer gemaakt. Dit tape bevat vertakkingen en is steeds ongeveer 15 cm van een muur verwijderd.
+
+4. **Drone** (vwo vanaf 23/34)<br>
+*De opdracht voor dit apparaat*<br>
+Laat de drone zo snel mogelijk en in de juiste volgorde landen op een parcours van way-pads.<br><br>
+*De drone*<br>
+Je gebruikt commando's om de drone te laten opstijgen en landen en om de drone een bepaalde afstand in een bepaalde richting te laten bewegen. Je gebruikt de camera onder de drone om de way-pads te herkennen.<br><br>
+*Het parcours*<br>
+Een way-pad is een plaatje met een nummer erop. Er zijn acht way-pads genummerd 1, 2, 3, 4, 5, 6, 7 en 8. De way-pads liggen op de grond op een rij, met telkens ongeveer een meter tussen elke way-pad. De volgorde waarin de andere way-pads liggen wordt bepaald vlak voordat je drone start. De eerste way-pad heeft altijd nummer 1. Bij de start staat de drone op way-pad 1. 
+
+5. In overleg met je docent mag je ook een **eigen apparaat** kiezen of een bestaand apparaat uitbreiden.
 {{% /expand %}}
 
 {{% expand "Werkwijze" %}}

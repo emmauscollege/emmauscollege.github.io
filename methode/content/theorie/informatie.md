@@ -8,7 +8,7 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 
 ## Hulpmiddelen
 We gebruiken in deze module de volgende tools:
-1. [Informatica Actief](/tools/IA/)
+1. [Informatica Actief](/tools/ia/)
 
 ## Oefeningen
 Informatica Actief, module informatie digitaal
