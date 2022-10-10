@@ -117,6 +117,8 @@ We gebruiken in deze opdracht de volgende tools:
 Er is geen automatische koppeling tussen Arduino IDE en GitHub. Dat betekent dat je je bestanden via de webinterface van GitHub moet downloaden en uploaden.
 
 ## Startcode
+Als je van je docent je een kopie van de startcode hebt ontvangen, dan kun je aan de slag met de stappen uit het README.md bestand.
+
 {{<figure src="../robot_github.png" link="https://github.com/emmauscollege/5HV-robot-template">}}
 
 ## Uitlegvideo's
