@@ -33,10 +33,16 @@ Op de schoolcomputers is de Arduino-IDE al geïnstalleerd. Als je Arduino thuis 
 9. Verander de code, bijvoorbeeld delay(1000) aanpassen in delay(200). Herhaal stap 7. Je zult zien dat de Arduino stap 6 (compileren) vanzelf opnieuw doet, omdat je de code hebt aangepast. Het ledje knippert nu sneller. Nu je stap 9 gedaan hebt, weet je zeker dat het jouw programma is dat in de Arduino zit. De Arduino onthoudt namelijk het laatste programma, ook als de stroom eraf is geweest, dus het kan zijn dat het knipperend-led programma er al door een vorige leerling in is gezet. 
 
 ## Extra libraries installeren
-1. De ingewikkeldere sensoren en actuatoren die je kunt aansluiten op je Arduino, zoals displays, hebben libraries nodig om ze te kunnen programmeren. \
-   Het installeren van libraries in de Arduino kan via het menu "Hulpmiddelen" -> "Bibliotheken beheren". \
-   Het vinden van de juiste bibliotheek kan wel eens lastig zijn, vraag het de docent als je twijfelt. \
-   Goede biblitheken bevatten voorbeeld-code die na installatie van de bibliotheek in de Arduino IDE terug te vinden is in het menu onder "Bestand" -> "Voorbeelden"
+De ingewikkeldere sensoren en actuatoren die je kunt aansluiten op je Arduino, zoals displays, hebben libraries nodig om ze te kunnen programmeren. Er zijn twee manieren om libraries te installeren<br><br>
+1. *libraries die meegeleverd zijn met Arduino IDE*<br>
+   Het installeren van libraries die meegeleverd zijn met de Arduino IDE kan via het menu "Schets" -> "Bibliotheek gebruiken" -> "Bibliotheken beheren". <br>
+   Het vinden van de juiste bibliotheek kan wel eens lastig zijn, vraag het de docent als je twijfelt. <br>
+   <br><br>
+2. *libraries uit een zip-bestand*<br>
+ Het installeren van libraries waarvan je een .zip bestand hebt kan via het menu "Schets" -> "Bibliotheken gebruiken" -> "Voeg .ZIP bibliotheek toe". <br>
+   De .zip bestanden vind je vaak terug bij startcode die je van je docent krijgt of op de site van leveranciers van Arduino-hardware.
+
+Goede biblitheken bevatten voorbeeld-code die na installatie van de bibliotheek in de Arduino IDE terug te vinden is in het menu onder "Bestand" -> "Voorbeelden"
 
 ## Meer informatie
 1. Meer informatie over de Arduino-taal vind je op \

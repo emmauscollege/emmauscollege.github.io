@@ -83,6 +83,8 @@ We gebruiken in deze opdracht de volgende tools:
 2. [Replit](/tools/replit/) (havo) of [Gitpod](/tools/gitpod/) om je code te bewerken en een voorbeeld van je website te bekijken.
 
 ## Startcode
+Als je van je docent je een kopie van de startcode hebt ontvangen, dan kun je aan de slag met de stappen uit het README.md bestand.
+
 {{<figure src="../website_github.png" link="https://github.com/emmauscollege/4HV-website-template">}}
 
 ## Uitlegvideo's

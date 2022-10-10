@@ -6,8 +6,12 @@ weight = 2
 Je leert hoe een computer allerlei soorten informatie opslaat.
 <!--more-->
 
-## Lesstof
-[Informatica Actief, module informatie digitaal](https://moodle.informatica-actief.nl/course/view.php?id=742)
+## Hulpmiddelen
+We gebruiken in deze module de volgende tools:
+1. [Informatica Actief](/tools/ia/)
+
+## Oefeningen
+Informatica Actief, module informatie digitaal
 1. [Digitale afbeeldingen, pixels met kleur](https://moodle.informatica-actief.nl/course/view.php?id=742#section-4) (alleen theorie 1 t/m 7)
 2. [Bits en Bytes](https://moodle.informatica-actief.nl/course/view.php?id=742#section-5) (alleen theorie 1 t/m 5)
 3. [Talstelsels: decimale en binaire getallen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-6) (alleen theorie 1 t/m 9)
@@ -21,9 +25,12 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 Beeldbewerking
 1. [Beeldbewerking oefeningen (powerpoint presentatie)](./informatie_lespresentatie_beeldbewerking.pptx) met [photopea.com](https://photopea.com)
 
-## Uitlegvideo's
+## Uitleg (havo)
 {{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5A9aLTfJz1RvxnqZHaPWpK8">}}
-
+  
+## Uitleg (vwo)
+{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5BGpGmJHk7W6InW5uclScIp">}}
+ 
 ## Leerdoelen
 Informatie digitaal
 1.	Je kunt binaire getallen omzet naar decimale getallen en andersom.
