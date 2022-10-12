@@ -10,7 +10,7 @@ Je leert hoe je heel veel informatie kunt bekijken en bewaren in databases met d
 We gebruiken in deze module de volgende tools:
 1. [Khan Academy](/tools/khan/)
 
-## Lesstof
+## Oefeningen
 Khanacademy, module Intro to SQL
 1. [SQL basics](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics)
 2. [More advanced SQL queries](https://www.khanacademy.org/computing/computer-programming/sql#more-advanced-sql-queries)
@@ -22,7 +22,7 @@ Ruimtedatabase *(alleen vwo)*
 1. [Opgaven met antwoorden in Woots](https://app.woots.nl)
 2. [Uitlegvideo's met antwoorden](https://www.youtube.com/playlist?list=PLpTljPS--R5DB_lVbQ2HzzQD0eADMwjf3)
 
-## Uitlegvideo's
+## Uitleg
 {{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5DXZh6jR-dKteKGtJmHI-yi">}}
 
 ## Leerdoelen
