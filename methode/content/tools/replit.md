@@ -51,8 +51,10 @@ Klik op het icoontje met de drie streepjes rechtsboven het bestand dat je aan he
 Klik op het icoontje met het vierkantje en het pijltje erdoor, rechtsboven het voorbeeldvenster. Het voorbeeld wordt nu in apart venster geopend. Druk op reload als je het wilt verversen.
 
 ### Bewaren op Replit lukt niet, er is een foutmelding met access
+Vraag docent om hulp
 
 ### Bewaren op Replit lukt niet, er is een foutmelding met conflict
+Vraag docent om hulp
 
 ### Hoe update ik het voorbeeldvenster?
 Druk op reload in je voorbeeldvenster
