@@ -80,31 +80,28 @@ We gebruiken in deze opdracht de volgende tools:
 3. [Gitpod](/tools/gitpod/) (vwo)
 
 ## Startcode
+Je krijgt van de docent een kopie van onderstaande startcode. 
 {{<figure src="../game_github.png" link="https://github.com/emmauscollege/4HV-game-template">}}
 
-<!--
-[![Open GitHub](https://img.shields.io/badge/open-GitHub-brightgreen)](https://github.com)
-[![Open Gitpod](https://img.shields.io/badge/open-Gitpod-brightgreen)](https://gitpod.io)
-[![Open Replit](https://img.shields.io/badge/open-Replit-brightgreen)](https://replit.com)
--->
+## Stappenplan
+Het stappenplan vind je in het README.md bestand uit de startcode. Daarin staat in welke stappen je je startcode moet uitbreiden en aanpassen.
+<pre id="github-code-1"></pre>
+<style>
+    #github-code-1 {
+        height:300px;
+        overflow:scroll;
+    }
+</style>
 
-<!--
-## Planning
-{{<figure src="planning-preview.png" link="planning.pptx">}}
-gebruiken we liever de pdf (universeel viewable) of pptx (brondocument, snel editbaar)
--->
+<script> // inspired on: https://stackoverflow.com/questions/28338017/is-there-a-way-to-embed-github-code-into-an-iframe
+    fetch('https://api.github.com/repos/emmauscollege/4HV-website-template/contents/README.md') // GET /repos/:owner/:repo/contents/:path
+        .then(function(response) {
+            return response.json();
+        }).then(function(data) {
+            var pre = document.getElementById('github-code-1');
+            pre.innerHTML = atob(data.content); // decode base64 to normal text
+        });
+</script>
 
 ## Uitlegvideo's
 {{<youtube id="videoseries?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
-  
-<i>
-- algemene gitpod en rpelit link
-- stappenplan en uitleg van de repo en gebruikte technieken zet je in de readme
-- rijkere uitleg zoals video's of code voorbeelden zetten we op de website
-- zet in de description van de repo een link naar informatica.emmauscollege.nl
-- hoe verspreiden we de link naar het google-docs document waarin leerlingen zich opgeven voor de groepjes en hun github account opgeven?  => op de pagina van de opdracht en dan bovenaan bij de opdracht een kopje "inschrijven voor deze opdracht" toevoegen.
-</i>
-
-</i>    
-
-
