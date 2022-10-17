@@ -56,7 +56,7 @@ Week|Theorie (enkel uur)|Praktijk (blokuur)
 38|[T1 Web Design](/theorie/webdesign/) Uitleg: floats|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 7 More CSS selectors
 39|[T1 Web Design](/theorie/webdesign/) Uitleg: eye catchers|[T1 Web Design](/theorie/webdesign/) Oefentoets in Woots maken
 40|[T2 Informatie](/theorie/informatie/) Uitleg: bits|[O1 Website](/opdrachten/website/) stap 1 eerste wijziging gemaakt
-41|[T2 Informatie](/theorie/informatie/) Uitleg: BIN|[O1 Website](/opdrachten/website/) stap 2 menu + vier lege pagina's
+41|[T2 Informatie](/theorie/informatie/) Uitleg: BIN|[O1 Website](/opdrachten/website/) stap 2 menu + lege pagina's
 42|[T2 Informatie](/theorie/informatie/) Uitleg: HEX|[O1 Website](/opdrachten/website/) stap 3 layout hoofdpagina
 43|**Herfstvakantie**|
 44|[T2 Informatie](/theorie/informatie/) Oefening: IA gestart|[O1 Website](/opdrachten/website/) stap 4 inhoud en plaatjes hoofdpagina
@@ -155,7 +155,7 @@ Week|Les 1 theorie|Les 2+3 praktijk
 38|[T1 Web Design](/theorie/webdesign/) Uitleg: floats|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 7 More CSS selectors + 8 Other ways to embed CSS + 9 Further learning
 39|[T1 Web Design](/theorie/webdesign/) Uitleg: eye catchers|[T1 Web Design](/theorie/webdesign/) Oefentoets in Woots maken
 40|[T2 Informatie](/theorie/informatie/) Uitleg: bits BIN en HEX|[O1 Website](/opdrachten/website/) stap 1 eerste wijziging gemaakt
-41|[T2 Informatie](/theorie/informatie/) Uitleg: rekenen en tekst|[O1 Website](/opdrachten/website/) stap 2 menu + vier lege pagina's
+41|[T2 Informatie](/theorie/informatie/) Uitleg: rekenen en tekst|[O1 Website](/opdrachten/website/) stap 2 menu + lege pagina's
 42|[T2 Informatie](/theorie/informatie/) Uitleg: kleuren en plaatjes|[O1 Website](/opdrachten/website/) stap 3 layout hoofdpagina
 43|**Herfstvakantie**|
 44|[T2 Informatie](/theorie/informatie/) Oefening: IA gestart|[O1 Website](/opdrachten/website/) stap 4 inhoud en plaatjes hoofdpagina
