@@ -32,7 +32,6 @@ Naslagmateriaal
 4. [How the internet works (video's)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 5. [Theorie netwerkprotocollen](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/index.html) (alleen hoofdtstuk 5, dit is best pittig, aanvulling op uitleg in de les).
 
-
 ## Leerdoelen
 Netwerken
 1. Je kent een aantal belangrijke feiten uit de geschiedenis van het internet, zodat je:
@@ -66,4 +65,5 @@ Netwerken
 1. Je begrijpt wat een DNS is en waarvoor deze dient
 1. Je kunt uitleggen wat de functie van een DHCP server is.
 
-
+## Oefentoets
+Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).

@@ -23,14 +23,13 @@ Arduino-lessen.nl, les 1 t/m 5
 [Meer lessen Arduino-lessen](https://arduino-lessen.nl) (geen toetsstof)
 
 Toestandsdiagrammen
-1. Oefenstof volgt
+1. [Lespresentatie toetstandsdiagrammen](../robotica_toestandsdiagrammen_lespresentatie.pptx)
 
 ## Uitleg
 {{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5B5flRg_1xdUrKlZyjZG68e">}}
 
 Naslagwerken
 1. [Microcontroller reader](../robotica_microcontrollers_programmeren.pdf) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
-2. [Lespresentatie toetstandsdiagrammen](../robotica_toestandsdiagrammen_lespresentatie.pptx)
 
 ## Leerdoelen
 Arduino
@@ -59,3 +58,5 @@ Toestandsdiagrammen
 1. Je kunt een toestandsdiagram omzetten in Pseudocode.
 1. Je kunt pseudocode omzetten in Arduino-code.
 
+## Oefentoets
+Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
