@@ -28,5 +28,5 @@ Je kunt ook de links gebruiken op diverse plaatsen op de informatica-website. Di
 
 ## Q&A
 
-### Mijn code werkt niet
-Let op het vershil tussen 0 (cijfer nul) en O (letter oo) en let op het verschil tussen l (kleine letter l) en 1 (cijfer één).
+### Mijn voucher code werkt niet
+Let op het verschil tussen 0 (cijfer nul) en O (hoofdletter oo) en let op het verschil tussen l (kleine letter l) en 1 (cijfer één).
