@@ -56,7 +56,7 @@ Week|Theorie (enkel uur)|Praktijk (blokuur)
 38|[T1 Web Design](/theorie/webdesign/) Uitleg: floats|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 7 More CSS selectors
 39|[T1 Web Design](/theorie/webdesign/) Uitleg: eye catchers|[T1 Web Design](/theorie/webdesign/) Oefentoets in Woots maken
 40|[T2 Informatie](/theorie/informatie/) Uitleg: bits|[O1 Website](/opdrachten/website/) stap 1 eerste wijziging gemaakt
-41|[T2 Informatie](/theorie/informatie/) Uitleg: BIN|[O1 Website](/opdrachten/website/) stap 2 menu + vier lege pagina's
+41|[T2 Informatie](/theorie/informatie/) Uitleg: BIN|[O1 Website](/opdrachten/website/) stap 2 menu + lege pagina's
 42|[T2 Informatie](/theorie/informatie/) Uitleg: HEX|[O1 Website](/opdrachten/website/) stap 3 layout hoofdpagina
 43|**Herfstvakantie**|
 44|[T2 Informatie](/theorie/informatie/) Oefening: IA gestart|[O1 Website](/opdrachten/website/) stap 4 inhoud en plaatjes hoofdpagina
@@ -154,17 +154,17 @@ Week|Les 1 theorie|Les 2+3 praktijk
 37|[T1 Web Design](/theorie/webdesign/) Uitleg: boxmodel|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 5 Web development tools + 6 CSS layout
 38|[T1 Web Design](/theorie/webdesign/) Uitleg: floats|[T1 Web Design](/theorie/webdesign/) Oefening: Khan 7 More CSS selectors + 8 Other ways to embed CSS + 9 Further learning
 39|[T1 Web Design](/theorie/webdesign/) Uitleg: eye catchers|[T1 Web Design](/theorie/webdesign/) Oefentoets in Woots maken
-40|[T2 Informatie](/theorie/informatie/) Uitleg: bits|[O1 Website](/opdrachten/website/) stap 1 eerste wijziging gemaakt
-41|[T2 Informatie](/theorie/informatie/) Uitleg: BIN|[O1 Website](/opdrachten/website/) stap 2 menu + vier lege pagina's
-42|[T2 Informatie](/theorie/informatie/) Uitleg: HEX|[O1 Website](/opdrachten/website/) stap 3 layout hoofdpagina
+40|[T2 Informatie](/theorie/informatie/) Uitleg: bits BIN en HEX|[O1 Website](/opdrachten/website/) stap 1 eerste wijziging gemaakt
+41|[T2 Informatie](/theorie/informatie/) Uitleg: rekenen en tekst|[O1 Website](/opdrachten/website/) stap 2 menu + lege pagina's
+42|[T2 Informatie](/theorie/informatie/) Uitleg: kleuren en plaatjes|[O1 Website](/opdrachten/website/) stap 3 layout hoofdpagina
 43|**Herfstvakantie**|
 44|[T2 Informatie](/theorie/informatie/) Oefening: IA gestart|[O1 Website](/opdrachten/website/) stap 4 inhoud en plaatjes hoofdpagina
-45|[T2 Informatie](/theorie/informatie/) Oefening: IA t/m 3|[O1 Website](/opdrachten/website/) stap 5 layout subpagina's
+45|[T2 Informatie](/theorie/informatie/) Oefening: IA 1+2+3+4|[O1 Website](/opdrachten/website/) stap 5 layout subpagina's
 46|**TW1: Toets 4V-IN-S01** over T1 Web Design|
 47|**TW1**|
-48|[T2 Informatie](/theorie/informatie/) Oefening: IA t/m 6|[O1 Website](/opdrachten/website/) stap 6 inhoud en plaatjes subpagina's
-49|[T2 Informatie](/theorie/informatie/) kleuren + plaatjes| [O1 Website](/opdrachten/website/) stap 7 kleuren
-50|[T2 Informatie](/theorie/informatie/) tekst + geluid + video + compressie| [O1 Website](/opdrachten/website/) stap 8 perfectioneren
+48|[T2 Informatie](/theorie/informatie/) Uitleg: geluid + video|[O1 Website](/opdrachten/website/) stap 6 inhoud en plaatjes subpagina's
+49|[T2 Informatie](/theorie/informatie/) Uitleg: compressie + bestanden| [O1 Website](/opdrachten/website/) stap 7 kleuren
+50|[T2 Informatie](/theorie/informatie/) Oefening: IA 5+6+7+8| [O1 Website](/opdrachten/website/) stap 8 perfectioneren
 51|[T2 Informatie](/theorie/informatie/) Oefening: Beeldbewerking|[O1 Website](/opdrachten/website/) stap 9 eyecathers
 52|**Kerstvakantie**|
 1|**Kerstvakantie**|

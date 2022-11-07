@@ -104,7 +104,11 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 {{% expand "Inleveren" %}}
 - De deadline voor inleveren vind je in de lesplanner.
 - Je kunt vragen stellen tot de laatste les voor de deadline.
-- Je zorgt dat alle bestanden in die nodig zijn om je spel te spelen in GitHub staan, dit zijn ten minste: het .ino bestand met de code, een bestand met het toestandsdiagram (.drawio, .pptx, .jpeg, .png of .pdf) en een link naar de video op youtube (.txt) of de videozelf (.mp4 of .mov). Als je libraries gebruikt, dan staan die er ook bij.
+- Je zorgt dat alle bestanden in die nodig zijn om je spel te spelen in GitHub staan, dit zijn ten minste: 
+  - het .ino bestand met de code, 
+  - een bestand met het toestandsdiagram (.drawio, .pptx, .jpeg, .png of .pdf) en 
+  - een link naar de video op youtube (.txt) of de videozelf (.mp4 of .mov). 
+  - Als je libraries gebruikt, dan staan die er ook bij.
 - Je zorgt dat het README.md bestand met je planning aanwezig is. Je hebt aangegeven welke onderdelen gereed zijn. Uit de versie historie in GitHub blijkt hoe je je planning tussentijds hebt gevolgd en bijgesteld. 
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}

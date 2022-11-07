@@ -28,57 +28,40 @@ Replit is een online ontwikkelomgeving waarin je code kunt wijzigen en uitvoeren
 2. Je hoeft voor het gebruik van Replit niets te installeren, alles werkt vanuit de browser
 Gebruik bij voorkeur Chrome of anders Firefox.
 3. Ga naar https://replit.com/
-4. Gebruik je Github-account om in te loggen
-5. Geef Replit rechten in Github om wijzigingen aan te brengen in jouw repo's (deze stap is verder uitgewerkt onder Q&A "Bewaren op Github lukt niet, er is een foutmelding met access")
+4. Druk op de knop "inloggen met Github" om in te loggen.
+5. Geef Replit rechten in Github om wijzigingen aan te brengen in jouw repo's door op de groene knop te drukken.
+6. Ga door vanaf stap 2 onder "De volgende keren Replit starten"
 
-## Code maken in Replit
-1. Ga naar https://replit.com/ en log in met je Github account.
-2. Klik op de blauwe knop "+Create" en klik in de popup die verschijnt op "Import from Github"
-3. Knip en plak de link naar de repo op github waar je je code hebt staan. Deze kun je vinden in Github. De link lijkt op https://github.com/emmaus-4h/website-piet/. Klik op de knop "Import from Github"
-4. Wijzig je code
-5. Test je code
-6. Commit en Push je wijzigingen. Klik daarvoor op het "version control" icoontje (een gesplitst lijntje met twee bolletjes) links in het scherm.
-7. Check in Github dat je codewijzigingen zijn opgeslagen
+## De volgende keren Replit starten
+1. Ga naar https://replit.com/ en druk op de knop "inloggen met Github" om in te loggen.
+2. Klik op de blauwe knop "+Create" en klik in de popup die verschijnt op "Import from Github".
+3. Knip en plak de link naar de repo op github waar je je code hebt staan. Deze kun je vinden in Github. De link lijkt op https://github.com/emmaus-4h/website-piet/. Klik op de knop "Import from Github". Replit haalt nu de laatste versie van je code uit GitHub
+4. Wijzig je code.
+5. Test of je code werkt, je kunt op de groene RUN knop drukken om een nieuw voorbeeld te zien.
+6. Klik op het "version control" icoontje (een gesplitst lijntje met twee bolletjes) links in het scherm. Type een korte beschrijving van de wijziging, druk op de knop "Commit en Push".
+7. Check in op https://github.com/ dat je codewijzigingen zijn opgeslagen
+8. Als je nog verder wilt werken, gaan dan terug naar stap 4.
 
 ## Veelgestelde vragen
 
 ### Mijn code springt niet goed in, hoe los ik dat op?
 Klik op het icoontje met de drie streepjes rechtsboven het bestand dat je aan het bewerken bent. Replit auto-format het bestand dat je aan het bewerken bent. 
 
-## => DEZE INFO MOET NOG WORDEN AANGEPAST
+### Mijn voorbeeld laat alleen het bovenste stukje zien, hoe los ik dat op?
+Klik op het icoontje met het vierkantje en het pijltje erdoor, rechtsboven het voorbeeldvenster. Het voorbeeld wordt nu in apart venster geopend. Druk op reload als je het wilt verversen.
+
 ### Bewaren op Replit lukt niet, er is een foutmelding met access
-Zet de permissies van Gitpod goed, zodat hij op jouw account in Github wijzigingen kan maken
-1. klik op het icoontje van een poppetje linksonderin, een menu verschijnt
-2. klik op "Gitpod: Open Acces Control", een nieuw scherm verschijnt nadat je "Open" hebt geklikt in de popup
-3. klik op de drie puntjes op de regel "Gitpod" en kies "Edit Permissons" in het menu dat verschijnt
-4. Zet alle vinkjes aan in de popup die verschijnt en klik op "update permissions"
-5. geef toestemming in github als github daarom vraagt (groene knop).
+Vraag docent om hulp
 
 ### Bewaren op Replit lukt niet, er is een foutmelding met conflict
-Er zijn conflicten tussen jouw wijzigingen in Gitpod en de wijzigingen die gelijktijdig, meestal door een teamgenoot, gemaakt zijn in een repo. Je moet handmatig kiezen welke wijzigingen je wilt bewaren.
-1. Commit je wijzigingen
-2. Pull alle wijzigingen uit Github naar Gitpod
-3. Kies in de editor welke van de wijzigingen met een conflict je wilt bewaren
-4. Test je programma
-5. Commit
-6. Push je wijzigingen naar Github
-
-### Hoe open ik een voorbeeldvenster met mijn website?
-1. Klik rechtsonder op "Ports: xxxx", linksboven verschijnt een menu
-2. Klik linksboven op de regel met de poort
-3. Klik op het wereldbolletje achteraan op de regel met de poort, een popup verschijnt
-4. Klik op "Open" in de popup.
+Vraag docent om hulp
 
 ### Hoe update ik het voorbeeldvenster?
 Druk op reload in je voorbeeldvenster
 
 ### Hoe kan ik terug naar de laatste versie op GitHub?
-1. Ga naar https://gitpod.io/ en log in met je Github account.
-2. Klik op de groene knop "New workspace"
+1. Ga naar https://repl.io/ en log in met je Github account.
+2. Klik op de blauwe knop "+Create" klik in de pop-up die verschijnt op de knop "import from Github"
 3. Knip en plak de link naar de repo op github waar je je code hebt staan. Deze kun je vinden in Github. De link lijkt op https://github.com/emmaus-4h/website-piet/
 
-### Mijn code springt niet goed in, hoe los ik dat op?
-Klik op [option]+[shift]+f. Gitpod auto-format het bestand dat je aan het bewerken bent. 
 
-### Waar vind ik documentatie over Gitpod?
-https://www.gitpod.io/docs/

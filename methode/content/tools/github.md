@@ -27,7 +27,7 @@ GitHub kun je zien als een soort cloudopslag voor je code. Github slaat code op 
 ## Hoe werkt code wijzigen in Github?
 Er zijn veel manieren om code die je in GitHub bewaard te wijzigen. Bijna altijd maak je eerst een kopie van GitHub in je eigen ontwikkelomgeving (je computer of een online ontwikkelomgeving zoals Gitpod of Replit). Dit heet clonen (spreek uit als "kloonen"). Vervolgens wijzig en test je code die in je clone zit. Als een wijziging goed is, dan zet je die terug op GitHub. Dit wijzigen gaat in de volgende stappen:
 1. **Pull** : Haal alle updates van GitHub binnen in je lokale repository.
-2. **Codeer** : Maak / verander je programmeercode.
+2. **Codeer** : Maak / verander je programmeercode en test of het werkt.
 3. **Save** : Sla je veranderingen op.
 4. **Probeer** : Test uit of het werkt.
 5. **Stage** : Zet de gewijzigde bestanden klaar voor de commit.
@@ -100,7 +100,7 @@ Je kunt alle bestanden in een repo downloaden in een zip-bestand. klik op de gro
 ## Git gebruiken 
 Veel programmeurs gebruiken git op hun computer om code op de slaan in repo's. Git is een programma waarin alle commando's zitten die nodig zijn om met repo's te werken. Als je hier dagelijks mee werkt en veel commando's uit je hoofd kent, dan werkt dit heel snel. Voor leerlingen is dit niet zo een handige methode, wij gebruiken hem daarom niet.
 
-## Q&A
+## Veelgestelde vragen
 ### GitHub 404 fout
 *Ik heb via email een link ontvangen om toegang te krijgen tot een repo, maar als ik op de link druk dan krijg ik een 404 fout. Wat moet ik doen?*
 

@@ -27,21 +27,13 @@ In plaats van Filius te installeren, gebruik je [Filius in Gitpod](https://githu
 
 Naslagmateriaal
 1. [Netwerken lespresentatie (Powerpoint presentatie)](../netwerken_lespresentatie.pptx)
-2. [Geschiedenis van netwerken (reader)](../netwerken_geschiedenis.pdf)
-2. [Netwerktopologieën (reader)](../netwerken_topologieen.pdf)
-4. [How the internet works (video's)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
-5. [Theorie netwerkprotocollen](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/index.html) (alleen hoofdtstuk 5, dit is best pittig, aanvulling op uitleg in de les).
-
+2. [How the internet works (video's)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+3. [Theorie netwerkprotocollen](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/index.html) (alleen hoofdtstuk 5, dit is best pittig, aanvulling op uitleg in de les).
 
 ## Leerdoelen
 Netwerken
-1. Je kent een aantal belangrijke feiten uit de geschiedenis van het internet, zodat je:
-1. kunt uitleggen waarom het ARPANET de voorvader van het internet is
-1. kunt uitleggen wie ethernet heeft bedacht en wat de techniek achter dit protocol is
-1. kunt uitleggen wanneer het zogenoemde wereldwijde web ontstond en wat HTTP daarmee te maken had.
-1. met behulp van een berekening kunt aantonen wat de hoofdreden is om het IP versie 4 protocol te vervangen door IPv6
+1. Je kunt met behulp van een berekening kunt aantonen wat de hoofdreden is om het IP versie 4 protocol te vervangen door IPv6
 1. Je kunt het verschil uitleggen tussen een LAN en een WAN.
-1. Je kent de volgende netwerktopologieën: bus, ring, ster, mesh (of maas, zowel volledig als onvolledig vermaasd). Je kunt uitleggen hoe deze verschillen in betrouwbaarheid en benodigde infrastructuur.
 1. Je kent de belangrijkste verschillen tussen communicatie over koperen verbindingen, glasvezelverbindingen en draadloze verbindingen
 1. Je weet wat bij computernetwerken de termen lag / latency / latentie en bandbreedte betekenen en hoe ze de snelheid van een netwerkverbinding beïnvloeden.
 1. Je kunt uitleggen waarvoor het het OSI-model is ontwikkeld
@@ -66,4 +58,5 @@ Netwerken
 1. Je begrijpt wat een DNS is en waarvoor deze dient
 1. Je kunt uitleggen wat de functie van een DHCP server is.
 
-
+## Oefentoets
+Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
