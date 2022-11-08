@@ -109,7 +109,7 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
   - een bestand met het toestandsdiagram (.drawio, .pptx, .jpeg, .png of .pdf) en 
   - een link naar de video op youtube (.txt) of de videozelf (.mp4 of .mov). 
   - Als je libraries gebruikt, dan staan die er ook bij.
-- Je zorgt dat het README.md bestand met je planning aanwezig is. Je hebt aangegeven welke onderdelen gereed zijn. Uit de versie historie in GitHub blijkt hoe je je planning tussentijds hebt gevolgd en bijgesteld. 
+- Uit de versie historie in GitHub blijkt wanneer je wat gedaan hebt.
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
 
@@ -124,6 +124,42 @@ Er is geen automatische koppeling tussen Arduino IDE en GitHub. Dat betekent dat
 Als je van je docent je een kopie van de startcode hebt ontvangen, dan kun je aan de slag met de stappen uit het README.md bestand.
 
 {{<figure src="../robot_github.png" link="https://github.com/emmauscollege/5HV-robot-template">}}
+
+## Stappenplan
+Werk de planning af van boven naar beneden. 
+
+{{% expand "Stap 1: Starten" %}} 
+1. Je hebt je GitHub-inlognaam aan de docent doorgegeven, zodat die een Github-repo kan aanmaken.
+2.	Je hebt gekozen wat je gaat maken en dat aan de docent doorgegeven, bij een eigen idee moet de docent het goedkeuren.
+3.	Je hebt thuis een computer of laptop (Arduino werkt niet op een iPad) waarop je de gratis Arduino software hebt geïnstalleerd, of je hebt er rekening mee gehouden dat je een paar uur per week op school op een computer kan werken.
+4.   Je hebt de startcode voor je project uitgeprobeerd. Je vindt de startcode in het .ino bestand in de map die hoort bij wat je gaat maken.
+{{% /expand %}}
+
+{{% expand "Stap 2: Toestandsdiagram" %}} 
+1. Je hebt een toestandsdiagram gemaakt. Dit sla je op in GitHub.
+2. Je hebt je docent gevraagd om feedback over je toestandsdiagram. De feedback heb je verwerkt. Het uiteindelijke resultaat sla je weer op in GitHub.
+3. Je hebt aangegeven welke sensoren en actuatoren je gaat gebruiken, dit kan in een kort lijstje op hetzelfde blad als je toestandsdiagram.
+
+Je kunt een toestandsdiagram bijvoorbeeld als volgt maken
+- op https://draw.io
+- in Powerpoint
+- op papier en dan fotograferen (het is dan wel lastig om het netjes te doen)
+{{% /expand %}}
+
+{{% expand "Stap 3: Code" %}} 
+1. Je hebt het toestandsdiagram in code omgezet, zodat alle toestanden doorlopen kunnen worden met jouw circuit. Daarbij heb je het door de docent aangeleverde projectcode als startpunt gebruikt. Nog niet alle sensoren of actuatoren van je apparaat hoeven het te doen, zolang alle toestanden maar doorlopen kunnen worden. De laatste versie van je code sla je steeds op op GitHub.
+2. Je hebt de code van je toestandsdiagram uitgebreid, zodat alle sensoren en actuatoren van je project het doen. Je apparaat werkt nu volledig en zoals beschreven in het toestandsdiagram. De laatste versie van je code sla je steeds op op GitHub.
+{{% /expand %}}
+
+{{% expand "Stap 4: Uitbreidingen" %}} 
+1. Je hebt je ontwerp uitgebreid met extra ideeën en deze heb je verwerkt in je toestandsdiagram en in je code. De laatste versie van je toestandsdiagram en code sla je steeds op op GitHub.
+{{% /expand %}}
+
+{{% expand "Stap 5: Video" %}} 
+1. Maak een video die de werking van je project demonstreert.
+
+Het is een video met geluid (uitleg tijdens de demonstratie) in .mp4 of .mov formaat van maximaal 20MB of .txt bestand met link naar youtube. De video duurt maximaal 2 minuten.
+{{% /expand %}}
 
 ## Uitlegvideo's
 <!--
