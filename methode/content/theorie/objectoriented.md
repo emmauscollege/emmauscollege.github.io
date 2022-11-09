@@ -35,5 +35,5 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 - Je kent drie voordelen en drie nadelen van object georiënteerd programmeren.
 
 ## Oefentoets
-- [Oefentoets](../theorie/objectoriented_oefenopgaven.pdf)
-- [Antwoordwoorden oefentoets](../theorie/objectoriented_oefenopgaven_antwoorden.pdf)
+- [Oefentoets](../objectoriented_oefenopgaven.pdf)
+- [Antwoordwoorden oefentoets](../objectoriented_oefenopgaven_antwoorden.pdf)
