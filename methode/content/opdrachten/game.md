@@ -69,7 +69,7 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - De deadline voor inleveren vind je in de lesplanner.
 - Je kunt vragen stellen tot de laatste les voor de deadline.
 - Je zorgt dat alle bestanden in die nodig zijn om je spel te spelen in GitHub staan, dit zijn ten minste: index.html, style.css en script.js. Als je plaatjes gebruikt, dan staan die er ook bij.
-- Je zorgt dat het README.md bestand met je planning aanwezig is. Je hebt aangegeven welke onderdelen gereed zijn. Uit de versie historie in GitHub blijkt hoe je je planning tussentijds hebt gevolgd en bijgesteld. 
+- Uit de versie historie in GitHub blijkt wanneer je wat gedaan hebt.
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
 
@@ -84,24 +84,48 @@ Je krijgt van de docent een kopie van onderstaande startcode.
 {{<figure src="../game_github.png" link="https://github.com/emmauscollege/4HV-game-template">}}
 
 ## Stappenplan
-Het stappenplan vind je in het README.md bestand uit de startcode. Daarin staat in welke stappen je je startcode moet uitbreiden en aanpassen.
-<pre id="github-code-1"></pre>
-<style>
-    #github-code-1 {
-        height:300px;
-        overflow:scroll;
-    }
-</style>
+Werk de planning af van boven naar beneden. Vul de planning aan en stel bij terwijl je aan de opdracht werkt.
 
-<script> // inspired on: https://stackoverflow.com/questions/28338017/is-there-a-way-to-embed-github-code-into-an-iframe
-    fetch('https://api.github.com/repos/emmauscollege/4HV-website-template/contents/README.md') // GET /repos/:owner/:repo/contents/:path
-        .then(function(response) {
-            return response.json();
-        }).then(function(data) {
-            var pre = document.getElementById('github-code-1');
-            pre.innerHTML = atob(data.content); // decode base64 to normal text
-        });
-</script>
+{{% expand "Stap 1: uitleg, spelen, afgaan en punten" %}}
+1. maak index.html, style.css en script.js met canvas
+2. teken speler
+    - Zet je code in de functie tekenAlles()
+3. beweeg speler
+    - Zet je code in de functie beweegAlles()
+    - Kies de afmeting van speler
+    - Gebruik variabalen spelerX en spelerY als middelpunt van de speler
+4. teken je tegenspeler (vijanden of dingen die je moet pakken of doelen of ...)
+5. beweeg je tegenspeler
+6. detecteer botsing
+7. zorg dat je af kunt gaan
+8. zorg dat je punten kunt halen
+    - een simpele manier om punten te geven is de tijd meten hoe lang je het volhoudt
+9. zet punten op het scherm
+10. maak uitlegscherm en game-overscherm
+{{% /expand %}}
+
+{{% expand "Stap 2: schieten of springen" %}}
+1. zelf uitwerken...
+2. zelf uitwerken...
+3. zelf uitwerken...
+{{% /expand %}}
+
+{{% expand "Stap 3: meer tegenstanders" %}}
+1. zelf uitwerken...
+2. zelf uitwerken...
+3. zelf uitwerken...
+{{% /expand %}}
+
+{{% expand "Stap x: meer ideeen voor uitbreidingen" %}}
+1. Gebruik plaatjes voor de vijanden
+2. Animeer speler
+3. Laat badges vallen die extra's aan speler geven
+4. Maak spel steeds moeilijker door toenemend aantal vijanden met tekenVijand
+5. Maak andere vijanden bij toenemen tekenVijand
+6. Laat vijanden bewegen in patronen
+7. Maak bediening met touch of bewegen van telefoon mogelijk (zorg dat toetsenbordbediening ook blijft werken)
+8.  ...
+{{% /expand %}}
 
 ## Uitlegvideo's
 {{<youtube id="videoseries?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}

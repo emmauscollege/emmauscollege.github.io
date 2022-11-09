@@ -76,7 +76,7 @@ Enkele punten waarop gelet kan worden bij de beoordeling zijn.
 - De deadline voor inleveren vind je in de lesplanner.
 - Je kunt vragen stellen tot de laatste les voor de deadline.
 - Je zorgt dat alle bestanden in die nodig zijn om je spel te spelen in GitHub staan, dit zijn ten minste: index.html, style.css en script.js. Als je plaatjes gebruikt, dan staan die er ook bij.
-- Je zorgt dat het README.md bestand met je planning aanwezig is. Je hebt aangegeven welke onderdelen gereed zijn. Uit de versie historie in GitHub blijkt hoe je je planning tussentijds hebt gevolgd en bijgesteld. 
+- Uit de versie historie in GitHub blijkt wanneer je wat gedaan hebt.
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
 
@@ -88,6 +88,35 @@ We gebruiken in deze opdracht de volgende tools:
 
 ## Startcode
 {{<figure src="../webshop_github.png" link="https://github.com/emmauscollege/5HV-webshop-template">}}
+
+## Stappenplan
+Werk de planning af van boven naar beneden. Vul de planning aan en stel bij terwijl je aan de opdracht werkt.
+
+{{% expand "Stap 1: Start" %}} 
+1. Pas de achtergrondkleur van de shop aan (zie mapje web)
+2. Pas de titel van het eerste product in de shop aan (zie mapje db)
+3. Pas de query aan zodat getoonde producten gesorteerd worden op naam (zie mapje api)
+{{% /expand %}}
+
+{{% expand "Stap 2: Database opzetten" %}}
+1. Maak tabellen en velden (CREATE TABLE commando) in je database waarin alle informatie kan worden opgeslagen die je over je producten wilt tonen.<br>
+Tip: je kunt een multipliciteitendiagram gebruiken als tussenstap voor je database-ontwerp
+2. Vul de tabellen met informatie (INSERT commando)
+3. Voeg eventueel plaatjes toe (web/images map)
+{{% /expand %}}
+
+{{% expand  "Stap 3: API aanpassen" %}} 
+1. Pas de API aan, zodat je alle informatie uit je database kunt opvragen via de API
+{{% /expand %}}
+
+{{% expand "Stap 4: Website aanpassen" %}}
+1. Pas de website aan, zodat alle informatie getoond wordt.
+{{% /expand %}}
+
+{{% expand "Stap 5: Webshop verder verbeteren" %}}
+1. Herhaal stap 2 t/m 4 om je webshop verder te verbeteren. 
+Voor en goed cijfer is het belangrijk dat je laat zien dat je uitstekend begrepen hebt hoe je een webshop moet opzetten.
+{{% /expand %}}
 
 ## Uitlegvideo's (havo)
 {{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5CZQu8A4igpazZsRUEA7NHJ">}}

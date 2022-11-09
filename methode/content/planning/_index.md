@@ -78,7 +78,7 @@ Week|Theorie (enkel uur)|Praktijk (blokuur)
 8|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: stroomdiagrammen|[O2 Game](/opdrachten/game/) eerste wijziging gemaakt
 9|**Voorjaarsvakantie**|
 10|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: lijsten|[O2 Game](/opdrachten/game/) speler beweegt
-11|**TW2: Toets 4H-IN-S01** over T2 Informatie|
+11|**TW2: Toets 4H-IN-S02** over T2 Informatie|
 12|**TW2**|
 13|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: nesten|[O2 Game](/opdrachten/game/) vijand
 14|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 2|[O2 Game](/opdrachten/game/) botsingdetectie + afgaan
@@ -177,7 +177,7 @@ Week|Les 1 theorie|Les 2+3 praktijk
 8|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: stroomdiagrammen|[O2 Game](/opdrachten/game/) eerste wijziging gemaakt
 9|**Voorjaarsvakantie**|
 10|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: lijsten|[O2 Game](/opdrachten/game/) speler beweegt
-11|**TW2: Toets 4V-IN-S01** over T2 Informatie|
+11|**TW2: Toets 4V-IN-S02** over T2 Informatie|
 12|**TW2**|
 13|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: nesten|[O2 Game](/opdrachten/game/) vijand
 14|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 2|[O2 Game](/opdrachten/game/) botsingdetectie + afgaan
