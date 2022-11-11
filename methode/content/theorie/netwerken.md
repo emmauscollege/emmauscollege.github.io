@@ -59,4 +59,6 @@ Netwerken
 1. Je kunt uitleggen wat de functie van een DHCP server is.
 
 ## Oefentoets
-Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
+Je kunt een deel van je kennis en vaardigheden testen met de volgende oefenopgaven:
+- (Oefenopgave IP-adressen en subnetten)[../netwerken_oefenopgaven_ipadres_en_subnet.pdf]
+- (Antwoorden oefenopgave IP-adressen en subnetten)[../netwerken_oefenopgaven_ipadres_en_subnet_met_antwoorden.pdf]
