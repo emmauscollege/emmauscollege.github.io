@@ -14,6 +14,9 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 ## Opdrachten
 - [Verwerkingsopdrachten](../objectoriented_verwerkingsopdrachten)
 
+## Naslagmateriaal
+- [Naslagmateriaal objectgeoriënteerd programmeren](../objectoriented_naslagmateriaal.pdf) (ook beschikbaar bij toets)
+
 
 ## Leerdoelen
 - Je weet wat het verschil is tussen een klasse en object.
