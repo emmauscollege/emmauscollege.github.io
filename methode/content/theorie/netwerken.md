@@ -60,5 +60,5 @@ Netwerken
 
 ## Oefentoets
 Je kunt een deel van je kennis en vaardigheden testen met de volgende oefenopgaven:
-- (Oefenopgave IP-adressen en subnetten)[../netwerken_oefenopgaven_ipadres_en_subnet.pdf]
-- (Antwoorden oefenopgave IP-adressen en subnetten)[../netwerken_oefenopgaven_ipadres_en_subnet_met_antwoorden.pdf]
+- [Oefenopgave IP-adressen en subnetten](../netwerken_oefenopgaven_ipadres_en_subnet.pdf)
+- [Antwoorden oefenopgave IP-adressen en subnetten](../netwerken_oefenopgaven_ipadres_en_subnet_met_antwoorden.pdf)
