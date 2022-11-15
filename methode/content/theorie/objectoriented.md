@@ -14,8 +14,10 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 ## Opdrachten
 - [Verwerkingsopdrachten](../objectoriented_verwerkingsopdrachten)
 
-## Naslagmateriaal
-- [Naslagmateriaal objectgeoriënteerd programmeren](../objectoriented_naslagmateriaal.pdf) (ook beschikbaar bij toets)
+## Naslagmateriaal (ook beschikbaar bij toets)
+- [Naslagmateriaal objectgeoriënteerd programmeren](../objectoriented_naslagmateriaal.pdf)
+- [Naslagmateriaal JavaScript en p5js](../syntaxblad-javascript.pdf)
+- [Naslagmateriaal C++ en Arduino](../syntaxblad-arduino-c++.pdf)
 
 
 ## Leerdoelen
