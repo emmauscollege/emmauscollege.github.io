@@ -3,13 +3,12 @@ title = "O5. Marble Mania Knikkerbaan"
 weight = 5
 +++
 
-Je gaat je eigen website maken!
-<!--more-->
+Je maakt een interactieve module voor een grotere knikkerbaan
 
 ## Opdrachtbeschrijving
-De opdracht in het kort is: ...
+In het vakgebied van informatica wordt heel veel projectmatig gewerkt. Een van de manieren om dit te doen is Agile. Bij deze opdracht ga je in groepen van 4 (één leerling meer of minder mag ook) projectmatig werken aan een interactieve knikkerbaan die verbonden is met een zelfgemaakte webserver. Hierbij ga je de kennis en vaardigheden die bij het vak informatica hebt opgedaan toepassen en integreren. Je levert een eindproduct op maar je wordt ook beoordeeld op de wijze waarop dit project gemanaged wordt.
 
-## DEZE PAGINA BEVAT NOG NIET DE GOEDE INFO
+
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via het onderstaande formulier dat de docent aanlevert. 
@@ -17,92 +16,41 @@ Je schrijft je in via het onderstaande formulier dat de docent aanlevert.
 - [6Vin2](https://docs.google.com/spreadsheets/d/1f4t70qRRf8H0lGPCHI4yNTQTmHKCmg_g)
 {{% /expand %}}
 
-{{% expand "Game kiezen" %}}
-Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game die je kiest goedkeuren. Enkele voorbeelden van een game die je kunt maken zijn: Tennis, Flappy Bird, Snake (voorganger van Slither.io), een Break Out Game (zoals Arkanoid), een race spelletje, een eenvoudige platform game (zoals pacman), een puzzelspel enzovoort. 
+
+{{% expand "Wat ga je precies maken?" %}}
+-	Een module voor een knikkerbaan. Het is de bedoeling dat je bovenaan knikkers kunt ontvangen en ze onderaan weer laat vallen, zodat een volgende module ze weer kan opvangen. Ook moet de knikkerbaan om kunnen gaan met verschillen in de snelheid waarmee nieuwe knikkers aangeleverd worden.
+Deze module is interactief: hij maakt gebruik van Arduino, heeft sensors en actuators en staat via WiFi in verbinding met een server. De basis van de opdracht wordt aan je gegeven met uitleg hoe je de basis van de knikkerbaan moet maken, inclusief een teller (onderbrekingssensor) en een poortje (servomotor -> actuator).
+De knikkerbaanmodule moet uiteindelijk meer sensors en actuators krijgen. Je kunt natuurlijk meer tellers toevoegen en meer poortjes, maar je moet ook minimaal andere één sensor en één actuator van een andere soort toevoegen. Denk aan een kleurensensor, afstandssensor, snelheidsmeter, krachtsensor, gewichtsensor etc. Of als actuators: ledjes, een RGB-ledstrip, display, buzzer, bewegende onderdelen. Als je twijfelt of iets kan / mag, vraag even aan je docent.
+-	Een kleine webpagina – een widget – waarmee je de status van je knikkerbaanmodule kunt weergeven, maar ook je knikkerbaan kunt ‘besturen’. Je krijgt dus informatie van de knikkerbaan, maar geeft ook informatie terug waarop de knikkerbaan moet reageren. Je kunt dus informatie van de sensors zien en het functioneren van de actuators beïnvloeden. De widget zal later door de docent opgenomen worden in een grote webpagina waar een overzicht te zien is van alle modules van de uiteindelijke knikkerbaan.
+-	Een serverprogramma dat een brugfunctie heeft tussen de knikkerbaanmodule en de widget. Dit serverprogramma verwerkt alle informatie die opgevraagd of gegeven wordt. De informatie wordt door de server opgeslagen in een dataobject.
+-	Een verslag waarin je je code en het proces documenteert.
 {{% /expand %}}
 
-{{% expand "Werkwijze" %}}
-- Je maakt deze opdracht in een team van twee personen. De docent geeft aan hoe de teams gemaakt worden. Je bepaalt zelf hoe je het werk binnen je team verdeelt, zolang iedereen een gelijkwaardige bijdrage levert. Je krijgt één cijfer per team, maar de docent kan hiervan afwijken als teamleden geen gelijkwaardige bijdrage hebben geleverd. 
-- Je krijgt van de docent startcode voor deze opdracht. Deze staat klaar in een repo op GitHub. Er is één repo per team. 
-- Je maakt code in Replit (havo) of Gitpod (vwo). Elk teamlid heeft zijn eigen Replit of Gitpod omgeving.
-- Elke week (liefst vaker) slaan alle teamleden hun tussentijdse werk op in de repo op GitHub. Zo zorgen jullie ervoor dat de laatste werkende versie van jullie game steeds op GitHub staat.
-- Deze opdracht maak je alsof het een echt project is. Je maakt eerst een planning. Daarna kijk je wekelijks of je nog volgens plan loopt. Als je niet volgens plan loopt, dan stuur je bij. In de les word je hiermee geholpen, maar uiteindelijk moet jij zorgen dat je op tijd klaar bent en een goed resultaat oplevert. 
-{{% /expand %}}
-
-{{% expand "Beoordeling" %}}
-Het cijfer dat je voor je PO krijgt wordt vanuit vier invalshoeken bepaald: 
-- basiswerking
-- uiterlijk
-- techniek
-- inzet, planning en samenwerking 
-
-**Minimale eisen**
-
-Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de minimale eisen. Werk dat niet voldoet aan de minimale eisen krijgt het cijfer 1,0. De minimale eisen zijn:
-- De inhoud van je webshop is moreel verantwoord: het is niet beledigend, visueel gewelddadig of op andere manieren onfatsoenlijk.
-- Natuurlijk mag je overleggen met klasgenoten en mag je op internet kijken hoe je bepaalde dingen kunt maken. Let wel op dat je geen plagiaat pleegt. Je mag maximaal 5 regels code overnemen van andere leerlingen of internet en je schrijft in het commentaar erbij waar je het voorbeeld vandaan hebt. Dat geldt ook voor code die je zelf vertaalt naar het Nederlands. Overtypen van code uit een Youtube-video of een tutorial van internet volgen en dat resultaat inleveren is niet toegestaan.
-- Je gebruikt de startcode die je krijgt.
-- Je gebruikt het stappenplan dat in README.md van het template staat.
-- Een download in zip-formaat van je opdracht mag maximaal 50 MB groot zijn.
-
-**Werking en aantrekkelijkheid**
-- Spel start op
-- Het spel werkt (hoe klein ook)
-- Behaalde punten zijn zichtbaar bij game-over
-- Het doel en de bediening van het spel is duidelijk
-- Aantrekkelijk uiterlijk
-- Prettige bediening
-- Eenvoudig om mee te beginnen en moeilijker als je verder komt
-- Afwisselend
-
-**Techniek**
-- De code volgt de lijn van het template
-- De code is netjes en duidelijk leesbaar
-- De code bevat geen dubbele stukken code
-- Je hebt de technieken gebruikt die in de programmeerlessen zijn aangeboden.
-- Je hebt dingen toegevoegd waarvan je zelf hebt uitgezocht hoe ze werken
-
-**Inzet, planning en samenwerking**
-- Je toont inzet tijdens de lessen
-- De planning is vooraf gemaakt, gevolgd en als nodig bijgesteld.
-- De taakverdeling is duidelijk en alle teamleden dragen in gelijke mate bij.
-- Het werk is verdeeld over de weken waarin aan de opdracht kon worden gewerkt.
-{{% /expand %}}
 
 {{% expand "Inleveren" %}}
-- De deadline voor inleveren vind je in de lesplanner.
-- Je kunt vragen stellen tot de laatste les voor de deadline.
-- Je zorgt dat alle bestanden in die nodig zijn om je spel te spelen in GitHub staan, dit zijn ten minste: index.html, style.css en script.js. Als je plaatjes gebruikt, dan staan die er ook bij.
-- Je zorgt dat het README.md bestand met je planning aanwezig is. Je hebt aangegeven welke onderdelen gereed zijn. Uit de versie historie in GitHub blijkt hoe je je planning tussentijds hebt gevolgd en bijgesteld. 
-- De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
+-	De demonstratie van de knikkerbaan is op een nog nader te bepalen moment in de week van 23 januari 2023. De deadline voor het inleveren van het GitHub repository zondag 29 januari 2022 23:59.
+-	De laatste versie van de main branch die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
 
-## Startcode
-{{<figure src="../game_github.png" link="https://github.com/emmauscollege/4HV-game-template">}}
 
-<!--
-[![Open GitHub](https://img.shields.io/badge/open-GitHub-brightgreen)](https://github.com)
-[![Open Gitpod](https://img.shields.io/badge/open-Gitpod-brightgreen)](https://gitpod.io)
-[![Open Replit](https://img.shields.io/badge/open-Replit-brightgreen)](https://replit.com)
--->
+{{% expand "Hulpmiddelen" %}}
+- **GitHub** - zodat iedereen aan de code kan werken en alles wel netjes op één plek staat. Daarnaast maken we gebruik van extra functies van GitHub om goed projectmatig te kunnen werken.
+-	**GitPod** - voor het ontwerpen/ programmeren van de server-app, database en de website. Je programmeert deze onderdelen vooral in JavaScript.
+-	**Arduino** - voor het programmeren van de knikkerbaan.
+{{% /expand %}}
 
-<!--
-## Planning
-{{<figure src="planning-preview.png" link="planning.pptx">}}
-gebruiken we liever de pdf (universeel viewable) of pptx (brondocument, snel editbaar)
--->
 
-## Uitlegvideo's
-{{<youtube id="videoseries?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
-  
-<i>
-- algemene gitpod en rpelit link
-- stappenplan en uitleg van de repo en gebruikte technieken zet je in de readme
-- rijkere uitleg zoals video's of code voorbeelden zetten we op de website
-- zet in de description van de repo een link naar informatica.emmauscollege.nl
-- hoe verspreiden we de link naar het google-docs document waarin leerlingen zich opgeven voor de groepjes en hun github account opgeven?  => op de pagina van de opdracht en dan bovenaan bij de opdracht een kopje "inschrijven voor deze opdracht" toevoegen.
-</i>
+{{% expand "Beoordeling" %}}
+De opdracht wordt op de volgende aspecten beoordeeld, waarbij de vragen niet uitputtend beschreven zijn:
+-	**Knikkerbaan** - Hoeveel uitbreidingen zijn er aan de basis toegevoegd? Hoe functioneert de knikkerbaan? Hoe is de totale afwerking?
+-	**Arduino** - Hoe is de kwaliteit van de code? Zitten er nieuwe classes in? Hoe objectgeoriënteerd is het geheel van de code? Is de code een rommeltje of is het netjes? Werkt de knikkerbaan soepel?
+-	**Server** – Is de server in staat om nieuwe informatie aan te nemen, op te slaan in het data-object en opgevraagde informatie netjes terug te geven? Is de code netjes of is het een rommeltje?
+-	**Widget** - Doet de widget wat het moet doen? Hoeveel interactiviteit met de knikkerbaan wordt hierdoor mogelijk? Zitten er nieuwe classes in? Hoe objectgeoriënteerd is het geheel van de code? Is de code netjes? Is de widget mooi?
+-	**Planning** - Is het project onderverdeeld in features en taken (decompositie), weergegeven in issues? Is het scrumboard altijd goed bijgehouden? Zijn er tweewekelijks evaluaties aan het verslag toegevoegd? Is er gebruik gemaakt van bug reports of andere geavanceerde ondersteunende functies?
+-	**Verslag** - Bevat het verslag de aangegeven onderdelen? Hoe goed is de documentatie / uitleg van wat de knikkerbaan kan / doet?
+- **Inzet** – Welke inzet heb je getoond bij het maken van deze opdracht en het samenwerken in de groep?
 
-</i>    
 
+Er wordt verwacht dat elk teamlid een gelijkwaardige bijdrage levert. Je mag taken verdelen, maar aan het einde van de opdracht wordt van alle teamleden verwacht dat zij dezelfde kennis hebben van alle onderdelen van de opdracht. Bij twijfel kan de docent dit toetsen in een kort gesprek met de teamleden en onderzoeken welke commits door teamleden zijn gedaan. Het staat de docent vrij om aan groepsleden verschillende cijfers toe te kennen op basis van hoe en wat zij controleerbaar aan het project hebben bijgedragen.
+{{% /expand %}}
 
