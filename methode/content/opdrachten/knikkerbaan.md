@@ -35,7 +35,7 @@ De knikkerbaanmodule moet uiteindelijk meer sensors en actuators krijgen. Je kun
 
 {{% expand "Hulpmiddelen" %}}
 - **GitHub** - zodat iedereen aan de code kan werken en alles wel netjes op één plek staat. Daarnaast maken we gebruik van extra functies van GitHub om goed projectmatig te kunnen werken.
--	**GitPod** - voor het ontwerpen/ programmeren van de server-app, database en de website. Je programmeert deze onderdelen vooral in JavaScript.
+-	**GitPod** - voor het ontwerpen/ programmeren van de server-app en de website. Je programmeert deze onderdelen vooral in JavaScript.
 -	**Arduino** - voor het programmeren van de knikkerbaan.
 {{% /expand %}}
 
