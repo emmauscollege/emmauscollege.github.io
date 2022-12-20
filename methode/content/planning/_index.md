@@ -303,11 +303,11 @@ Week| Les 1 | Les 2
 
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
- Toetsweek 1 |4H-IN-S01 | Digitale toets | [2.1 Web Design](/theorie/webdesign/#leerdoelen)
- Zondag 22 jan 23:59|4H-IN-S04 | Praktische Opdracht | [3.1 Website](/opdrachten/website/)
- Toetsweek 2 |4H-IN-S02 | Digitale toets | [2.2 Digitale Informatie](/theorie/informatie/#leerdoelen) 
- Zondag 18 jun 23:59|4H-IN-S05 | Praktische Opdracht | [3.2 Game](/opdrachten/game/)
- Toetsweek 3 |4H-IN-S03 | Digitale Toets | [2.3 Programmeren](/theorie/programmeren/#leerdoelen) + [2.4 Algoritmen](/theorie/algoritmen/#leerdoelen)  
+ Toetsweek 1 |4H-IN-S01 | Digitale toets | [T1 Web Design](/theorie/webdesign/#leerdoelen)
+ Zondag 15 jan 23:59|4H-IN-S04 | Praktische Opdracht | [O1 Website](/opdrachten/website/)
+ Toetsweek 2 |4H-IN-S02 | Digitale toets | [T2 Digitale Informatie](/theorie/informatie/#leerdoelen) 
+ Zondag 18 jun 23:59|4H-IN-S05 | Praktische Opdracht | [O2 Game](/opdrachten/game/)
+ Toetsweek 3 |4H-IN-S03 | Digitale Toets | [T3 Programmeren](/theorie/programmeren/#leerdoelen) + [T4 Algoritmen](/theorie/algoritmen/#leerdoelen)  
 
 {{% /tab %}}
 
@@ -326,11 +326,11 @@ Datum        | Code     | Toetsvorm      | Stof
 
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
- Toetsweek 1 |4V-IN-S01 | Digitale toets | [2.1 Web Design](/theorie/webdesign/#leerdoelen)
- Zondag 22 jan 23:59|4V-IN-S04 | Praktische Opdracht | [3.1 Website](/opdrachten/website/)
- Toetsweek 2 |4V-IN-S02 | Digitale toets | [2.2 Digitale Informatie](/theorie/informatie/#leerdoelen) 
- Zondag 18 jun 23:59|4V-IN-S05 | Praktische Opdracht | [3.2 Game](/opdrachten/game/)
- Toetsweek 3 |4V-IN-S03 | Digitale Toets | [2.3 Programmeren](/theorie/programmeren/#leerdoelen) + [2.4 Algoritmen](/theorie/algoritmen/#leerdoelen) 
+ Toetsweek 1 |4V-IN-S01 | Digitale toets | [T1 Web Design](/theorie/webdesign/#leerdoelen)
+ Zondag 15 jan 23:59|4V-IN-S04 | Praktische Opdracht | [O1 Website](/opdrachten/website/)
+ Toetsweek 2 |4V-IN-S02 | Digitale toets | [T2 Digitale Informatie](/theorie/informatie/#leerdoelen) 
+ Zondag 18 jun 23:59|4V-IN-S05 | Praktische Opdracht | [O2 Game](/opdrachten/game/)
+ Toetsweek 3 |4V-IN-S03 | Digitale Toets | [T3 Programmeren](/theorie/programmeren/#leerdoelen) + [T4 Algoritmen](/theorie/algoritmen/#leerdoelen) 
 
 {{% /tab %}}
 
