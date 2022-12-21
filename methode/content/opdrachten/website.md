@@ -80,7 +80,7 @@ Enkele punten waarop gelet kan worden bij de beoordeling van techniek zijn
 ## Hulpmiddelen
 We gebruiken in deze opdracht de volgende tools:
 1. [GitHub](/tools/github/) om je code op te slaan.
-2. [Replit](/tools/replit/) (havo) of [Gitpod](/tools/gitpod/) om je code te bewerken en een voorbeeld van je website te bekijken.
+2. [Replit](/tools/replit/) (havo) of [Gitpod](/tools/gitpod/) (vwo) om je code te bewerken en een voorbeeld van je website te bekijken.
 
 ## Startcode
 Als je van je docent je een kopie van de startcode hebt ontvangen, dan kun je aan de slag met de stappen uit het README.md bestand.
