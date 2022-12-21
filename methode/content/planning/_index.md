@@ -217,7 +217,7 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 47|**TW1**|
 48|[O3 Webshop](/opdrachten/webshop/) Intekenen |[O3 Webshop](/opdrachten/webshop/) Voorbeeldcode ontvangen
 49|[O3 Webshop](/opdrachten/webshop/) Uitleg stap 1 (hoofdlijnen)|[O3 Webshop](/opdrachten/webshop/) Stap 1
-50|[O3 Webshop](/opdrachten/webshop/) Stap 2|[O3 Webshop](/opdrachten/webshop/) Stap 3
+50|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB
 51|[O3 Webshop](/opdrachten/webshop/) uitloop ivm lesuitval|[O3 Webshop](/opdrachten/webshop/) uitloop ivm lesuitval
 52|**Kerstvakantie**|
 1|**Kerstvakantie**|
