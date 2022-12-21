@@ -215,17 +215,17 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 45|[T5 Databases](/theorie/databases/) Uitleg: Ruimtedatabase voorbeeldopgave<br>Maak vooraf: Ruimtedatabase vragen met meerdere tabellen in Woots|[T5 Databases](/theorie/databases/) Oefening: Khan 4 Modifying Databases
 46|**TW1: Toets 5V-IN-S06** over T7 Netwerken|
 47|**TW1**|
-48|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-49|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-50|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-51|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
+48|[O3 Webshop](/opdrachten/webshop/) Intekenen |[O3 Webshop](/opdrachten/webshop/) Voorbeeldcode ontvangen
+49|[O3 Webshop](/opdrachten/webshop/) Uitleg stap 1 (hoofdlijnen)|[O3 Webshop](/opdrachten/webshop/) Stap 1
+50|[O3 Webshop](/opdrachten/webshop/) Stap 2|[O3 Webshop](/opdrachten/webshop/) Stap 3
+51|[O3 Webshop](/opdrachten/webshop/) uitloop ivm lesuitval|[O3 Webshop](/opdrachten/webshop/) uitloop ivm lesuitval
 52|**Kerstvakantie**|
 1|**Kerstvakantie**|
-2|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-3|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-4|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-5|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-6|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
+2|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB
+3|[O3 Webshop](/opdrachten/webshop/) Stap 3 API|[O3 Webshop](/opdrachten/webshop/) Stap 3 API
+4|[O3 Webshop](/opdrachten/webshop/) Stap 4 Web|[O3 Webshop](/opdrachten/webshop/) Stap 4 Web
+5|[O3 Webshop](/opdrachten/webshop/) Stap 5 verbeteren DB |[O3 Webshop](/opdrachten/webshop/) Stap 5 verbeteren API
+6|[O3 Webshop](/opdrachten/webshop/) Stap 5 verbeteren Web|[O3 Webshop](/opdrachten/webshop/) Stap 5 opschonen code
 7|[O3 Webshop](/opdrachten/webshop/)|** 5V-IN-S09 webshop inleveren **
 8|[T6 Robotica](/theorie/robotica) Intro en Arduino uitdelen|[T6 Arduinolessen 1 + 2](/theorie/robotica)
 9|**Voorjaarsvakantie**|
