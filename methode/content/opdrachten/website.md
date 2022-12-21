@@ -126,7 +126,7 @@ Aan het einde van stap 4 heb je een hoofdpagina met teksten en plaatjes.
 {{% /expand %}}
 
 {{% expand "Stap 5: Indeling en opmaak subpagina's" %}}
-1. Je hebt een layout en opmaak voor al je subpagina's gemaakt. Het is handig om voor al je pagina’s dezelfde lay-out en opmaak te gebruiken. 
+1. Je hebt een layout en opmaak voor al je subpagina's gemaakt. Het is handig om voor al je sub-pagina’s dezelfde lay-out en opmaak te gebruiken. 
 
 Aan het einde van stap 5 heb je minimaal vier subpagina's met een goede indeling en opmaak. De plaatjes en tekst op de
 {{% /expand %}}
