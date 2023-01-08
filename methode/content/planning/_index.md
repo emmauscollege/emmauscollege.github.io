@@ -317,7 +317,7 @@ Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |5H-IN-S06 | Digitale toets | [T6 Robotica](/theorie/robotica/#leerdoelen)
  Zondag 13 nov 23:59|5H-IN-S08 | Praktische Opdracht | [O4 Robot](/opdrachten/robot/)
- Zondag 26 feb 23:59|5H-IN-S09 | Praktische Opdracht | [O3 Webshop](/opdrachten/webshop/)
+ Zondag 19 feb 23:59|5H-IN-S09 | Praktische Opdracht | [O3 Webshop](/opdrachten/webshop/)
  Toetsweek 2 |5H-IN-S07 | Digitale toets | [T5 Databases](/theorie/databases/#leerdoelen)  
       
 {{% /tab %}}
