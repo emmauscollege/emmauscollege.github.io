@@ -10,9 +10,11 @@ Je gaat je eigen webshop maken!
 De opdracht in het kort is: Maak in groepjes van twee of drie je eigen webshop. Je gebruikt de startcode en breidt de database uit met jouw producten. De api en het website deel pas je aan waar dat nodig is.
 
 {{% expand "Inschrijven" %}}
-Je schrijft je in via het onderstaande formulier dat de docent aanlevert. 
+Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je schoolmail voor toegang). 
 - [5V GEE 22/23](https://docs.google.com/spreadsheets/d/1LmYi8GHKjSaOO6IN2n_X9oQ5JFMEqZ0w)
 - [5V CAM 22/23](https://docs.google.com/spreadsheets/d/1LnDnAww361misiJUaNj_SijMhd_Cdczd)
+- [5H GEE 22/23](https://docs.google.com/spreadsheets/d/1StIqH7tclQZjS7oX_BiWJp6Z90tkvBkA)
+- [5H GEE 22/23](https://docs.google.com/spreadsheets/d/1StFYJEVBbmefIa_VhgPbuKIorNuTJIEA)
 {{% /expand %}}
 
 {{% expand "Kies wat je gaat verkopen" %}}
