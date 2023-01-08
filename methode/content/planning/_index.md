@@ -123,14 +123,14 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 52|**Kerstvakantie**|
 1|**Kerstvakantie**|
 2|[T5 Oefentoets](/theorie/databases/) 1e helft |[T5 Oefentoets](/theorie/databases/) 2e helft
-3|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-4|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-5|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-6|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-7|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-8|[O3 Webshop](/opdrachten/webshop/)|**PO 5H-IN-S08 webshop inleveren**
+3|[O3 Webshop](/opdrachten/webshop/)Intekenen + uitleg hoofdlijnen|[O3 Webshop](/opdrachten/webshop/) Repo ontvangen + Stap 1
+4|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB
+5|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB
+6|[O3 Webshop](/opdrachten/webshop/) Stap 3 API|[O3 Webshop](/opdrachten/webshop/) Stap 3 API
+7|[O3 Webshop](/opdrachten/webshop/) Stap 4 Web|**PO 5H-IN-S08 webshop inleveren**
+8|nader te bepalen|nader te bepalen
 9|**Voorjaarsvakantie**|
-10|nader te bepalen|nader te bepalen
+10|toetsvoorbereiding|toetsvoorbereiding
 11|**TW2: Toets 5H-IN-S07** over T5 Databases|
 12|**TW2**|
 13|nader te bepalen|nader te bepalen
