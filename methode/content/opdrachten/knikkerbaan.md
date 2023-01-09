@@ -39,6 +39,9 @@ De knikkerbaanmodule moet uiteindelijk meer sensors en actuators krijgen. Je kun
 -	**Arduino** - voor het programmeren van de knikkerbaan.
 {{% /expand %}}
 
+{{% expand "Video's" %}}
+[Video's over de communicatie met de server](https://www.youtube.com/playlist?list=PLpTljPS--R5AZC4EHBCfVbpz_ABGv64HV)
+{{% /expand %}}
 
 {{% expand "Beoordeling" %}}
 De opdracht wordt op de volgende aspecten beoordeeld, waarbij de vragen niet uitputtend beschreven zijn:
