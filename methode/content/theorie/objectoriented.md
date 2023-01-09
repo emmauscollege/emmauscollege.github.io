@@ -5,6 +5,7 @@ weight = 8
 
 Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren waarbij data en logica gebundeld zijn in objecten. We leren dit voor zowel JavaScript als C++.
 
+<!--more-->
 
 ## Theorie
 - [Theorie objectgeoriënteerd programmeren](../objectoriented_theorie)

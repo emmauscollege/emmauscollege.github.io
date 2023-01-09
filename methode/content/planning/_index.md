@@ -123,14 +123,14 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 52|**Kerstvakantie**|
 1|**Kerstvakantie**|
 2|[T5 Oefentoets](/theorie/databases/) 1e helft |[T5 Oefentoets](/theorie/databases/) 2e helft
-3|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-4|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-5|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-6|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-7|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-8|[O3 Webshop](/opdrachten/webshop/)|**PO 5H-IN-S08 webshop inleveren**
+3|[O3 Webshop](/opdrachten/webshop/)Intekenen + uitleg hoofdlijnen|[O3 Webshop](/opdrachten/webshop/) Repo ontvangen + Stap 1
+4|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB
+5|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB
+6|[O3 Webshop](/opdrachten/webshop/) Stap 3 API|[O3 Webshop](/opdrachten/webshop/) Stap 3 API
+7|[O3 Webshop](/opdrachten/webshop/) Stap 4 Web|**PO 5H-IN-S08 webshop inleveren**
+8|nader te bepalen|nader te bepalen
 9|**Voorjaarsvakantie**|
-10|nader te bepalen|nader te bepalen
+10|toetsvoorbereiding|toetsvoorbereiding
 11|**TW2: Toets 5H-IN-S07** over T5 Databases|
 12|**TW2**|
 13|nader te bepalen|nader te bepalen
@@ -215,17 +215,17 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 45|[T5 Databases](/theorie/databases/) Uitleg: Ruimtedatabase voorbeeldopgave<br>Maak vooraf: Ruimtedatabase vragen met meerdere tabellen in Woots|[T5 Databases](/theorie/databases/) Oefening: Khan 4 Modifying Databases
 46|**TW1: Toets 5V-IN-S06** over T7 Netwerken|
 47|**TW1**|
-48|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-49|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-50|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-51|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
+48|[O3 Webshop](/opdrachten/webshop/) Intekenen |[O3 Webshop](/opdrachten/webshop/) Voorbeeldcode ontvangen
+49|[O3 Webshop](/opdrachten/webshop/) Uitleg stap 1 (hoofdlijnen)|[O3 Webshop](/opdrachten/webshop/) Stap 1
+50|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB
+51|[O3 Webshop](/opdrachten/webshop/) uitloop ivm lesuitval|[O3 Webshop](/opdrachten/webshop/) uitloop ivm lesuitval
 52|**Kerstvakantie**|
 1|**Kerstvakantie**|
-2|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-3|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-4|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-5|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
-6|[O3 Webshop](/opdrachten/webshop/)|[O3 Webshop](/opdrachten/webshop/)
+2|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB
+3|[O3 Webshop](/opdrachten/webshop/) Stap 3 API|[O3 Webshop](/opdrachten/webshop/) Stap 3 API
+4|[O3 Webshop](/opdrachten/webshop/) Stap 4 Web|[O3 Webshop](/opdrachten/webshop/) Stap 4 Web
+5|[O3 Webshop](/opdrachten/webshop/) Stap 5 verbeteren DB |[O3 Webshop](/opdrachten/webshop/) Stap 5 verbeteren API
+6|[O3 Webshop](/opdrachten/webshop/) Stap 5 verbeteren Web|[O3 Webshop](/opdrachten/webshop/) Stap 5 opschonen code
 7|[O3 Webshop](/opdrachten/webshop/)|** 5V-IN-S09 webshop inleveren **
 8|[T6 Robotica](/theorie/robotica) Intro en Arduino uitdelen|[T6 Arduinolessen 1 + 2](/theorie/robotica)
 9|**Voorjaarsvakantie**|
@@ -303,11 +303,11 @@ Week| Les 1 | Les 2
 
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
- Toetsweek 1 |4H-IN-S01 | Digitale toets | [2.1 Web Design](/theorie/webdesign/#leerdoelen)
- Zondag 22 jan 23:59|4H-IN-S04 | Praktische Opdracht | [3.1 Website](/opdrachten/website/)
- Toetsweek 2 |4H-IN-S02 | Digitale toets | [2.2 Digitale Informatie](/theorie/informatie/#leerdoelen) 
- Zondag 18 jun 23:59|4H-IN-S05 | Praktische Opdracht | [3.2 Game](/opdrachten/game/)
- Toetsweek 3 |4H-IN-S03 | Digitale Toets | [2.3 Programmeren](/theorie/programmeren/#leerdoelen) + [2.4 Algoritmen](/theorie/algoritmen/#leerdoelen)  
+ Toetsweek 1 |4H-IN-S01 | Digitale toets | [T1 Web Design](/theorie/webdesign/#leerdoelen)
+ Zondag 15 jan 23:59|4H-IN-S04 | Praktische Opdracht | [O1 Website](/opdrachten/website/)
+ Toetsweek 2 |4H-IN-S02 | Digitale toets | [T2 Digitale Informatie](/theorie/informatie/#leerdoelen) 
+ Zondag 18 jun 23:59|4H-IN-S05 | Praktische Opdracht | [O2 Game](/opdrachten/game/)
+ Toetsweek 3 |4H-IN-S03 | Digitale Toets | [T3 Programmeren](/theorie/programmeren/#leerdoelen) + [T4 Algoritmen](/theorie/algoritmen/#leerdoelen)  
 
 {{% /tab %}}
 
@@ -317,7 +317,7 @@ Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |5H-IN-S06 | Digitale toets | [T6 Robotica](/theorie/robotica/#leerdoelen)
  Zondag 13 nov 23:59|5H-IN-S08 | Praktische Opdracht | [O4 Robot](/opdrachten/robot/)
- Zondag 26 feb 23:59|5H-IN-S09 | Praktische Opdracht | [O3 Webshop](/opdrachten/webshop/)
+ Zondag 19 feb 23:59|5H-IN-S09 | Praktische Opdracht | [O3 Webshop](/opdrachten/webshop/)
  Toetsweek 2 |5H-IN-S07 | Digitale toets | [T5 Databases](/theorie/databases/#leerdoelen)  
       
 {{% /tab %}}
@@ -326,11 +326,11 @@ Datum        | Code     | Toetsvorm      | Stof
 
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
- Toetsweek 1 |4V-IN-S01 | Digitale toets | [2.1 Web Design](/theorie/webdesign/#leerdoelen)
- Zondag 22 jan 23:59|4V-IN-S04 | Praktische Opdracht | [3.1 Website](/opdrachten/website/)
- Toetsweek 2 |4V-IN-S02 | Digitale toets | [2.2 Digitale Informatie](/theorie/informatie/#leerdoelen) 
- Zondag 18 jun 23:59|4V-IN-S05 | Praktische Opdracht | [3.2 Game](/opdrachten/game/)
- Toetsweek 3 |4V-IN-S03 | Digitale Toets | [2.3 Programmeren](/theorie/programmeren/#leerdoelen) + [2.4 Algoritmen](/theorie/algoritmen/#leerdoelen) 
+ Toetsweek 1 |4V-IN-S01 | Digitale toets | [T1 Web Design](/theorie/webdesign/#leerdoelen)
+ Zondag 15 jan 23:59|4V-IN-S04 | Praktische Opdracht | [O1 Website](/opdrachten/website/)
+ Toetsweek 2 |4V-IN-S02 | Digitale toets | [T2 Digitale Informatie](/theorie/informatie/#leerdoelen) 
+ Zondag 18 jun 23:59|4V-IN-S05 | Praktische Opdracht | [O2 Game](/opdrachten/game/)
+ Toetsweek 3 |4V-IN-S03 | Digitale Toets | [T3 Programmeren](/theorie/programmeren/#leerdoelen) + [T4 Algoritmen](/theorie/algoritmen/#leerdoelen) 
 
 {{% /tab %}}
 
