@@ -3,7 +3,8 @@ title = "O5. Marble Mania Knikkerbaan"
 weight = 5
 +++
 
-Je maakt een interactieve module voor een grotere knikkerbaan
+Je maakt een interactieve module voor een grotere knikkerbaan.
+<!--more-->
 
 ## Opdrachtbeschrijving
 In het vakgebied van informatica wordt heel veel projectmatig gewerkt. Een van de manieren om dit te doen is Agile. Bij deze opdracht ga je in groepen van 4 (één leerling meer of minder mag ook) projectmatig werken aan een interactieve knikkerbaan die verbonden is met een zelfgemaakte webserver. Hierbij ga je de kennis en vaardigheden die bij het vak informatica hebt opgedaan toepassen en integreren. Je levert een eindproduct op maar je wordt ook beoordeeld op de wijze waarop dit project gemanaged wordt.
