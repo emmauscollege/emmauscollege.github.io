@@ -25,7 +25,7 @@ defaultContentLanguage = "en"
 title = "Informatica Emmauscollege Rotterdam"
 
 # setting the Tracking ID / Google Tag for google analytics, we use google analytics v4
-googleAnalytics = "G-8X5DQ9T3E4"
+googleAnalytics = "G-DF99ESV8P9"
 
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explaination
