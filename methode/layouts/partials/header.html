@@ -24,8 +24,6 @@
     {{- partial "stylesheet.html" . }}
     {{- partial "custom-header.html" . }}
   </head>
-  <!--include google analytics code in each page-->
-  {{ template "_internal/google_analytics.html" . }}
   <body class="mobile-support{{ if eq (.Scratch.Get "relearnOutputFormat") "PRINT" }} print{{ end }}" data-url="{{ .RelPermalink }}">
     <div id="body" class="default-animation">
       <div id="sidebar-overlay"></div>
