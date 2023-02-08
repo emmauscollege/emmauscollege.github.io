@@ -105,17 +105,23 @@ Aan het einde van stap 1 heb je de voorbeeldwebsite van je docent waarin je zelf
 3. Je maakt een html-bestand voor alle pagina’s. De titel en het menu staan erop, maar de inhoud nog niet. 
 4. Je hebt een werkend menu waarmee je naar de verschillende pagina’s kunt gaan, de layout kun je later nog aanpassen en mooi maken. 
 
-Aan het einde van stap 2 heb je een werkend menu met minimaal vier lege subpagina's.
+Aan het einde van stap 2 heb je een werkend menu met minimaal drie lege subpagina's.
 {{% /expand %}}
 
 {{% expand "Stap 3: Indeling en opmaak hoofdpagina" %}}
-1. Je hebt de indeling (lay-out in het Engels, dat is de plek waar elk onderdeel van je pagina op het scherm komt) van je hoofdpagina gekozen.
-2. HAVO: Voor de layout heb je het ontwerp van de voorbeeldwebsite uitgebreid en aangepast aan jouw onderwerp 
-3. VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
-4. Je hebt de onderdelen uit de layout in je html benoemd met tags, classes en/of ID’s. Je hebt met CSS ervoor gezorgd dat deze onderdelen op de juiste plaats op de pagina worden weergegeven. De tekst en de plaatjes zijn nog niet ingevuld, daarvoor gebruik je tijdelijk een willekeurige tekst of plaatjes zoals in de voorbeeldsite.
-5. Je hebt opmaak zoals kleuren, lettertypen en kaders in css toegevoegd aan de onderdelen in je layout.
+Let op: In deze stap ga je nog geen plaatjes zoeken en teksten maken, dat komt in de volgende stap. 
 
-Aan het einde van stap 3 heb je een hoofdpagina met een goede indeling en opmaak. 
+1. Je hebt de layout van je hoofdpagina bepaald. Leg de layout vast in een wireframe. Een wireframe is een tekening waarin elke box op je pagina als een rechthoek getekend is.
+2. Je hebt in html voor alle onderdelen uit de layout een tag opgenomen en aan de tags heb je classes toegevoegd.
+3. Je hebt met css ervoor gezorgd dat alle onderdelen op de juiste plaats op de pagina worden weergegeven. 
+4. Je hebt opmaak zoals kleuren, lettertypen en kaders in css toegevoegd aan de onderdelen in je layout.
+
+Je kunt een wireframe bijvoorbeeld als volgt maken
+- op https://draw.io
+- in Powerpoint
+- op papier en dan fotograferen (het is dan wel lastig om het netjes te doen)
+
+Aan het einde van stap 3 heb je een hoofdpagina met een goede indeling en opmaak. De tekst en de plaatjes zijn nog niet ingevuld, daarvoor gebruik je tijdelijk een willekeurige tekst of plaatjes zoals in de voorbeeldsite.
 {{% /expand %}}
 
 {{% expand "Stap 4: Plaatjes en tekst hoofdpagina" %}}
@@ -128,18 +134,18 @@ Aan het einde van stap 4 heb je een hoofdpagina met teksten en plaatjes.
 {{% expand "Stap 5: Indeling en opmaak subpagina's" %}}
 1. Je hebt een layout en opmaak voor al je subpagina's gemaakt. Het is handig om voor al je sub-pagina’s dezelfde lay-out en opmaak te gebruiken. 
 
-Aan het einde van stap 5 heb je minimaal vier subpagina's met een goede indeling en opmaak. De plaatjes en tekst op de
+Aan het einde van stap 5 heb je minimaal drie subpagina's met een goede indeling en opmaak. De tekst en de plaatjes zijn nog niet ingevuld, daarvoor gebruik je tijdelijk een willekeurige tekst of plaatjes zoals in de voorbeeldsite.
 {{% /expand %}}
 
 {{% expand "Stap 6: Plaatjes en tekst subpagina's" %}}
 1. Je hebt de tekst en plaatjes voor al je subpagina's gemaakt.
 
-Aan het einde van stap 6 heb je minimaal vier subpagina's met teksten en plaatjes.
+Aan het einde van stap 6 heb je minimaal drie subpagina's met teksten en plaatjes.
 {{% /expand %}}
 
 {{% expand "Stap 7: Perfectioneren" %}}
 1. Je hebt slordigheden in de lay-out, kleuren en inhoud gerepareerd. 
-2. Je hebt gezorgd dat je HTML en CSS goed leesbaar zijn (geen herhaling, uit logische onderdelen opgebouwd, inclusief commentaar, …)
+2. Je hebt gezorgd dat je HTML en CSS goed leesbaar zijn (geen herhaling, namen van classes die aangeven wat erin zit in plaats van hoe het eruit ziet, uit logische onderdelen opgebouwd, inclusief commentaar, …)
 3. Je hebt gecontroleerd of de lay-out werkt op een groter venster, een kleiner venster, een ander apparaat en andere browser. 
 
 Aan het einde van stap 7 zijn alle kleine foutjes uit je website verdwenen.
