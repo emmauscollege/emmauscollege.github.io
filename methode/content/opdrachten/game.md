@@ -104,19 +104,19 @@ Werk de planning af van boven naar beneden. Vul de planning aan en stel bij terw
 10. maak uitlegscherm en game-overscherm
 {{% /expand %}}
 
-{{% expand "Stap 2: schieten of springen" %}}
+{{% expand "Stap 2: bijvoorbeeld schieten of springen" %}}
 1. zelf uitwerken...
 2. zelf uitwerken...
 3. zelf uitwerken...
 {{% /expand %}}
 
-{{% expand "Stap 3: meer tegenstanders" %}}
+{{% expand "Stap 3: bijvoorbeeld meer tegenstanders" %}}
 1. zelf uitwerken...
 2. zelf uitwerken...
 3. zelf uitwerken...
 {{% /expand %}}
 
-{{% expand "Stap x: meer ideeen voor uitbreidingen" %}}
+{{% expand "Stap x: meer voorbeelden voor uitbreidingen" %}}
 1. Gebruik plaatjes voor de vijanden
 2. Animeer speler
 3. Laat badges vallen die extra's aan speler geven
@@ -124,7 +124,7 @@ Werk de planning af van boven naar beneden. Vul de planning aan en stel bij terw
 5. Maak andere vijanden bij toenemen tekenVijand
 6. Laat vijanden bewegen in patronen
 7. Maak bediening met touch of bewegen van telefoon mogelijk (zorg dat toetsenbordbediening ook blijft werken)
-8.  ...
+8. of bedenk zelf iets...
 {{% /expand %}}
 
 ## Uitlegvideo's
