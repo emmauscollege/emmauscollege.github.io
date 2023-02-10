@@ -24,6 +24,9 @@ defaultContentLanguage = "en"
 # the site's title of this showcase; you should change this ;-)
 title = "Informatica Emmauscollege Rotterdam"
 
+# setting the Tracking ID / Google Tag for google analytics, we use google analytics v4
+googleAnalytics = "G-DF99ESV8P9"
+
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explaination
 [params]
@@ -38,6 +41,7 @@ title = "Informatica Emmauscollege Rotterdam"
   titleSeparator = "::"
   themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
   disableSeoHiddenPages = true
+  
   # this is for the stylesheet genertor to allow for interactivity in mermaid
   # graphs; you usually will not need it and you should remove this for
   # security reasons
@@ -143,4 +147,3 @@ title = "Informatica Emmauscollege Rotterdam"
     url = "docenten/"
     weight = 400
 
-  
