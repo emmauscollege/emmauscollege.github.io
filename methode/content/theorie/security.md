@@ -4,6 +4,7 @@ weight = 9
 +++
 
 Over de beveiliging van computers en data.
+<!--more-->
 
 ## Theorie
 - [Informatica Actief - Security en Privacy](https://moodle.informatica-actief.nl/course/view.php?id=909), theorie 1 t/m 3
