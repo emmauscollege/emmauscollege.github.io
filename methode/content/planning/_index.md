@@ -75,22 +75,22 @@ Week|Theorie (enkel uur)|Praktijk (blokuur)
 5|[T3 Programmeren](/theorie/programmeren/) Uitleg: functies|[T3 Oefening](/theorie/programmeren/) Khan t/m 11 Logic and if statements
 6|[T3 Programmeren](/theorie/programmeren/) Uitleg: logica en if|[T3 Oefening](/theorie/programmeren/) Khan t/m 13 Loopings
 7|[T3 Programmeren](/theorie/programmeren/) Uitleg: loops (les) arrays (thuis kijken)|[T3 Oefening](/theorie/programmeren/) Khan t/m 15 Arrays
-8|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: stroomdiagrammen|[O2 Game](/opdrachten/game/) eerste wijziging gemaakt
+8|uitloop|uitloop
 9|**Voorjaarsvakantie**|
-10|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: lijsten|[O2 Game](/opdrachten/game/) speler beweegt
+10|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: stroomdiagrammen|[O2 Game](/opdrachten/game/) eerste wijziging gemaakt
 11|**TW2: Toets 4H-IN-S02** over T2 Informatie|
 12|**TW2**|
-13|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: nesten|[O2 Game](/opdrachten/game/) vijand
-14|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 2|[O2 Game](/opdrachten/game/) botsingdetectie + afgaan
-15|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 4|[O2 Game](/opdrachten/game/) punten + gameoverscherm
-16|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 6|[O2 Game](/opdrachten/game/) uitlegscherm (je hebt nu een speelbaar spel)
+13|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: lijsten|[O2 Game](/opdrachten/game/) speler beweegt
+14|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: nesten|[O2 Game](/opdrachten/game/) vijand
+15|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 2|[O2 Game](/opdrachten/game/) botsingdetectie + afgaan
+16|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 4|[O2 Game](/opdrachten/game/) punten + gameoverscherm
 17|**meivakantie**|
 18|**meivakantie**|
-19|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 8|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
-20|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 10|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
-21|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: bubble sort (geen leerdoel)|[O2 Game](/opdrachten/game/) uitbreiding 1 af
-22|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: kortste pad (geen leerdoel)| **PO 4H-IN-S05 game inleveren**
-23|nog niet bepaald|nog niet bepaald
+19|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 6|[O2 Game](/opdrachten/game/) uitlegscherm (je hebt nu een speelbaar spel)
+20|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 8|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
+21|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 10|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
+22|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: bubble sort (geen leerdoel)|[O2 Game](/opdrachten/game/) uitbreiding 1 af
+23|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: kortste pad (geen leerdoel)| **PO 4H-IN-S05 game inleveren**
 24|nog niet bepaald|nog niet bepaald
 25|**TW3: Toets 4H-IN-S03** over T3 Programmeren + T4 Algoritmen|
 26|**TW3**|
@@ -174,22 +174,22 @@ Week|Les 1 theorie|Les 2+3 praktijk
 5|[T3 Programmeren](/theorie/programmeren/) Uitleg: functies|[T3 Oefening](/theorie/programmeren/) Khan t/m 11 Logic and if statements
 6|[T3 Programmeren](/theorie/programmeren/) Uitleg: logica en if|[T3 Oefening](/theorie/programmeren/) Khan t/m 13 Loopings
 7|[T3 Programmeren](/theorie/programmeren/) Uitleg: loops (les) arrays (thuis kijken)|[T3 Oefening](/theorie/programmeren/) Khan t/m 15 Arrays
-8|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: stroomdiagrammen|[O2 Game](/opdrachten/game/) eerste wijziging gemaakt
+8|Uitloop|Uitloop
 9|**Voorjaarsvakantie**|
-10|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: lijsten|[O2 Game](/opdrachten/game/) speler beweegt
+10|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: stroomdiagrammen|[O2 Game](/opdrachten/game/) eerste wijziging gemaakt
 11|**TW2: Toets 4V-IN-S02** over T2 Informatie|
 12|**TW2**|
-13|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: nesten|[O2 Game](/opdrachten/game/) vijand
-14|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 2|[O2 Game](/opdrachten/game/) botsingdetectie + afgaan
-15|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 4|[O2 Game](/opdrachten/game/) punten + gameoverscherm
-16|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 6|[O2 Game](/opdrachten/game/) uitlegscherm (je hebt nu een speelbaar spel)
+13|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: lijsten|[O2 Game](/opdrachten/game/) speler beweegt
+14|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: nesten|[O2 Game](/opdrachten/game/) vijand
+15|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 2|[O2 Game](/opdrachten/game/) botsingdetectie + afgaan
+16|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 4|[O2 Game](/opdrachten/game/) punten + gameoverscherm
 17|**meivakantie**|
 18|**meivakantie**|
-19|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 8|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
-20|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 10|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
-21|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: bubble sort (geen leerdoel)|[O2 Game](/opdrachten/game/) uitbreiding 1 af
-22|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: kortste pad (geen leerdoel)| **PO 4V-IN-S05 game inleveren**
-23|nog niet bepaald|nog niet bepaald
+19|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 6|[O2 Game](/opdrachten/game/) uitlegscherm (je hebt nu een speelbaar spel)
+20|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 8|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
+21|[T4 Algoritmen](/theorie/algoritmen/) Oefenen: eenvoudige algoritmen t/m 10|[O2 Game](/opdrachten/game/) werk aan uitbreiding 1
+22|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: bubble sort (geen leerdoel)|[O2 Game](/opdrachten/game/) uitbreiding 1 af
+23|[T4 Algoritmen](/theorie/algoritmen/) Uitleg: kortste pad (geen leerdoel)| **PO 4V-IN-S05 game inleveren**
 24|nog niet bepaald|nog niet bepaald
 25|**TW3: Toets 4V-IN-S03** over T3 Programmeren + T4 Algoritmen|
 26|**TW3**|
@@ -306,7 +306,7 @@ Datum        | Code     | Toetsvorm      | Stof
  Toetsweek 1 |4H-IN-S01 | Digitale toets | [T1 Web Design](/theorie/webdesign/#leerdoelen)
  Zondag 15 jan 23:59|4H-IN-S04 | Praktische Opdracht | [O1 Website](/opdrachten/website/)
  Toetsweek 2 |4H-IN-S02 | Digitale toets | [T2 Digitale Informatie](/theorie/informatie/#leerdoelen) 
- Zondag 4 jun 23:59|4H-IN-S05 | Praktische Opdracht | [O2 Game](/opdrachten/game/)
+ Zondag 11 jun 23:59|4H-IN-S05 | Praktische Opdracht | [O2 Game](/opdrachten/game/)
  Toetsweek 3 |4H-IN-S03 | Digitale Toets | [T3 Programmeren](/theorie/programmeren/#leerdoelen) + [T4 Algoritmen](/theorie/algoritmen/#leerdoelen)  
 
 {{% /tab %}}
@@ -329,7 +329,7 @@ Datum        | Code     | Toetsvorm      | Stof
  Toetsweek 1 |4V-IN-S01 | Digitale toets | [T1 Web Design](/theorie/webdesign/#leerdoelen)
  Zondag 15 jan 23:59|4V-IN-S04 | Praktische Opdracht | [O1 Website](/opdrachten/website/)
  Toetsweek 2 |4V-IN-S02 | Digitale toets | [T2 Digitale Informatie](/theorie/informatie/#leerdoelen) 
- Zondag 4 jun 23:59|4V-IN-S05 | Praktische Opdracht | [O2 Game](/opdrachten/game/)
+ Zondag 11 jun 23:59|4V-IN-S05 | Praktische Opdracht | [O2 Game](/opdrachten/game/)
  Toetsweek 3 |4V-IN-S03 | Digitale Toets | [T3 Programmeren](/theorie/programmeren/#leerdoelen) + [T4 Algoritmen](/theorie/algoritmen/#leerdoelen) 
 
 {{% /tab %}}
