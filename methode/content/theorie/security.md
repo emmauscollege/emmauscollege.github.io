@@ -10,7 +10,7 @@ Over de beveiliging van computers en data.
 - [Informatica Actief - Security en Privacy](https://moodle.informatica-actief.nl/course/view.php?id=909), theorie 1 t/m 3
 - [Reader security](../Module-SECURITY-H1-H6.pdf), hoofdstuk 2 t/m 6
 - [Handout lespresentaties](../handout-security-2223.pdf)
-- Overige materiaal op deze pagina
+- Overig materiaal op deze pagina
 
 ## Naslagmateriaal toets
 - wordt spoedig aangeleverd
