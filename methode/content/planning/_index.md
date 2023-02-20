@@ -128,9 +128,9 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 5|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB
 6|[O3 Webshop](/opdrachten/webshop/) Stap 3 API|[O3 Webshop](/opdrachten/webshop/) Stap 3 API
 7|[O3 Webshop](/opdrachten/webshop/) Stap 4 Web|**PO 5H-IN-S08 webshop inleveren**
-8|nader te bepalen|nader te bepalen
+8|herhaling: T5 Databases queries met 1 tabel|herhaling: T5 Databases queries met 1 tabel
 9|**Voorjaarsvakantie**|
-10|toetsvoorbereiding|toetsvoorbereiding
+10|herhaling: T5 Databases queries met meerdere tabellen|herhaling: T5 Databases queries met meerdere tabellen
 11|**TW2: Toets 5H-IN-S07** over T5 Databases|
 12|**TW2**|
 13|nader te bepalen|nader te bepalen
