@@ -133,10 +133,10 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 10|herhaling: T5 Databases queries met meerdere tabellen|herhaling: T5 Databases queries met meerdere tabellen
 11|**TW2: Toets 5H-IN-S07** over T5 Databases|
 12|**TW2**|
-13|herhaling: voor herkansing|herhaling: voor herkansing
-14|herhaling: voor herkansing|**informatica afgerond**
-15|herhaling: andere vakken|herhaling: andere vakken
-16|nherhaling: andere vakken|herhaling: andere vakken
+13|wel les, herhaling voor herkansing|wel les, herhaling voor herkansing
+14|wel les, herhaling voor herkansing|**informatica afgerond**
+15|wel les, herhaling voor andere vakken|wel les, herhaling voor andere vakken
+16|wel les, herhaling voor andere vakken|wel les, herhaling voor andere vakken
 17|**meivakantie**|
 18|**meivakantie**|**examencijfer informatica bekend**
 19|**CE** |**geen CE voor informatica**
