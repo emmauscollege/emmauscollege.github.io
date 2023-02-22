@@ -10,12 +10,13 @@ Je gaat je eigen game programmeren!
 De opdracht in het kort is: Maak in groepjes van twee je eigen spel in JavaScript. Je gebruikt de startcode en maakt gebruik van de p5js-library.
 
 {{% expand "Inschrijven" %}}
-Je schrijft je in via het onderstaande formulier dat de docent aanlevert. 
-- 4hin1, link naar formulier volgt
-- 4hin2, link naar formulier volgt
-- 4vin1, link naar formulier volgt
-- 4vin2, link naar formulier volgt
+Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je schoolmail voor toegang). 
+- [4Hin1 GEE woensdag 4e en 5e uur 22/23](https://docs.google.com/spreadsheets/d/1NPSxJqZaTwiOTD1DM49eqLHHqAOaD1go)
+- [4Hin2 GEE woensdag 8e en 9e uur 22/23](https://docs.google.com/spreadsheets/d/1NFLCETdsStCgIRpjfCc5qQhZ4JkyTKRs)
+- [4Vin1 CAM 22/23](https://docs.google.com/spreadsheets/d/1NM3Th4uxx6nxQ9773yTFYejjLnEaj8Lq)
+- [4Vin2 GEE 22/23](https://docs.google.com/spreadsheets/d/1NTk6O624_vKoGA_fU2YtQBkPBxOu_2oJ)
 {{% /expand %}}
+
 
 {{% expand "Game kiezen" %}}
 Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game die je kiest goedkeuren. Enkele voorbeelden van een game die je kunt maken zijn: Tennis, Flappy Bird, Snake (voorganger van Slither.io), een Break Out Game (zoals Arkanoid), een race spelletje, een eenvoudige platform game (zoals pacman), een puzzelspel enzovoort. 
