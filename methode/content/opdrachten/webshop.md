@@ -33,7 +33,7 @@ Je bent vrij om zelf te kiezen wat je in je webshop gaat verkopen. Je docent moe
 Het cijfer dat je voor je PO krijgt wordt vanuit verschillende invalshoeken bepaald: 
 - De technische kwaliteit van de database (vwo 40%, havo 60%)
 - De technische kwaliteit van de aanpassingen in de api en het website-deel (vwo 20%, havo 10%)
-- Wat je extra hebt toegevoegd (vwo 20%, havo 10%)
+- Uitbreidingen die je hebt toegevoegd (vwo 20%, havo 10%)
 - Inzet, planning en samenwerking (20%)
 
 **Minimale eisen**
@@ -59,7 +59,7 @@ Enkele punten waarop gelet kan worden bij de beoordeling zijn.
 - De API is aangepast, zodat hij alle informatie uit de database kan doorgeven aan je website.
 - De html en scripts in je website zijn aangepast, zodat ze alle data die de api levert netjes laten zien.
 
-**Extra’s**
+**Uitbreidingen**
 Enkele punten waarop gelet kan worden bij de beoordeling zijn.
 - Je hebt functies toegevoegd waaruit blijkt dat je heel goed begrijpt hoe de database, api en website samenwerken. Je kunt bijvoorbeeld denken aan het aanbrengen van filters waarmee je snel producten kunt zoeken, of een zoekfunctie.
 - Je hebt substantiële (grote) toevoegingen gedaan aan de html/css van het web-site gedeelte, zowel wat betreft de layout als de functionaliteit. Je kunt bijvoorbeeld denken aan een uitbreiding van meerdere pagina’s met nuttige informatie voor kopers.
