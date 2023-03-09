@@ -77,3 +77,7 @@ Onderstaande video's horen niet bij de verplichte stof, maar kunnen wel helpen d
 - Je kunt een paar voorbeelden geven van populaire hash-algoritmen
 - Je kent in de context van hashing de begrippen salting en collision 
 - Je kunt verschillende toepassingen van hashing uitleggen, zoals wachtwoordverificatie, het controleren van de authenticiteit van data of het identificeren van bestanden.
+
+## Oefenopgaven
+- [Oefenopgaven](../security_oefenopgaven.pdf)
+- [Uitwerkingen](../security_oefenopgaven_uitwerking.pdf)
