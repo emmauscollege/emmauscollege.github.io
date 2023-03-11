@@ -49,7 +49,7 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 Enkele punten waarop gelet kan worden bij de beoordeling zijn
 - Je database is genormaliseerd, dat betekent dat je redundante gegevens hebt voorkomen door het gebruik van meerdere tabellen.
 - Je database bevat minimaal tien producten
-- Je neemt ten minste vier eigenschappen van producten op.
+- Je neemt ten minste vijf eigenschappen van producten op.
 - Je database bevat minimaal vijf tabellen.
 - Je database bevat minimaal één relatie van de vorm 1:n en minimaal één relatie van de vorm n:m.
 - Je SQL-code is toegankelijk, dat wil zeggen niet complexer dan nodig, logisch georganiseerd en waar nodig voorzien van commentaar.
