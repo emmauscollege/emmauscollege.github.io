@@ -23,6 +23,9 @@ Ruimtedatabase *(alleen vwo)*
 2. [Uitlegvideo's met antwoorden](https://www.youtube.com/playlist?list=PLpTljPS--R5DB_lVbQ2HzzQD0eADMwjf3)
 
 ## Uitleg
+- [Lespresentatie VWO](../handout_lespresentatie_databases_vwo.pdf)
+
+
 {{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5DXZh6jR-dKteKGtJmHI-yi">}}
 
 ## Leerdoelen
