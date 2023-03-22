@@ -11,7 +11,9 @@ We gebruiken in deze module de volgende tools:
 1. [Arduino IDE](/tools/arduino-ide/)
 
 ## Oefeningen
+
 Arduino-lessen.nl, les 1 t/m 5
+
 1. [Knipperende LED](https://arduino-lessen.nl/les/knipperende-led-op-arduino)
 2. [Knipperend LED op breadboard](https://arduino-lessen.nl/les/knipperende-led-op-breadboard)
 3. [Fadende LED op breadboard met PWM](https://arduino-lessen.nl/les/arduino-led-faden-met-pwm-pulse-width-modulation)
@@ -20,6 +22,7 @@ Arduino-lessen.nl, les 1 t/m 5
 6. [Afstand meten met ultrasoon sensor](https://arduino-lessen.nl/les/afstand-meten-met-de-hcsr04-ultrasoon-sensor-op-arduino) (geen toetsstof)
 
 Zonder arduino-lessen.nl
+
 7. Grove I2C LCD met tekst en symbolen (zie uitlegvideo op deze pagina met libary "Grove-LCD RGB Backlight") (geen toetsstof)
 
 [Meer lessen Arduino-lessen](https://arduino-lessen.nl) (geen toetsstof)
