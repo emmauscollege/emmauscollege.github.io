@@ -18,7 +18,7 @@ Arduino-lessen.nl, les 1 t/m 5
 4. [Knippersnelheid regelen met potmeter](https://arduino-lessen.nl/les/knippersnelheid-van-led-regelen-met-potmeter-op-arduino)
 5. [LED schakelen met drukknop](https://arduino-lessen.nl/les/led-met-arduino-schakelen-via-drukknop)
 7. [Afstand meten met ultrasoon sensor](https://arduino-lessen.nl/les/afstand-meten-met-de-hcsr04-ultrasoon-sensor-op-arduino) (geen toetsstof)
-99. Grove I2C LCD met tekst en symbolen (zie uitlegvideo hieronder) (geen toetsstof)
+99. Grove I2C LCD met tekst en symbolen (zie uitlegvideo hieronder, maar gebruik een andere library, namelijk "Grove-LCD RGB Backlight") (geen toetsstof)
 
 [Meer lessen Arduino-lessen](https://arduino-lessen.nl) (geen toetsstof)
 
