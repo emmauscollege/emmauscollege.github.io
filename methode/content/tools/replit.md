@@ -35,12 +35,14 @@ Gebruik bij voorkeur Chrome of anders Firefox.
 ## De volgende keren Replit starten
 1. Ga naar https://replit.com/ en druk op de knop "inloggen met Github" om in te loggen.
 2. Klik op de blauwe knop "+Create" en klik in de popup die verschijnt op "Import from Github".
-3. Knip en plak de link naar de repo op github waar je je code hebt staan. Deze kun je vinden in Github. De link lijkt op https://github.com/emmaus-4h/website-piet/. Klik op de knop "Import from Github". Replit haalt nu de laatste versie van je code uit GitHub
-4. Wijzig je code.
-5. Test of je code werkt, je kunt op de groene RUN knop drukken om een nieuw voorbeeld te zien.
-6. Klik op het "version control" icoontje (een gesplitst lijntje met twee bolletjes) links in het scherm. Type een korte beschrijving van de wijziging, druk op de knop "Commit en Push".
-7. Check in op https://github.com/ dat je codewijzigingen zijn opgeslagen
-8. Als je nog verder wilt werken, gaan dan terug naar stap 4.
+3. Knip en plak de link naar de repo op github waar je je code hebt staan. Deze kun je vinden in Github. De link lijkt op https://github.com/emmaus-4h/website-piet/. 
+4. Kies de juiste taal ("HTML/CSS/Javascript" voor de website en game, "Bash" voor de webshop)
+5. Klik op de knop "Import from Github". Replit haalt nu de laatste versie van je code uit GitHub
+6. Wijzig je code.
+7. Test of je code werkt, je kunt op de groene RUN knop drukken om een nieuw voorbeeld te zien.
+8. Klik op het "version control" icoontje (een gesplitst lijntje met twee bolletjes) links in het scherm. Type een korte beschrijving van de wijziging, druk op de knop "Commit en Push".
+9. Check in op https://github.com/ dat je codewijzigingen zijn opgeslagen
+10. Als je nog verder wilt werken, gaan dan terug naar stap 4.
 
 ## Veelgestelde vragen
 
