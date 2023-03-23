@@ -44,13 +44,13 @@ Je moet mimimaal de beide motoren en één type afstandssensor van de alphabot2 
 *Het doolhof*<br>
 Het doolhof bestaat uit en pad met doodlopende vertakkingen. In het doolhof zitten geen rondjes. De paden worden gevormd door vierkanten van ongeveer 30x30 cm. Aan de randen van de paden staan muren. De muren bestaan uit stukken van ongeveer 30 centimeter lang. De stukken muur sluiten recht op elkaar aan of maken een hoek van ongeveer 90 graden. In de midden van het pad is er een strook zwart tape op de vloer gemaakt. Dit tape bevat vertakkingen en is steeds ongeveer 15 cm van een muur verwijderd.
 
-4. **Drone** (vwo vanaf 23/34)<br>
+4. **Drone** (experimenteel voor vwo in 22/23, vwo vanaf 23/24)<br>
 *De opdracht voor dit apparaat*<br>
-Laat de drone zo snel mogelijk en in de juiste volgorde landen op een parcours van way-pads.<br><br>
+Laat de drone zo snel mogelijk van de startplek naar de finish plek vliegen. Onderweg staan opstakels.<br><br>
 *De drone*<br>
-Je gebruikt commando's om de drone te laten opstijgen en landen en om de drone een bepaalde afstand in een bepaalde richting te laten bewegen. Je gebruikt de camera onder de drone om de way-pads te herkennen.<br><br>
+Je gebruikt commando's om de drone te laten opstijgen en landen en om de drone in een bepaalde richting te laten vliegen. Je gebruikt de afstandssensor voor op de drone om de afstand tot opstakels te meten.<br><br>
 *Het parcours*<br>
-Een way-pad is een plaatje met een nummer erop. Er zijn acht way-pads genummerd 1, 2, 3, 4, 5, 6, 7 en 8. De way-pads liggen op de grond op een rij, met telkens ongeveer een meter tussen elke way-pad. De volgorde waarin de andere way-pads liggen wordt bepaald vlak voordat je drone start. De eerste way-pad heeft altijd nummer 1. Bij de start staat de drone op way-pad 1. 
+Het parkcours wordt telkens opgebouwd en afgebroken in de gang. De drone mag niet buiten het parcours vliegen, geen obstakels of muren raken en tijdens het vliegen mogen er geen personen binnen de grenzen van het parcours aanwezig zijn. Er is een vast punt waar de drone start en een zone waar de drone eindigt. De drone vliegt op vaste afstand van de grond (ongeveer 1 meter). De obstakels bevinden zich op de hoogte waar de drone vliegt. Tijdens de opdracht werk je in overleg met de docent het parcours verder uit.  
 
 5. In overleg met je docent mag je ook een **eigen apparaat** kiezen of een bestaand apparaat uitbreiden.
 {{% /expand %}}
