@@ -15,8 +15,7 @@ Complexe algoritmen (vwo)
 1. Volgt nog, we denken aan sorteren, kortste pad, efficiency
 
 ## Uitlegvideo's
-<!-- {{<youtube id="">}} -->
-Er zijn (nog) geen uitlegvideo's bij deze theorie
+{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5AR5UE5AzUuMUsnI6YpFRGr">}}
 
 ## Leerdoelen
 Eenvoudige algoritmen
