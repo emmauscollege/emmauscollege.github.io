@@ -108,8 +108,8 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - Je kunt vragen stellen tot de laatste les voor de deadline.
 - Je zorgt dat alle bestanden in die nodig zijn om je spel te spelen in GitHub staan, dit zijn ten minste: 
   - het .ino bestand met de code, 
-  - een bestand met het toestandsdiagram (.drawio, .pptx, .jpeg, .png of .pdf) en 
-  - een link naar de video op youtube (.txt) of de videozelf (.mp4 of .mov). 
+  - een bestand met het toestandsdiagram (.excalidraw, .drawio, .pptx, .jpeg, .png of .pdf) en 
+  - een link naar de video op youtube (.txt) of de video zelf (.mp4 of .mov). 
   - Als je libraries gebruikt, dan staan die er ook bij.
 - Uit de versie historie in GitHub blijkt wanneer je wat gedaan hebt.
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
@@ -143,7 +143,7 @@ Werk de planning af van boven naar beneden.
 3. Je hebt aangegeven welke sensoren en actuatoren je gaat gebruiken, dit kan in een kort lijstje op hetzelfde blad als je toestandsdiagram.
 
 Je kunt een toestandsdiagram bijvoorbeeld als volgt maken
-- op https://draw.io
+- op https://excalidraw.com/ (snel en eenvoudig) of op https://draw.io (meer mogelijkheden)
 - in Powerpoint
 - op papier en dan fotograferen (het is dan wel lastig om het netjes te doen)
 {{% /expand %}}
