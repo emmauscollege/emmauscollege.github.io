@@ -15,6 +15,7 @@ Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login 
 - [5hin1 22/23](https://docs.google.com/spreadsheets/d/154HkbDKdiV4zjNt2-HMua6KBCxg3R1HO)
 - [5hin2 22/23](https://docs.google.com/spreadsheets/d/1536gbIVDMrdd1K43W7Z0xQkFfdhxqYOO)
 - [5V GEE 22/23](https://docs.google.com/spreadsheets/d/1j7i8VOTGSM1yM68rseCi_iOWGIjSqiWr)
+- [5V CAM 22/23](https://docs.google.com/spreadsheets/d/1N-NsYaFb2qHVlUe1_Q6pgn8zRg4nDVKa/edit?usp=sharing&ouid=118282713937523617390&rtpof=true&sd=true)
 
 - 5vin1, link naar formulier volgt
 - 5vin2, link naar formulier volgt
@@ -30,13 +31,13 @@ Maak een programma waarmee de stoplichten zo op groen, oranje en rood springen d
 *Het stoplichtenplein*<br>
 Je mag het plein uitbreiden met sensoren die auto's waarnemen.
 
-2. **Arcade game box** (havo en vwo) <br>
+1. **Arcade game box** (havo en vwo) <br>
 *De opdracht voor dit apparaat*<br>
 Maak een game die zo boeiend mogelijk is. <br><br>
 *De arcade box*<br>
 Je mag gebruik maken van alle mogelijkheden die de hardware in de arcadebox biedt. Dit zijn 4 knoppen met dimbare verlichting, een speaker en een display met twee regels van zestien karakters en de mogelijkheid om zelf een beperkt aantal karakters te ontwerpen.
 
-3. **Alphabot2 rijdende robot** (havo en vwo)<br>
+1. **Alphabot2 rijdende robot** (havo en vwo)<br>
 *De opdracht voor dit apparaat*<br>
 Maak een programma dat de alphabot zo snel mogelijk de uitgang van een doolhof laat vinden.<br><br>
 *De alphabot*<br>
@@ -44,7 +45,7 @@ Je moet mimimaal de beide motoren en één type afstandssensor van de alphabot2 
 *Het doolhof*<br>
 Het doolhof bestaat uit en pad met doodlopende vertakkingen. In het doolhof zitten geen rondjes. De paden worden gevormd door vierkanten van ongeveer 30x30 cm. Aan de randen van de paden staan muren. De muren bestaan uit stukken van ongeveer 30 centimeter lang. De stukken muur sluiten recht op elkaar aan of maken een hoek van ongeveer 90 graden. In de midden van het pad is er een strook zwart tape op de vloer gemaakt. Dit tape bevat vertakkingen en is steeds ongeveer 15 cm van een muur verwijderd.
 
-4. **Drone** (experimenteel voor vwo in 22/23, vwo vanaf 23/24)<br>
+1. **Drone** (experimenteel voor vwo in 22/23, vwo vanaf 23/24)<br>
 *De opdracht voor dit apparaat*<br>
 Laat de drone zo snel mogelijk van de startplek naar de finish plek vliegen. Onderweg staan opstakels.<br><br>
 *De drone*<br>
@@ -52,7 +53,7 @@ Je gebruikt commando's om de drone te laten opstijgen en landen en om de drone i
 *Het parcours*<br>
 Het parkcours wordt telkens opgebouwd en afgebroken in de gang. De drone mag niet buiten het parcours vliegen, geen obstakels of muren raken en tijdens het vliegen mogen er geen personen binnen de grenzen van het parcours aanwezig zijn. Er is een vast punt waar de drone start en een zone waar de drone eindigt. De drone vliegt op vaste afstand van de grond (ongeveer 1 meter). De obstakels bevinden zich op de hoogte waar de drone vliegt. Tijdens de opdracht werk je in overleg met de docent het parcours verder uit.  
 
-5. In overleg met je docent mag je ook een **eigen apparaat** kiezen of een bestaand apparaat uitbreiden.
+1. In overleg met je docent mag je ook een **eigen apparaat** kiezen of een bestaand apparaat uitbreiden.
 {{% /expand %}}
 
 {{% expand "Werkwijze" %}}
