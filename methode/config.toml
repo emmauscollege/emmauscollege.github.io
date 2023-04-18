@@ -142,6 +142,11 @@ googleAnalytics = "G-DF99ESV8P9"
     url = "https://discord.com/app"
     weight = 24
 
+ [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-tags'></i> Roboticapagina"
+    url = "robotica/"
+    weight = 300
+
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-tags'></i> Docentenpagina"
     url = "docenten/"
