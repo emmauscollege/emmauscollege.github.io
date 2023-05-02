@@ -85,7 +85,7 @@ We gebruiken in deze opdracht de volgende tools:
 ## Startcode
 Als je van je docent je een kopie van de startcode hebt ontvangen, dan kun je aan de slag met de stappen uit het README.md bestand.
 
-{{<figure src="../website_github.png" link="https://github.com/emmauscollege/4HV-website-template">}}
+{{<image src="../website_github.png" link="https://github.com/emmauscollege/4HV-website-template">}}
 
 ## Stappenplan
 Werk de planning af van boven naar beneden.<br>

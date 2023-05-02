@@ -126,7 +126,7 @@ Er is geen automatische koppeling tussen Arduino IDE en GitHub. Dat betekent dat
 ## Startcode
 Als je van je docent je een kopie van de startcode hebt ontvangen, dan kun je aan de slag met de stappen uit het README.md bestand.
 
-{{<figure src="../robot_github.png" link="https://github.com/emmauscollege/5HV-robot-template">}}
+{{<image src="../robot_github.png" link="https://github.com/emmauscollege/5HV-robot-template">}}
 
 ## Stappenplan
 Werk de planning af van boven naar beneden. 

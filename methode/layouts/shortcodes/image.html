@@ -1,0 +1,26 @@
+<!--- 
+    image shortcode
+    added 2023/05/01 by GEE
+    documentation on creating shortcodes: https://gohugo.io/templates/shortcode-templates/
+-->
+
+<p 
+  {{ if (.Get "class") }}
+  class="{{ .Get "class" }}"
+  {{ end }}
+  style="margin:auto; width: fit-content; max-height: 50vh; padding: 0px;">
+  {{ if (.Get "link") }}
+  <a href="{{ .Get "link" }}" target="_blank">
+  {{ end }}
+    <img 
+      src="{{.Get "src"}}" 
+      {{ if (.Get "alt") }}
+      title="{{ .Get "alt" | markdownify }}"
+      {{ else }}
+      alt="Image"
+      {{ end }} 
+      style="  max-height: 50vh; margin:0px;">
+    {{ if (.Get "link") }}
+    </a>
+    {{ end }}
+  </p>

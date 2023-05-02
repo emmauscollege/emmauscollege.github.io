@@ -10,9 +10,8 @@ Je hebt veel vrijheid en kunt er echt iets moois van maken.
 <!--more-->
 
 ## Voorbeelden
-Dit zijn [voorbeelden van werkstukken die andere leerlingen hebben gemaakt](https://informatica.emmauscollege.nl/showcases/).
+Voorbeelden van werkstukken die andere leerlingen hebben gemaakt.
 
-[![voorbeelden van werkstukken](./voorbeelden.png)](https://informatica.emmauscollege.nl/showcases/)
-
+{{< image src="./voorbeelden.png" alt="voorbeelden van werkstuken" link="https://informatica.emmauscollege.nl/showcases/" >}}
 
 {{% children containerstyle="div" style="h2" depth="3" description="true" %}}

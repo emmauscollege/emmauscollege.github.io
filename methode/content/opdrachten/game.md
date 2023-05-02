@@ -82,7 +82,7 @@ We gebruiken in deze opdracht de volgende tools:
 
 ## Startcode
 Je krijgt van de docent een kopie van onderstaande startcode. 
-{{<figure src="../game_github.png" link="https://github.com/emmauscollege/4HV-game-template">}}
+{{<image src="../game_github.png" link="https://github.com/emmauscollege/4HV-game-template">}}
 
 ## Stappenplan
 Werk de planning af van boven naar beneden. Vul de planning aan en stel bij terwijl je aan de opdracht werkt.

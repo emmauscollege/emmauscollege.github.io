@@ -87,7 +87,7 @@ We gebruiken in deze opdracht de volgende tools:
 3. [Gitpod](/tools/gitpod/) (vwo)
 
 ## Startcode
-{{<figure src="../webshop_github.png" link="https://github.com/emmauscollege/5HV-webshop-template">}}
+{{<image src="../webshop_github.png" link="https://github.com/emmauscollege/5HV-webshop-template">}}
 
 ## Stappenplan
 Werk de planning af van boven naar beneden. Vul de planning aan en stel bij terwijl je aan de opdracht werkt.
