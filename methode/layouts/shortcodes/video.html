@@ -1,0 +1,22 @@
+<!--- 
+    video shortcode
+    added 2023/05/01 by GEE
+    documentation on creating shortcodes: https://gohugo.io/templates/shortcode-templates/
+-->
+
+<div 
+  {{ if (.Get "class") }}
+  class="{{ .Get "class" }}"
+  {{ end }}
+  style="position: relative; margin: auto; padding-bottom: min(56.25%, 56.25vh); width: min(100%, 100vh); height: 0; overflow: hidden;">
+    <iframe src="https://www.youtube.com/embed/videoseries?list={{.Get "id"}}" 
+      {{ if (.Get "title") }}
+      title="{{ .Get "title" | markdownify }}"
+      {{ else }}
+      title="YouTube Video"
+      {{ end }} 
+      allowfullscreen 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;  border:0;">
+    </iframe>
+</div>
+
