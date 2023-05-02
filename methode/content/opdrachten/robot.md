@@ -165,9 +165,6 @@ Het is een video met geluid (uitleg tijdens de demonstratie) in .mp4 of .mov for
 {{% /expand %}}
 
 ## Uitlegvideo's
-<!--
-youtube id="videoseries?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
--->
 Er zijn op dit moment (nog) geen uitlegvideo's bij deze opdracht.
 
 

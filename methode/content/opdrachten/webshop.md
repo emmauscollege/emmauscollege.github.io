@@ -119,8 +119,8 @@ Voor en goed cijfer is het belangrijk dat je laat zien dat je uitstekend begrepe
 {{% /expand %}}
 
 ## Uitlegvideo's (havo)
-{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5CZQu8A4igpazZsRUEA7NHJ">}}
+{{<video "PLpTljPS--R5CZQu8A4igpazZsRUEA7NHJ">}}
 
 ## Uitlegvideo's (vwo)
-{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5CiJtenJC9FZT7vZcOklU4X">}}
+{{<video "PLpTljPS--R5CiJtenJC9FZT7vZcOklU4X">}}
   

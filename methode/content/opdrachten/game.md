@@ -129,4 +129,4 @@ Werk de planning af van boven naar beneden. Vul de planning aan en stel bij terw
 {{% /expand %}}
 
 ## Uitlegvideo's
-{{<youtube id="videoseries?list=PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
+{{<video "PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}

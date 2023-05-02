@@ -163,4 +163,4 @@ Kies de uitbreidingen die je leuk vindt en maak je website nog mooier
 {{% /expand %}}
 
 ## Uitlegvideo's
-{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5CUXaW9KdM10pj80ZqmZWBs">}}
+{{<video "PLpTljPS--R5CUXaW9KdM10pj80ZqmZWBs">}}
