@@ -6,18 +6,21 @@ weight = 4
 Je leert hoe je problemen kunt oplossen met algoritmen, je gebruikt daarbij stroomdiagrammen en de programmeertaal Javascript.
 <!--more-->
 
-## Lesstof
+## Hulpmiddelen
+We gebruiken in deze module enkele online hulpmiddelen voor het tekenen van schema's en het maken van oefeningen.
+
+## Oefeningen
 Eenvoudige algoritmen
 1. [Stroomdiagrammen lespresentatie, met codevoorbeelden in replit](../algoritmen_lespresentatie.pptx) (wordt misschien herzien)
-1. [Programmeeropdrachten in Github](https://github.com/emmauscollege/programmeer-opdrachten) (wordt misschien overgezet naar Woots)
+1. [Programmeeropdrachten in Github](https://github.com/emmauscollege/programmeer-opdrachten) (tevens beschikbaar in [Woots](https://app.woots.nl))
 
 Complexe algoritmen (vwo)
 1. Volgt nog, we denken aan sorteren, kortste pad, efficiency
 
-## Uitlegvideo's
+## Uitleg
 {{<video id="PLpTljPS--R5AR5UE5AzUuMUsnI6YpFRGr">}}
 
-## Leerdoelen
+## Leerdoelen voor de toets
 Eenvoudige algoritmen
 1. je kunt uitleggen wat een algoritme is
 1. je kunt uitleggen wat een flowchart is en waarvoor je deze gebruikt

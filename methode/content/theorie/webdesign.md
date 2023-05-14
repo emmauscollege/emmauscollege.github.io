@@ -30,7 +30,7 @@ Khanacademy, module Intro to HTML/CSS
 
 {{<video id="PLpTljPS--R5C5ADZ-k7ArGq9-Cz85y87i">}}
 
-## Leerdoelen
+## Leerdoelen voor de toets
 HTML
 1. Je kunt uitleggen wat een URL is en waarvoor een webbrowser deze gebruikt en je kent de volgende vier onderdelen van een URL: protocol, server, map, bestand
 2. Je kent het principe van tags zoals die in HTML gebruikt worden.

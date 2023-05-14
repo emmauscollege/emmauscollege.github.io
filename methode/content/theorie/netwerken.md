@@ -31,7 +31,7 @@ Naslagmateriaal
 2. [How the internet works (video's)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 3. [Theorie netwerkprotocollen](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/index.html) (alleen hoofdtstuk 5, dit is best pittig, aanvulling op uitleg in de les).
 
-## Leerdoelen
+## Leerdoelen voor de toets
 Netwerken
 1. Je kunt met behulp van een berekening kunt aantonen wat de hoofdreden is om het IP versie 4 protocol te vervangen door IPv6
 1. Je kunt het verschil uitleggen tussen een LAN en een WAN.

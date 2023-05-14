@@ -27,7 +27,7 @@ Ruimtedatabase *(alleen vwo)*
 
 {{<video id="PLpTljPS--R5DXZh6jR-dKteKGtJmHI-yi">}}
 
-## Leerdoelen
+## Leerdoelen voor de toets
 
 Databases theorie
 1. Je kunt uitleggen wat een relationele database is.

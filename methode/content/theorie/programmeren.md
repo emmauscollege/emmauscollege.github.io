@@ -6,7 +6,11 @@ weight = 3
 Je leert hoe je eenvoudige programma's kunt maken met de programmeertaal Javascript en de p5js library.
 <!--more-->
 
-## Lesstof
+## Hulpmiddelen
+We gebruiken in deze module de volgende tools:
+1. [Khan Academy](/tools/khan/)
+
+## Oefeningen
 [Khanacademy, module Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
 1. [Intro to programming](https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming)
 2. [Drawing basics](https://www.khanacademy.org/computing/computer-programming/programming#drawing-basics)
@@ -29,11 +33,11 @@ Je leert hoe je eenvoudige programma's kunt maken met de programmeertaal Javascr
 
 Lespresentatie of reader volgt.
 
-## Uitlegvideo's
+## Uitleg
 
 {{<video id="PLpTljPS--R5DwKVFeOrwrveKeTsR3StJr">}}
 
-## Leerdoelen
+## Leerdoelen voor de toets
 Programmeertalen
 1. Je kunt uitleggen wat machinetaal is.
 1. Je kunt uitleggen wat een compiler is.

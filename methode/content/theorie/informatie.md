@@ -33,7 +33,7 @@ Beeldbewerking
 
 {{<video id="PLpTljPS--R5BGpGmJHk7W6InW5uclScIp">}}
  
-## Leerdoelen
+## Leerdoelen voor de toets
 Informatie digitaal
 1.	Je kunt binaire getallen omzet naar decimale getallen en andersom.
 2.	Je kunt binaire getallen omzet naar hexadecimale getallen en andersom.
