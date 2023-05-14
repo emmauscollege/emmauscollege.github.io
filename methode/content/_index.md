@@ -12,7 +12,8 @@ PWS project informatica: [Actuele CO2 waarden op het Emmauscollege](https://info
 
 #### Chemical Tempest
 Profielwerkstuk informatica 2022/2023 
-{{< figure src="screenshot-chemical-tempest.png" link="http://informatica.emmauscollege.nl/chemical-tempest">}}
+
+{{< image src="./screenshot-chemical-tempest.png" alt="screenshot" link="http://informatica.emmauscollege.nl/chemical-tempest" >}}
 
 ## Inhoud
 {{% children containerstyle="div" style="h2" depth="1" description="true" %}} 

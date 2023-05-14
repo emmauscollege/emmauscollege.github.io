@@ -23,7 +23,8 @@ In plaats van Filius te installeren, gebruik je [Filius in Gitpod](https://githu
 5. [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917#section-8) (5.1 t/m 5.5)
 
 ## Uitleg
-{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5DtkHtxFNv-677dGsejyI1K">}}
+
+{{<video id="PLpTljPS--R5DtkHtxFNv-677dGsejyI1K">}}
 
 Naslagmateriaal
 1. [Netwerken lespresentatie (Powerpoint presentatie)](../netwerken_lespresentatie.pptx)

@@ -13,7 +13,8 @@ Hier vind je de lesplanner, geplande toetsen en inlevermomenten, vakoverzicht en
 
 ## Vakoverzicht
 
-![vakoverzicht havo](./vakoverzicht.png)     
+{{< image src="./vakoverzicht.png" alt="vakoverzicht" link="./vakoverzicht.png" >}}
+   
 
 ## PTA
 

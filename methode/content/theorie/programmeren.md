@@ -30,7 +30,8 @@ Je leert hoe je eenvoudige programma's kunt maken met de programmeertaal Javascr
 Lespresentatie of reader volgt.
 
 ## Uitlegvideo's
-{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5DwKVFeOrwrveKeTsR3StJr">}}
+
+{{<video id="PLpTljPS--R5DwKVFeOrwrveKeTsR3StJr">}}
 
 ## Leerdoelen
 Programmeertalen

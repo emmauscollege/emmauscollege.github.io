@@ -26,10 +26,12 @@ Beeldbewerking
 1. [Beeldbewerking oefeningen (powerpoint presentatie)](../informatie_lespresentatie_beeldbewerking.pptx) met [photopea.com](https://photopea.com)
 
 ## Uitleg (havo)
-{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5A9aLTfJz1RvxnqZHaPWpK8">}}
+
+{{<video id="PLpTljPS--R5A9aLTfJz1RvxnqZHaPWpK8">}}
   
 ## Uitleg (vwo)
-{{<youtube id="https://www.youtube.com/playlist?list=PLpTljPS--R5BGpGmJHk7W6InW5uclScIp">}}
+
+{{<video id="PLpTljPS--R5BGpGmJHk7W6InW5uclScIp">}}
  
 ## Leerdoelen
 Informatie digitaal
