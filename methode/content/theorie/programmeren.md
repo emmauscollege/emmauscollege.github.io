@@ -31,11 +31,14 @@ We gebruiken in deze module de volgende tools:
 17. Object-Oriented Design (overslaan)
 18. Becoming a better programmer (overslaan)
 
-Lespresentatie of reader volgt.
-
 ## Uitleg
 
 {{<video id="PLpTljPS--R5DwKVFeOrwrveKeTsR3StJr">}}
+
+## Naslagmateriaal
+
+- [Lespresentatie programmeren (havo)](../T3_Lespresentatie_programmeren_havo_v20230101.pptx)
+- [Collegesheets programmeren (vwo)](../T3_Collegesheets_programmeren_vwo_1-6_v20230224.pptx) (heel dik)
 
 ## Leerdoelen voor de toets
 Programmeertalen
