@@ -29,8 +29,10 @@ Eenvoudige algoritmen
 1. je kunt een flowchart maken van een eenvoudig algoritme waarvan je een korte beschrijving en een voorbeeld van de input en de output krijgt. Een eenvoudig algoritme is een algoritme waarbij een rij wordt doorlopen, zoals bijvoorbeeld: zoek het grootste getal in een rij, bereken het gemiddelde van alle getallen in een rij, tel het aantal keer dat een bepaalde letter voorkomt in een tekst.
 1. je kunt een flowcharts omzetten naar JavaScript code en JavaScript code kunnen omzetten naar een flowchart.
 
+ <!--
 Complexe algoritmen
 1. volgt nog
-
+-->
+ 
 ## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
