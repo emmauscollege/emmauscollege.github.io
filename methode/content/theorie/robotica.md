@@ -27,8 +27,9 @@ Zonder arduino-lessen.nl
 
 [Meer lessen Arduino-lessen](https://arduino-lessen.nl) (geen toetsstof)
 
-Toestandsdiagrammen
+Presentaties
 1. [Lespresentatie toetstandsdiagrammen](../robotica_toestandsdiagrammen_lespresentatie.pptx)
+2. [Lespresentatie Arduino basics](../robotica_arduino_basisc.pdf)
 
 ## Uitleg
 
