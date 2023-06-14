@@ -29,7 +29,7 @@ Zonder arduino-lessen.nl
 
 Presentaties
 1. [Lespresentatie toestandsdiagrammen](../robotica_toestandsdiagrammen_lespresentatie.pptx)
-2. [Lespresentatie Arduino basics](../robotica_arduino_basisc.pdf)
+2. [Lespresentatie Arduino basics](../robotica_arduino_basics.pdf)
 
 ## Uitleg
 
