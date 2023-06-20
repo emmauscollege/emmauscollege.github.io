@@ -65,5 +65,8 @@ Toestandsdiagrammen
 1. Je kunt een toestandsdiagram omzetten in Pseudocode.
 1. Je kunt pseudocode omzetten in Arduino-code.
 
+## Naslagmateriaal
+[Syntaxblad](../robotica_syntaxblad.pdf)
+
 ## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
