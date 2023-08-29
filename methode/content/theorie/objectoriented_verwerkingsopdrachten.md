@@ -51,7 +51,7 @@ yPosities = [700, 1010, 40];
 ```
 
 #### Ondersteuning
-Zie je niet helemaal voor je hoe bovenstaande techniek werkt? Maak eerst weer eens de opdracht [Make it rain](https://khanacademy.org) van KhanAcademy. Daar gebruiken ze deze techniek voor de x- en y-waarde van de regendruppels.
+Zie je niet helemaal voor je hoe bovenstaande techniek werkt? Maak eerst weer eens de opdracht [Make it rain](https://khanacademy.org/computing/computer-programming/programming/arrays/pp/project-make-it-rain) van KhanAcademy. Daar gebruiken ze deze techniek voor de x- en y-waarde van de regendruppels.
 
 #### Programmeren
 - Verander de namen van de globale variabelen zo, dat je ze herkent als een array. Dus bijv. `xPosities` in plaats van `x`, etc.
