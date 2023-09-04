@@ -1,0 +1,126 @@
+<script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.3.1/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.3.1/firebase-analytics.js";
+    import { getAuth, signInWithRedirect, GoogleAuthProvider } from "https://www.gstatic.com/firebasejs/10.3.1/firebase-auth.js";
+    import { getFirestore, collection, getDocs, addDoc, doc, setDoc } from "https://www.gstatic.com/firebasejs/10.3.1/firebase-firestore.js";
+
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+        apiKey: "AIzaSyCMTwFixLtLnfTDOw28ElzwsJ6zTt2K_Hw",
+        authDomain: "informatica-emmauscollege.firebaseapp.com",
+        projectId: "informatica-emmauscollege",
+        storageBucket: "informatica-emmauscollege.appspot.com",
+        messagingSenderId: "152162579128",
+        appId: "1:152162579128:web:0024ec120bcff58af43a4d",
+        measurementId: "G-P1R1XZ77VK"
+    };
+
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+    const provider = new GoogleAuthProvider();
+
+    const auth = getAuth();
+
+    const signIn = () =>{
+    signInWithRedirect(auth, provider)
+        .then((result) => {
+        // This gives you a Google Access Token. You can use it to access the Google API.
+        const credential = GoogleAuthProvider.credentialFromResult(result);
+        const token = credential.accessToken;
+        // The signed-in user info.
+        const user = result.user;
+        // IdP data available using getAdditionalUserInfo(result)
+        // ...
+
+        console.log(user)
+        }).catch((error) => {
+        // Handle Errors here.
+        const errorCode = error.code;
+        const errorMessage = error.message;
+        // The email of the user's account used.
+        const email = error.customData.email;
+        // The AuthCredential type that was used.
+        const credential = GoogleAuthProvider.credentialFromError(error);
+        // ...
+    });
+    }
+
+    // Check if logged in
+    auth.onAuthStateChanged((user) => {
+        if (user) {
+            // User is signed in, see docs for a list of available properties
+            // https://firebase.google.com/docs/reference/js/firebase.User
+            const uid = user.uid;
+            // ...
+            console.log("logged in")
+
+            document.getElementById("userWelcome").innerHTML = "Welkom terug " + user.displayName
+            document.getElementById("login").style.display = "none"
+
+
+            window.user = user
+
+            getExercises()
+
+        } else {
+            // User is signed out
+            // ...
+            console.log("logged out")
+        }
+    });
+
+    window.signIn = signIn
+
+
+    // Save that exercise 10 is done in firebase for current user
+    const db = getFirestore(app);
+
+
+    const getExercises = async () => {
+        if(!window.user) return console.log("Not logged in")
+
+        const querySnapshot = await getDocs(collection(db, "users", window.user.uid, "exercises"));
+
+        querySnapshot.forEach((doc) => {
+            console.log(`${doc.id} => ${doc.data()}`);
+            document.getElementById("exercise_checkbox_" + doc.id).checked = doc.data().done
+            if(doc.data().done){
+                document.getElementsByClassName("exercise_" + doc.id)[0].classList.add("done");
+            }
+        });
+    }
+
+    const saveExercise = async (exercise, done) => {
+        console.log(done)
+
+        if(!window.user) return console.log("Not logged in")
+
+        try {
+
+            const docRef = doc(db, "users", window.user.uid, "exercises", exercise);
+
+            setDoc(docRef, {
+                done: done
+            });
+            console.log("Not working")
+            console.log("Document written with ID: ", docRef.id);
+        } catch (e) {
+            console.error("Error adding document: ", e);
+        }
+    }
+
+    window.saveExercise = saveExercise
+
+
+
+
+</script>
+
+<button id="login" onclick="signIn()">Inloggen met Google</button>
+<p id="userWelcome"></p>
