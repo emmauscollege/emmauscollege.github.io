@@ -18,6 +18,7 @@ Elke opdracht kan je zelf testen door op de "Run" knop te drukken.
 
 **TIP:** Je kan ook checken of je opdracht echt klopt door de Unit tests te runnen. Deze vind je of recht naast je console of links onder bij Tools.
 
+**TIP:** Onderaan deze pagina staat een cheat-sheet voor de syntax van JavaScript.
 
 # Classes
 
@@ -42,3 +43,93 @@ Creëer een array genaamd myBooks die instanties van de Book class bevat. Loop d
 Klaar? Ga verder met Opdracht 3 van de oude opdrachten:
 
 https://informatica.emmauscollege.nl/theorie/objectoriented_verwerkingsopdrachten/#opdracht-3
+
+
+# JavaScript Cheat Sheet
+
+## Creating an Object
+```javascript
+var player = {
+    name: 'John',
+    score: 100,
+    level: 2
+};
+```
+
+## Creating an Array of Objects
+```javascript
+var players = [
+    {
+        name: 'John',
+        score: 100,
+        level: 2
+    },
+    {
+        name: 'Jane',
+        score: 150,
+        level: 3
+    }
+];
+```
+
+## Accessing Object Properties
+```javascript
+console.log(player.name); // John
+```
+
+## Looping Through an Array of Objects
+```javascript
+for(var i = 0; i < players.length; i++) {
+    console.log(players[i].name + ' has a score of ' + players[i].score);
+}
+```
+
+## Creating a Class
+```javascript
+class Player {
+    constructor(name, score, level) {
+        this.name = name;
+        this.score = score;
+        this.level = level;
+    }
+
+    increaseScore(amount) {
+        this.score += amount;
+    }
+
+    increaseLevel() {
+        this.level++;
+    }
+}
+```
+
+## Creating an Instance of a Class
+```javascript
+var player1 = new Player('John', 100, 2);
+```
+
+## Accessing Class Properties
+```javascript
+console.log(player1.name); // John
+```
+
+## Using Class Methods
+```javascript
+player1.increaseScore(20);
+console.log(player1.score); // 120
+```
+
+## Creating an Array of Class Instances
+```javascript
+var players = [
+    new Player('John', 100, 2),
+    new Player('Jane', 150, 3)
+];
+```
+
+## Looping Through an Array of Class Instances
+```javascript
+for(var i = 0; i < players.length; i++) {
+    console.log(players[i].name + ' has a score of ' + players[i].score);
+}
+```
