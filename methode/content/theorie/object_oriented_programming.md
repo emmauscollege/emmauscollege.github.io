@@ -1,6 +1,6 @@
 +++
-title = "06. OOP voor 6vin2"
-weight = 6
+title = "T10. OOP voor 6vin2"
+weight = 10
 +++
 
 {{% login %}}
