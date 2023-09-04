@@ -38,8 +38,9 @@ Maak een class genaamd Book met eigenschappen: title, author, en pages. Deze cla
 Creëer een array genaamd myBooks die instanties van de Book class bevat. Loop door elk boek in de array en roep de printDetails methode aan voor elk boek.
 {{% /checkbox %}}
 
+# Volgende opdracht
 
-Klaar? Ga verder met Opdracht 3 van de oude opdrachten:
+**Klaar?** Ga verder met Opdracht 3 van de reguliere opdrachten:
 
 https://informatica.emmauscollege.nl/theorie/objectoriented_verwerkingsopdrachten/#opdracht-3
 
