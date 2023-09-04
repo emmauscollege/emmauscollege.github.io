@@ -3,10 +3,9 @@ title = "06. OOP voor 6vin2"
 weight = 6
 +++
 
-
-## Welkom bij de opdrachten voor OOP
-
 {{% login %}}
+
+## ❗️ Voordat je start
 
 Ga naar Replit met de volgende link:
 
@@ -20,7 +19,7 @@ Elke opdracht kan je zelf testen door op de "Run" knop te drukken.
 
 **TIP:** Onderaan deze pagina staat een cheat-sheet voor de syntax van JavaScript.
 
-# Classes
+# 📦️ Classes
 
 
 {{% checkbox title="Opdracht 1: Maak een object" slug="oop-opdacht1" %}}
@@ -45,7 +44,7 @@ Klaar? Ga verder met Opdracht 3 van de oude opdrachten:
 https://informatica.emmauscollege.nl/theorie/objectoriented_verwerkingsopdrachten/#opdracht-3
 
 
-# JavaScript Cheat Sheet
+# 🗒️ JavaScript Cheat Sheet
 
 ## Creating an Object
 ```javascript
