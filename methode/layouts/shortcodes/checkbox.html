@@ -1,0 +1,58 @@
+<!-- Create a checkbox with label -->
+<script src="https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js"></script>
+
+<div class="exercise exercise_{{.Get "slug"}}">
+    <div class="checkbox">
+        <input type="checkbox" id='exercise_checkbox_{{.Get "slug"}}' name="checkbox1">
+        <label >{{.Get "title"}}</label>
+    </div>
+    <div class="content">{{.Inner}}</div>
+</div>
+
+<script>
+
+  const jsConfetti = new JSConfetti()
+
+  // Check if the checkbox is checked
+    document.getElementById("exercise_checkbox_{{.Get "slug"}}").addEventListener("change", function() {
+        if (this.checked) {
+          jsConfetti.addConfetti({emojis: ['🌟 ', '⚡️', '💥', '✨', '💫']})
+        }
+
+        saveExercise({{.Get "slug"}}, this.checked)
+
+        //Give the exercise class the extra class done if checked
+        if (this.checked) {
+          document.getElementsByClassName("exercise")[0].classList.add("done");
+        } else {
+          document.getElementsByClassName("exercise")[0].classList.remove("done");
+        }
+      }
+    );
+</script>
+
+<style>
+    .exercise {
+        padding: 32px;
+        border: #d0d0d0 3px solid;
+        border-radius: 8px;
+        margin: 16px 0px;
+    }
+
+    .done {
+        background: #e7e7e7;
+    }
+
+
+    .checkbox {
+        display: flex;
+        align-items: center;
+        font-size: 2rem;
+
+    }
+    .checkbox input {
+        margin-right: 1rem;
+        width: 32px;
+        height: 32px;
+    }
+</style>
