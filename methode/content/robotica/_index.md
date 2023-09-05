@@ -44,6 +44,6 @@ Hier vind je informatie over het robotica programma op het Emmauscollege. Dit pr
 - Inschrijving en eindpresentatie gaat hetzelfde als voor 6-vwo (eind van het schooljaar voordat je wilt starten met je PWS). Om in te kunnen schrijven moet je informatica in je vakkenpakket hebben en moet je het jaar voor je PWS hebben deelgenomen aan FTC.
 - [Beoordelingsmodel](PWS_robotica_beoordelingsmodel.xlsx)
 
-## CanSet (6 vwo)
+## CanSat (6 vwo)
 - Inschrijven: geef je op bij je informatica-docent
 - Tijd: tijdens de informaticalessen en 1 zaterdag.
