@@ -223,7 +223,7 @@ Het wordt tijd dat deze mensen elkaar kunnen besmetten. Het idee is dat mensen e
 - Voeg in `setup`, na de `for`-loop die de 25 mensen aanmaakt, deze regel code toe:
 
   ```js
-  mensen[0].besmet = true;
+  mensen[0].isBesmet = true;
   ```
 
   Hierdoor wordt alvast één mens besmet.

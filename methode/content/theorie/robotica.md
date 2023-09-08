@@ -23,7 +23,10 @@ Arduino-lessen.nl, les 1 t/m 5
 
 Zonder arduino-lessen.nl
 
-7. Grove I2C LCD met tekst en symbolen (zie uitlegvideo op deze pagina met libary "Grove-LCD RGB Backlight") (geen toetsstof)
+7. Grove I2C LCD met tekst en symbolen, zie uitlegvideo op deze pagina met libary "Grove-LCD RGB Backlight" (geen toetsstof)
+8. Passive speaker voor muziek, zie uitleg op 
+[https://docs.arduino.cc/built-in-examples/digital/toneMultiple](https://docs.arduino.cc/built-in-examples/digital/toneMultiple)
+(geen toetsstof)
 
 [Meer lessen Arduino-lessen](https://arduino-lessen.nl) (geen toetsstof)
 
