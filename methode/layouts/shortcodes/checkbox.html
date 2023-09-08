@@ -11,10 +11,13 @@
 
 <script>
 
-  const jsConfetti = new JSConfetti()
+
 
   // Check if the checkbox is checked
     document.getElementById("exercise_checkbox_{{.Get "slug"}}").addEventListener("change", function() {
+
+      const jsConfetti = new JSConfetti()
+
         if (this.checked) {
           jsConfetti.addConfetti({emojis: ['🌟 ', '⚡️', '💥', '✨', '💫']})
         }
@@ -23,9 +26,9 @@
 
         //Give the exercise class the extra class done if checked
         if (this.checked) {
-          document.getElementsByClassName("exercise")[0].classList.add("done");
+          document.getElementsByClassName("exercise_{{.Get "slug"}}")[0].classList.add("done");
         } else {
-          document.getElementsByClassName("exercise")[0].classList.remove("done");
+          document.getElementsByClassName("exercise_{{.Get "slug"}}")[0].classList.remove("done");
         }
       }
     );
