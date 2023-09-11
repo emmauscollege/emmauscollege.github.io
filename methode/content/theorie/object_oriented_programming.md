@@ -186,7 +186,38 @@ De volgende relatie zijn met pijlen getekend:
 
 {{% /expand %}}
 
-# Volgende opdracht
+# 🌳 Overerving (Inheritence)
+
+Maak de opdrachten van de volgende replit:
+
+https://replit.com/@Krisvan1/Inheritence#index.js
+
+Fork de repository. Maak eventueel een account aan als je die nog niet hebt.
+
+Elke opdracht kan je zelf testen door op de "Run" knop te drukken.
+
+
+{{% checkbox title="Opdracht 1: Basis class Dier" slug="oop-in-opdacht1" %}}
+Maak een basis klasse genaamd Dier met de volgende attributen: naam, leeftijd, en gewicht. Deze klasse moet ook de methoden eten() en slapen() bevatten die respectievelijk "[naam] is aan het eten!" en "[naam] slaapt!" naar de console afdrukken.
+{{% /checkbox %}}
+
+{{% checkbox title="Opdracht 2: Afgeleide class Vogel" slug="oop-in-opdacht2" %}} 
+Creëer een afgeleide klasse genaamd Vogel die erft van de Dier klasse. Deze klasse moet een extra attribuut vleugelspanwijdte en een methode vliegen() hebben. De vliegen() methode moet "[naam] is aan het vliegen met een vleugelspanwijdte van [vleugelspanwijdte] meters!" afdrukken.
+
+{{% /checkbox %}}
+
+{{% checkbox title="Opdracht 3: Afgeleide class Zoogdier" slug="oop-in-opdacht3" %}}
+Maak een andere afgeleide klasse genaamd Zoogdier die ook erft van de Dier klasse. Deze klasse moet een extra attribuut vachtkleur hebben en een methode rennen(). De methode rennen() moet "[naam] is aan het rennen!" naar de console afdrukken.
+
+{{% /checkbox %}}
+
+{{% checkbox title="Opdracht 4: Test je code" slug="oop-in-opdacht4" %}}
+Maak een instantie van de Vogel klasse genaamd "Adelaar" met een leeftijd van 5, gewicht van 8 kg, en een vleugelspanwijdte van 2,3 meter. Laat de adelaar eten, slapen, en vliegen.
+
+Maak vervolgens een instantie van de Zoogdier klasse genaamd "Leeuw" met een leeftijd van 3, gewicht van 190 kg, en een vachtkleur van "goudkleurig". Laat de leeuw eten, slapen, en rennen.
+
+{{% /checkbox %}}
+
 
 **Klaar?** Ga verder met Opdracht 3 van de reguliere opdrachten:
 
@@ -289,4 +320,31 @@ var players = [
 for(var i = 0; i < players.length; i++) {
     console.log(players[i].name + ' has a score of ' + players[i].score);
 }
+```
+## Inheritance in JavaScript
+
+### Creating a Subclass (Inheritance)
+```javascript
+class Goalkeeper extends Player {
+    constructor(name, score, level, savedGoals) {
+        super(name, score, level);
+        this.savedGoals = savedGoals;
+    }
+
+    printGoalkeeperStatistics() {
+        this.printStatistics();
+        console.log(`Saved Goals: ${this.savedGoals}`);
+    }
+}
+```
+
+### Creating an Instance of a Subclass
+```javascript
+var goalkeeper1 = new Goalkeeper('Sam', 90, 3, 5);
+```
+
+### Accessing Subclass Properties and Methods
+```javascript
+console.log(goalkeeper1.savedGoals); // 5
+goalkeeper1.printGoalkeeperStatistics();
 ```
