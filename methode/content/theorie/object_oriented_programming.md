@@ -49,7 +49,6 @@ Pak papier of je iPad erbij om een UML diagram te tekenen.
 
 ![UML Diagram](https://krisvanmelis.nl/wp-content/uploads/2023/09/UMLExample2.png)
 
-{{% expand "Makkelijk" %}}
 {{% checkbox title="Opdracht 5 - Makkelijk: Maak een UML diagram" slug="oop-opdacht5-makkelijk" %}}
 
 Je bent gevraagd om een basis UML klassendiagram te ontwerpen voor een bakkerij systeem. Het systeem moet producten en klanten bijhouden.
@@ -70,9 +69,6 @@ Ontwerp een UML klassendiagram dat de klassen, attributen, methoden en relaties 
 
 {{% /checkbox %}}
 
-
-{{% /expand %}}
-{{% expand "Moeilijk" %}}
 {{% checkbox title="Opdracht 5 - Moeilijk: Bibliotheeksysteem" slug="oop-opdacht5-moeilijk" %}}
 
 
@@ -106,8 +102,6 @@ Geef bij elke relatie aan of het een één-op-één, één-op-veel of veel-op-ve
 Ontwerp een UML klassendiagram dat de klassen, attributen, methoden en relaties vastlegt op basis van de verstrekte vereisten.
 
 {{% /checkbox %}}
-
-{{% /expand %}}
 
 ## Oplossingen
 
@@ -215,6 +209,21 @@ Maak een andere afgeleide klasse genaamd Zoogdier die ook erft van de Dier klass
 Maak een instantie van de Vogel klasse genaamd "Adelaar" met een leeftijd van 5, gewicht van 8 kg, en een vleugelspanwijdte van 2,3 meter. Laat de adelaar eten, slapen, en vliegen.
 
 Maak vervolgens een instantie van de Zoogdier klasse genaamd "Leeuw" met een leeftijd van 3, gewicht van 190 kg, en een vachtkleur van "goudkleurig". Laat de leeuw eten, slapen, en rennen.
+
+{{% /checkbox %}}
+
+
+# 🕵️ 🥏 Inkapseling
+
+Maak de opdrachten van de volgende replit:
+https://replit.com/@Krisvan1/PrivateGetSet#index.js
+
+**TIP:** Gebruik de instructies om de code te testen
+
+**TIP:** Gebruik het cheat sheet als je niet meer weet hoe je alles moet typen
+
+{{% checkbox title="Opdracht 1: Virtuele Huisdier" slug="oop-ink-opdacht1" %}}
+Een Virtueel Huisdier is een digitaal karakter dat je kunt voeden, spelen en zorgen. Je huisdier heeft bepaalde eigenschappen zoals honger en geluk. Je kunt acties uitvoeren om aan de behoeften van je huisdier te voldoen. Kijk in de replit voor alle stappen.
 
 {{% /checkbox %}}
 
@@ -332,8 +341,7 @@ class Goalkeeper extends Player {
     }
 
     printGoalkeeperStatistics() {
-        this.printStatistics();
-        console.log(`Saved Goals: ${this.savedGoals}`);
+        console.log('Saved Goals: ' + this.savedGoals);
     }
 }
 ```
@@ -347,4 +355,31 @@ var goalkeeper1 = new Goalkeeper('Sam', 90, 3, 5);
 ```javascript
 console.log(goalkeeper1.savedGoals); // 5
 goalkeeper1.printGoalkeeperStatistics();
+```
+
+## Prive variabelen & Getters en Setters
+```javascript
+class BankRekening {
+   constructor() {
+        this.#saldo = 0;
+   }
+
+    getSaldo() {
+        console.log("Saldo opvragen");
+        return this.#saldo;
+    }
+
+    setSaldo(bedrag) {
+        if (bedrag >= 0) {
+            this.#saldo = bedrag;
+        } else {
+            console.log("Ongeldig saldo");
+        }
+    }
+
+}
+
+const rekening = new BankRekening();
+console.log(rekening.getSaldo()); // Saldo opvragen + het huidige saldo
+rekening.setSaldo(-1000); // Ongeldig saldo
 ```
