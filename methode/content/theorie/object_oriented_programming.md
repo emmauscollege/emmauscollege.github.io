@@ -219,6 +219,7 @@ Maak de opdrachten van de volgende replit:
 https://replit.com/@Krisvan1/PrivateGetSet#index.js
 
 **TIP:** Gebruik de instructies om de code te testen
+
 **TIP:** Gebruik het cheat sheet als je niet meer weet hoe je alles moet typen
 
 {{% checkbox title="Opdracht 1: Virtuele Huisdier" slug="oop-ink-opdacht1" %}}
