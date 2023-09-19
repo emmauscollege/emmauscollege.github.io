@@ -11,10 +11,11 @@ De opdracht in het kort is: Maak in groepjes van twee je eigen spel in JavaScrip
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je schoolmail voor toegang). 
-- [4Hin1 GEE woensdag 4e en 5e uur 22/23](https://docs.google.com/spreadsheets/d/1NPSxJqZaTwiOTD1DM49eqLHHqAOaD1go)
-- [4Hin2 GEE woensdag 8e en 9e uur 22/23](https://docs.google.com/spreadsheets/d/1NFLCETdsStCgIRpjfCc5qQhZ4JkyTKRs)
-- [4Vin1 CAM 22/23](https://docs.google.com/spreadsheets/d/1NM3Th4uxx6nxQ9773yTFYejjLnEaj8Lq)
-- [4Vin2 GEE 22/23](https://docs.google.com/spreadsheets/d/1NTk6O624_vKoGA_fU2YtQBkPBxOu_2oJ)
+- [4hin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1EuP1Du0L7ReOok4Qin8gEsTNDA6V_rfD)
+- [4hin2 DOU 23/24](https://docs.google.com/spreadsheets/d/1FpQPCdRQJ_XJ-1fCUhNl3OHMwr7_uQP8)
+- [4vin1 CAM 23/24](https://docs.google.com/spreadsheets/d/1Fs8x_CoSo_vXI7rduRkkHgVyOdTWCc63)
+- [4vin2 DOU 23/24](https://docs.google.com/spreadsheets/d/1FnFzBJojrgu4tirZAg4XClViva2f31ln)
+- [4vin3 DOU 23/24](https://docs.google.com/spreadsheets/d/1FpHdBak4oa33q7qna_HmGkbbD7uS3lDA)
 {{% /expand %}}
 
 
