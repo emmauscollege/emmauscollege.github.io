@@ -11,15 +11,10 @@ De opdracht in het kort is: programmeer een apparaat naar keuze met behulp van e
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je google account van school voor toegang).
-- [gsr 22/23](https://docs.google.com/spreadsheets/d/150QpnvFvxZxhiYioHWtRMPT6MByoXTHD)
-- [5hin1 22/23](https://docs.google.com/spreadsheets/d/154HkbDKdiV4zjNt2-HMua6KBCxg3R1HO)
-- [5hin2 22/23](https://docs.google.com/spreadsheets/d/1536gbIVDMrdd1K43W7Z0xQkFfdhxqYOO)
-- [5V GEE 22/23](https://docs.google.com/spreadsheets/d/1j7i8VOTGSM1yM68rseCi_iOWGIjSqiWr)
-- [5V CAM 22/23](https://docs.google.com/spreadsheets/d/1N-NsYaFb2qHVlUe1_Q6pgn8zRg4nDVKa/edit?usp=sharing&ouid=118282713937523617390&rtpof=true&sd=true)
-
-- 5vin1, link naar formulier volgt
-- 5vin2, link naar formulier volgt
-- gsr, link naar formulier volgt
+- [5Hin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1E_3YINGZ6Ytvj8w1EhBC7m5-4FuaK2JU)
+- [5Hin2 GEE 23/24](https://docs.google.com/spreadsheets/d/1F_Tho_N5eHb10QK4P0QwJ6DxVFkxc-Zg)
+- [5Vin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1FxRuHjCn5YiFkwQ9qZXztVHm6D4ziJ7F)
+- [5Vin2 CAM 23/24](https://docs.google.com/spreadsheets/d/1GJgqkoqPMlvtFgHkmBkugLrFIQL5BXkK)
 {{% /expand %}}
 
 {{% expand "Apparaat kiezen" %}}
