@@ -233,9 +233,84 @@ Een Virtueel Huisdier is een digitaal karakter dat je kunt voeden, spelen en zor
 https://informatica.emmauscollege.nl/theorie/objectoriented_verwerkingsopdrachten/#opdracht-3
 
 
-# 🗒️ JavaScript Cheat Sheet
+# 🚑️ Oefenopdracht
 
-## Creating an Object
+Je gaat oefenen met alles wat je tot nu toe geleerd hebt.
+
+{{% checkbox title="UML Diagram maken" slug="oop-oefen-opdacht1" %}}
+
+In het Ziekenhuis van Sint-Elisabeth draait alles om de zorg voor patiënten. Patiëntenprivacy staat hierbij hoog in het vaandel. Elk patiëntendossier bevat naast medische gegevens zoals leeftijd, medische geschiedenis en allergieën ook een geheime patiëntencode. Deze code is strikt voor intern gebruik en wordt niet met de patiënt gedeeld.
+
+Het ziekenhuis kent verschillende afdelingen, maar Cardiologie en Neurologie zijn de meest bezochte. Elke doctor in het ziekenhuis is een specialist. Dr. Hartman, een ervaren cardioloog met 300 uitgevoerde operaties op zijn naam, werkt op de afdeling Cardiologie. Hij is bekend om zijn efficiëntie en gebruikt de getDetails methode om snel een patiëntendossier in te zien. Aan de andere kant is er Dr. Brein van de afdeling Neurologie, die gespecialiseerd is in neurologisch onderzoek en al 200 MRI-scans en CT-scans uitgevoerd heeft. Elke doctor heeft een lijst van patienten waarvoor hij zorgt.
+
+Mevrouw Jansen, 67 jaar oud, komt voor haar jaarlijkse hartcontrole. Ze is allergisch voor penicilline en heeft vorig jaar een hartoperatie ondergaan. Terwijl Dr. Hartman haar dossier inziet met de getDetails methode, merkt hij op dat haar geheime patiëntencode, zoals het hoort, verborgen blijft.
+
+**Maak een UML Diagram van de verschillende classes, attributen en methoden.**
+
+**TIP:** Denk goed na wat de relatie is tussen de verschillende classes.
+
+{{% /checkbox %}}
+
+
+## Kijk je UML diagram na
+
+{{% expand "Oplossing UML" %}}
+
+1. **Patiënt**
+   - Attributen:
+      - `naam: String`
+      - `leeftijd: Integer`
+      - `medischeGeschiedenis: String`
+      - `allergieën: String`
+      - `-geheimePatiëntencode: String` (*de '-' geeft aan dat het een privé attribuut is*)
+   - Methoden:
+      + `getDetails(): String`
+
+2. **Dokter** (Abstracte klasse aangezien een algemene dokter niet geïnstantieerd zou moeten worden)
+   - Attributen:
+      - `naam: String`
+      - `specialisatie: String`
+   - Methoden:
+      + `onderzoekPatiënt(p: Patiënt)`
+
+3. **Cardioloog** (*erft van `Dokter`*)
+   - Attributen:
+      + `aantalOperaties: Integer`
+   - Methoden:
+      + `voerOperatieUit()`
+
+4. **Neuroloog** (*erft van `Dokter`*)
+   - Attributen:
+      + `aantalScans: Integer`
+   - Methoden:
+      + `voerScanUit()`
+
+In dit UML-diagram:
+- De klassennamen zijn vetgedrukt.
+- "+" geeft aan dat het een publiek lid is.
+- "-" geeft aan dat het een privé lid is.
+- Er is een erfenispijl van de subklassen (`Cardioloog` en `Neuroloog`) naar de bovenliggende klasse `Dokter`, wat aangeeft dat ze erven van de `Dokter` klasse.
+- Er is een relatie van Doctor naar patient met de multipliciteit 1..* (één dokter kan meerdere patiënten hebben).
+
+{{% /expand %}}
+
+{{% checkbox title="Code Schrijven" slug="oop-oefen-opdacht2" %}}
+Maak gebaseerd op je *nagekeken* UML diagram de javascript code aan die nodig is om dit systeem te maken.
+
+Fork hiervoor de volgende replit:
+https://replit.com/@Krisvan1/ZiekenhuisSysteem#index.js
+{{% /checkbox %}}
+
+
+Natuurlijk, laten we dat aanpakken.
+
+---
+
+## 🗒️ JavaScript Cheat Sheet
+
+### Creating an Object
+Een object is een verzameling van sleutel-waarde paren. In dit voorbeeld bevat het object `player` drie sleutels: `name`, `score` en `level`.
+
 ```javascript
 var player = {
     name: 'John',
@@ -244,7 +319,9 @@ var player = {
 };
 ```
 
-## Creating an Array of Objects
+### Creating an Array of Objects
+Arrays zijn geordende lijsten van items. Hier hebben we een array van objecten.
+
 ```javascript
 var players = [
     {
@@ -260,21 +337,36 @@ var players = [
 ];
 ```
 
-## Accessing Object Properties
+### Accessing Object Properties
+Je kunt de waarde van een objecteigenschap opvragen door de naam van het object gevolgd door een punt en daarna de eigenschapsnaam.
+
 ```javascript
 console.log(player.name); // John
 ```
 
-## Looping Through an Array of Objects
+### Looping Through an Array of Objects
+Een `for` loop herhaalt een reeks instructies een bepaald aantal keer. In dit geval loopt de loop door elk object in de `players` array en drukt de naam en score van elke speler af.
+
+**Uitleg loop:**
+- `i = 0`: Initialiseert de tellervariabele `i` op 0.
+- `i < players.length`: De loop blijft draaien zolang `i` kleiner is dan het aantal items in de `players` array.
+- `i++`: Verhoogt de waarde van `i` met 1 na elke loop.
+
 ```javascript
 for(var i = 0; i < players.length; i++) {
     console.log(players[i].name + ' has a score of ' + players[i].score);
 }
 ```
 
-## Creating a Class
+### Creating a Class
+Een klasse definieert de eigenschappen (variabelen) en gedragingen (methoden) die zijn objecten (instanties) zullen hebben.
+
 ```javascript
 class Player {
+    name;
+    score;
+    level;
+  
     constructor(name, score, level) {
         this.name = name;
         this.score = score;
@@ -294,7 +386,6 @@ class Player {
     }
 }
 ```
-
 ## Creating an Instance of a Class
 ```javascript
 var player1 = new Player('John', 100, 2);
@@ -305,36 +396,13 @@ var player1 = new Player('John', 100, 2);
 console.log(player1.name); // John
 ```
 
-## Using Class Methods
-```javascript
-player1.increaseScore(20);
-console.log(player1.score); // 120
+### Inheritance in JavaScript
+**Inheritance** stelt je in staat om een nieuwe klasse te maken die is gebaseerd op een bestaande klasse. De nieuwe klasse erft eigenschappen en gedrag van de ouderklasse.
 
-player1.increaseLevel();
-console.log(player1.level); // 3
-
-player1.printDetails(); // John has a score of 120 and is on level 3
-```
-
-## Creating an Array of Class Instances
-```javascript
-var players = [
-    new Player('John', 100, 2),
-    new Player('Jane', 150, 3)
-];
-```
-
-## Looping Through an Array of Class Instances
-```javascript
-for(var i = 0; i < players.length; i++) {
-    console.log(players[i].name + ' has a score of ' + players[i].score);
-}
-```
-## Inheritance in JavaScript
-
-### Creating a Subclass (Inheritance)
 ```javascript
 class Goalkeeper extends Player {
+    savedGoals;
+  
     constructor(name, score, level, savedGoals) {
         super(name, score, level);
         this.savedGoals = savedGoals;
@@ -346,20 +414,13 @@ class Goalkeeper extends Player {
 }
 ```
 
-### Creating an Instance of a Subclass
-```javascript
-var goalkeeper1 = new Goalkeeper('Sam', 90, 3, 5);
-```
+### Prive variabelen & Getters en Setters
+Private variabelen (zoals `#saldo`) zijn alleen toegankelijk binnen de klasse waarin ze zijn gedefinieerd. **Getters** en **Setters** zijn speciale methoden die respectievelijk worden gebruikt om waarden van deze private variabelen op te vragen of in te stellen.
 
-### Accessing Subclass Properties and Methods
-```javascript
-console.log(goalkeeper1.savedGoals); // 5
-goalkeeper1.printGoalkeeperStatistics();
-```
-
-## Prive variabelen & Getters en Setters
 ```javascript
 class BankRekening {
+    #saldo; // Prive variabele
+  
    constructor() {
         this.#saldo = 0;
    }
@@ -376,10 +437,11 @@ class BankRekening {
             console.log("Ongeldig saldo");
         }
     }
-
 }
 
 const rekening = new BankRekening();
 console.log(rekening.getSaldo()); // Saldo opvragen + het huidige saldo
 rekening.setSaldo(-1000); // Ongeldig saldo
 ```
+
+Door het gebruik van getters en setters kunnen we ervoor zorgen dat de regels voor toegang tot of wijziging van data worden nageleefd.
