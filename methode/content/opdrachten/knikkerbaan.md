@@ -13,8 +13,8 @@ In het vakgebied van informatica wordt heel veel projectmatig gewerkt. Een van d
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via het onderstaande formulier dat de docent aanlevert. 
-- [6Vin1](https://docs.google.com/spreadsheets/d/1f3Y1B4zmQebQ-yE6Cd4uWfoR940aeAQe)
-- [6Vin2](https://docs.google.com/spreadsheets/d/1f4t70qRRf8H0lGPCHI4yNTQTmHKCmg_g)
+- [6Vin1 CAM 23/24](https://docs.google.com/spreadsheets/d/1FKSdE6hnRfD4sjMpErScTtln45Nn9Jf3)
+- [6Vin2 CAM 23/24](https://docs.google.com/spreadsheets/d/1FkUo6KPsoHwobN680jdgiO-55Dp68lIO)
 {{% /expand %}}
 
 

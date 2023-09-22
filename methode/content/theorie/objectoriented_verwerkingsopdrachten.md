@@ -403,11 +403,11 @@ Speel gerust eens met de waarden van de besmettelijkheidsTeller of het aantal do
   - we maken voor iedere klasse een apart bestand aan, zoals `actor.js`, `mens.js` etc.
   - je javascript wordt uitgevoerd binnen de HTML-pagina `index.html`. Het JavaScript-bestand wordt hierin netjes geladen. Nu we de code hebben verdeeld over meerdere bestanden, moeten we ook aangeven dat deze worden geladen. Voeg **boven** de regel:
   ```html
-  <script id="canvas" href="script.js"></script>
+  <script id="canvas" src="script.js"></script>
   ```
   voor ieder bestand nieuwe regel toe zoals:
   ```html
-  <script href="actor.js"></script>
+  <script src="actor.js"></script>
   ```
 - Maak zelf een heel nieuwe actor voor de simulatie. Je mag zelf weten of het een directe subklasse van `Actor`, `Mens`, `Kat` of `Dokter` is, zolang je maar geen code in (één van de) superklassen gaat veranderen om jouw nieuwe klasse te laten werken. Zet deze code in een los bestand.
 - Maak een volledig UML klassendiagram van de *vijf* klassen die in jouw simulatie voorkomen.

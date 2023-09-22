@@ -11,10 +11,11 @@ De opdracht in het kort is: Maak je eigen informatieve website over een zelfgeko
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je google account van school voor toegang). 
-- [4hin1 22/23](https://docs.google.com/spreadsheets/d/15CA2tkCmUfqS000-js30RL6iUACfhY6N)
-- [4hin2 22/23](https://docs.google.com/spreadsheets/d/155eIS2dOykUo00nmMZzPcneVmPh4OxCy)
-- [4vin1 22/23](https://docs.google.com/spreadsheets/d/15CsRq6-lfefILVSYX2V_we4R9fRXpmcO)
-- [4vin2 22/23](https://docs.google.com/spreadsheets/d/15I1D4wIxdGnk8xScw-NhPr-PGna1-e5A)
+- [4hin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1F9NkhUrzTjZhpaaeD2g0jPE2yCREKOso)
+- [4hin2 DOU 23/24](https://docs.google.com/spreadsheets/d/1FN6RCQjYgyYqXq5gMwpOsaJ3jz0i-BcX)
+- [4vin1 CAM 23/24](https://docs.google.com/spreadsheets/d/1FVjx5BIgZlrPJTTxjCVaJVnS802TtK9u)
+- [4vin2 DOU 23/24](https://docs.google.com/spreadsheets/d/1FYd_Y0jv5lKorha_nLIi8FEhIavWkA4t)
+- [4vin3 DOU 23/24](https://docs.google.com/spreadsheets/d/1FRKZpWnxhxqB1TlO-wKvQOo2Zx3_dIqv)
 {{% /expand %}}
 
 {{% expand "Onderwerp kiezen" %}}

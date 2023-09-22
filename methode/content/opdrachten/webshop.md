@@ -11,10 +11,10 @@ De opdracht in het kort is: Maak in groepjes van twee of drie je eigen webshop. 
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je schoolmail voor toegang). 
-- [5V GEE 22/23](https://docs.google.com/spreadsheets/d/1LmYi8GHKjSaOO6IN2n_X9oQ5JFMEqZ0w)
-- [5V CAM 22/23](https://docs.google.com/spreadsheets/d/1LnDnAww361misiJUaNj_SijMhd_Cdczd)
-- [5Hin1 GEE 22/23](https://docs.google.com/spreadsheets/d/1StIqH7tclQZjS7oX_BiWJp6Z90tkvBkA)
-- [5Hin2 GEE 22/23](https://docs.google.com/spreadsheets/d/1StFYJEVBbmefIa_VhgPbuKIorNuTJIEA)
+- [5Hin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1EsvIFBZBIj_rCIfBbCSdRJahlfR1KAar)
+- [5Hin2 GEE 23/24](https://docs.google.com/spreadsheets/d/1FlP_s8gsP6oGkh10_TM30z0CrFs7StIl)
+- [5Vin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1GGgj-J7MWx3FpdHg3HP8kH6gzBKHW-lB)
+- [5Vin2 CAM 23/24](https://docs.google.com/spreadsheets/d/1GJcDeHX9JqaF6fqPYN6cFqlx1ZLqc9Qd)
 {{% /expand %}}
 
 {{% expand "Kies wat je gaat verkopen" %}}
