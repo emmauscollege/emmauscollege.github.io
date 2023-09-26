@@ -48,7 +48,7 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 
 **Vormgeving en inhoud**
 Enkele punten waarop gelet kan worden bij de beoordeling van vormgeving en inhoud zijn
-- De website bestaat uit mimimaal 4 pagina’s. 
+- De website bestaat uit minimaal 4 pagina’s. 
 - Uit de home-page (index.html) blijkt duidelijk wat er op je website te vinden is.
 - De vormgeving ziet er aantrekkelijk uit en nodigt uit om verder te kijken op je website.
 - De inhoud is compleet en informatief, de teksten heb je niet klakkeloos gekopieerd van een andere website. 
