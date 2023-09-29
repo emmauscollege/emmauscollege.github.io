@@ -241,7 +241,7 @@ Je gaat oefenen met alles wat je tot nu toe geleerd hebt.
 
 In het Ziekenhuis van Sint-Elisabeth draait alles om de zorg voor patiënten. Patiëntenprivacy staat hierbij hoog in het vaandel. Elk patiëntendossier bevat naast medische gegevens zoals leeftijd, medische geschiedenis en allergieën ook een geheime patiëntencode. Deze code is strikt voor intern gebruik en wordt niet met de patiënt gedeeld.
 
-Het ziekenhuis kent verschillende afdelingen, maar Cardiologie en Neurologie zijn de meest bezochte. Elke doctor in het ziekenhuis is een specialist. Dr. Hartman, een ervaren cardioloog met 300 uitgevoerde operaties op zijn naam, werkt op de afdeling Cardiologie. Hij is bekend om zijn efficiëntie en gebruikt de getDetails methode om snel een patiëntendossier in te zien. Aan de andere kant is er Dr. Brein van de afdeling Neurologie, die gespecialiseerd is in neurologisch onderzoek en al 200 MRI-scans en CT-scans uitgevoerd heeft. Elke doctor heeft een lijst van patienten waarvoor hij zorgt.
+Het ziekenhuis kent verschillende afdelingen, maar Cardiologie en Neurologie zijn de meest bezochte. Elke doctor in het ziekenhuis is een specialist. Dr. Hartman, een ervaren cardioloog met 300 uitgevoerde operaties op zijn naam, werkt op de afdeling Cardiologie. Hij is bekend om zijn efficiëntie en gebruikt de getDetails methode om snel een patiëntendossier in te zien. Aan de andere kant is er Dr. Brein van de afdeling Neurologie, die gespecialiseerd is in neurologisch onderzoek en al 200 MRI-scans en CT-scans uitgevoerd heeft. Elke doctor heeft een lijst van patienten waarvoor hij zorgt. Elke doctor kan ook een patient onderzoeken
 
 Mevrouw Jansen, 67 jaar oud, komt voor haar jaarlijkse hartcontrole. Ze is allergisch voor penicilline en heeft vorig jaar een hartoperatie ondergaan. Terwijl Dr. Hartman haar dossier inziet met de getDetails methode, merkt hij op dat haar geheime patiëntencode, zoals het hoort, verborgen blijft.
 
@@ -262,16 +262,16 @@ Mevrouw Jansen, 67 jaar oud, komt voor haar jaarlijkse hartcontrole. Ze is aller
       - `leeftijd: Integer`
       - `medischeGeschiedenis: String`
       - `allergieën: String`
-      - `-geheimePatiëntencode: String` (*de '-' geeft aan dat het een privé attribuut is*)
+      - `patienten: Lijst<Patiënt>`
+      - `-geheimePatientencode: String` (*de '-' geeft aan dat het een privé attribuut is*)
    - Methoden:
-      + `getDetails(): String`
+      + `getDetails(toegangscode: String): String`
 
 2. **Dokter** (Abstracte klasse aangezien een algemene dokter niet geïnstantieerd zou moeten worden)
    - Attributen:
       - `naam: String`
-      - `specialisatie: String`
    - Methoden:
-      + `onderzoekPatiënt(p: Patiënt)`
+      + `onderzoekPatient(patient: Patient)`
 
 3. **Cardioloog** (*erft van `Dokter`*)
    - Attributen:
@@ -445,3 +445,7 @@ rekening.setSaldo(-1000); // Ongeldig saldo
 ```
 
 Door het gebruik van getters en setters kunnen we ervoor zorgen dat de regels voor toegang tot of wijziging van data worden nageleefd.
+
+# Powerpoints
+
+- [Powerpoint 1](http://localhost:1313/powerpoints/1/)
