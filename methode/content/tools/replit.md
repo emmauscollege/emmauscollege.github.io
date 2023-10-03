@@ -40,7 +40,7 @@ Gebruik bij voorkeur Chrome of anders Firefox.
 5. Klik op de knop "Import from Github". Replit haalt nu de laatste versie van je code uit GitHub
 6. Wijzig je code.
 7. Test of je code werkt, je kunt op de groene RUN knop drukken om een nieuw voorbeeld te zien.
-8. Klik op het "version control" icoontje (een gesplitst lijntje met twee bolletjes) links in het scherm. Type een korte beschrijving van de wijziging, druk op de knop "Commit en Push".
+8. Klik op het "Git" icoontje links in het scherm. Type rechts in het scherm een korte beschrijving van de wijziging, druk op de knop "Commit", druk op de knop "Push", druk op toestaan gebruik van je github gegevens.
 9. Check in op https://github.com/ dat je codewijzigingen zijn opgeslagen
 10. Als je nog verder wilt werken, gaan dan terug naar stap 4.
 
