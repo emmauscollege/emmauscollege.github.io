@@ -53,3 +53,7 @@ CSS
 
 ## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
+
+## Verdieping
+1. CSS Battle (https://cssbattle.dev/).
+
