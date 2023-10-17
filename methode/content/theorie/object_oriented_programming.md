@@ -447,5 +447,10 @@ rekening.setSaldo(-1000); // Ongeldig saldo
 Door het gebruik van getters en setters kunnen we ervoor zorgen dat de regels voor toegang tot of wijziging van data worden nageleefd.
 
 # Powerpoints
+- [Download hier de lespresentaties](../OOP-presentaties.zip)
 
-- [Powerpoint 1](http://localhost:1313/powerpoints/1/)
+# Antwoorden oefeningen
+- [opdracht 1](https://replit.com/@Krisvan1/Opdracht1Oplossing#index.js)
+- [overerving](https://replit.com/@Krisvan1/InheritenceOplossing#index.js)
+- [private, set en get](https://replit.com/@Krisvan1/PrivateGetSetOplossing#index.js)
+- [ziekenhuissysteem](https://replit.com/@Krisvan1/ZiekenhuisSysteemOplossing#index.js)
