@@ -6,8 +6,6 @@ weight = 7
 Je leert hoe het internet van binnen werkt.
 <!--more-->
 
-**Deze module wordt in de loop van 22/23 op onderdelen aangepast.**
-
 ## Hulpmiddelen
 We gebruiken in deze module de volgende tools:
 1. [Informatica Actief](/tools/ia/) 
