@@ -17,7 +17,7 @@ Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login 
 - [5Vin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1GGgj-J7MWx3FpdHg3HP8kH6gzBKHW-lB)
 - [5Vin2 CAM 23/24](https://docs.google.com/spreadsheets/d/1GJcDeHX9JqaF6fqPYN6cFqlx1ZLqc9Qd)
 -->
-- [5Vin1 GEE 23/24 classroom](https://classroom.github.com/a/ez9tGWqA)
+- 5Vin1 GEE 23/24 classroom: [https://classroom.github.com/a/ez9tGWqA](https://classroom.github.com/a/4uA-SFwF))
 {{% /expand %}}
 
 {{% expand "Kies wat je gaat verkopen" %}}
