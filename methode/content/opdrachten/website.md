@@ -144,21 +144,28 @@ Aan het einde van stap 5 heb je minimaal drie subpagina's met een goede indeling
 Aan het einde van stap 6 heb je minimaal drie subpagina's met teksten en plaatjes.
 {{% /expand %}}
 
-{{% expand "Stap 7: Perfectioneren" %}}
+{{% expand "Stap 7: Kleuren" %}}
+1. Je hebt alle elementen op je site kleuren gegeven die je mooi vindt en die duidelijk leesbaar zijn.
+2. Je hebt fonts gekozen die je mooi vindt en die duidelijk leesbaar zijn.
+
+Aan het einde van stap 8 zijn alle kleine kleuren en fonts op je website goed ingesteld.
+{{% /expand %}}
+
+{{% expand "Stap 8: Perfectioneren" %}}
 1. Je hebt slordigheden in de lay-out, kleuren en inhoud gerepareerd. 
 2. Je hebt gezorgd dat je HTML en CSS goed leesbaar zijn (geen herhaling, namen van classes die aangeven wat erin zit in plaats van hoe het eruit ziet, uit logische onderdelen opgebouwd, inclusief commentaar, …)
 3. Je hebt gecontroleerd of de lay-out werkt op een groter venster, een kleiner venster, een ander apparaat en andere browser. 
 
-Aan het einde van stap 7 zijn alle kleine foutjes uit je website verdwenen.
+Aan het einde van stap 8 zijn alle kleine foutjes uit je website verdwenen.
 {{% /expand %}}
 
-{{% expand "Stap 8: Eye catchers" %}} 
+{{% expand "Stap 9: Eye catchers" %}} 
 1. Je hebt een aantal extra dingen toegevoegd die je website nog mooier maken. Denk bijvoorbeeld aan animaties met CSS, een responsive design (=website heeft een andere indeling op apparaten met een kleiner scherm), een fotogalerij, visuele effecten als je met je muis ergens overheen beweegt, vernieuwingen in het ontwerp van een gebruikte voorbeeldwebsite etc.
 
-Aan het einde van stap 8 heb je een perfecte website met één of enkele opvallende functies die je zelf hebt toegevoegd.
+Aan het einde van stap 9 heb je een perfecte website met één of enkele opvallende functies die je zelf hebt toegevoegd.
 {{% /expand %}}
 
-{{% expand "Stap 9: Uitbreidingen (niet verplicht)" %}}
+{{% expand "Stap 10: Uitbreidingen (niet verplicht)" %}}
 Kies de uitbreidingen die je leuk vindt en maak je website nog mooier
 1. ...
 {{% /expand %}}
