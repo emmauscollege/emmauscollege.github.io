@@ -1,7 +1,11 @@
 +++
-title = "Ontwikkelomgeving: GitHub, Codespaces en Classroom"
+title = "Ontwikkelomgeving"
 weight = 10
 +++
+
+Hier vind je informatie voor docenten over de online ontwikkelomgeving. We gebruiken Github met Codespaces en Classroom.
+
+<!--more-->
 
 ## GitHub
 
