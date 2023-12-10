@@ -35,7 +35,7 @@ GitHub is eigendom van Microsoft. Met een gratis account kun je bijna alle funct
 
 Tips voor gebruik:
 - Maak een gratis GitHub account aan en start met het maken van repositories.
-- Maak een organisatie aan in GitHub. Nodig de informaticadocenten op je school uit als (mede)owner van de organisatie. Je kunt dan gemakkelijker met collega informatica-docenten op je school samenwerken en je kunt je schoolwerk gescheiden houden van andere dingen die je op je GitHub account doet. Het is handig om een tweede organisatie te maken waarin je werk van leerlingen bewaard (zie ook onder Classroom).
+- Maak een organisatie aan in GitHub. Nodig de informaticadocenten op je school uit als (mede)owner van de organisatie. Je kunt dan gemakkelijker met collega informatica-docenten op je school samenwerken en je kunt je schoolwerk gescheiden houden van andere dingen die je op je GitHub account doet. Het is handig om een tweede organisatie te maken waarin je werk van leerlingen bewaart (zie ook onder Classroom).
 - Wijzigen van code gaat in de volgende stappen: 
     - change (maak wijzigingen in de code met een editor)
     - stage changes (kies de wijzigingen waarmee je verder wilt, meestal allemaal)
