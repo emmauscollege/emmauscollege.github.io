@@ -44,7 +44,8 @@ We vinden het tof als je het programma gebruikt en nog toffer als je mee wilt we
 ## Contact
 Arie Pieter Cammeraat CAM@emmaus<br>
 Sander van Geest GEE@emmaus <br>
-Beide docent informatica op het Emmauscollege Rotterdam <br>
+Aksel Harrewijn HAR@emmaus <br>
+Allen docent informatica op het Emmauscollege Rotterdam <br>
 (volledige mailadres niet opgenomen ter bescherming tegen spam, tip: het mailadres eindigt op emmauscollege.nl 😉)
 
 ## Meer inspiratie
