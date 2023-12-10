@@ -86,9 +86,10 @@ Login op GitHub, ga naar een repository, klik op de groene code knop en maak een
 
 #### Codespaces: Alternatieven
 
-Alle alternatieven kunnen samenwerken met GitHub, maar zijn ook zonder GitHub te gebruiken.
-- https://gitpod.io/
-- https://replit.com/
+Alle onderstaande alternatieven kunnen samenwerken met GitHub, maar zijn ook zonder GitHub te gebruiken.
+- https://gitpod.io/, zelfde look and feel en nagenoeg dezelfde mogelijkheden als Codespaces, inclusief editor VS Code.
+- https://replit.com/, in 2017-2020 begonnen als online multi-language platform voor kleine stukjes code, inmiddels fors gegroeid kwa mogelijkheden en aantal gebruikers.
+Wij hebben enkele jaren Gitpod (vwo) en replit (havo) gebruikt. In 2023 zijn we overgestapt naar Codespaces, ondermeer vanwege de naadloze integratie met GitHub.
 
 ## GitHub Classroom
 
