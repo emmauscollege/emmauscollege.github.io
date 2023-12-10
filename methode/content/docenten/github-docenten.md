@@ -7,12 +7,12 @@ weight = 10
 
 GitHub is een online omgeving waar programmeurs code opslaan en delen. GitHub is gebaseerd op Git. 
 
-Het kost tijd om Git te leren begrijpen, maar een team dat Git begrijpt kan veel efficienter werken. Leeringen die beginnen met programmeren werken veelal samen tegelijk achter 1 computer of typen tegelijk online in hetzelfde document. Het typen en runnen moet dan synchroon lopen. Professionele teams van programmeurs verdelen werk, maken en testen dat in hun eigen kopie van de omgeving en voegen stukjes die werken toe aan het gezamenlijke product. Zo is er altijd een werkende versie van het product en kan iedereen zijn eigen versie op elk moment runnen.
+Het kost tijd om Git te leren begrijpen, maar een team dat Git begrijpt kan veel efficienter werken. Leeringen die beginnen met programmeren werken veelal samen tegelijk achter 1 computer of typen tegelijk online in hetzelfde document. Het typen en runnen van code moet dan synchroon gebeuren. Professionele teams van programmeurs verdelen werk, maken en testen dat in hun eigen kopie van de omgeving en voegen stukjes code die werken toe aan het gezamenlijke product. Zo is er altijd een werkende versie van het product en kan iedereen zijn eigen versie op elk moment runnen.
 
 #### GitHub: Functionaliteit
 
 Functionaliteit van GitHub:
-- Opslaan van code
+- Online opslaan van code
 - Versiebeheer
 - Met meerdere mensen werken aan dezelfde code
 - Hosting van static websites
@@ -30,7 +30,7 @@ GitHub is eigendom van Microsoft. Met een gratis account kun je bijna alle funct
 
 Tips voor gebruik:
 - Maak een gratis GitHub account aan en start met het maken van repositories.
-- Maak een organisatie aan in GitHub. Nodig de informaticadocenten op je school uit als (mede)owner van de organisatie. Je kunt dan gemakkelijker met collega informatica-docenten op je school samenwerken en je kunt je schoolwerk gescheiden houden van andere dingen die je op je GitHub account doet. Het is handig om een aparte organisatie te maken waarin je werk van leerlingen bewaard (zie ook onder Classroom).
+- Maak een organisatie aan in GitHub. Nodig de informaticadocenten op je school uit als (mede)owner van de organisatie. Je kunt dan gemakkelijker met collega informatica-docenten op je school samenwerken en je kunt je schoolwerk gescheiden houden van andere dingen die je op je GitHub account doet. Het is handig om een tweede organisatie te maken waarin je werk van leerlingen bewaard (zie ook onder Classroom).
 - Wijzigen van code gaat in de volgende stappen: 
     - change (maak wijzigingen in de code met een editor)
     - stage changes (kies de wijzigingen waarmee je verder wilt, meestal allemaal)
@@ -49,15 +49,15 @@ GitHub wordt heel veel gebruikt, als je specifieke wensen hebt dan zijn er alter
 
 ## Codespaces
 
-Codespaces is een online ontwikkelomgeving.
+Codespaces is een online ontwikkelomgeving voor alle programmeertalen.
 
 #### Codespaces: Functionaliteit
 
 Functionaliteit van Codespaces:
-- Virtual machine in de cloud waarop je een docker image kunt draaien. Configureerbaar via bestanden in .codespaces map.
+- Virtual machine in de cloud waarop je een Docker image kunt draaien. Het Docker image kun je zelf volledig configureren. 
 - Online toegang via webbrowser, inclusief mogelijkheden om bestanden te wijzigen, terminal commando's te geven en server-applicaties te draaien (zoals webserver, database, vnc-server).
 - Visual Studio Code editor ingebouwd.
-- Met enkel kliks in GitHub kun je een Codespace maken vanuit een GitHub repository. Wijzigingen in je Codespace bewaar je in GitHub (middels commit en push).
+- Met enkel kliks in GitHub kun je een Codespace maken vanuit een GitHub repository. Wijzigingen in je Codespace bewaar je in GitHub.
 - ...
 
 Wat kan niet:
@@ -108,17 +108,17 @@ Je gebruikt je GitHub account voor classroom. Classroom is geheel gratis, zonder
 #### Classroom: Aan de slag
 
 Tips voor gebruik:
-- Maak een organisatie in GitHub waarin je alle leerlingopdrachten neerzet. Gebruik een andere organisatie voor je eigen voorbeelden en templates. Op die manier hou je werk van leerlingen en van docenten gemakkelijk uit elkaar.
-- Bij elke opdracht die je aanmaakt kunt je aangeven waarmee de naam van de repositoty die Classroom voor leerlingen in GitHub aanmaakt moet beginnen. Gebruik een systematische naam, dat maakt het vinden van klassen en leerlingen veel gemakkelijker. Bijvoorbeeld :2324-5hin1-website (jaar-klas-opdracht).
+- Maak een organisatie in GitHub waarin je alle leerlingwerkstukken neerzet. Gebruik een andere organisatie voor je eigen voorbeelden en templates. Op die manier hou je werk van leerlingen en van docenten gemakkelijk uit elkaar.
+- Bij elke opdracht die je aanmaakt kunt je aangeven waarmee de naam van de repository die Classroom voor leerlingen in GitHub aanmaakt moet beginnen. Gebruik een systematische naam, dat maakt het vinden van klassen en leerlingen veel gemakkelijker. Bijvoorbeeld :2324-5hin1-website (jaar-klas-opdracht).
 - Geef herkenbare identifiers voor leerlingen op in Classroom. Voornamen werkt handiger dan leerlingnummers. Leerlingen koppelen bij inschrijven hun GitHub account aan de identifier. Deze identifiers worden door Classroom toegevoegd aan de namen van de repositories voor leerlingen.
-- Leerlingen kiezen hun eigen GitHub accountnaam, deze zie je terug in de teams die Classroom in GitHub aanmaakt. Hou een beetje in de gaten dat de namen die leerlingen kiezen okee zijn.
+- Leerlingen kiezen hun eigen GitHub accountnaam en hun eigen teamnaam, deze zie je terug in de teams die Classroom in GitHub aanmaakt. Hou in de gaten dat de namen die leerlingen kiezen okee zijn.
 
 #### Classroom: Alternatieven
 
 Alternatieven voor Classroom:
-- Laat leerlingen zelf hun repo's aanmaken, eventueel op basis van een template-repository die de docent online zet. Voor een eerste keer en niet al teveel leerlingen is dit een prima oplossing.
-- De docent maakt de repositories met de hand aan. In een situatie met niet al teveel (enkele tientallen) leerlingen is dit prima te doen.
-- Gebruik eigen scripts om repo's aan te maken. Dit hebben wij enige jaren gedaan, omdat Classroom toen nog niet betrouwbaar werkte.
+- Laat leerlingen zelf hun repositories aanmaken, eventueel op basis van een template-repository die de docent online zet. Voor een eerste keer en tot enkele tientallen leerlingen is dit een prima oplossing.
+- De docent maakt de repositories met de hand aan. In een situatie met enkele tientallen leerlingen is dit prima te doen.
+- Gebruik eigen scripts om repo's aan te maken. Dit hebben wij enkele jaren gedaan, omdat Classroom toen nog niet betrouwbaar werkte.
 
 ## Documentatie
 - GitHub<br>
