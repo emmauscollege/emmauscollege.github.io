@@ -129,6 +129,10 @@ Alternatieven voor Classroom:
 
 ## Veelgestelde vragen
 
+Heb je een voorbeeld-repository om mee aan de slag te gaan?
+- Mail ons even voor de laatste versie, of ga zelf op zoek tussen onze template-repositories op
+  [https://github.com/orgs/emmauscollege/repositories?q=template](https://github.com/orgs/emmauscollege/repositories?q=template)
+
 Ik zie geen open poorten Codespaces, hoe kan dat?
 - Sommige scholen blokkeren verkeer naar https://euw.rel.tunnels.api.visualstudio.com in hun firewall. Een work around is om de link naar de juiste poort op de server zelf te typen. Als je een webserver draait op poort 8080, dan doe je dat als volgt:
     - Knip de link van je Codespace boven in je browser naar een nieuw tabblad (de link lijkt op https://xxxxxx-xxxxxx-xxxxxx.github.dev)
