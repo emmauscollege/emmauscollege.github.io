@@ -127,6 +127,17 @@ Alternatieven voor Classroom:
 - De docent maakt de repositories met de hand aan. In een situatie met enkele tientallen leerlingen is dit prima te doen.
 - Gebruik eigen scripts om repo's aan te maken. Dit hebben wij enkele jaren gedaan, omdat Classroom toen nog niet betrouwbaar werkte.
 
+## Veelgestelde vragen
+
+Ik zie geen open poorten Codespaces, hoe kan dat?
+- Sommige scholen blokkeren verkeer naar https://euw.rel.tunnels.api.visualstudio.com in hun firewall. Een work around is om de link naar de juiste poort op de server zelf te typen. Als je een webserver draait op poort 8080, dan doe je dat als volgt:
+    - Knip de link van je Codespace boven in je browser naar een nieuw tabblad (de link lijkt op https://xxxxxx-xxxxxx-xxxxxx.github.dev)
+    - Verander de link in https://xxxxxx-xxxxxx-xxxxxx-8080.app.github.dev (dus voeg -8080.app toe)
+    - Je ziet nu de webpagina die je in je codespace gemaakt hebt.
+
+De merge-conflicten zijn lastig op te lossen, is er een simpelere manier van werken?
+- Gebruik de plugin live-share, waardoor leerlingen tegelijk kunnen typen in dezelfde codespace. De ene leerling nodigt de andere uit.
+  
 ## Documentatie
 - GitHub<br>
 To be added, er is heeeel veel te vinden. 
