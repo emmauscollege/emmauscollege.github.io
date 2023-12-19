@@ -10,8 +10,7 @@ Hier vind je informatie voor leerlingen uit de derde klas (en hun ouders) die mi
 
 ## Informatica inspireert
 
-{{<video id="https://youtu.be/nKIu9yen5nc">}}
-{{<video id="nKIu9yen5nc">}}
+{{<video id="nKIu9yen5nc?si=ZSLcShuEHdWUmuXd">}}
 
 ## Dit ga je maken tijdens de lessen
 
