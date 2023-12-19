@@ -29,6 +29,7 @@ Ruimtedatabase *(alleen vwo)*
 ## Naslagmateriaal
 
 - [Lespresentatie (vwo)](../handout_lespresentatie_databases_vwo.pdf)
+- [Lespresentatie (havo)](../handout_lespresentatie_databases_havo.pdf)
 
 ## Leerdoelen voor de toets
 
