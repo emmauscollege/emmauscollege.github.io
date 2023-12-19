@@ -35,22 +35,22 @@ Beeldbewerking
  
 ## Leerdoelen voor de toets
 Informatie digitaal
-1.	Je kunt binaire getallen omzet naar decimale getallen en andersom.
-2.	Je kunt binaire getallen omzet naar hexadecimale getallen en andersom.
-3.	Je kunt decimale getallen omzet naar hexadecimale getallen en andersom.
+1.	Je kunt binaire getallen omzetten naar decimale getallen en andersom.
+2.	Je kunt binaire getallen omzetten naar hexadecimale getallen en andersom.
+3.	Je kunt decimale getallen omzetten naar hexadecimale getallen en andersom.
 4.	Je kunt uitrekenen uit hoeveel bits of bytes een kilobyte, megabyte, gigabyte of terabyte bestaat.
-5.	Je kunt uitleggen waarin de klassieke maten van kilo-, mega, gigabyte etc. afwijken van de SI-maten.
+5.	Je kunt uitleggen waarin de klassieke maten van kilo-, mega-, gigabyte etc. afwijken van de SI-maten.
 6.	Je weet wat het verschil is tussen ASCII en Unicode en kunt uitleggen hoe ze tekst digitaliseren.
-7.	Je kunt uitleggen hoe het RGB-kleurenmodel en het CMYK-kleurenmodel werken, je kunt de verschillen tussen beide kleurenmodellen benoemen en je kunt de modellen gebruiken om kleuren te maken en kleuren te veranderen.
+7.	Je kunt uitleggen hoe het RGB-kleurenmodel en het CMYK-kleurmodel werken, je kunt de verschillen tussen beide kleurmodellen benoemen en je kunt de modellen gebruiken om kleuren te maken en kleuren te veranderen.
 8.	Je kent de betekenis van het begrip resolutie
 9.	Je kunt uitleggen hoe plaatjes worden opgeslagen door een computer
 10.	Je kent verschillende bestandsformaten voor plaatjes, zoals bmp, gif, jpg en png en de eigenschappen waarin ze van elkaar verschillen
-11.	Je kunt aangeven welk bestandformaat voor plaatjes het best geschikt is voor een beschreven situatie
+11.	Je kunt aangeven welk bestandsformaat voor plaatjes het best geschikt is voor een beschreven situatie
 12.	Je kunt uitleggen hoe muziek wordt opgeslagen door een computer
 13.	Je kunt uitleggen hoe video wordt opgeslagen door een computer
 14.	Je kunt uitleggen wat een extensie is en waar deze voor dient
 15.	Je kunt uitleggen wat compressie is aan de hand van voorbeelden (tekst, geluid, plaatjes en video) en je kent het verschil tussen lossless en niet-lossless compressie.
-16.	<em>Alleen vwo:</em> Je kunt op basis van een beschrijving van een compressie algortime een klein voorbeeld comprimeren en decomprimeren. 
+16.	<em>Alleen vwo:</em> Je kunt op basis van een beschrijving van een compressie algoritme een klein voorbeeld comprimeren en decomprimeren. 
 
 Beeldbewerking
 1. Je kunt het aantal pixels van een plaatje aanpassen
