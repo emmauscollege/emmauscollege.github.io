@@ -147,9 +147,16 @@ googleAnalytics = "G-DF99ESV8P9"
     url = "robotica/"
     weight = 300
 
-  [[Languages.en.menu.shortcuts]]
+ [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-tags'></i> Derderklasserspagina"
+    url = "derdeklassers/"
+    weight = 400
+    
+ [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-tags'></i> Docentenpagina"
     url = "docenten/"
-    weight = 400
+    weight = 500
+
+
 
   
