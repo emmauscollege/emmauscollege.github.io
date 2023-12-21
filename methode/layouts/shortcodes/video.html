@@ -10,13 +10,7 @@
   class="{{ .Get "class" }}"
   {{ end }}
   style="position: relative; margin: auto; padding-bottom: min(56.25%, 56.25vh); width: min(100%, 100vh); height: 0; overflow: hidden;">
-  {{ if (.Get "video_id") }}
-  <iframe src="https://www.youtube.com/embed/{{.Get "video_id"}}" 
-  {{ else if (.Get "playlist_id") }}
-  <iframe src="https://www.youtube.com/embed/videoseries?list={{.Get "id"}}" 
-  {{ else if (.Get "id") }}
-    <iframe src="https://www.youtube.com/embed/videoseries?list={{.Get "id"}}" 
-  {{ end }}
+    <iframe src="https://www.youtube.com/embed/{{ if (.Get "video_id") }}{{.Get "video_id"}}{{ end }}{{ if (.Get "playlist_id") }}videoseries?list={{.Get "playlist_id"}}{{ end }}{{ if (.Get "id") }}videoseries?list={{.Get "id"}}{{ end }}"
       {{ if (.Get "title") }}
       title="{{ .Get "title" | markdownify }}"
       {{ else }}
