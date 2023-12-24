@@ -97,8 +97,10 @@ googleAnalytics = "G-DF99ESV8P9"
     title = "Informatica"
     weight = 1
     languageName = "English"
-    landingPageURL = "/"
-    landingPageName = "<i class='fas fa-home'></i> Home"
+    # two params commented out to remove warning during rebuilding page
+    # custom params on the language top level was deprecated in Hugo v0.112.0 and will be removed in a future release. Put the value below [languages.en.params]. See https://gohugo.io/content-management/multilingual/#changes-in-hugo-01120
+    # landingPageURL = "/" 
+    # landingPageName = "<i class='fas fa-home'></i> Home"
     
  [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-book'></i> Informatica-Actief"
