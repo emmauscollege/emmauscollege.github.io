@@ -1,8 +1,9 @@
 +++
-title = "GitHub"
+title = "GitHub (tot eind 2023)"
 weight = 10
 +++
 
+*Vanaf begin 2024 wordt GitHub met Replit (havo) of GitPod (vwo) vervangen door GitHub met Codespaces (have en vwo)*<br>
 GitHub is een website waar je code kunt opslaan.
 <!--more-->
 

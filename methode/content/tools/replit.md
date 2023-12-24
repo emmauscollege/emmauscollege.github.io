@@ -1,8 +1,9 @@
 +++
-title = "Replit"
+title = "Replit (tot eind 2023)"
 weight = 11
 +++
 
+*Vanaf begin 2024 wordt Replit vervangen door GitHub met Codespaces*<br>
 Replit is een online ontwikkelomgeving waarin je code kunt wijzigen en uitvoeren. We gebruiken dit op de havo.
 <!--more-->
 

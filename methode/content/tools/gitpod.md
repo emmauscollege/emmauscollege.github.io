@@ -1,8 +1,9 @@
 +++
-title = "Gitpod"
+title = "Gitpod (tot eind 2023)"
 weight = 12
 +++
 
+*Vanaf begin 2024 wordt GitPod vervangen door GitHub met Codespaces*<br>
 Gitpod is een online ontwikkelomgeving waarin je code kunt wijzigen en uitvoeren (en veel meer). We gebruiken dit op het vwo.
 <!--more-->
 
