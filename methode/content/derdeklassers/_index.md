@@ -24,10 +24,10 @@ Hier vind je informatie voor leerlingen uit de derde klas (en hun ouders) die mi
 
 #### Wat is het verschil tussen informatica en IC?
 - IC is het vak informatie en communicatie dat iedereen in de brugklas krijgt. Bij IC leer je vooral hoe je programma's op een computer kunt gebruiken. 
-- Informatica je in de bovenbouw, maar alleen als je het kiest. Bij informatica leer je vooral hoe je zelf programma's kunt maken voor een computer. 
+- Informatica krijg je in de bovenbouw, maar alleen als je het kiest. Bij informatica leer je vooral hoe je zelf programma's kunt maken voor een computer. 
 
 #### Hoe zien de lessen eruit?
-We hebben theorie en praktijklessen. 
+We hebben theorielessen en praktijklessen. 
 - Tijdens de theorielessen legt de docent vaak wat uit en daarna ga je zelf oefenen. Oefenen doe je meestal door kleine opdrachtjes te maken in een online omgeving. Je programmeert dan een klein dingetje en je ziet gelijk het resultaat. De computer geeft vaak aan of iets goed of fout is. De docent is er om je te helpen als je er niet uitkomt.
 - Tijdens de praktijklessen werk je aan praktische opdrachten. Een opdracht duurt meestal 5 of 10 weken. Goed plannen hoort erbij, maar je krijgt een stappenplan om je daarbij te helpen. Je werkt vaak in kleine groepjes en je hebt veel vrijheid. De docent loopt rond en is er om jullie te helpen.
 
