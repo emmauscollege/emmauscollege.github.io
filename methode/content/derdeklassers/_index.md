@@ -20,7 +20,7 @@ Hier vind je informatie voor leerlingen uit de derde klas (en hun ouders) die mi
 
 #### Waarom zou ik informatica kiezen?
 - Informatica is leuk. Je werkt 40% van je lessen aan praktische opdrachten. Bij de praktische opdrachten bepaal jij zelf hoe het eindresultaat eruit ziet. Daarbij heb je veel vrijheid en kun je veel creativiteit kwijt. 
-- Het is een nuttig vak. Computers worden in bijna alle beroepen gebruikt, het is dus handig om daar meer van te leren.
+- Het is een nuttig vak. Computers worden in bijna alle beroepen gebruikt, het is dus handig om daar meer van te leren. Bij steeds meer studies krijg je een vakje waarbij je moet programmeren, als je informatica op de havo of het vwo hebt gehad, dan heb je daarbij alvast een kleine voorsprong.
 
 #### Wat is het verschil tussen informatica en IC?
 - IC is het vak informatie en communicatie dat iedereen in de brugklas krijgt. Bij IC leer je vooral hoe je programma's op een computer kunt gebruiken. 
