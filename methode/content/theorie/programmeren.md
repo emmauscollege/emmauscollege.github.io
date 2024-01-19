@@ -32,8 +32,8 @@ We gebruiken in deze module de volgende tools:
 18. Becoming a better programmer (overslaan)
 
 Verdiepingsopdrachten
-1. [My Galaxy](https://www.khanacademy.org/computer-programming/my-galaxy/6610681495601152)
-2. [My Pong Game](https://www.khanacademy.org/computer-programming/my-pong-from-challenge-bouncy-ball/6690498551267328)
+1. [My Pong Game](https://www.khanacademy.org/computer-programming/my-pong-from-challenge-bouncy-ball/6690498551267328) voor als je oefeningen 1 t/m 11 af hebt
+2. [My Galaxy](https://www.khanacademy.org/computer-programming/my-galaxy/6610681495601152) voor als je oefeningen 1 t/m 15 af hebt
 
 ## Uitleg
 
