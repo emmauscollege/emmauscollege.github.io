@@ -31,7 +31,7 @@ We gebruiken in deze module de volgende tools:
 17. Object-Oriented Design (overslaan)
 18. Becoming a better programmer (overslaan)
 
-Verdiepingsopdrachten<
+Verdiepingsopdrachten
 1. [My Galaxy](https://www.khanacademy.org/computer-programming/my-galaxy/6610681495601152)
 2. [My Pong Game](https://www.khanacademy.org/computer-programming/my-pong-from-challenge-bouncy-ball/6690498551267328)
 
