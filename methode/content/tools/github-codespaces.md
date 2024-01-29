@@ -32,7 +32,7 @@ Codespaces is een codeeromgeving binnen GitHub waar je code kunt wijzigen en uit
 6. Bevestig je account door te klikken op de link in de mail die je ontvangt van GitHub
 
 #### Maak een Codespace met startcode voor je opdracht
-1. De docent geeft je toegang tot een repository op GitHub met startcode voor een opdracht.
+1. De docent heeft een repository met startcode voor deze opdracht op GitHub gezet. Deze repository is read-only voor leerlingen. De docent vertelt hoe je een kopie van deze repository kunt maken waarin je zelf aanpassingen kunt doen. Sommige docenten delen een link naar GitHub Classroom waarmee jij je kunt inschrijven en automatisch je eigen kopie van de repository krijgt. Andere docenten laten je zelf een kopie maken door de repository met startcode te forken. Gebruik je eigen kopie van de repository voor de volgende stappen.
 2. Klik op de knop "Code", een pop-up-box verschijnt, kies in de pop-up-box de tab "Codespaces", klik op de knop "Create Codespace" om een nieuwe Codespace te maken. De volgende keer kun je de Codespace kiezen die je nu gemaakt hebt.
 3. Alle bestanden uit de GitHub repository worden gekopieerd naar jouw Codespace. Dit kan enkele minuten duren.
 4. Als je de browser sluit dan wordt je Codespace op pauze gezet. Als je Codespace een maand achter elkaar op pauze staat, dan wordt hij verwijderd.
