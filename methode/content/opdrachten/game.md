@@ -10,13 +10,18 @@ Je gaat je eigen game programmeren!
 De opdracht in het kort is: Maak in groepjes van twee je eigen spel in JavaScript. Je gebruikt de startcode en maakt gebruik van de p5js-library.
 
 {{% expand "Inschrijven" %}}
-Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je schoolmail voor toegang). 
-- [4hin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1EuP1Du0L7ReOok4Qin8gEsTNDA6V_rfD)
-- [4hin2 DOU 23/24](https://docs.google.com/spreadsheets/d/1FpQPCdRQJ_XJ-1fCUhNl3OHMwr7_uQP8)
-- [4vin1 CAM 23/24](https://docs.google.com/spreadsheets/d/1Fs8x_CoSo_vXI7rduRkkHgVyOdTWCc63)
-- [4vin2 DOU 23/24](https://docs.google.com/spreadsheets/d/1FnFzBJojrgu4tirZAg4XClViva2f31ln)
-- [4vin3 DOU 23/24](https://docs.google.com/spreadsheets/d/1FpHdBak4oa33q7qna_HmGkbbD7uS3lDA)
+Je schrijft je in op GitHub Classroom via de onderstaande link (login met je github account).<br>
+**Letop 1:** Zorg dat je gebruikersnaam in GitHub begint met je voornaam, gevolgd door je leerlingnummer om hem uniek te maken. Je kunt je gebruikersnaam aanpassen in [GitHub -> klik op je foto rechtsboven -> Settings -> Account](https://github.com/settings/admin).<br>
+**Letop 2:** De teamnaam die je kiest bevat de gebruikersnamen van alle leerlingen in je team, bijvoorbeeld `jolanda123111-klaas123987` 
+- [4hin1 GEE 23/24](https://classroom.github.com/a/qwUQInzi)
+- [4hin2 HAR 23/24](https://classroom.github.com/a/_Ieu5ppf)
+- [4vin1 CAM 23/24](https://classroom.github.com/a/UPa4jvJA)
+- [4vin2 HAR 23/24](https://classroom.github.com/a/ue7HtanH)
+- [4vin3 HAR 23/24](https://classroom.github.com/a/fsi7QF4E)
+
+Nadat je jezelf helemaal ingeschreven hebt, krijg je automatisch toegang tot een repository met startcode. Er is één repository per team. Elk teamlid heeft lees- en schrijfrechten in de repository.
 {{% /expand %}}
+
 
 
 {{% expand "Game kiezen" %}}
@@ -77,9 +82,9 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 
 ## Hulpmiddelen
 We gebruiken in deze opdracht de volgende tools:
-1. [GitHub](/tools/github/)
-2. [Replit](/tools/replit/) (havo)
-3. [Gitpod](/tools/gitpod/) (vwo)
+1. [GitHub](/tools/github/) (vanaf 24/25)
+2. [Replit](/tools/replit/) (havo t/m 23/24)
+3. [Gitpod](/tools/gitpod/) (vwo t/m 23/24)
 
 ## Startcode
 Je krijgt van de docent een kopie van onderstaande startcode. 
