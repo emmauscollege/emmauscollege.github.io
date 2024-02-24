@@ -105,7 +105,7 @@ Wat wel kan:
 - Bij het inschrijven krijgen leerlingen een kopie van een template-repository uit GitHub die de docent bij de opdracht meegeeft.
 
 Wat niet kan:
-- Template-repository aanpassen nadat opdracht is uitgezet.
+- Template-repository aanpassen nadat opdracht is uitgezet. Sinds januari 2024 is er beta functionaliteit beschikbaar waarmee dit wel kan. Zie https://github.blog/changelog/2024-01-22-migrating-github-classroom-assignment-repository-creation-from-create-from-template-to-forks-public-beta/
 - Groepjes aanpassen nadat opdracht is uitgezet. Je kunt dit wel handmatig in GitHub doen door de teams die Classroom aanmaakt in GitHub aan te passen.
 
 #### Classroom: Gratis aanbod
