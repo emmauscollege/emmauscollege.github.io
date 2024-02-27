@@ -52,7 +52,7 @@ Informatie digitaal
 15.	Je kunt uitleggen wat compressie is aan de hand van voorbeelden (tekst, geluid, plaatjes en video) en je kent het verschil tussen lossless en niet-lossless compressie.
 16.	<em>Alleen vwo:</em> Je kunt op basis van een beschrijving van een compressie algoritme een klein voorbeeld comprimeren en decomprimeren. 
 
-Beeldbewerking
+Beeldbewerking (deze leerdoelen gelden NIET voor schooljaar 23/24)
 1. Je kunt het aantal pixels van een plaatje aanpassen
 2. Je kunt een plaatje bijsnijden (Engels: crop)
 3. Je kunt een plaatje in diverse bestand-formaten omzetten (bijvoorbeeld .jpg, .png, .gif)
