@@ -30,6 +30,7 @@ Ruimtedatabase *(alleen vwo)*
 
 - [Lespresentatie (vwo)](../handout_lespresentatie_databases_vwo.pdf)
 - [Lespresentatie (havo)](../handout_lespresentatie_databases_havo.pdf)
+- [Syntaxblad SQL (krijg je ook bij de toets)](../syntaxblad_SQL.pdf)
 
 ## Leerdoelen voor de toets
 
