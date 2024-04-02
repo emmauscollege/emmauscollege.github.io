@@ -1,0 +1,4 @@
+# Do not crawl subsites
+User-agent: *
+Disallow: /showcases/
+Disallow: /CO2/

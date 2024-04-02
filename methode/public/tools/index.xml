@@ -1,35 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tools on Hugo Relearn Theme</title>
-    <link>https://emmauscollege.github.io/tools/</link>
-    <description>Recent content in Tools on Hugo Relearn Theme</description>
+    <title>Hulpmiddelen on Informatica</title>
+    <link>http://localhost:1313/tools/</link>
+    <description>Recent content in Hulpmiddelen on Informatica</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl</language><atom:link href="https://emmauscollege.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Khan Academy</title>
+      <link>http://localhost:1313/tools/khan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/khan/</guid>
+      <description>&lt;p&gt;Khan Academy is internationale online lesmethode met cursussen voor diverse onderwerpen. Wij gebruiken enkele cursussen uit de sectie Computer Programming.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Informatica Actief</title>
+      <link>http://localhost:1313/tools/ia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/ia/</guid>
+      <description>&lt;p&gt;Informatica Actief is de lesmethode voor informatica die wij gebruiken. Wij gebruiken enkele modules uit de methode.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub met Codespaces</title>
+      <link>http://localhost:1313/tools/github-codespaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/github-codespaces/</guid>
+      <description>&lt;p&gt;GitHub is een website waar je code kunt opslaan en delen. Codespaces is een codeeromgeving binnen GitHub waar je code kunt wijzigen en uitvoeren.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub (tot eind 2023)</title>
+      <link>http://localhost:1313/tools/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/github/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Vanaf begin 2024 wordt GitHub met Replit (havo) of GitPod (vwo) vervangen door GitHub met Codespaces (have en vwo)&lt;/em&gt;&lt;br&gt;
+GitHub is een website waar je code kunt opslaan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Replit (tot eind 2023)</title>
+      <link>http://localhost:1313/tools/replit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/replit/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Vanaf begin 2024 wordt Replit vervangen door GitHub met Codespaces&lt;/em&gt;&lt;br&gt;
+Replit is een online ontwikkelomgeving waarin je code kunt wijzigen en uitvoeren. We gebruiken dit op de havo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gitpod (tot eind 2023)</title>
+      <link>http://localhost:1313/tools/gitpod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/gitpod/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Vanaf begin 2024 wordt GitPod vervangen door GitHub met Codespaces&lt;/em&gt;&lt;br&gt;
+Gitpod is een online ontwikkelomgeving waarin je code kunt wijzigen en uitvoeren (en veel meer). We gebruiken dit op het vwo.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Arduino IDE</title>
-      <link>https://emmauscollege.github.io/tools/arduino-ide/</link>
+      <link>http://localhost:1313/tools/arduino-ide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/tools/arduino-ide/</guid>
-      <description>Wat is de Arduino IDE? De Arduino IDE is een programma waarmee je je Arduino kunt programmeren. De Arduino IDE is beschikbaar voor computers met Windows, Linux en MacOS. Het programma is niet beschikbaar voor iPads en Chromebooks. Functies van de Arduino IDE:
- code-editor compileren gecompileerde code uploaden naar een Arduino microcontroller (via een USB-kabel)  Installeren van het programma  De Arduino IDE is gratis. Je hoeft geen account aan te maken.</description>
+      <guid>http://localhost:1313/tools/arduino-ide/</guid>
+      <description>&lt;p&gt;Arduino IDE is een programma waarin je code kunt schrijven en downloaden in je Arduino.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Filius</title>
-      <link>https://emmauscollege.github.io/tools/filius/</link>
+      <link>http://localhost:1313/tools/filius/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/tools/filius/</guid>
-      <description>Wat is Filius? Filius is een programma waarmee je netwerken kunt bouwen en simuleren.
-Installeren van het programma Filius is gratis en je hoeft geen account aan te maken. Je kunt Filius op twee manieren starten.
- Start Filius in je browser en volg de stappen uit de Readme.md. Dit werkt op (bijna) elk apparaat met een moderne webbrowser. Je hebt een (gratis) account in GitPod nodig. Je browser opent GitPod en op de servers van GitPod wordt een Linux-omgeving met Filius geopend.</description>
-    </item>
-    <item>
-      <title>GitHub</title>
-      <link>https://emmauscollege.github.io/tools/github/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmauscollege.github.io/tools/github/</guid>
-      <description>TL;DR Git en GitHub zijn superhandig bij het programmeren, zowel alleen als in een team. Ga naar het stappenplan hieronder om te zien hoe je dit bij het programmeren gebruikt.
-Wat is GitHub? GitHub is een website waarop je gemakkelijk je programmeercode kunt opslaan. Je moet het zien als een soort cloudopslag voor je code. Heb je eenmaal een account in GitHub aangemaakt, dan kun je repositories maken. Een repository bevat de code voor één project of opdracht.</description>
+      <guid>http://localhost:1313/tools/filius/</guid>
+      <description>&lt;p&gt;Filius is een programma waarmee je netwerken kunt namaken en simuleren.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

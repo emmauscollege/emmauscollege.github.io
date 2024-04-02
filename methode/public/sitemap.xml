@@ -1,234 +1,183 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://emmauscollege.github.io/basics/</loc>
+    <loc>http://localhost:1313/planning/4h/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/test/</loc>
+    <loc>http://localhost:1313/tools/khan/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/cont/</loc>
+    <loc>http://localhost:1313/opdrachten/website/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/basics/migration/</loc>
+    <loc>http://localhost:1313/planning/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/</loc>
+    <loc>http://localhost:1313/theorie/webdesign/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/yours/</loc>
+    <loc>http://localhost:1313/theorie/webdesign_auteursrecht/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/cont/pages/</loc>
+    <loc>http://localhost:1313/planning/5h/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/tests/</loc>
+    <loc>http://localhost:1313/tools/ia/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/cont/archetypes/</loc>
+    <loc>http://localhost:1313/opdrachten/game/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-1/</loc>
+    <loc>http://localhost:1313/theorie/informatie/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/basics/requirements/</loc>
+    <loc>http://localhost:1313/theorie/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/basics/installation/</loc>
+    <loc>http://localhost:1313/planning/4v/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/cont/markdown/</loc>
+    <loc>http://localhost:1313/opdrachten/webshop/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/cont/syntaxhighlight/</loc>
+    <loc>http://localhost:1313/opdrachten/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/basics/configuration/</loc>
+    <loc>http://localhost:1313/theorie/programmeren/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-2/</loc>
+    <loc>http://localhost:1313/planning/5v/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/basics/customization/</loc>
+    <loc>http://localhost:1313/tools/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/cont/menushortcuts/</loc>
+    <loc>http://localhost:1313/opdrachten/robot/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/basics/generator/</loc>
+    <loc>http://localhost:1313/theorie/algoritmen/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/cont/icons/</loc>
+    <loc>http://localhost:1313/yours/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/basics/history/</loc>
+    <loc>http://localhost:1313/planning/6v/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/cont/i18n/</loc>
+    <loc>http://localhost:1313/docenten/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-3/</loc>
+    <loc>http://localhost:1313/opdrachten/knikkerbaan/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-4/</loc>
+    <loc>http://localhost:1313/robotica/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/cont/tags/</loc>
+    <loc>http://localhost:1313/theorie/databases/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/yours/1/</loc>
+    <loc>http://localhost:1313/tests/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/yours/10/</loc>
+    <loc>http://localhost:1313/derdeklassers/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/yours/2/</loc>
+    <loc>http://localhost:1313/theorie/robotica/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/yours/3/</loc>
+    <loc>http://localhost:1313/theorie/netwerken/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/yours/4/</loc>
+    <loc>http://localhost:1313/theorie/objectoriented_theorie/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/yours/5/</loc>
+    <loc>http://localhost:1313/theorie/objectoriented_verwerkingsopdrachten/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/yours/6/</loc>
+    <loc>http://localhost:1313/theorie/objectoriented/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/yours/7/</loc>
+    <loc>http://localhost:1313/tools/github-codespaces/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/yours/8/</loc>
+    <loc>http://localhost:1313/theorie/security/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/yours/9/</loc>
+    <loc>http://localhost:1313/planning/inhalenprogramma/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/tools/arduino-ide/</loc>
+    <loc>http://localhost:1313/theorie/object_oriented_programming/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/attachments/</loc>
+    <loc>http://localhost:1313/tools/github/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/button/</loc>
+    <loc>http://localhost:1313/docenten/github-docenten/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/categories/</loc>
+    <loc>http://localhost:1313/tools/replit/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/tags/children/</loc>
+    <loc>http://localhost:1313/tools/gitpod/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/</loc>
+    <loc>http://localhost:1313/tools/arduino-ide/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/tests/code/</loc>
+    <loc>http://localhost:1313/tools/filius/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/more/credits/</loc>
+    <loc>http://localhost:1313/yours/1/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/tags/documentation/</loc>
+    <loc>http://localhost:1313/yours/10/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/expand/</loc>
+    <loc>http://localhost:1313/yours/2/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/tools/filius/</loc>
+    <loc>http://localhost:1313/yours/3/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/opdrachten/game/</loc>
+    <loc>http://localhost:1313/yours/4/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/tools/github/</loc>
+    <loc>http://localhost:1313/yours/5/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/tags/hidden/</loc>
+    <loc>http://localhost:1313/yours/6/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/tests/images/</loc>
+    <loc>http://localhost:1313/yours/7/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/include/</loc>
+    <loc>http://localhost:1313/yours/8/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/</loc>
+    <loc>http://localhost:1313/yours/9/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/theorie/auteursrecht/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/tests/links/</loc>
+    <loc>http://localhost:1313/tests/code/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/mermaid/</loc>
+    <loc>http://localhost:1313/more/credits/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/tags/non-hidden/</loc>
+    <loc>http://localhost:1313/tests/images/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/notice/</loc>
+    <loc>http://localhost:1313/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/opdrachten/</loc>
+    <loc>http://localhost:1313/tests/links/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-1/children-1-1/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
   <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/children-1-1-1-1-1-1/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-1/children-1-1/children-1-1-2/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-1/children-1-1/children-1-1-2/children-1-1-2-1/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-1/children-1-1/children-1-1-2/children-1-1-2-2/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-1/children-1-1/children-1-1-3/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/shortcodes/children/children-3/test3/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/more/showcase/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/shortcodes/siteparam/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/shortcodes/swagger/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/shortcodes/tabs/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/tags/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/yours/children-1/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/theorie/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/tools/</loc>
-  </url>
-  <url>
-    <loc>https://emmauscollege.github.io/tags/tutorial/</loc>
+    <loc>http://localhost:1313/yours/children-1/</loc>
   </url>
 </urlset>
