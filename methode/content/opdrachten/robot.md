@@ -14,7 +14,7 @@ Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login 
 - [5Hin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1E_3YINGZ6Ytvj8w1EhBC7m5-4FuaK2JU)
 - [5Hin2 GEE 23/24](https://docs.google.com/spreadsheets/d/1F_Tho_N5eHb10QK4P0QwJ6DxVFkxc-Zg)
 - [5Vin1 GEE 23/24](https://classroom.github.com/a/SiUri2uI)
-- [5Vin2 CAM 23/24](https://docs.google.com/spreadsheets/d/1GJgqkoqPMlvtFgHkmBkugLrFIQL5BXkK)
+- [5Vin2 CAM 23/24](https://classroom.github.com/a/dWtWx1Rc)
 {{% /expand %}}
 
 {{% expand "Apparaat kiezen" %}}
