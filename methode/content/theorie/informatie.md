@@ -32,6 +32,12 @@ Beeldbewerking
 ## Uitleg (vwo)
 
 {{<video id="PLpTljPS--R5BGpGmJHk7W6InW5uclScIp">}}
+
+## Naslagmateriaal
+
+- [Lespresentatie informatie (havo)](Lespresentatie-informatie-havo.pptx)
+- [Collegesheets informatie (vwo)](Collegesheets-informatie-vwo.pptx) (heel dik)
+
  
 ## Leerdoelen voor de toets
 Informatie digitaal
