@@ -31,7 +31,7 @@ Meer informatie over de gebruike technieken
 
 ## Veelgestelde vragen
 - Hoe beoordelen jullie praktische opdrachten?<br>
-Zie onze rubrics voor [xP1 website](/docenten/O1-website-rubric.xlsx), [P2 game](O2-game-rubric.xlsx), [P3 webshop](O3-webshop-rubric.xlsx) en [P4 robot](O4-robot-rubric.xlsx) voor inspiratie.
+Zie onze rubrics voor [P1 website](O1-website-rubric.xlsx), [P2 game](O2-game-rubric.xlsx), [P3 webshop](O3-webshop-rubric.xlsx) en [P4 robot](O4-robot-rubric.xlsx) voor inspiratie.
 - Hoe werkt GitHub?<br>
 Zie onze [docentenhandleiding voor GitHub, Codespaces en Classroom](github-docenten).
 
