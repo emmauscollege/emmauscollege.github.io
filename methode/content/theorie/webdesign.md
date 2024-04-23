@@ -24,8 +24,8 @@ Khanacademy, module Intro to HTML/CSS
 
 
 ## Naslagmateriaal
-- [Lespresentatie havo](../presentatie-webdesign-havo.pdf)
-- [Lespresentatie vwo](../presentatie-webdesign-vwo.pdf)
+- [Lespresentatie havo](presentatie-webdesign-havo.pdf)
+- [Lespresentatie vwo](presentatie-webdesign-vwo.pdf)
 
 
 ## Uitleg (havo)

@@ -31,15 +31,15 @@ Zonder arduino-lessen.nl
 [Meer lessen Arduino-lessen](https://arduino-lessen.nl) (geen toetsstof)
 
 Presentaties
-1. [Lespresentatie toestandsdiagrammen](/robotica_toestandsdiagrammen_lespresentatie.pptx)
-2. [Lespresentatie Arduino basics](/robotica_arduino_basics.pdf)
+1. [Lespresentatie toestandsdiagrammen](robotica_toestandsdiagrammen_lespresentatie.pptx)
+2. [Lespresentatie Arduino basics](robotica_arduino_basics.pdf)
 
 ## Uitleg
 
 {{<video id="PLpTljPS--R5B5flRg_1xdUrKlZyjZG68e">}}
 
 Naslagwerken
-1. [Microcontroller reader](../robotica_microcontrollers_programmeren.pdf) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
+1. [Microcontroller reader](robotica_microcontrollers_programmeren.pdf) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
 
 ## Leerdoelen voor de toets
 Arduino
@@ -69,7 +69,7 @@ Toestandsdiagrammen
 1. Je kunt pseudocode omzetten in Arduino-code.
 
 ## Naslagmateriaal
-[Syntaxblad](../robotica_syntaxblad.pdf)
+[Syntaxblad](robotica_syntaxblad.pdf)
 
 ## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).

@@ -41,8 +41,8 @@ Verdiepingsopdrachten
 
 ## Naslagmateriaal
 
-- [Lespresentatie programmeren (havo)](../T3_Lespresentatie_programmeren_havo_v20230101.pptx)
-- [Collegesheets programmeren (vwo)](../T3_Collegesheets_programmeren_vwo_1-6_v20230224.pptx) (heel dik)
+- [Lespresentatie programmeren (havo)](T3_Lespresentatie_programmeren_havo_v20230101.pptx)
+- [Collegesheets programmeren (vwo)](T3_Collegesheets_programmeren_vwo_1-6_v20230224.pptx) (heel dik)
 
 ## Leerdoelen voor de toets
 Programmeertalen

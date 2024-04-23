@@ -9,16 +9,16 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 
 ## Theorie
 - [Theorie objectgeoriënteerd programmeren](../objectoriented_theorie)
-- [Lespresentatie](../objectoriented_lespresentatie.pdf)
+- [Lespresentatie](objectoriented_lespresentatie.pdf)
 
 
 ## Opdrachten
 - [Verwerkingsopdrachten](../objectoriented_verwerkingsopdrachten)
 
 ## Naslagmateriaal (ook beschikbaar bij toets)
-- [Naslagmateriaal objectgeoriënteerd programmeren](../objectoriented_naslagmateriaal.pdf)
-- [Naslagmateriaal JavaScript en p5js](../syntaxblad-javascript.pdf)
-- [Naslagmateriaal C++ en Arduino](../syntaxblad-arduino-c++.pdf)
+- [Naslagmateriaal objectgeoriënteerd programmeren](objectoriented_naslagmateriaal.pdf)
+- [Naslagmateriaal JavaScript en p5js](syntaxblad-javascript.pdf)
+- [Naslagmateriaal C++ en Arduino](syntaxblad-arduino-c++.pdf)
 
 
 ## Leerdoelen
@@ -42,5 +42,5 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 - Je kent drie voordelen en drie nadelen van objectgeoriënteerd programmeren.
 
 ## Oefentoets
-- [Oefentoets](../objectoriented_oefenopgaven.pdf)
-- [Antwoordwoorden oefentoets](../objectoriented_oefenopgaven_antwoorden.pdf)
+- [Oefentoets](objectoriented_oefenopgaven.pdf)
+- [Antwoordwoorden oefentoets](objectoriented_oefenopgaven_antwoorden.pdf)

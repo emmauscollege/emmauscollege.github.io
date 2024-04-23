@@ -8,12 +8,12 @@ Over de beveiliging van computers en data.
 
 ## Theorie
 - [Informatica Actief - Security en Privacy](https://moodle.informatica-actief.nl/course/view.php?id=909), theorie 1 t/m 3
-- [Reader security](../Module-SECURITY-H1-H6.pdf), hoofdstuk 2 t/m 6
-- [Handout lespresentaties](../handout-security-2223.pdf)
+- [Reader security](Module-SECURITY-H1-H6.pdf), hoofdstuk 2 t/m 6
+- [Handout lespresentaties](handout-security-2223.pdf)
 - Overig materiaal op deze pagina
 
 ## Naslagmateriaal toets
-- [Klik om te downloaden](../referentieblad_security.pdf)
+- [Klik om te downloaden](referentieblad_security.pdf)
 
 ## Uitlegvideo's
 Onderstaande video's horen niet bij de verplichte stof, maar kunnen wel helpen de stof te begrijpen of extra informatie geven als je meer wilt weten.
@@ -79,5 +79,5 @@ Onderstaande video's horen niet bij de verplichte stof, maar kunnen wel helpen d
 - Je kunt verschillende toepassingen van hashing uitleggen, zoals wachtwoordverificatie, het controleren van de authenticiteit van data of het identificeren van bestanden.
 
 ## Oefenopgaven
-- [Oefenopgaven](../security_oefenopgaven.pdf)
-- [Uitwerkingen](../security_oefenopgaven_uitwerking.pdf)
+- [Oefenopgaven](security_oefenopgaven.pdf)
+- [Uitwerkingen](security_oefenopgaven_uitwerking.pdf)

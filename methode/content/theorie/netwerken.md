@@ -25,7 +25,7 @@ In plaats van Filius te installeren, gebruik je [Filius in Gitpod](https://githu
 {{<video id="PLpTljPS--R5DtkHtxFNv-677dGsejyI1K">}}
 
 Naslagmateriaal
-1. [Netwerken lespresentatie (Powerpoint presentatie)](../netwerken_lespresentatie.pptx)
+1. [Netwerken lespresentatie (Powerpoint presentatie)](netwerken_lespresentatie.pptx)
 2. [How the internet works (video's)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 3. [Theorie netwerkprotocollen](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/index.html) (alleen hoofdtstuk 5, dit is best pittig, aanvulling op uitleg in de les).
 
@@ -59,5 +59,5 @@ Netwerken
 
 ## Oefentoets
 Je kunt een deel van je kennis en vaardigheden testen met de volgende oefenopgaven:
-- [Oefenopgave IP-adressen en subnetten](../netwerken_oefenopgaven_ipadres_en_subnet.pdf)
-- [Antwoorden oefenopgave IP-adressen en subnetten](../netwerken_oefenopgaven_ipadres_en_subnet_met_antwoorden.pdf)
+- [Oefenopgave IP-adressen en subnetten](netwerken_oefenopgaven_ipadres_en_subnet.pdf)
+- [Antwoorden oefenopgave IP-adressen en subnetten](netwerken_oefenopgaven_ipadres_en_subnet_met_antwoorden.pdf)

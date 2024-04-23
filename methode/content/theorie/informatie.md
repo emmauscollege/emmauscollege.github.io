@@ -23,7 +23,7 @@ Informatica Actief, module informatie digitaal
 9. ~~Diagnostische toets~~ (overslaan)
 
 Beeldbewerking
-1. [Beeldbewerking oefeningen (powerpoint presentatie)](../informatie_lespresentatie_beeldbewerking.pptx) met [photopea.com](https://photopea.com)
+1. [Beeldbewerking oefeningen (powerpoint presentatie)](informatie_lespresentatie_beeldbewerking.pptx) met [photopea.com](https://photopea.com)
 
 ## Uitleg (havo)
 
