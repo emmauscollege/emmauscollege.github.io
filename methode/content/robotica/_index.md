@@ -24,8 +24,9 @@ Hier vind je informatie over het robotica programma op het Emmauscollege. Dit pr
 ## Robot in a Week (3e klas)
 - Inschrijven: schrijf je in via het inschrijfformulier dat wordt verstuurd door de docent.
 - Tijd: 1 hele week in de derde periode, je andere lesssen vervallen dan, je moet die zelfstandig inhalen
-- [Bouwinstructie Robot in a Day](Lesmateriaal_Bonefatius_-_A_robot_in_a_Day_-_Robotica_15-18_-_2021.docx)
-- [Lespresentatie](Lespresentatie.pptx)
+- [Bouwinstructie Robot en regels Rookie Challenge 23/24](https://maken.wikiwijs.nl/201328/REV_MiniBot___Programming_and_Engineering)
+- [Bouwinstructie Robot in a Day 22/23](Lesmateriaal_Bonefatius_-_A_robot_in_a_Day_-_Robotica_15-18_-_2021.docx)
+- [Lespresentatie 22/23](Lespresentatie.pptx)
 
 ## Rookie Challenge (3e klas)
 - Inschrijven: het team van Robot in a Week kan in overleg met de docent deelnemen.
