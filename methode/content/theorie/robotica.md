@@ -57,13 +57,13 @@ Arduino
 1. Je weet hoe je een knop aansluit op een digitale input poort van Arduino
 1. Je weet wat het verschil is tussen een sensor en een actuator.
 1. Je kunt een aansluitschema maken van een systeem dat beschreven is in een stuk tekst. Het aansluitschema bevat een Arduino, actuatoren en sensoren.
-1. Je kent de volgende datatypen: string, int, float
+1. Je kent de volgende datatypen: string, int, float, bool
 1. Je kunt Arduino code aanpassen om tot een gevraagde oplossing te komen.
 1. Je kunt korte programma's maken die een knipperende LED, gedimde LED, knop en potmeter gebruiken.
 1. Je hebt voorkennis van programmeren op het niveau van de vierde klas.
 
 Toestandsdiagrammen
-1. Je kunt aan de hand van een gegeven toetstandsdiagram aangeven hoe een systeem zich gedraagt.
+1. Je kunt aan de hand van een gegeven toestandsdiagram aangeven hoe een systeem zich gedraagt.
 1. Je kunt een toestandsdiagram maken van een systeem dat beschreven is in een stuk tekst.
 1. Je kunt een toestandsdiagram omzetten in Pseudocode.
 1. Je kunt pseudocode omzetten in Arduino-code.
