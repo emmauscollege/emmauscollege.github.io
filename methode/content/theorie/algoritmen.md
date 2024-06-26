@@ -12,7 +12,8 @@ We gebruiken in deze module enkele online hulpmiddelen voor het tekenen van sche
 ## Oefeningen
 Eenvoudige algoritmen
 1. [Stroomdiagrammen lespresentatie, met codevoorbeelden in replit](algoritmen_lespresentatie.pptx) (wordt misschien herzien)
-1. [Programmeeropdrachten in Github](https://github.com/emmauscollege/programmeer-opdrachten) (tevens beschikbaar in [Woots](https://app.woots.nl))
+2. [Lespresentatie korste-pad-algoritme](het-kortste-pad-algoritme.pdf)
+3. [Programmeeropdrachten in Github](https://github.com/emmauscollege/programmeer-opdrachten) (tevens beschikbaar in [Woots](https://app.woots.nl))
 
 <!-- Complexe algoritmen (vwo)
  1. Volgt nog, we denken aan sorteren, kortste pad, efficiency
