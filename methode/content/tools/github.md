@@ -1,9 +1,8 @@
 +++
-title = "GitHub (tot eind 2023)"
+title = "GitHub"
 weight = 10
 +++
 
-*Vanaf begin 2024 wordt GitHub met Replit (havo) of GitPod (vwo) vervangen door GitHub met Codespaces (have en vwo)*<br>
 GitHub is een website waar je code kunt opslaan.
 <!--more-->
 
@@ -65,8 +64,8 @@ Wanneer je samenwerkt met anderen, wil je als je later verdergaat eerst eventuel
 - Haal eventuele nieuwe commits van je GitHub repository binnen.
 
 
-## Gitpod en Replit gebruiken
-Gitpod en Replit (of andere online ontwikkelomgevingen) hebben een koppeling met GitHub. Dat betekent dat je vanuit Gitpod en Replit wijzigingen in GitHub kunt opslaan. Zie de [handleiding van Gitpod](../gitpod/) en de [handleiding van Replit](../replit/) op deze deze website voor meer informatie.
+## Gitpod gebruiken
+Gitpod (of andere online ontwikkelomgevingen) heeft een koppeling met GitHub. Dat betekent dat je vanuit Gitpod wijzigingen in GitHub kunt opslaan. Zie de [handleiding van Gitpod](../gitpod/) op deze deze website voor meer informatie.
 
 ## De Github dev omgeving gebruiken
 In de Github dev-omgeving kun je meerdere bestanden tegelijk wijzigen, verplaatsen of toevoegen. Het lijkt erg op Gitpod, maar in tegenstelling tot Gitpod kan de Github dev-omgeving je code niet uitvoeren. 

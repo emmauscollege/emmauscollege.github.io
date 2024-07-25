@@ -1,5 +1,5 @@
 +++
-title = "Gitpod (tot eind 2023)"
+title = "Gitpod"
 weight = 12
 +++
 

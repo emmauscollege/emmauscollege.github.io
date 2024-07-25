@@ -126,12 +126,6 @@ googleAnalytics = "G-DF99ESV8P9"
     url = "https://gitpod.io"
     weight = 21
 
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-hammer'></i> Replit"
-    identifier = "replittool"
-    url = "https://replit.com/"
-    weight = 22
-
  [[Languages.en.menu.shortcuts]]
     name = "<i class='fa fa-graduation-cap'></i> Woots"
     identifier = "wootstool"
