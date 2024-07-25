@@ -10,10 +10,9 @@ title = "Informatica"
 PWS project informatica: [Actuele CO2 waarden op het Emmauscollege](https://informatica.emmauscollege.nl/CO2)
 -->
 
-#### Chemical Tempest
-Profielwerkstuk informatica 2022/2023 
-
-{{< image src="./screenshot-chemical-tempest.png" alt="screenshot" link="http://informatica.emmauscollege.nl/chemical-tempest" >}}
+#### Emmaus Arcade
+Zit je in de vierde klas? Dan kan de game die jij dit jaar gaat maken in de Emmaus Arcade!
+{{< image src="./arcade.png" alt="screenshot" link="https://informatica.emmauscollege.nl/arcade/web/info_makingof/" >}}
 
 ## Inhoud
 {{% children containerstyle="div" style="h2" depth="1" description="true" %}} 
