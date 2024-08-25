@@ -35,11 +35,11 @@ Hier vind je informatie over het robotica programma op het Emmauscollege. Dit pr
 
 ## FTC (4 havo + 4 vwo)
 - Inschrijven: geef je op voor het emc-uur op dinsdag het 8e en 9e lesuur.
-- Tijd: dinsdag het 8e en 9e uur, het hele jaar door dezelfde groep, 5 zaterdagen met wedstrijden (als je een keer niet kunt dan regelen we dat). Je werkt in het robolab op school, je daar in op elk moment dat de school open is.
+- Tijd: dinsdag het 8e en 9e uur, het hele jaar door dezelfde groep, 5 zaterdagen met wedstrijden (als je een keer niet kunt dan regelen we dat). Je werkt in het robolab op school, je kunt daar in op elk moment dat de school open is.
   
 ## FTC (5 havo + 5 vwo)
 - Inschrijven: het team uit de 4e wordt automatisch ingeschreven voor de 5e klas, tenzij een leerling bij de docent aangeeft te willen stoppen. Als er plaatsen vrijkomen, dan kunnen die in overleg met de docent en het team worden opgevuld door nieuwe leden.
-- Tijd: dinsdag het 8e en 9e uur, het hele jaar door dezelfde groep, 5 zaterdagen met wedstrijden (als je een keer niet kunt dan regelen we dat). Je werkt in het robolab op school, je daar in op elk moment dat de school open is.
+- Tijd: dinsdag het 8e en 9e uur, het hele jaar door dezelfde groep, 5 zaterdagen met wedstrijden (als je een keer niet kunt dan regelen we dat). Je werkt in het robolab op school, je kunt daar in op elk moment dat de school open is.
 
 ## Profielwerkstuk (5 havo + 5 vwo)
 - Inschrijving en eindpresentatie gaat hetzelfde als voor 6-vwo (eind van het schooljaar voordat je wilt starten met je PWS). Om in te kunnen schrijven moet je informatica in je vakkenpakket hebben en moet je het jaar voor je PWS hebben deelgenomen aan FTC.
