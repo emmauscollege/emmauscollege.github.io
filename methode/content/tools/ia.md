@@ -15,7 +15,7 @@ Informatica Actief is de lesmethode voor informatica die wij gebruiken. Wij gebr
 2. Klik op "login".
 3. Klik op aanmelden via Entree. Je kunt je magister inloggegevens gebruiken om in te loggen.
 4. Als er gevraagd wordt om een mailadres, gebruik dan je schoolmail. Je krijgt een bevestingsmail met een link waar je op moet klikken. Log opnieuw in op de pagina waar de link je naartoe brengt.
-5. Klik linksboven op het IA icoontje, je komt dan terug op de home page van de site. Voer rechts de voucher code in, inclusief de streepjes. Deze code krijg je van je docent. Je moet die voucher code elk jaar vernieuwen, anders wordt de site afgesloten.
+5. Klik linksboven op het IA icoontje, je komt dan terug op de home page van de site. Schuif een popup uit door rechts op het pijltje te klikken en voer de voucher code in, inclusief de streepjes. Deze code krijg je van je docent. Je moet die voucher code elk jaar vernieuwen, anders wordt de site afgesloten.
 6. Kies de module die we gebruiken. Letop: we doen niet alle onderdelen van een module, kijk in de lesstof welke onderdelen bij de stof horen.
 
 ## De volgende keer inloggen op Informatica Actief
