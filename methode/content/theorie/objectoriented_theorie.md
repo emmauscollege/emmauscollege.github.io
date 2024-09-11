@@ -50,7 +50,7 @@ De eigenschappen `x`, `y` en `speed`, noemen we _attributen_ van het object `app
 
 Het is ook mogelijk om objecten in een array te zetten:
 ```js
-    appels = { x: 300,    // dit is het eerste appel-object
+var appels = { x: 300,    // dit is het eerste appel-object
               y: -50,
               speed: 4
              },
