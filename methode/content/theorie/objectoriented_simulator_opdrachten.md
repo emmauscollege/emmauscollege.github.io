@@ -50,30 +50,13 @@ rect(x, y, BREEDTE, BREEDTE);
 
 
 
-### Opdracht 1 – 25 random mensen maken. En wat doen die katten daar? 😼
+### Opdracht 1 – 25 random 'mensen' maken. En wat doen die katten daar? 😼
 In de theorie van hoofdstuk 1 is een heel groot deel van de klasse `Mens` gegeven. Je maakt deze klasse verder af en gebruikt deze om 25 mensobjecten te maken die zich in onze simulatie bewegen:
 
 #### Programmeren
 
 ##### a) 25 random mensen
-- De klasse `Mens` bevat alle code die nodig is om de positie van een mensobject te updaten. Verwijder deze code uit `draw` en roep in plaats daarvan `update` aan op het betreffende object.
-{{% expand "Hint 1" %}}
-  De code die `speedX` bij `x` optelt en `speedY` bij `y` hebben we verhuisd naar de class `Mens`. Die hebben we in `draw` niet meer nodig.
-{{% /expand %}}
-{{% expand "Hint 2" %}}
-  De code staat in de for-loop:
-  ```js
-    mensen[i].x = mensen[i].x + mensen[i].speedX;
-    mensen[i].y = mensen[i].y + mensen[i].speedY;
-  ```
-  Deze updatecode zit nu in de class `Mens` en mag dus weg.
-{{% /expand %}}
-- De code die controleert of een mens tegen de rand van de simulatiewereld botst, moet ook verhuizen naar de klasse `Mens`. Breidt de methode `update` uit. Gebruik hiervoor de betreffende code die je in `draw` vindt en pas deze aan. Je kunt nu op de oude plek van de code de methode `update()` aanroepen.
-{{% expand "Hint 3" %}}
-  Bij de updatecode hoort niet alleen het geven van een nieuwe positie, maar ook het stuiteren. Haal deze code uit de for-loop en plaats deze in de methode update van de class `Mens`. Je moet het hiervoor nog wel even omvormen naar `this` enz.
-{{% /expand %}}
 
-- De code die een mens tekent, is ook typisch iets wat bij de klasse Mens hoort. Maak een nieuwe methode `show` en teken hierin het vierkantje. Haal ook de constante `BREEDTE` weg. Maak hiervan een attribuut (gebruik dan `breedte`) en zet de waarde hiervan in de constructor op 50. Je hoeft hiervoor dus niet een argument aan de constructor toe te voegen. Verwijder de code die het vierkant tekent uit `draw` en roep in plaats daarvan `show` op de objecten aan.
 
 We gaan nu de array `mensen` vullen met 25 random mens-objecten. Verwijder de code die je bij opdracht 2 in `setup` hebt gezet om handmatig 5 mens-objecten te maken. Schrijf in plaats daarvan deze code:
 

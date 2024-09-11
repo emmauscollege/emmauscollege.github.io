@@ -1,6 +1,7 @@
 +++
 title = "Extra: OOP voor 6vin2"
 weight = 10
+hidden = true
 +++
 
 {{% login %}}
