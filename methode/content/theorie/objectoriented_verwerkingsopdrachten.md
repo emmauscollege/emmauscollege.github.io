@@ -18,4 +18,5 @@ Pak papier of je iPad erbij.
   - Iedere auto kan claxoneren (door "tuut" in de console te printen)
   - Iedere auto kan de snelheid verhogen. Als dat wordt gedaan, wordt de snelheid 10 hoger.
 
-- b. Teken een diagram met drie zelf verzonnen Auto-objecten_
+- b. Teken een diagram met drie zelf verzonnen Auto-objecten.
+

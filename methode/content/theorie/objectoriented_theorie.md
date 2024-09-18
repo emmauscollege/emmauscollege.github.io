@@ -169,3 +169,107 @@ var appel = new Appel(300, -50, 4);
 
 
 <div style="page-break-after: always"></div>
+
+### Hoofdstuk 2 – Overerving, *super*, polymorfie en abstracte klassen
+Een programmeur die objectgeoriënteerd programmeert, komt vroeg of laat tot de ontdekking dat er twee klassen zijn, die heel erg op elkaar lijken, zoals een appel (+1 punt) en een rotte appel (-1 punt) in ons 'spelletje'. Beide spel-elementen hebben een positie, punten en een snelheid. Ook hebben ze allebei een constructor, een methode om de y-positie te updaten en één om zichzelf te tekenen. Als programmeur krijg je de rillingen van dubbele code, dus hier moet toch wel een oplossing voor zijn?
+
+Dat klopt! Deze oplossing heet **overerving**. Wat houdt overerving in? Overerving houdt in dat je kunt aangeven dat de ene klasse alle attributen en methoden van een andere klasse erft, overneemt. Alsof je alle code kopieert en plakt. Op basis van die geërfde attributen en methoden kun je dan je klasse verder specificeren. De klasse die de attributen en methodes doorgeeft heet de **superklasse**. De klasse die ze erft, heet de **subklasse**.
+
+Laten we eens kijken naar de code van `Appel` en `RotteAppel`:
+
+```js
+class Appel {
+  x;
+  y;
+  speed;
+  points;
+
+  constructor(x, y, speed) {
+    this.x = x;
+    this.y = y;
+    this.speed = speed;
+    this.points = 1
+  }
+
+  // werk de y-positie bij
+  update() {
+    this.y = this.y + this.speed;
+  }
+
+  // teken een appel als rood vierkant
+  show() {
+    noStroke();
+    fill("red");
+    rect(x, y, 20, 20);
+  }
+}
+```
+
+```js
+class RotteAppel {
+  x;
+  y;
+  speed;
+  points;
+
+  constructor(x, y, speed) {
+    this.x = x;
+    this.y = y;
+    this.speed = speed;
+    this.points = -1
+  }
+
+  // werk de y-positie bij
+  update() {
+    this.y = this.y + this.speed;
+  }
+
+  // teken een rotte appel als bruin vierkant
+  show() {
+    noStroke();
+    fill("red");
+    rect(x, y, 20, 20);
+  }
+}
+```
+
+Welke onderdelen hebben `Appel` en `RotteAppel` gemeenschappelijk?
+
+- De constructors hebben beide code die `x`, `y`, `speed`  van waarden voorziet. Het aantal punten verschilt.
+- De methode `update` is voor beide klassen gelijk.
+- De methode `show` verschilt.
+
+Je zou `RotteAppel` als een 'speciaal soort `Appel`' kunnen zien. Als een class die alles heeft / kan wat Appel ook heeft, maar een beetje extra / anders is. Je kunt daarom `RotteAppel` alle eigenschappen van `Appel` geven, en alleen veranderen wat er nodig is:
+
+```js
+class RotteAppel extends Appel {
+  constructor(x, y, speed) {
+    super(x, y, speed);
+    this.points = -1;
+  }
+
+  // teken een rotte appel als gewone appel met een bruine plek
+  show() {
+    super.show();
+    fill("brown");
+    ellipse(x+10, y+10, 10, 10);
+  }
+}
+```
+
+Je ziet dat je met behulp van het keyword `extends` kunt aangeven wat de superclass is. De class erft alle attributen en methoden van de superclass. Die superclass kan overigens zelf ook weer een superclass hebben.
+
+De class `RotteAppel` heeft geen eigen implementatie van de methode `update`. Als je `update` van een RotteAppel-object aanroept, wordt de methode `update` van de superclass gebruikt.
+
+`RotteAppel` heeft wel een eigen implementatie van de methode `show`. Een rotte appel wordt getekend als een rood vierkant met een bruine plek. Het tekenen van een rood vierkant hebben we echter al in de class `Appel` beschreven. Zonde om opnieuw te doen! De regel `super.show()` betekent: voer de methode `show` uit van de superclass, dus zoals die beschreven staat in `Appel`. Als dat is gebeurd, voer dan nog wat extra tekencode uit.
+
+
+Hetzelfde zien we bij de constructor. Een constructor van een subclass roept eerst de constructor van de superclass aan: `super(x, y, speed)`. Daarna komt constructorcode die specifiek voor deze subclass is.
+
+**LET OP: het lijkt nu misschien alsof je *iedere* methode van een subclass moet beginnen met het aanroepen van diezelfde methode van de superclass. Het gebeurt inderdaad vaak, maar bedenk per geval of het echt nodig is.**
+
+
+
+
+
+<div style="page-break-after: always"></div>
