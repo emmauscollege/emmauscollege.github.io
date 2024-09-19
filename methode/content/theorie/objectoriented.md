@@ -13,7 +13,8 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 
 
 ## Opdrachten
-- [Verwerkingsopdrachten](../objectoriented_verwerkingsopdrachten)
+- [Kale verwerkingsopdrachten](../objectoriented_verwerkingsopdrachten)
+- [Simulator verwerkingsopdrachten](../objectoriented_simulator_opdrachten)
 
 ## Naslagmateriaal (ook beschikbaar bij toets)
 - [Naslagmateriaal objectgeoriënteerd programmeren](objectoriented_naslagmateriaal.pdf)

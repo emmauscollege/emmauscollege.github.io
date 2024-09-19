@@ -200,7 +200,7 @@ class Appel {
   show() {
     noStroke();
     fill("red");
-    rect(x, y, 20, 20);
+    rect(this.x, this.y, 20, 20);
   }
 }
 ```
@@ -228,7 +228,7 @@ class RotteAppel {
   show() {
     noStroke();
     fill("red");
-    rect(x, y, 20, 20);
+    rect(this.x, this.y, 20, 20);
   }
 }
 ```
@@ -252,7 +252,7 @@ class RotteAppel extends Appel {
   show() {
     super.show();
     fill("brown");
-    ellipse(x+10, y+10, 10, 10);
+    ellipse(this.x+10, this.y+10, 10, 10);
   }
 }
 ```
