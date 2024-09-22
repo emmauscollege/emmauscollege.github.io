@@ -10,12 +10,11 @@ Je gaat je eigen website maken!
 De opdracht in het kort is: Maak je eigen informatieve website over een zelfgekozen onderwerp. Je gebruikt de startcode met HTML en CSS.
 
 {{% expand "Inschrijven" %}}
-Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je google account van school voor toegang). 
-- [4hin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1F9NkhUrzTjZhpaaeD2g0jPE2yCREKOso)
-- [4hin2 DOU 23/24](https://docs.google.com/spreadsheets/d/1FN6RCQjYgyYqXq5gMwpOsaJ3jz0i-BcX)
-- [4vin1 CAM 23/24](https://docs.google.com/spreadsheets/d/1FVjx5BIgZlrPJTTxjCVaJVnS802TtK9u)
-- [4vin2 DOU 23/24](https://docs.google.com/spreadsheets/d/1FYd_Y0jv5lKorha_nLIi8FEhIavWkA4t)
-- [4vin3 DOU 23/24](https://docs.google.com/spreadsheets/d/1FRKZpWnxhxqB1TlO-wKvQOo2Zx3_dIqv)
+Je schrijft je in via Github Classroom (login met je github account). 
+- [4hin1 HAR 24/25](https://classroom.github.com/a/L6Dp-Zzo)
+- [4hin2 GEE 24/25](https://classroom.github.com/a/rfiOf8cp)
+- [4vin1 HAR 24/25](https://classroom.github.com/a/E93SIIua)
+- [4vin2 HAR 24/25](https://classroom.github.com/a/4PxqEzj3)
 {{% /expand %}}
 
 {{% expand "Onderwerp kiezen" %}}
