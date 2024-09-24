@@ -25,7 +25,7 @@ Je bent vrij om zelf een onderwerp voor je website te bedenken. Je docent moet h
 {{% expand "Werkwijze" %}}
 - Je maakt deze opdracht in je eentje. 
 - Je krijgt van de docent startcode voor deze opdracht. Deze staat klaar in een repo op GitHub. 
-- Je maakt code in Replit (havo) of Gitpod (vwo). 
+- Je maakt code in Gitpod. 
 - Elke week (liefst vaker) sla je je tussentijdse werk op in de repo op GitHub. Zo zorg je ervoor dat de laatste werkende versie van je opdracht steeds op GitHub staat.
 - Deze opdracht maak je alsof het een echt project is. De stappen uit README.md in de starterscode zijn de basis van je planning. De voortgang hou je wekelijks bij in README.md. Als het niet volgens je plan gaat, dan stuur je bij. In de les kun je hulp vragen, maar uiteindelijk moet jij zorgen dat je op tijd klaar bent en een goed project oplevert. 
 {{% /expand %}}
@@ -81,7 +81,7 @@ Enkele punten waarop gelet kan worden bij de beoordeling van techniek zijn
 ## Hulpmiddelen
 We gebruiken in deze opdracht de volgende tools:
 1. [GitHub](/tools/github/) om je code op te slaan.
-2. [Replit](/tools/replit/) (havo) of [Gitpod](/tools/gitpod/) (vwo) om je code te bewerken en een voorbeeld van je website te bekijken.
+2. [Gitpod](/tools/gitpod/) om je code te bewerken en een voorbeeld van je website te bekijken.
 
 ## Startcode
 Als je van je docent je een kopie van de startcode hebt ontvangen, dan kun je aan de slag met de stappen uit het README.md bestand.
