@@ -8,13 +8,15 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 <!--more-->
 
 ## Theorie
-- [Theorie objectgeoriënteerd programmeren](../objectoriented_theorie)
+- [Theorie objectgeoriënteerd programmeren 24/25](../objectoriented_theorie)
+- [Theorie objectgeoriënteerd programmeren 23/24](../objectoriented_theorie2324)
 - [Lespresentatie](objectoriented_lespresentatie.pdf)
 
 
 ## Opdrachten
 - [Kale verwerkingsopdrachten](../objectoriented_verwerkingsopdrachten)
-- [Simulator verwerkingsopdrachten](../objectoriented_simulator_opdrachten)
+- [Simulator verwerkingsopdrachten 24/25](../objectoriented_simulator_opdrachten)
+- [Simulator verwerkingsopdrachten 23/24](../objectoriented_simulator_opdrachten2324)
 
 ## Naslagmateriaal (ook beschikbaar bij toets)
 - [Naslagmateriaal objectgeoriënteerd programmeren](objectoriented_naslagmateriaal.pdf)
