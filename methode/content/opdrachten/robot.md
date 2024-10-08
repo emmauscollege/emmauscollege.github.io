@@ -10,7 +10,9 @@ Je gaat je robot programmeren!
 De opdracht in het kort is: programmeer een apparaat naar keuze met behulp van een toestandsdiagram.
 
 {{% expand "Inschrijven" %}}
-Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je google account van school voor toegang).
+Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je google account van school voor toegang).<br>
+Je teamnaam is de voornamen van iedereen die in je groepje zit.
+- [5Hin2 GEE 24/25](https://classroom.github.com/a/V7kJklUD)
 - [5Hin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1E_3YINGZ6Ytvj8w1EhBC7m5-4FuaK2JU)
 - [5Hin2 GEE 23/24](https://docs.google.com/spreadsheets/d/1F_Tho_N5eHb10QK4P0QwJ6DxVFkxc-Zg)
 - [5Vin1 GEE 23/24](https://classroom.github.com/a/SiUri2uI)

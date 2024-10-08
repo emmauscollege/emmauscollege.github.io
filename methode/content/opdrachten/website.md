@@ -6,6 +6,11 @@ weight = 1
 Je gaat je eigen website maken!
 <!--more-->
 
+## Hulpmiddelen
+We gebruiken in deze opdracht de volgende tools:
+1. [GitHub](/tools/github/) om je code op te slaan.
+2. [Gitpod](/tools/gitpod/) om je code te bewerken en een voorbeeld van je website te bekijken.
+
 ## Opdrachtbeschrijving
 De opdracht in het kort is: Maak je eigen informatieve website over een zelfgekozen onderwerp. Je gebruikt de startcode met HTML en CSS.
 
@@ -77,11 +82,6 @@ Enkele punten waarop gelet kan worden bij de beoordeling van techniek zijn
 - Uit de versie historie in GitHub blijkt wanneer je wat gedaan hebt.
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
-
-## Hulpmiddelen
-We gebruiken in deze opdracht de volgende tools:
-1. [GitHub](/tools/github/) om je code op te slaan.
-2. [Gitpod](/tools/gitpod/) om je code te bewerken en een voorbeeld van je website te bekijken.
 
 ## Startcode
 Als je van je docent je een kopie van de startcode hebt ontvangen, dan kun je aan de slag met de stappen uit het README.md bestand.
