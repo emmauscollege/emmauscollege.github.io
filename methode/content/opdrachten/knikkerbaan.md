@@ -39,6 +39,16 @@ We verwachten dat je _minimaal_ aan het begin van iedere sprint een screenshot i
 -	**Arduino** - voor het programmeren van de knikkerbaan.
 {{% /expand %}}
 
+{{% expand "Planning" %}}
+Je werkt bij deze opdrachten in sprints. Een sprint is een periode van twee weken waarbij je met elkaar afspreekt wat er aan het einde van de twee weken af is en wie dit doet. Halverwege de sprint kun je daar eventueel een kleine wijziging in aanbrengen. Om INzichtelijke te maken wat er gedaan moet worden, wie wat aan het doen is en wat is afgerond, maken we gebruik van een planningsbord in GitHub.
+
+Voor in ieder geval de eerste drie sprints hebben wij in algemene termen opgeschreven wat er af moet zijn:
+
+- sprint 1: Begin van knikkerbaan moet werken, inclusief een teller en een poortje
+- sprint 2: De knikkerbaan moet nu ook een werkende snelheidsmeter en een wissel hebben
+- sprint 3: Je hebt de knikkerbaan verder uitgebreid en verbeterd.
+{{% /expand %}}
+
 
 {{% expand "Beoordeling" %}}
 De opdracht wordt op de volgende aspecten beoordeeld, waarbij de vragen niet uitputtend beschreven zijn:
