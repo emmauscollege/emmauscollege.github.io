@@ -42,6 +42,7 @@ We verwachten dat je _minimaal_ aan het begin van iedere sprint een screenshot i
 
 {{% expand "Beoordeling" %}}
 De opdracht wordt op de volgende aspecten beoordeeld, waarbij de vragen niet uitputtend beschreven zijn:
+
 **Knikkerbaan**
 - Hoeveel uitbreidingen zijn er aan de basis toegevoegd?
 - Hoe functioneert de knikkerbaan?
@@ -70,4 +71,3 @@ De opdracht wordt op de volgende aspecten beoordeeld, waarbij de vragen niet uit
 
 Er wordt verwacht dat elk teamlid een gelijkwaardige bijdrage levert. Je mag taken verdelen, maar iedereen heeft in ieder geval aan een deel van de code zelf meegeschreven. Aan het einde van de opdracht wordt van alle teamleden verwacht dat zij dezelfde kennis hebben van alle onderdelen van de opdracht. Bij twijfel kan de docent dit toetsen in een kort gesprek met de teamleden en onderzoeken welke commits door teamleden zijn gedaan. Het staat de docent vrij om aan groepsleden verschillende cijfers toe te kennen op basis van hoe en wat zij controleerbaar aan het project hebben bijgedragen.
 {{% /expand %}}
-
