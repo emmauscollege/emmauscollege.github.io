@@ -10,7 +10,10 @@ Ga naar [GitHub Classroom](https://classroom.github.com) en kies daar de betreff
 ## Opdracht 3 en 4
 Ga naar [GitHub Classroom](https://classroom.github.com) en kies daar de betreffende opdracht (over dieren)
 
-## Opdracht 5
+## Opdracht 5 en 6
+Ga naar [GitHub Classroom](https://classroom.github.com) en kies daar de betreffende opdracht (over inkapseling en associatie)
+
+## Opdracht 7
 Pak papier of je iPad erbij.
 
 - a. Teken een UML diagram van een klasse 'Auto', met de volgende eigenschappen:
@@ -20,3 +23,5 @@ Pak papier of je iPad erbij.
 
 - b. Teken een diagram met drie zelf verzonnen Auto-objecten.
 
+## Antwoorden
+De antwoorden voor opdracht 1 t/m 6 vind je in dit [GitHub repository](https://github.com/emmauscollege/OOP-opdrachten-antwoorden).
