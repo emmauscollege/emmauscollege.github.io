@@ -37,13 +37,13 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 - Je begrijpt de termen superklasse en subklasse.
 - Je begrijpt wat een abstracte klasse is.
 - Je kunt in JavaScript objectgeoriënteerde code lezen en schrijven (eerdere kennis wordt verondersteld).
-- Je kunt in C++ (Arduino-code) objectgeoriënteerde code lezen.
+<!-- - Je kunt in C++ (Arduino-code) objectgeoriënteerde code lezen. -->
 - Je kunt zelfstandig objectdiagrammen en (ontwerp)klassendiagrammen maken.
 - Je kunt een ontwerpklassendiagram maken met behulp van een beschrijving van systeem.
 - Je kunt een (ontwerp)klassendiagram omzetten naar JavaScript en andersom. Je bent hierbij in staat om relaties tussen klassen om te zetten naar code.
-- Je kunt C++ (Arduino-code) omzetten naar (ontwerp)klassendiagram.
+<!-- - Je kunt C++ (Arduino-code) omzetten naar (ontwerp)klassendiagram. -->
 - Je kent drie voordelen en drie nadelen van objectgeoriënteerd programmeren.
 
 ## Oefentoets
-- [Oefentoets](objectoriented_oefenopgaven.pdf)
+- [Oefentoets](objectoriented_oefenopgaven.pdf) (vraag 5 moet je overslaan)
 - [Antwoordwoorden oefentoets](objectoriented_oefenopgaven_antwoorden.pdf)
