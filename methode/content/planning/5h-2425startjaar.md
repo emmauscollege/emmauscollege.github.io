@@ -57,21 +57,21 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 45|[O4-Robot](/opdrachten/robot/) Stap 4 uitbreidingen |[O4-Robot](/opdrachten/robot/) Stap 4 uitbreidingen 
 46|**TW1: Toets 5H-IN-S06** over T6 Robotica|
 47|**TW1**|
-48|[O4-Robot](/opdrachten/robot/) Stap 4 uitbreidingen (uitloop) | [O4-Robot](/opdrachten/robot/) Stap 4 uitbreidingen (uitloop)
-49|[O4-Robot](/opdrachten/robot/) Stap 5 video en inleveren |**PO 5H-IN-S08 robot inleveren** Stap 5 video en inleveren
-50|[T5 Databases](/theorie/databases/) Uitleg: SELECT WHERE |[T5 Databases](/theorie/databases/) Oefening: Khan 1 SQL Basics
-51|[T5 Databases](/theorie/databases/) Uitleg: GROUP BY| [T5 Databases](/theorie/databases/)  Oefening: Khan 2 More advanced SQL-queries
+48|[O4-Robot](/opdrachten/robot/) Stap 5 video en inleveren |**PO 5H-IN-S08 robot inleveren** Stap 5 video en inleveren
+49|[T5 Databases](/theorie/databases/) Uitleg: SELECT WHERE |[T5 Databases](/theorie/databases/) Oefening: Khan 1 SQL Basics
+50|[T5 Databases](/theorie/databases/) Uitleg: GROUP BY| [T5 Databases](/theorie/databases/)  Oefening: Khan 2 More advanced SQL-queries
+51|[T5 Databases](/theorie/databases/) Uitleg: JOIN 1:N|[T5 Databases](/theorie/databases/) Oefening: Khan 1e helft van 3 Relational Queries
 52|**Kerstvakantie**|
 1|**Kerstvakantie**|
-2|[T5 Databases](/theorie/databases/) Uitleg: JOIN 1:N|[T5 Databases](/theorie/databases/) Oefening: Khan 1e helft van 3 Relational Queries
-3|[T5 Databases](/theorie/databases/) Uitleg: JOIN N:M|[T5 Databases](/theorie/databases/) Oefening: Khan 2e helft van 3 Relational Queries
+2|[T5 Databases](/theorie/databases/) Uitleg: JOIN N:M|[T5 Databases](/theorie/databases/) Oefening: Khan 2e helft van 3 Relational Queries
+3|[T5 Oefentoets](/theorie/databases/) 1e helft |[T5 Oefentoets](/theorie/databases/) 2e helft
 4|[O3 Webshop](/opdrachten/webshop/)Intekenen + uitleg hoofdlijnen|[O3 Webshop](/opdrachten/webshop/) Repo ontvangen + Stap 1
 5|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB
 6|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB|[O3 Webshop](/opdrachten/webshop/) Stap 2 DB
 7|[O3 Webshop](/opdrachten/webshop/) Stap 3 API|[O3 Webshop](/opdrachten/webshop/) Stap 3 API
 8|[O3 Webshop](/opdrachten/webshop/) Stap 4 Web|**PO 5H-IN-S08 webshop inleveren**
 9|**Voorjaarsvakantie**|
-10|[T5 Oefentoets](/theorie/databases/) 1e helft |[T5 Oefentoets](/theorie/databases/) 2e helft
+10|herhaling: T5 Databases queries met 1 tabel|herhaling: T5 Databases queries met 1 tabel
 11|**TW2: Toets 5H-IN-S07** over T5 Databases|
 12|**TW2**|
 13|wel les, herhaling voor herkansing|wel les, herhaling voor herkansing
@@ -89,6 +89,6 @@ Week|Theorie+Praktijk (les 1)|Praktijk (les 2)
 Datum        | Code     | Toetsvorm      | Stof
 -------------|----------|----------------|-----
  Toetsweek 1 |5H-IN-S06 | Digitale toets | [T6 Robotica](/theorie/robotica/#leerdoelen)
- Zondag 8 dec 2024 23:59|5H-IN-S08 | Praktische Opdracht | [O4 Robot](/opdrachten/robot/)
+ Zondag 1 dec 2024 23:59|5H-IN-S08 | Praktische Opdracht | [O4 Robot](/opdrachten/robot/)
  Zondag 23 feb 2025 23:59|5H-IN-S09 | Praktische Opdracht | [O3 Webshop](/opdrachten/webshop/)
  Toetsweek 2 |5H-IN-S07 | Digitale toets | [T5 Databases](/theorie/databases/#leerdoelen)  
