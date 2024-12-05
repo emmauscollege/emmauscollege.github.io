@@ -31,7 +31,7 @@ Naslagmateriaal
 
 ## Leerdoelen voor de toets
 Netwerken
-1. 1. Je kunt de belangrijkste reden voor de overgang van IPv4 naar IPv6 uitleggen, ondersteund met een berekening van het aantal beschikbare IP-adressen volgens beide protocollen.
+1. Je kunt de belangrijkste reden voor de overgang van IPv4 naar IPv6 uitleggen, ondersteund met een berekening van het aantal beschikbare IP-adressen volgens beide protocollen.
 1. Je kunt het verschil tussen een LAN (Local Area Network) en een WAN (Wide Area Network) uitleggen, inclusief kenmerken als bereik, snelheid en gebruikstoepassingen.
 1. Je kunt de belangrijkste verschillen benoemen tussen koperen, glasvezel- en draadloze verbindingen, met name over snelheid, kosten en betrouwbaarheid.
 1. Je kunt de termen latency, lag, latentie en bandbreedte uitleggen en beschrijven hoe deze factoren de snelheid van een netwerkverbinding beïnvloeden.
