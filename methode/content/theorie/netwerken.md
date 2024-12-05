@@ -31,31 +31,19 @@ Naslagmateriaal
 
 ## Leerdoelen voor de toets
 Netwerken
-1. Je kunt met behulp van een berekening kunt aantonen wat de hoofdreden is om het IP versie 4 protocol te vervangen door IPv6
-1. Je kunt het verschil uitleggen tussen een LAN en een WAN.
-1. Je kent de belangrijkste verschillen tussen communicatie over koperen verbindingen, glasvezelverbindingen en draadloze verbindingen
-1. Je weet wat bij computernetwerken de termen lag / latency / latentie en bandbreedte betekenen en hoe ze de snelheid van een netwerkverbinding beïnvloeden.
-1. Je kunt uitleggen waarvoor het het OSI-model is ontwikkeld
-1. Je begrijpt het OSI-model / IP-stack. Je kunt de applicatielaag, transportlaag, netwerklaag, datalinklaag en fysische laag uitleggen.
-1. Je kunt twee voordelen benoemen van het werken met een lagenmodel zoals het OSI-model of de IP-stack.
-1. Je weet wat een MAC-adres is, bij welke laag het hoort en waarvoor het wordt gebruikt.
-1. Je weet wat ARP is en waarvoor het dient.
-1. Je weet wat het MAC broadcast adres is en waarvoor het dient.
-1. Je weet wat een IP-adres is, bij welke laag het hoort en waarvoor het wordt gebruikt.
-1. Je kunt met behulp van routeringstabellen het gedrag van een router bij een inkomend bericht beschrijven.
-1. Je weet wat het IP broadcast adres is en waarvoor het dient.
-1. Je weet wat een subnetmasker is en waarvoor dit dient.
-1. Je kunt met behulp van het subnetmasker uitrekenen hoeveel apparaten er in een netwerk verbonden kunnen zijn.
-1. Je weet wat het nadeel is van een subnetwerk met heel veel apparaten.
-1. Je kunt de twee belangrijkste verschillen tussen TCP en UDP benoemen
-1. Je weet wat TCP-poorten zijn en waarvoor deze dienen
-1. Je kunt beschrijven hoe een pakketje van een apparaat in het ene subnet naar een apparaat in het andere subnet reist.
-1. Je kent de functie van de volgende netwerkapparaten: router, modem, switch, wireless access point, repeater, firewall
-1. Je kunt beredeneren tot op welk niveau van het OSI-model een netwerkapparaat werkzaam is.
-1. Je kunt bij schematische weergave van een netwerk de verschillende netwerkapparaten herkennen en benoemen en IP-adressen en subnetmaskers bepalen of toewijzen.
-1. Je weet wat de functie van een firewall is.
-1. Je begrijpt wat een DNS is en waarvoor deze dient
-1. Je kunt uitleggen wat de functie van een DHCP server is.
+1. 1. Je kunt de belangrijkste reden voor de overgang van IPv4 naar IPv6 uitleggen, ondersteund met een berekening van het aantal beschikbare IP-adressen volgens beide protocollen.
+1. Je kunt het verschil tussen een LAN (Local Area Network) en een WAN (Wide Area Network) uitleggen, inclusief kenmerken als bereik, snelheid en gebruikstoepassingen.
+1. Je kunt de belangrijkste verschillen benoemen tussen koperen, glasvezel- en draadloze verbindingen, met name over snelheid, kosten en betrouwbaarheid.
+1. Je kunt de termen latency, lag, latentie en bandbreedte uitleggen en beschrijven hoe deze factoren de snelheid van een netwerkverbinding beïnvloeden.
+1. Je kunt het doel van het OSI-model uitleggen en de functies van de zeven lagen in het OSI-model en de IP-stack beschrijven.
+1. Je kunt twee voordelen benoemen van het werken met een lagenmodel, zoals het OSI-model en de IP-stack.
+1. Je kunt uitleggen wat een MAC-adres is, de functie van ARP (Address Resolution Protocol), het MAC- en IP-broadcastadres, en beschrijven hoe deze termen en technologieën samenwerken in netwerken.
+1. Je kunt uitleggen wat een IP-adres is, de functie van een subnetmasker, de effecten van grote subnetwerken, en berekenen hoeveel apparaten er in een netwerk kunnen worden aangesloten op basis van een subnetmasker.
+1. Je kunt het routeringsproces uitleggen, inclusief het gebruik van routeringstabellen, en beschrijven hoe een pakket van het ene naar het andere subnet wordt gestuurd.
+1. Je kunt de belangrijkste verschillen tussen TCP en UDP benoemen en uitleggen, en je begrijpt het concept van TCP-poorten en hun functie in netwerkcommunicatie.
+1. Je kunt de functies van netwerkapparaten zoals router, modem, switch, wireless access point, repeater en firewall uitleggen, de OSI-laag waarop ze werken benoemen, en deze apparaten herkennen in een netwerkdiagram, waarbij je de IP-adressen en de subnetmaskers correct toewijst.
+1. Je kunt de functies van een firewall, DNS (Domain Name System) en DHCP (Dynamic Host Configuration Protocol) uitleggen en beschrijven hoe deze systemen samenwerken in een netwerk.
+
 
 ## Oefentoets
 Je kunt een deel van je kennis en vaardigheden testen met de volgende oefenopgaven:
