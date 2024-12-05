@@ -7,7 +7,7 @@ Je gaat je eigen webshop maken!
 <!--more-->
 
 ## Opdrachtbeschrijving
-De opdracht in het kort is: Maak in groepjes van twee of drie je eigen webshop. Je gebruikt de startcode en breidt de database uit met jouw producten. De api en het website deel pas je aan waar dat nodig is.
+De opdracht in het kort is: Maak in groepjes van twee je eigen webshop. Je gebruikt de startcode en breidt de database uit met jouw producten. De api en het website deel pas je aan waar dat nodig is.
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via Github Classroom (login met je github account).
