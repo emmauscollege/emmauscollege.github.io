@@ -11,6 +11,7 @@ De opdracht in het kort is: Maak in groepjes van twee je eigen webshop. Je gebru
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via Github Classroom (login met je github account).
+- [5Hin2 GEE 24/25](https://classroom.github.com/a/t_XrEeL-)
 - [5Vin1 HAR 24/25](https://classroom.github.com/a/B5s4VO7U)
 - [5Vin2 GEE 24/25](https://classroom.github.com/a/Q5MsVWqW)
 - [5Vin3 GEE 24/25](https://classroom.github.com/a/TtTqjGW7)
