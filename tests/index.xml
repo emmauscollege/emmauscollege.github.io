@@ -7,17 +7,17 @@
 &lt;p>What about wrapping long inline code if multiple sections are written &lt;code>side567&lt;/code>/&lt;code>by34567&lt;/code>/&lt;code>side567&lt;/code>?&lt;/p></description></item><item><title>Images</title><link>https://emmauscollege.github.io/tests/images/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/tests/images/</guid><description>&lt;p>Some testing for different styles of image links.&lt;/p>
 &lt;h2 id="markdown">Markdown&lt;/h2>
 &lt;h3 id="relative-to-page">Relative to page&lt;/h3>
-&lt;p>&lt;img alt="Magic" src="https://emmauscollege.github.io/tests/images/images/magic.gif?classes=shadow&amp;height=50px">&lt;/p>
+&lt;p>&lt;img src="https://emmauscollege.github.io/tests/images/images/magic.gif?classes=shadow&amp;amp;height=50px" alt="Magic">&lt;/p>
 &lt;h3 id="relative-to-page-up-level">Relative to page up level&lt;/h3>
-&lt;p>&lt;img alt="Magic" src="../images/images/magic.gif?classes=shadow&amp;height=50px">&lt;/p>
+&lt;p>&lt;img src="../images/images/magic.gif?classes=shadow&amp;amp;height=50px" alt="Magic">&lt;/p>
 &lt;h3 id="static">Static&lt;/h3>
-&lt;p>&lt;img alt="Logo" src="https://emmauscollege.github.io/images/logo.svg?classes=shadow&amp;height=50px">&lt;/p>
+&lt;p>&lt;img src="https://emmauscollege.github.io/images/logo.svg?classes=shadow&amp;amp;height=50px" alt="Logo">&lt;/p>
 &lt;h3 id="external-fully-qualified">External fully qualified&lt;/h3>
-&lt;p>&lt;img alt="Minion" src="https://octodex.github.com/images/minion.png?classes=shadow&amp;height=50px">&lt;/p>
+&lt;p>&lt;img src="https://octodex.github.com/images/minion.png?classes=shadow&amp;amp;height=50px" alt="Minion">&lt;/p>
 &lt;h3 id="external-without-scheme">External without scheme&lt;/h3>
-&lt;p>&lt;img alt="Minion" src="//octodex.github.com/images/minion.png?classes=shadow&amp;height=50px">&lt;/p>
+&lt;p>&lt;img src="//octodex.github.com/images/minion.png?classes=shadow&amp;amp;height=50px" alt="Minion">&lt;/p>
 &lt;h3 id="external-without-scheme-and-scheme-separator">External without scheme and scheme separator&lt;/h3>
-&lt;p>&lt;img alt="Minion" src="octodex.github.com/images/minion.png?classes=shadow&amp;height=50px">&lt;/p>
+&lt;p>&lt;img src="octodex.github.com/images/minion.png?classes=shadow&amp;amp;height=50px" alt="Minion">&lt;/p>
 &lt;h2 id="html">HTML&lt;/h2>
 &lt;h3 id="relative-to-page-1">Relative to page&lt;/h3>
 &lt;p>&lt;img src="images/magic.gif?classes=shadow&amp;height=50px">&lt;/p>
@@ -33,8 +33,8 @@
 &lt;p>&lt;img src="octodex.github.com/images/minion.png?classes=shadow&amp;height=50px">&lt;/p></description></item><item><title>Links</title><link>https://emmauscollege.github.io/tests/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/tests/links/</guid><description>&lt;p>Some testing for different styles of links.&lt;/p>
 &lt;h2 id="markdown">Markdown&lt;/h2>
 &lt;h3 id="relative-to-page">Relative to page:&lt;/h3>
-&lt;p>&lt;img alt="Magic" src="images/magic.gif?classes=shadow">&lt;/p>
+&lt;p>&lt;img src="images/magic.gif?classes=shadow" alt="Magic">&lt;/p>
 &lt;h3 id="relative-to-page-up-level">Relative to page up level:&lt;/h3>
-&lt;p>&lt;img alt="Magic" src="../images/images/magic.gif?classes=shadow">&lt;/p>
+&lt;p>&lt;img src="../images/images/magic.gif?classes=shadow" alt="Magic">&lt;/p>
 &lt;h3 id="static">Static:&lt;/h3>
-&lt;p>&lt;img alt="Logo" src="https://emmauscollege.github.io/images/logo.svg?classes=shadow">&lt;/p></description></item></channel></rss>
+&lt;p>&lt;img src="https://emmauscollege.github.io/images/logo.svg?classes=shadow" alt="Logo">&lt;/p></description></item></channel></rss>
