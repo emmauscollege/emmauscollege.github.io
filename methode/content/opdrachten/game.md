@@ -10,14 +10,20 @@ Je gaat je eigen game programmeren!
 De opdracht in het kort is: Maak in groepjes van twee je eigen spel in JavaScript. Je gebruikt de startcode en maakt gebruik van de p5js-library.
 
 {{% expand "Inschrijven" %}}
-Je schrijft je in op GitHub Classroom via de onderstaande link (login met je github account).<br>
+Je schrijft je in via GitHub Classroom via de onderstaande link (login met je github account).<br>
 **Letop 1:** Zorg dat je gebruikersnaam in GitHub begint met je voornaam, gevolgd door je leerlingnummer om hem uniek te maken. Je kunt je gebruikersnaam aanpassen in [GitHub -> klik op je foto rechtsboven -> Settings -> Account](https://github.com/settings/admin).<br>
 **Letop 2:** De teamnaam die je kiest bevat de gebruikersnamen van alle leerlingen in je team, bijvoorbeeld `jolanda123111-klaas123987` 
+
+- [4Hin1 HAR 24/25](https://classroom.github.com/a/I2wkLjCB)
+
+<!--
+Oude code van voor 08-02-2025:
 - [4hin1 GEE 23/24](https://classroom.github.com/a/qwUQInzi)
 - [4hin2 HAR 23/24](https://classroom.github.com/a/_Ieu5ppf)
 - [4vin1 CAM 23/24](https://classroom.github.com/a/UPa4jvJA)
 - [4vin2 HAR 23/24](https://classroom.github.com/a/ue7HtanH)
 - [4vin3 HAR 23/24](https://classroom.github.com/a/fsi7QF4E)
+-->
 
 Nadat je jezelf helemaal ingeschreven hebt, krijg je automatisch toegang tot een repository met startcode. Er is één repository per team. Elk teamlid heeft lees- en schrijfrechten in de repository.
 {{% /expand %}}
