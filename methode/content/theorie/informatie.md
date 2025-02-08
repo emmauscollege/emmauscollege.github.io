@@ -37,6 +37,7 @@ Beeldbewerking
 
 - [Lespresentatie informatie (havo)](Lespresentatie-informatie-havo.pptx)
 - [Collegesheets informatie (vwo)](Collegesheets-informatie-vwo.pptx) (heel dik)
+- [Lesmateriaal informatie (havo & vwo)](Lesmateriaal-Informatie-(T2).zip)
 
  
 ## Leerdoelen voor de toets
