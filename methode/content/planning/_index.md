@@ -3,7 +3,7 @@ title = "Planning"
 weight = 1
 +++
 
-Hier vind je de lesplanner, geplande toetsen en inlevermomenten, vakoverzicht en PTA's per jaarlaag.
+Hier vind je de lesplanners (met geplande toetsen en inlevermomenten), het vakoverzicht en de PTA's.
 
 <!--more-->
 
