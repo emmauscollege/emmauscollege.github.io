@@ -6,26 +6,27 @@ weight = 12
 GitHub is een website waar je code kunt opslaan en delen. Codespaces is een codeeromgeving binnen GitHub waar je code kunt wijzigen en uitvoeren. Codespaces maakt gebruik van de webversie van de editor Visual Studio Code.
 <!--more-->
 
-## 1. Wat zijn GitHub, Codespaces en Visual Studio Code?
-GitHub is een website waar je code kunt opslaan en delen.
+## 1. Wat zijn GitHub, Codespaces en VS Code?
+#### GitHub is een website waar je code kunt opslaan en delen.
 - GitHub bewaart alle oude versies van je code.
 - Code op GitHub kun je gemakkelijk delen met anderen.
 - Met GitHub kun je in groepen aan dezelfde code werken.
 - Bestanden in GitHub worden bewaard in repositories. Een repository (ook wel afgekort tot repo) is een soort hoofdmap. Voor elk project maak je een aparte repository.
 - GitHub werkt op basis van Git. Git is open source software. Er zijn veel programmeeromgevingen die via Git kunnen samenwerken met GitHub.
 
-Codespaces is een codeeromgeving binnen GitHub waar je code kunt uitvoeren.
-- In Codespaces werkt je met de VS Code editor om je code te wijzigen.
+#### Codespaces is een codeeromgeving binnen GitHub waar je code kunt uitvoeren.
+- Codespaces biedt een devcontainer (computer in de cloud) waar je op kunt werken via een browser.
+- In je browser zie je VS Code. VS Code "praat" met Codespaces.
 - Wijzigingen in bestanden in je Codespace kun je bewaren in GitHub.
 - Je kunt code uitvoeren in je Codespace, bijvoorbeeld door commando's te typen in de terminal.
-- Codespaces biedt een devcontainer (computer in de cloud) waar je op kunt werken via een browser.
 
-Visual Studio Code is de editor die in Codespaces wordt gebruikt.
-- Visual Studio Code wordt vaak afgekort tot VS Code (spreek uit als "vie es koot").
+#### VS Code is de editor die in Codespaces wordt gebruikt.
+- VS Code gebruik je voor het wijzigen en runnen van code in Codespaces.
 - VS Code is geschikt voor alle populaire programmeertalen 
 - VS Code is meer dan een editor, zo verzorgt VS Code ook de verbinding met je Codespace en GitHub
 - Je kunt de instellingen van VS Code naar je eigen smaak aanpassen. Wij gebruiken instellingen om het bewaren van wijzigingen in github gemakkelijker te maken. 
 - De functies van VS Code kun je uitbreiden met extensions. Wij gebruiken extentions om previews van .pdf en .html bestanden te bekijken.
+- VS Code (spreek uit als "vie es koot") is een veelgebruikte afkorting voor Visual Studio Code.
 
 ## 2. Starten met een opdracht
 
@@ -58,29 +59,23 @@ Op bovenstaande plaatje zie je het scherm van VS Code met de volgende onderdelen
 1. Dubbelklik op een bestand, bijvoorbeeld `index.html` of `main.py`. Het bestand wordt geopend in de editor. 
 2. Je kunt nu het bestand aanpassen.
 
-### 3.3 Code uitvoeren
-Het hangt van de programmeertaal af hoe je code kunt uitvoeren.
+### 3.3 Resultaat bekijken
+Het hangt van de programmeertaal af hoe je kunt bekijken wat je code voor resultaat geeft. In het `README.md` bestand van de startcode staat beschreven hoe dit moet. Voor een aantal veelgebruikte programmeertalen vind je hier een korte samenvattig
 
-html:
-1. Klik met de rechtermuisknop op een .html bestand. Er verschijnt een menu.
-2. Kies `Show Preview` in het menu.
+#### html (eventueel met css en/of javascript):
+1. Start een webserver in de Codespace, bij de meeste startcode gebeurt dit automatisch als je de Codespace start. De webserver zorgt ervoor dat de html-bestanden uit de Codespace door een browser op je computer kunne worden geladen.
+2. Open een browser-venster met het `index.html` bestand uit je Codespace. Klik hiervoor op Ports, klik daarna op de link met het adres van de webserver.
 
-python:
+#### python:
 1. Type in de terminal `python main.py`, het programma start<br>
 2. Als het programma lang duurt, stop het dan met de toetsen `[CRTL]+[C]`
 3. Start het programma opnieuw met de toets `[PIJL OMHOOG]`<br>
 
-### 3.4 Scherm openen
-Sommige programma's werken met tekst, andere met graphics.
+#### python met pygame:
+1. Type in de terminal `python main.py`, het programma start<br>
+2. Open een browser-venster dat via novnc is verbonden met het grafische scherm dat pygame gebruikt. Klik hiervoor op Ports, klik daarna op de link met het adres van de novnc-server.
 
-Tekst zie je in de terminal waar je je programma gestart hebt.
-
-Graphics kun je zien door de GUI te openen. Soms opent deze vanzelf als het programma gestart is. Soms moet je deze zelf openen. De GUI open je zo:
-1. Klik op ports
-2. Beweeg je muis naar een regel, bijvoorbeeld port 6080 (GUI).
-3. Klik op "Open in Browser" (wereldbol) of "Preview in Editor" (rechts van wereldbol)
-
-### 3.5 Wijzigingen bewaren in GitHub
+### 3.4 Wijzigingen bewaren in GitHub
 1. Klik in de activity bar op het Source Control icoon.
 2. Voer een beschrijving van de wijziging in
 3. Druk op de groen knop "Commit & Sync". Je wijzigingen worden nu bewaard in GitHub. Je kunt controleren op github.com of het is gelukt.
@@ -123,15 +118,75 @@ In grotere teams worden er heel veel veranderingen tegelijk doorgevoerd. De geza
 
 Het werkt in grote teams handiger als je het werk verdeelt in branches. Vraag hierover uitleg aan je docent, als jullie daaraan toe zijn.
 
-## 5. Veelgestelde vragen
+## 5. Howto's en veelgestelde vragen
 
-### GitHub 404 fout
+### 5.1 Bestanden en mappen
+
+*Ik wil een nieuw bestand maken, de naam van een bestand veranderen, een bestand uploaden, bestanden downloaden of andere dingen met bestanden of mappen doen. Hoe doe ik dat?*
+
+#### Bestanden bekijken
+1. Open Codespaces.
+2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
+3. Als je dubbelklikt op een bestand, dan wordt het geopend. 
+4. Als je met je rechtermuisknop op een bestand of map klikt, dan verschijnt er een drop-down menu waarin je meer met het bestand of de map kunt doen.
+
+#### Nieuw bestand of map maken
+1. Open Codespaces.
+2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
+3. Als je muis op de lijst met bestanden staat, dan zie je vlak boven de lijst twee icoontjes met een +. Als je op de linker klikt, dan maak je een nieuw bestand. Als je op de rechter klikt, dan maak je een nieuwe map.
+
+#### Naam van bestand of map wijzigen
+1. Open Codespaces.
+2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
+3. Klik met de rechtmuisknop op een bestand of map. Er verschijnt een drop-down menu. Kies "Rename..." in het pull-down menu. Pas de naam aan en druk op Enter.
+
+#### Bestanden verplaatsen
+1. Open Codespaces.
+2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
+3. Sleep het bestand van de ene naar de andere map.
+
+#### Bestand uploaden naar Codespaces
+1. Open Codespaces.
+2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
+3. Sleep een bestand van je bureaublad naar het lijstje bestanden in Codespaces.<br>
+Als stap 3 niet werkt, probeer dan stap 4.
+4. Ga op een map staan, klik op de rechtermuisknop, een pull-down menu verschijnt, kies "Upload..." in het pull-down menu.
+
+#### Bestand downloaden uit Codespaces
+1. Open Codespaces.
+2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
+3. Ga op een bestand staan, klik op de rechtermuisknop, een pull-down menu verschijnt, kies "Download..." in het pull-down menu.
+
+#### Alle bestanden downloaden
+1. Open GitHub, ga naar de pagina met je repository.
+2. Klik op de groene knop "Code" en kies in het menu dat verschijnt voor "Download ZIP".
+3. Dubbelklik op het gedownloade zip-bestand om alle bestanden uit te pakken.
+
+### 5.2 github.com gebruiken
+
+#### Waar staat mijn repository?
+1. Open GitHub en login
+2. Links in het scherm staan de repo's die je recent en vaak gebruikt hebt. Door op een repo te klikken wordt deze geladen. De link van de repo staat bovenin je browser.
+3. Als je in een team aan een repo werkt, klik dan links op het team, daarna bovenin je scherm op repositories
+
+#### Lijst met commits bekijken
+1. Open GitHub, ga naar de pagina met je repository.
+2. Een lijst met de laatste wijzigingen krijg je door te klikken op het aantal commits, onder de groene knop met "Code". Van elke commit kun je zien wat er is gewijzigd, klik daarvoor op het nummer van de commit aan het einde van de regel.
+
+#### Oude versie van je repository bekijken
+1. Open GitHub, ga naar de pagina met je repository.
+2. Een lijst met de laatste wijzigingen krijg je door te klikken op het aantal commits, onder de groene knop met "Code". 
+3. Klik op `<>` achter een commit naar keuze. Je ziet nu de versie van de repository op het moment van de commit.
+
+### 5.3 Overige vragen en problemen
+
+#### GitHub 404 fout oplossen
 
 *Ik heb via email een link ontvangen om toegang te krijgen tot een repo, maar als ik op de link druk dan krijg ik een 404 fout. Wat moet ik doen?*
 
 Login op GitHub en druk daarna nogmaals op de link.
 
-### Merge conflict
+#### Merge conflict oplossen
 
 *Ik heb een merge conflict, hoe los ik dat op?*
 
@@ -144,7 +199,7 @@ Als je er met de video niet uitkomt en er is niemand in de buurt die je kan help
 - Test of je code het doet, haal de fouten eruit. 
 - Bewaar je wijzigingen in GitHub door in je nieuwe Codespace op Commit en Sync te klikken.
 
-### Scherm delen
+#### Scherm delen
 
 *Ik wil mijn scherm delen met iemand anders, hoe doe ik dat?*
 
@@ -152,40 +207,8 @@ In de iconenbalk links op je scherm zie een soort gebogen pijl. Dit is de extens
 
 Deze functie is bedoeld om samen snel een klein probleem op te lossen. Gebruik hem niet meer dan een paar minuten per les. Echte programmeurs verdelen het werk, maken elk hun eigen stuk code in hun eigen Codespace en delen het dan via GitHub. Dat moet jij ook leren.
 
-### Werken met bestanden in Codespaces
-
-*Ik wil een nieuw bestand maken, de naam van een bestand veranderen, een bestand uploaden, bestanden downloaden of andere dingen met bestanden of mappen doen. Hoe doe ik dat?*
-
-- Met bestanden werken doe je het gemakkelijkst in Codespaces.<br>
-In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. Als je dubbelklikt op een bestand, dan wordt het geopend. Als je met je rechtermuisknop op een bestand of map klikt, dan verschijnt er een drop-down menu waarin je meer met het bestand of de map kunt doen.
-- Een nieuw bestand of map aanmaken:<br>
-Als je muis op de lijst met bestanden staat, dan zie je vlak boven de lijst twee icoontjes met een +. Als je op de linker klikt, dan maak je een nieuw bestand. Als je op de rechter klikt, dan maak je een nieuwe map.
-- De naam van een bestand of map veranderen:<br>
-Klik met de rechtmuisknop op een bestand of map. Er verschijnt een drop-down menu. Kies "Rename..." in het pull-down menu. Pas de naam aan en druk op Enter.
-- Een bestand verplaatsen:<br>
-Sleep het bestand van de ene naar de andere map.
-- Een bestand uploaden:<br>
-Sleep een bestand van je bureaublad naar het lijstje bestanden in Codespaces.<br>
-Een andere manier om een bestand te oploaden:<br>
-Ga op een map staan, klik op de rechtermuisknop, een pull-down menu verschijnt, kies "Upload..." in het pull-down menu.
-- Meerdere bestanden selecteren:<br>
-Klik op het bovenste bestand. Beweeg je muis naar een bestand verder naar onderen. Houdt SHIFT ingedrukt terwijl je op het onderste bestand klikt.
-
-### De Github website gebruiken
-*Waarvoor heb ik de GitHub website nodig, code aanpassen en uitvoeren doe ik toch in Codespaces?*
-
-Dat klopt, je gebruikt de GitHub website vaak alleen om in te loggen en je Codespace te starten. Code aanpassen en uitvoeren doe je in je Codespace. Toch zijn er een aantal handige functies op de GitHub website.
-- Repo's zoeken:<br>
-Links in het scherm staan de repo's die je recent en vaak gebruikt hebt. Door op een repo te klikken wordt deze geladen. De link van de repo staat bovenin je browser.
-- Bekijken wat er in een repo zit:<br>
-Je kunt snel zien wat er in een repo zit door op de bestanden of mappen in de repo te klikken.
-- Bekijken wat er gewijzigd is:<br>
-Je kunt alle wijzigingen in een repo terugzien. Een lijst met de laatste wijzigingen krijg je door te klikken op het aantal commits, onder de groene knop met "Code". Van elke commit kun je zien wat er is gewijzigd, klik daarvoor op het nummer van de commit aan het einde van de regel.
-- Alle bestanden uit een repo downloaden:<br>
-Je kunt alle bestanden in een repo downloaden in een zip-bestand. klik op de groene knop "Code" en kies in het menu dat verschijnt voor "Download ZIP".
-
-### Meer documentatie
+### 5.4 Documentatie
 *Waar vind ik meer documentatie?*
 
-- Documentatie over de editor vscode:<br>
-[https://code.visualstudio.com/docs/getstarted/userinterface](https://code.visualstudio.com/docs/getstarted/userinterface)
+#### Documentatie over VS Code
+- [https://code.visualstudio.com/docs/getstarted/userinterface](https://code.visualstudio.com/docs/getstarted/userinterface)
