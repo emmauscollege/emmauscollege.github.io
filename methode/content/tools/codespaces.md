@@ -207,6 +207,11 @@ In de iconenbalk links op je scherm zie een soort gebogen pijl. Dit is de extens
 
 Deze functie is bedoeld om samen snel een klein probleem op te lossen. Gebruik hem niet meer dan een paar minuten per les. Echte programmeurs verdelen het werk, maken elk hun eigen stuk code in hun eigen Codespace en delen het dan via GitHub. Dat moet jij ook leren.
 
+##### Automatisch inspringen
+1. Open een bestand in VS Code
+2. Klik in het bestand op de rechtermuisknop. Er verschijnt een pop-up menu.
+3. Klik in het menu op Format Document. Het document wordt aangepast zodat de code netjes inspringt.
+
 ### 5.4 Documentatie
 *Waar vind ik meer documentatie?*
 
