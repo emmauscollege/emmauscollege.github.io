@@ -7,20 +7,20 @@ GitHub is een website waar je code kunt opslaan en delen. Codespaces is een code
 <!--more-->
 
 ## 1. Wat zijn GitHub, Codespaces en VS Code?
-#### GitHub is een website waar je code kunt opslaan en delen.
+##### GitHub is een website waar je code kunt opslaan en delen.
 - GitHub bewaart alle oude versies van je code.
 - Code op GitHub kun je gemakkelijk delen met anderen.
 - Met GitHub kun je in groepen aan dezelfde code werken.
 - Bestanden in GitHub worden bewaard in repositories. Een repository (ook wel afgekort tot repo) is een soort hoofdmap. Voor elk project maak je een aparte repository.
 - GitHub werkt op basis van Git. Git is open source software. Er zijn veel programmeeromgevingen die via Git kunnen samenwerken met GitHub.
 
-#### Codespaces is een codeeromgeving binnen GitHub waar je code kunt uitvoeren.
+##### Codespaces is een codeeromgeving binnen GitHub waar je code kunt uitvoeren.
 - Codespaces biedt een devcontainer (computer in de cloud) waar je op kunt werken via een browser.
 - In je browser zie je VS Code. VS Code "praat" met Codespaces.
 - Wijzigingen in bestanden in je Codespace kun je bewaren in GitHub.
 - Je kunt code uitvoeren in je Codespace, bijvoorbeeld door commando's te typen in de terminal.
 
-#### VS Code is de editor die in Codespaces wordt gebruikt.
+##### VS Code is de editor die in Codespaces wordt gebruikt.
 - VS Code gebruik je voor het wijzigen en runnen van code in Codespaces.
 - VS Code is geschikt voor alle populaire programmeertalen 
 - VS Code is meer dan een editor, zo verzorgt VS Code ook de verbinding met je Codespace en GitHub
@@ -30,7 +30,7 @@ GitHub is een website waar je code kunt opslaan en delen. Codespaces is een code
 
 ## 2. Starten met een opdracht
 
-#### 2.1 Maak een account in GitHub
+### 2.1 Maak een account in GitHub
 1. Ga naar https://www.github.com/ (gebruik bij voorkeur Chrome).
 2. Klik op sign-up.
 3. Gebruik je email adres van school.
@@ -38,7 +38,7 @@ GitHub is een website waar je code kunt opslaan en delen. Codespaces is een code
 5. Kies als username je voornaam met de eerste letter van je achternaam, als die al bezet is voeg je een nummer toe. Bijvoorbeeld jamesb007
 6. Bevestig je account door te klikken op de link in de mail die je ontvangt van GitHub.
 
-#### 2.2 Maak een Codespace met startcode voor je opdracht
+### 2.2 Maak een Codespace met startcode voor je opdracht
 1. De docent deelt een link naar GitHub Classroom waarmee jij je kunt inschrijven voor een opdracht. Na inschrijven krijg je automatisch een repository met startcode voor de opdracht. 
 2. Als je in een groepje werkt dan maakt het eerste groepslid die zich inschrijft een team aan. De naam van dat team bestaat uit alle voornamen van de groepsleden gescheiden door een streepje. Bijvoorbeeld anne-jasmin-noah. De andere groepsleden joinen bij inschrijven het team dat is aangemaakt.
 3. Je maakt je eigen Codespace door op de knop "Create Codespace te klikken". Alle bestanden uit de GitHub repository worden gekopieerd naar jouw Codespace. Dit kan enkele minuten duren.
