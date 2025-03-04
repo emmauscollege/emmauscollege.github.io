@@ -62,16 +62,16 @@ Op bovenstaande plaatje zie je het scherm van VS Code met de volgende onderdelen
 ### 3.3 Resultaat bekijken
 Het hangt van de programmeertaal af hoe je kunt bekijken wat je code voor resultaat geeft. In het `README.md` bestand van de startcode staat beschreven hoe dit moet. Voor een aantal veelgebruikte programmeertalen vind je hier een korte samenvattig
 
-#### html (eventueel met css en/of javascript):
+##### html (eventueel met css en/of javascript):
 1. Start een webserver in de Codespace, bij de meeste startcode gebeurt dit automatisch als je de Codespace start. De webserver zorgt ervoor dat de html-bestanden uit de Codespace door een browser op je computer kunne worden geladen.
 2. Open een browser-venster met het `index.html` bestand uit je Codespace. Klik hiervoor op Ports, klik daarna op de link met het adres van de webserver.
 
-#### python:
+##### python:
 1. Type in de terminal `python main.py`, het programma start<br>
 2. Als het programma lang duurt, stop het dan met de toetsen `[CRTL]+[C]`
 3. Start het programma opnieuw met de toets `[PIJL OMHOOG]`<br>
 
-#### python met pygame:
+##### python met pygame:
 1. Type in de terminal `python main.py`, het programma start<br>
 2. Open een browser-venster dat via novnc is verbonden met het grafische scherm dat pygame gebruikt. Klik hiervoor op Ports, klik daarna op de link met het adres van de novnc-server.
 
@@ -124,69 +124,69 @@ Het werkt in grote teams handiger als je het werk verdeelt in branches. Vraag hi
 
 *Ik wil een nieuw bestand maken, de naam van een bestand veranderen, een bestand uploaden, bestanden downloaden of andere dingen met bestanden of mappen doen. Hoe doe ik dat?*
 
-#### Bestanden bekijken
+##### Bestanden bekijken
 1. Open Codespaces.
 2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
 3. Als je dubbelklikt op een bestand, dan wordt het geopend. 
 4. Als je met je rechtermuisknop op een bestand of map klikt, dan verschijnt er een drop-down menu waarin je meer met het bestand of de map kunt doen.
 
-#### Nieuw bestand of map maken
+##### Nieuw bestand of map maken
 1. Open Codespaces.
 2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
 3. Als je muis op de lijst met bestanden staat, dan zie je vlak boven de lijst twee icoontjes met een +. Als je op de linker klikt, dan maak je een nieuw bestand. Als je op de rechter klikt, dan maak je een nieuwe map.
 
-#### Naam van bestand of map wijzigen
+##### Naam van bestand of map wijzigen
 1. Open Codespaces.
 2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
 3. Klik met de rechtmuisknop op een bestand of map. Er verschijnt een drop-down menu. Kies "Rename..." in het pull-down menu. Pas de naam aan en druk op Enter.
 
-#### Bestanden verplaatsen
+##### Bestanden verplaatsen
 1. Open Codespaces.
 2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
 3. Sleep het bestand van de ene naar de andere map.
 
-#### Bestand uploaden naar Codespaces
+##### Bestand uploaden naar Codespaces
 1. Open Codespaces.
 2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
 3. Sleep een bestand van je bureaublad naar het lijstje bestanden in Codespaces.<br>
 Als stap 3 niet werkt, probeer dan stap 4.
 4. Ga op een map staan, klik op de rechtermuisknop, een pull-down menu verschijnt, kies "Upload..." in het pull-down menu.
 
-#### Bestand downloaden uit Codespaces
+##### Bestand downloaden uit Codespaces
 1. Open Codespaces.
 2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
 3. Ga op een bestand staan, klik op de rechtermuisknop, een pull-down menu verschijnt, kies "Download..." in het pull-down menu.
 
-#### Alle bestanden downloaden
+##### Alle bestanden downloaden
 1. Open GitHub, ga naar de pagina met je repository.
 2. Klik op de groene knop "Code" en kies in het menu dat verschijnt voor "Download ZIP".
 3. Dubbelklik op het gedownloade zip-bestand om alle bestanden uit te pakken.
 
 ### 5.2 github.com gebruiken
 
-#### Waar staat mijn repository?
+##### Waar staat mijn repository?
 1. Open GitHub en login
 2. Links in het scherm staan de repo's die je recent en vaak gebruikt hebt. Door op een repo te klikken wordt deze geladen. De link van de repo staat bovenin je browser.
 3. Als je in een team aan een repo werkt, klik dan links op het team, daarna bovenin je scherm op repositories
 
-#### Lijst met commits bekijken
+##### Lijst met commits bekijken
 1. Open GitHub, ga naar de pagina met je repository.
 2. Een lijst met de laatste wijzigingen krijg je door te klikken op het aantal commits, onder de groene knop met "Code". Van elke commit kun je zien wat er is gewijzigd, klik daarvoor op het nummer van de commit aan het einde van de regel.
 
-#### Oude versie van je repository bekijken
+##### Oude versie van je repository bekijken
 1. Open GitHub, ga naar de pagina met je repository.
 2. Een lijst met de laatste wijzigingen krijg je door te klikken op het aantal commits, onder de groene knop met "Code". 
 3. Klik op `<>` achter een commit naar keuze. Je ziet nu de versie van de repository op het moment van de commit.
 
 ### 5.3 Overige vragen en problemen
 
-#### GitHub 404 fout oplossen
+##### GitHub 404 fout oplossen
 
 *Ik heb via email een link ontvangen om toegang te krijgen tot een repo, maar als ik op de link druk dan krijg ik een 404 fout. Wat moet ik doen?*
 
 Login op GitHub en druk daarna nogmaals op de link.
 
-#### Merge conflict oplossen
+##### Merge conflict oplossen
 
 *Ik heb een merge conflict, hoe los ik dat op?*
 
@@ -199,7 +199,7 @@ Als je er met de video niet uitkomt en er is niemand in de buurt die je kan help
 - Test of je code het doet, haal de fouten eruit. 
 - Bewaar je wijzigingen in GitHub door in je nieuwe Codespace op Commit en Sync te klikken.
 
-#### Scherm delen
+##### Scherm delen
 
 *Ik wil mijn scherm delen met iemand anders, hoe doe ik dat?*
 
@@ -210,5 +210,5 @@ Deze functie is bedoeld om samen snel een klein probleem op te lossen. Gebruik h
 ### 5.4 Documentatie
 *Waar vind ik meer documentatie?*
 
-#### Documentatie over VS Code
+##### Documentatie over VS Code
 - [https://code.visualstudio.com/docs/getstarted/userinterface](https://code.visualstudio.com/docs/getstarted/userinterface)
