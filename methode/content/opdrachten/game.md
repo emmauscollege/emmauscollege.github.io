@@ -6,6 +6,10 @@ weight = 2
 Je gaat je eigen game programmeren!
 <!--more-->
 
+## Hulpmiddelen
+We gebruiken in deze opdracht de volgende tools:
+1. [GitHub met Codespaces en VS Code](/tools/codespaces/) 
+
 ## Opdrachtbeschrijving
 De opdracht in het kort is: Maak in groepjes van twee je eigen spel in JavaScript. Je gebruikt de startcode en maakt gebruik van de p5js-library.
 
@@ -90,10 +94,6 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - Uit de versie historie in GitHub blijkt wanneer je wat gedaan hebt.
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
-
-## Hulpmiddelen
-We gebruiken in deze opdracht de volgende tools:
-1. [GitHub met Codespaces en VS Code](/tools/codespaces/) 
 
 ## Startcode
 Je krijgt van de docent een kopie van onderstaande startcode. 
