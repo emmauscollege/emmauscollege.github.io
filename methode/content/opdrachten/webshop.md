@@ -94,7 +94,7 @@ We gebruiken in deze opdracht de volgende tools:
 2. [Gitpod](/tools/gitpod/)
 
 ## Startcode
-{{<image src="../webshop_github.png" link="https://github.com/emmauscollege/5HV-webshop-template">}}
+{{<image src="../webshop/webshop_github.png" link="https://github.com/emmauscollege/5HV-webshop-template">}}
 
 ## Stappenplan
 Werk de planning af van boven naar beneden. Vul de planning aan en stel bij terwijl je aan de opdracht werkt.
@@ -125,9 +125,6 @@ Tip: je kunt een multipliciteitendiagram gebruiken als tussenstap voor je databa
 Voor en goed cijfer is het belangrijk dat je laat zien dat je uitstekend begrepen hebt hoe je een webshop moet opzetten.
 {{% /expand %}}
 
-## Uitlegvideo's (havo)
-{{<video id="PLpTljPS--R5CZQu8A4igpazZsRUEA7NHJ">}}
-
-## Uitlegvideo's (vwo)
+## Uitlegvideo's (have en vwo)
 {{<video id="PLpTljPS--R5CiJtenJC9FZT7vZcOklU4X">}}
   
