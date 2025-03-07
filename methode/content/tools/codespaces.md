@@ -164,6 +164,19 @@ Als stap 3 niet werkt, probeer dan stap 4.
 
 ### 5.2 github.com gebruiken
 
+##### Hoe open ik mijn laatste Codespace?
+1. Open GitHub en login.
+2. Klik op de drie streepjes links bovenin. Een menu opent.
+3. Klik in het menu op Codespaces. Er wordt een lijst al je Codespaces getoond
+4. Klik op de Codespace die je wilt openen. Het openen duurt één a twee minuten.
+
+##### Hoe maak ik een nieuwe Codespace?
+1. Open GitHub en login. Ga naar je repository.
+2. Klik op de groen knop "Code", een popup menu verschijnt.
+3. Kies het tabje "Codespaces" in het menu.
+4. Klik op de groen knop "Create Codespace" (die zie je als je nog geen Codespace van deze repository hebt), klik op "+" als je die knop er niet is.
+5. De nieuwe Codespace wordt gemaakt en al je code uit GitHub wordt naar de Codespace gekopieerd. Dit duurt één a twee minuten.
+
 ##### Waar staat mijn repository?
 1. Open GitHub en login
 2. Links in het scherm staan de repo's die je recent en vaak gebruikt hebt. Door op een repo te klikken wordt deze geladen. De link van de repo staat bovenin je browser.
@@ -211,6 +224,26 @@ Deze functie is bedoeld om samen snel een klein probleem op te lossen. Gebruik h
 1. Open een bestand in VS Code
 2. Klik in het bestand op de rechtermuisknop. Er verschijnt een pop-up menu.
 3. Klik in het menu op Format Document. Het document wordt aangepast zodat de code netjes inspringt.
+
+#### Hoeveel gratis usage heb ik nog?
+Per maand krijg je gratis usage voor allerlei dingen, de belangrijkste voor jou zijn:
+- Aantal repositories in GitHub: onbeperkt
+- Hoeveelheid opslag in GitHub: onbeperkt
+- Aantal uren gebruik van Codespaces: 60 per maand (bij de standaard configuratie met 2 vCPU)
+- Hoeveelheid opslag gemiddeld per maand in Codespaces: 15 GB (één Codespace neemt 1 à 2 GB in beslag)
+
+Je kunt zien hoeveel usage je nog hebt op:
+[https://github.com/settings/billing/summary](https://github.com/settings/billing/summary)
+
+Om onnodige usage te voorkomen is GitHub als volgt ingesteld:
+- Een Codespace die je een half uur open hebt staan zonder dat je erin werkt wordt automatisch gesloten (niet gewist).
+- Een Codespace die je twee weken niet opent wordt automatische gewist.
+
+#### Mijn gratis usage is op
+Je kunt 3 dingen doen:
+- Een tweede account aanmaken, je docent kan dat account toeveogen als collaborator aan de repo waarin je werkte.
+- Bijbetalen, dit is vooral handig voor docenten. Je moet een creditcard invoeren en kunt een maximum bedrag per maand instellen.
+- Verder werken in een lokaal geïnstalleerde VS Code met Docker, hiervoor heb je een PC of laptop nodig en moet je handig zijn met VS Code en Docker.
 
 ### 5.4 Documentatie
 *Waar vind ik meer documentatie?*
