@@ -14,9 +14,12 @@ Je schrijft je in via GitHub Classroom via de onderstaande link (login met je gi
 **Letop 1:** Zorg dat je gebruikersnaam in GitHub begint met je voornaam, gevolgd door je leerlingnummer om hem uniek te maken. Je kunt je gebruikersnaam aanpassen in [GitHub -> klik op je foto rechtsboven -> Settings -> Account](https://github.com/settings/admin).<br>
 **Letop 2:** De teamnaam die je kiest bevat de gebruikersnamen van alle leerlingen in je team, bijvoorbeeld `jolanda123111-klaas123987` 
 
-- [<strong>4H.in1</strong> HAR 24/25](https://classroom.github.com/a/I2wkLjCB)
-
-- [<strong>4V.in1</strong> HAR 24/25](https://classroom.github.com/a/gk2_T9hC)
+- [4H.in1 HAR 24/25 Codespaces](https://classroom.github.com/a/IAXLZyiX)
+- [4H.in2 GEE 24/25 Codespaces](https://classroom.github.com/a/lnzpxTvq)
+- [4V.in1 HAR 24/25 Codespaces](https://classroom.github.com/a/dMO4aHd6)
+- [4V.in2 HAR 24/25 Codespaces](https://classroom.github.com/a/0OqgA8UV)
+- [4H.in1 HAR 24/25 GitPod](https://classroom.github.com/a/I2wkLjCB) (oude link)
+- [4V.in1 HAR 24/25 GitPod](https://classroom.github.com/a/gk2_T9hC) (oude link)
 
 <!--
 Oude code van voor 08-02-2025:
@@ -90,8 +93,7 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 
 ## Hulpmiddelen
 We gebruiken in deze opdracht de volgende tools:
-1. [GitHub](/tools/github/) (vanaf 24/25)
-2. [Gitpod](/tools/gitpod/) (vwo t/m 23/24)
+1. [GitHub met Codespaces en VS Code](/tools/codespaces/) 
 
 ## Startcode
 Je krijgt van de docent een kopie van onderstaande startcode. 
