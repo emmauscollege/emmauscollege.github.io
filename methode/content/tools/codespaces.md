@@ -225,7 +225,7 @@ Deze functie is bedoeld om samen snel een klein probleem op te lossen. Gebruik h
 2. Klik in het bestand op de rechtermuisknop. Er verschijnt een pop-up menu.
 3. Klik in het menu op Format Document. Het document wordt aangepast zodat de code netjes inspringt.
 
-#### Hoeveel gratis usage heb ik nog?
+##### Hoeveel gratis usage heb ik nog?
 Per maand krijg je gratis usage voor allerlei dingen, de belangrijkste voor jou zijn:
 - Aantal repositories in GitHub: onbeperkt
 - Hoeveelheid opslag in GitHub: onbeperkt
@@ -239,7 +239,7 @@ Om onnodige usage te voorkomen is GitHub als volgt ingesteld:
 - Een Codespace die je een half uur open hebt staan zonder dat je erin werkt wordt automatisch gesloten (niet gewist).
 - Een Codespace die je twee weken niet opent wordt automatische gewist.
 
-#### Mijn gratis usage is op
+##### Mijn gratis usage is op
 Je kunt 3 dingen doen:
 - Een tweede account aanmaken, je docent kan dat account toeveogen als collaborator aan de repo waarin je werkte.
 - Bijbetalen, dit is vooral handig voor docenten. Je moet een creditcard invoeren en kunt een maximum bedrag per maand instellen.
