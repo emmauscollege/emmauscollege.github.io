@@ -149,7 +149,7 @@ Het werkt in grote teams handiger als je het werk verdeelt in branches. Vraag hi
 4. Als je met je rechtermuisknop op een bestand of map klikt, dan verschijnt er een drop-down menu waarin je meer met het bestand of de map kunt doen.
 {{% /expand %}}
 
-#{{% expand "Nieuw bestand of map maken" %}}
+{{% expand "Nieuw bestand of map maken" %}}
 1. Open Codespaces.
 2. In de kolom met iconen links op je scherm zie je bovenaan een icoontje met twee velletjes papier. Klik daarop. Je ziet nu een lijst met al je bestanden en mappen. Mappen kun je uitklappen. 
 3. Als je muis op de lijst met bestanden staat, dan zie je vlak boven de lijst twee icoontjes met een +. Als je op de linker klikt, dan maak je een nieuw bestand. Als je op de rechter klikt, dan maak je een nieuwe map.
