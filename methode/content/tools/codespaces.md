@@ -7,6 +7,20 @@ GitHub is een website waar je code kunt opslaan en delen. Codespaces is een code
 <!--more-->
 
 ## 1. Wat zijn GitHub, Codespaces en VS Code?
+
+<div style="width:50%;display:block;float:left">
+
+![github.png](github.png)
+<p style="text-align:center">Screenshot van Github</p>
+</div>
+<div style="width:50%;display:block;float:left">
+
+![codespace.png](codespace.png)
+<p style="text-align:center">Screenshot van Codespace</p>
+</div>
+<div style="width:0px;clear:both">
+</div>
+
 ##### GitHub is een website waar je code kunt opslaan en delen.
 - GitHub bewaart alle oude versies van je code.
 - Code op GitHub kun je gemakkelijk delen met anderen.
@@ -29,6 +43,8 @@ GitHub is een website waar je code kunt opslaan en delen. Codespaces is een code
 - VS Code (spreek uit als "vie es koot") is een veelgebruikte afkorting voor Visual Studio Code.
 
 ## 2. Starten met een opdracht
+
+![inschrijven.png](inschrijven.png)
 
 ### 2.1 Maak een account in GitHub
 1. Ga naar https://www.github.com/ (gebruik bij voorkeur Chrome).
@@ -81,6 +97,8 @@ Het hangt van de programmeertaal af hoe je kunt bekijken wat je code voor result
 3. Druk op de groen knop "Commit & Sync". Je wijzigingen worden nu bewaard in GitHub. Je kunt controleren op github.com of het is gelukt.
 
 ## 4. Samenwerken
+
+![samenwerken.png](samenwerken.png)
 
 ### 4.1 Een team van één persoon
 Bewaar nieuwe versies van je code steeds in Github. Dan heb heb je een backup als er iets misgaat in Codespaces.
