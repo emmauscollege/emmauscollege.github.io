@@ -8,18 +8,9 @@ GitHub is een website waar je code kunt opslaan en delen. Codespaces is een code
 
 ## 1. Wat zijn GitHub, Codespaces en VS Code?
 
-<div style="width:50%;display:block;float:left">
-
-![github.png](github.png)
-<p style="text-align:center">Screenshot van Github</p>
-</div>
-<div style="width:50%;display:block;float:left">
-
-![codespace.png](codespace.png)
-<p style="text-align:center">Screenshot van Codespace</p>
-</div>
-<div style="width:0px;clear:both">
-</div>
+| Screenshot van Github | Screenshot van Codespace |
+| --- | --- |
+| ![github.png](github.png) | ![codespace.png](codespace.png) |
 
 ##### GitHub is een website waar je code kunt opslaan en delen.
 - GitHub bewaart alle oude versies van je code.
