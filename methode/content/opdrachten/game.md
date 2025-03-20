@@ -44,7 +44,7 @@ Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game 
 {{% /expand %}}
 
 {{% expand "Werkwijze" %}}
-- Je maakt deze opdracht in een team van twee personen. De docent geeft aan hoe de teams gemaakt worden. Je bepaalt zelf hoe je het werk binnen je team verdeelt, zolang iedereen een gelijkwaardige bijdrage levert. Je krijgt één cijfer per team, maar de docent kan hiervan afwijken als teamleden geen gelijkwaardige bijdrage hebben geleverd. 
+- Je maakt deze opdracht in een team van twee personen. De docent geeft aan hoe de teams gemaakt worden. Je bepaalt zelf hoe je het werk binnen je team verdeelt, zolang iedereen een gelijkwaardige bijdrage levert. 
 - Je krijgt van de docent startcode voor deze opdracht. Deze staat klaar in een repo op GitHub. Er is één repo per team. 
 - Je maakt code in Gitpod. Elk teamlid heeft zijn eigen Gitpod omgeving.
 - Elke week (liefst vaker) slaan alle teamleden hun tussentijdse werk op in de repo op GitHub. Zo zorgen jullie ervoor dat de laatste werkende versie van jullie opdracht steeds op GitHub staat.
@@ -52,6 +52,7 @@ Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game 
 {{% /expand %}}
 
 {{% expand "Beoordeling" %}}
+
 Het cijfer dat je voor je PO krijgt wordt vanuit verschillende invalshoeken bepaald: 
 
 **Minimale eisen**
@@ -80,7 +81,7 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - Je hebt de technieken gebruikt die in de programmeerlessen zijn aangeboden.
 - Je hebt dingen toegevoegd waarvan je zelf hebt uitgezocht hoe ze werken
 
-**Inzet, planning en samenwerking**
+**Proces**
 - Je toont inzet tijdens de lessen
 - De planning is vooraf gemaakt, gevolgd en als nodig bijgesteld.
 - De taakverdeling is duidelijk en alle teamleden dragen in gelijke mate bij.
@@ -94,6 +95,12 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - Uit de versie historie in GitHub blijkt wanneer je wat gedaan hebt.
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
+
+**Extra bepalingen voor je cijfer**
+- Je krijgt één cijfer per team, maar de docent kan daarvan afwijken.
+- Als de teamleden geen gelijkwaardige bijdrage hebben geleverd, dan kun je een individueel cijfer krijgen. <br> Tip: Zorg dat je werk gelijkwaardig over de teamleden verdeelt. 
+- Als het ingeleverde werk van een hoger niveau is dan wat je begrijpt, dan kan de docent extra vragen stellen over je opdracht en op basis daarvan je cijfer bijstellen. <br> Tip: Zorg dat jij en je teamleden je eigen en elkaars werk begrijpen.
+- Fraude wordt gemeld aan de examencommissie, de examencommissie bepaald in dat geval wat er met je cijfer gebeurt. <br> Tip: Vermeld altijd de bronnen die je gebruikt hebt en zorg dat duidelijk is welk stuk van je werk op welke bron is gebaseerd. Van Youtube video's of AI-chats kun je de linken bijvoegen.
 
 ## Startcode
 Je krijgt van de docent een kopie van onderstaande startcode. 
