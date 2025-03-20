@@ -86,6 +86,13 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - De planning is vooraf gemaakt, gevolgd en als nodig bijgesteld.
 - De taakverdeling is duidelijk en alle teamleden dragen in gelijke mate bij.
 - Het werk is verdeeld over de weken waarin aan de opdracht kon worden gewerkt, dit blijkt onder andere uit de commits in Github.
+
+**Extra bepalingen voor je cijfer**
+- Je krijgt één cijfer per team, maar de docent kan daarvan afwijken.
+- Als de teamleden geen gelijkwaardige bijdrage hebben geleverd, dan kun je een individueel cijfer krijgen. <br> Tip: Zorg dat je een gelijkwaardige bijdrage levert binnen het team. 
+- Als het ingeleverde werk van een hoger niveau is dan wat je begrijpt, dan kan de docent extra vragen stellen over je opdracht en op basis daarvan je cijfer bijstellen. <br> Tip: Zorg dat jij en je teamleden je eigen en elkaars werk begrijpen.
+- Fraude wordt gemeld aan de examencommissie, daarna bepaalt de examencommissie wat er met je cijfer gebeurt. <br> Tip: Vermeld altijd de bronnen die je gebruikt hebt en zorg dat duidelijk is welk stuk van je werk op welke bron is gebaseerd. Van Youtube video's of AI-chats kun je de linken bijvoegen.
+
 {{% /expand %}}
 
 {{% expand "Inleveren" %}}
@@ -95,12 +102,6 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - Uit de versie historie in GitHub blijkt wanneer je wat gedaan hebt.
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
-
-**Extra bepalingen voor je cijfer**
-- Je krijgt één cijfer per team, maar de docent kan daarvan afwijken.
-- Als de teamleden geen gelijkwaardige bijdrage hebben geleverd, dan kun je een individueel cijfer krijgen. <br> Tip: Zorg dat je werk gelijkwaardig over de teamleden verdeelt. 
-- Als het ingeleverde werk van een hoger niveau is dan wat je begrijpt, dan kan de docent extra vragen stellen over je opdracht en op basis daarvan je cijfer bijstellen. <br> Tip: Zorg dat jij en je teamleden je eigen en elkaars werk begrijpen.
-- Fraude wordt gemeld aan de examencommissie, de examencommissie bepaald in dat geval wat er met je cijfer gebeurt. <br> Tip: Vermeld altijd de bronnen die je gebruikt hebt en zorg dat duidelijk is welk stuk van je werk op welke bron is gebaseerd. Van Youtube video's of AI-chats kun je de linken bijvoegen.
 
 ## Startcode
 Je krijgt van de docent een kopie van onderstaande startcode. 
