@@ -41,6 +41,13 @@ Nadat je jezelf helemaal ingeschreven hebt, krijg je automatisch toegang tot een
 
 {{% expand "Game kiezen" %}}
 Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game die je kiest goedkeuren. Enkele voorbeelden van een game die je kunt maken zijn: Tennis, Flappy Bird, Snake (voorganger van Slither.io), een Break Out Game (zoals Arkanoid), een race spelletje, een eenvoudige platform game (zoals pacman), een puzzelspel enzovoort. 
+
+Beantwoord de volgende vragen voor de game die je wilt maken:
+1. Wat is het doel van het spel?
+2. Wanneer ben je af?
+3. Hoe kun je punten halen?
+4. Hoe wordt het spel steeds moeilijker?
+5. Hoe werkt de bediening van je spel?
 {{% /expand %}}
 
 {{% expand "Werkwijze" %}}
