@@ -12,12 +12,11 @@ De opdracht in het kort is: programmeer een apparaat naar keuze met behulp van e
 {{% expand "Inschrijven" %}}
 Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je google account van school voor toegang).<br>
 Je teamnaam is de voornamen van iedereen die in je groepje zit.
+- [5Vin1 HAR 24/25](https://classroom.github.com/a/KIY_IERX)
+- [5Vin2 GEE 24/25](https://classroom.github.com/a/AC2NGswi)
+- [5Vin3 GEE 24/25](https://classroom.github.com/a/BUn68dLR)
 - [5Hin2 GEE 24/25](https://classroom.github.com/a/V7kJklUD)
-- [5Hin1 GEE 23/24](https://docs.google.com/spreadsheets/d/1E_3YINGZ6Ytvj8w1EhBC7m5-4FuaK2JU)
-- [5Hin2 GEE 23/24](https://docs.google.com/spreadsheets/d/1F_Tho_N5eHb10QK4P0QwJ6DxVFkxc-Zg)
-- [5Vin1 GEE 23/24](https://classroom.github.com/a/SiUri2uI)
-- [5Vin2 CAM 23/24](https://classroom.github.com/a/dWtWx1Rc)
-
+- 5Hin2 CAM 24/25
 {{% /expand %}}
 
 {{% expand "Apparaat kiezen" %}}
