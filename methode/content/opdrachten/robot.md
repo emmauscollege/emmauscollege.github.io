@@ -16,7 +16,7 @@ Je teamnaam is de voornamen van iedereen die in je groepje zit.
 - [5Vin2 GEE 24/25](https://classroom.github.com/a/AC2NGswi)
 - [5Vin3 GEE 24/25](https://classroom.github.com/a/BUn68dLR)
 - [5Hin2 GEE 24/25](https://classroom.github.com/a/V7kJklUD)
-- 5Hin2 CAM 24/25
+- 5Hin CAM 24/25
 {{% /expand %}}
 
 {{% expand "Apparaat kiezen" %}}
