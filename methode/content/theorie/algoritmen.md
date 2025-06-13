@@ -31,7 +31,7 @@ Eenvoudige algoritmen
 1. je kunt een flowcharts omzetten naar JavaScript code en JavaScript code kunnen omzetten naar een flowchart.
 
 
-Complexe algoritmen
+Complexe algoritmen (vervalt in 2024/2025)
 1. je kunt met een gegeven graaf handmatig Dijkstra's kortste pad algoritme uitvoeren en zo het korste pad tussen twee knopen / punten vinden.
  
 ## Oefentoets
