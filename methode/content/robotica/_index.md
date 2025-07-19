@@ -44,11 +44,16 @@ Hier vind je informatie over het robotica programma op het Emmauscollege. Dit pr
 - Inschrijving en eindpresentatie gaat hetzelfde als voor 6-vwo (eind van het schooljaar voordat je wilt starten met je PWS). Om in te kunnen schrijven moet je informatica in je vakkenpakket hebben en moet je het jaar voor je PWS hebben deelgenomen aan FTC.
 - [Beoordelingsmodel](PWS_robotica_beoordelingsmodel.xlsx)
 
-Voorbeeld van een profielwerkstuk van team Thunder Wonder
+Voorbeeld van een profielwerkstuk van team Thunder Wonder (23/24)
 - [Presentatie](PWS_Presentation_FTC_Team_Thunder_Wonder.pdf)
-- [Engineering Notebook](PWS_Engineering_Notebook_FTC_Team_Thunder_Wonder.pdf)
 - [Portfolio](PWS_Portfolio_FTC_Team_Thunder_Wonder.pdf)
+- [Engineering Notebook](PWS_Engineering_Notebook_FTC_Team_Thunder_Wonder.pdf)
 - [Log](PWS_Log_FTC_Team_Thunder_Wonder.pdf)
+
+Voorbeeld van een profielwerkstuk van team M-Mais (24/25)
+- [Presentatie](PWS_PRESENTATIE_MMAIS.pdf)
+- [Portfolio](PWS_PORTFOLIO_MMAIS.pdf)
+- [Engineering Notebook](PWS_NOTEBOOK_MMAIS.pdf)
 
 ## CanSat (6 vwo)
 - Inschrijven: geef je op bij je informatica-docent
