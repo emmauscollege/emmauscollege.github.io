@@ -15,12 +15,13 @@ We gebruiken in deze opdracht de volgende tools:
 De opdracht in het kort is: Maak je eigen informatieve website over een zelfgekozen onderwerp. Je gebruikt de startcode met HTML en CSS.
 
 {{% expand "Inschrijven" %}}
-Je schrijft je in via Github Classroom (login met je github account). 
+Je schrijft je in via Github Classroom (login met je github account).
+<!--
 - [4hin1 HAR 24/25](https://classroom.github.com/a/L6Dp-Zzo)
 - [4hin2 GEE 24/25](https://classroom.github.com/a/rfiOf8cp)
 - [4vin1 HAR 24/25](https://classroom.github.com/a/E93SIIua)
 - [4vin2 HAR 24/25](https://classroom.github.com/a/4PxqEzj3)
-
+-->
 {{% /expand %}}
 
 {{% expand "Onderwerp kiezen" %}}
@@ -30,7 +31,7 @@ Je bent vrij om zelf een onderwerp voor je website te bedenken. Je docent moet h
 {{% expand "Werkwijze" %}}
 - Je maakt deze opdracht in je eentje. 
 - Je krijgt van de docent startcode voor deze opdracht. Deze staat klaar in een repo op GitHub. 
-- Je maakt code in Gitpod. 
+- Je maakt code in GitHub Codespaces. 
 - Elke week (liefst vaker) sla je je tussentijdse werk op in de repo op GitHub. Zo zorg je ervoor dat de laatste werkende versie van je opdracht steeds op GitHub staat.
 - Deze opdracht maak je alsof het een echt project is. De stappen uit README.md in de starterscode zijn de basis van je planning. De voortgang hou je wekelijks bij in README.md. Als het niet volgens je plan gaat, dan stuur je bij. In de les kun je hulp vragen, maar uiteindelijk moet jij zorgen dat je op tijd klaar bent en een goed project oplevert. 
 {{% /expand %}}
@@ -78,8 +79,8 @@ Enkele punten waarop gelet kan worden bij de beoordeling van techniek zijn
 {{% expand "Inleveren" %}}
 - De deadline voor inleveren vind je in de lesplanner.
 - Je kunt vragen stellen tot de laatste les voor de deadline.
-- Je zorgt dat alle bestanden in die nodig zijn om je spel te spelen in GitHub staan, dit zijn ten minste: index.html, 3 .html bestanden voor de subpagina's en style.css. Als je plaatjes gebruikt, dan staan die er ook bij.
-- Uit de versie historie in GitHub blijkt wanneer je wat gedaan hebt.
+- Je zorgt dat alle bestanden in die nodig zijn om je website correct te laten werken in GitHub staan, dit zijn ten minste: _index.html_, _3 html-bestanden_ voor de subpagina's en _style.css_. Als je plaatjes gebruikt, dan staan die er ook bij.
+- Uit de versiegeschiedenis in GitHub blijkt wanneer je wat gedaan hebt.
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
 {{% /expand %}}
 
