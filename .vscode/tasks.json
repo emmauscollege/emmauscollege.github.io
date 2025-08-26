@@ -4,7 +4,7 @@
     {
       "label": "Run Hugo server",
       "type": "shell",
-      "command": "hugo server -D --bind 0.0.0.0 --baseURL http://localhost:1313",
+      "command": "cd methode && hugo server -D --bind 0.0.0.0 --baseURL http://localhost:1313",
       "isBackground": false,
       "presentation": {
         "panel": "new",

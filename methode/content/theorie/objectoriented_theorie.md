@@ -82,7 +82,7 @@ Als we vervolgens `appel.update()` aanroepen, wordt de methode uitgevoerd.
 Maar wat doet het *keyword* `this` in de code van `update`? Je zou je het als volgt kunnen voorstellen: de code binnen `update` heeft 'geen idee' dat dat object uiteindelijk via de naam `appel` toegankelijk is. Die naam `appel` is als het ware onzichtbaar voor de code binnen het object. Toch wil je in de code van methode vaak een attribuut of methode van datzelfde object aanroepen. Daarvoor gebruikt je *this*. De code `this.x = 90` betekent zoveel als: geef het attrituut `x` van mijzelf de waarde 90. 
 
 ##### Klassen
-Stel dat we meerdere mensobjecten met dezelfde eigenschappen en functionaliteit willen maken. We zouden hiervoor deze code kunnen gebruiken:
+Stel dat we meerdere appel-objecten met dezelfde eigenschappen en functionaliteit willen maken. We zouden hiervoor deze code kunnen gebruiken:
 
 ```js
 var appelA = { x: 300,
@@ -116,7 +116,7 @@ var appelC = { x: 200,
 
 Als het goed is, krijg je als programmeur jeuk van deze code. De code voor de methode `update` is drie keer precies hetzelfde! Dit moet toch beter kunnen? En kunnen we er wel vanuit gaan dat `appelA`, `appelB` en `appelC` wel dezelfde attributen en methoden hebben? Het is handig dat ze bijna dezelfde namen hebben, maar zijn ze wel vergelijkbaar?
 
-Om deze twee problemen op te lossen, maken programmeurs gebruik van **klassen**. Een klasse is een soort *blauwdruk* van een groep objecten. We kunnen bijvoorbeeld een klasse `Appel` maken. Ieder object van de klasse mens heeft dan gegarandeert beschikking over alle attributen en methodes die in de klasse beschreven zijn.
+Om deze twee problemen op te lossen, maken programmeurs gebruik van **klassen**. Een klasse is een soort *blauwdruk* van een groep objecten. We kunnen bijvoorbeeld een klasse `Appel` maken. Ieder appel-object heeft dan gegarandeert beschikking over alle attributen en methodes die in de klasse beschreven zijn.
 
 Een klasse `Appel` zou er in JavaScript zo uit kunnen zien:
 
@@ -141,7 +141,7 @@ class Appel {
 
 *Uitleg*
 - De eerste 4 regels van de klasse `Appel` geven aan welke attributen deze klasse heeft.
-De eerste methode is de zogenaamde `constructor`. Dit is een speciale methode die als doel heeft *een object te creëren* van deze klasse. De code in een constructor doet alles wat hiervoor nodig is. Omdat een mens in onze simulatie *minimaal* de eigenschappen `x`, `y` en `speed` moet hebben, is het het beste om deze drie waarden direct aan de constructor mee te geven. Zo krijg je altijd een object dat gelijk functioneel is.
+De eerste methode is de zogenaamde `constructor`. Dit is een speciale methode die als doel heeft *een object te creëren* van deze klasse. De code in een constructor doet alles wat hiervoor nodig is. Omdat een appel in onze simulatie *minimaal* de eigenschappen `x`, `y` en `speed` moet hebben, is het het beste om deze drie waarden direct aan de constructor mee te geven. Zo krijg je altijd een object dat gelijk functioneel is.
 
 - De argumenten van de constructor heten hetzelfde als de attributen van de klasse. Dat is niet verplicht. Je zou de parameter `x` ook `newX` (of – doe eens gek – `a`) mogen noemen. Merk wel op dat in de constructor `x` slaat op de eerste parameter van de constructor en `this.x` op het attribuut x van de klasse.
 Deze constructorcode doet precies hetzelfde als de constructorcode hierboven, maar is veel slechter te begrijpen:
@@ -155,7 +155,7 @@ Deze constructorcode doet precies hetzelfde als de constructorcode hierboven, ma
 ```
 
 - De code van `update` herken je zo langzamerhand wel. Valt je op dat de code in een klasse zo algemeen mogelijk is? Het is zo geschreven dat het werkt voor waarden die je *nu nog niet weet*, maar er wel zijn als van deze klasse een object gemaakt wordt.
-- Wanneer je een nieuw object van de klasse Mens wilt maken gebruik je het keyword `new`. Wanneer je `new` gebruikt, wordt automatisch de constructor aangeroepen. Voorbeeld:
+- Wanneer je een nieuw object van de klasse `Appel` wilt maken gebruik je het keyword `new`. Wanneer je `new` gebruikt, wordt automatisch de constructor aangeroepen. Voorbeeld:
 
 ```js
 var appel = new Appel(300, -50, 4);
@@ -163,7 +163,7 @@ var appel = new Appel(300, -50, 4);
 
 ##### Termen en afspraken
 - Een klasse is een blauwdruk voor een bepaald object. Objecten van dezelfde klasse hebben dezelfde attributen en methoden. De waarden die in de attributen zijn opgeslagen, zijn mogelijk wel voor ieder object verschillend.
-- Als object `appelA` een object van de klasse `Appel` is, zeggen we ook wel dat `mensA` een instantie (Engels: *instance*) is van de klasse `Appel`. Een nieuw object maken heet ook wel 'instantiëren'
+- Als object `appelA` een object van de klasse `Appel` is, zeggen we ook wel dat `appelA` een instantie (Engels: *instance*) is van de klasse `Appel`. Een nieuw object maken heet ook wel 'instantiëren'
 - Afspraken over de schrijfwijze: de naam van een klasse begint altijd met een hoofdletter. De naam van een object begint altijd met een kleine letter. Voor beide gebruik je [Camelcase](https://nl.wikipedia.org/wiki/CamelCase).
 
 

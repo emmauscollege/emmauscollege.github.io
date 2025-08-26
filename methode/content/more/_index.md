@@ -1,6 +1,6 @@
 +++
 title = "More"
-[_build]
+[build]
   render = "never"
   list = "never"
   publishResources = false
