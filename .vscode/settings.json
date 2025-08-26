@@ -1,0 +1,4 @@
+{
+  "task.allowAutomaticTasks": "on",
+  "task.startOnFolderOpen": "Run Hugo server"
+}
