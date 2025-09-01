@@ -1,28 +1,9 @@
 {
-  "name": "Hugo Codespace",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-
-  "features": {},
-
-  "postCreateCommand": "bash .devcontainer/setup.sh",
-
-  "forwardPorts": [1313],
-
-  "portsAttributes": {
-    "1313": {
-      "label": "Hugo",
-      "onAutoForward": "openBrowser"
-    }
+  "name": "Hugo Dev",
+  "build": {
+    "dockerfile": "Dockerfile"
   },
-
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "budparr.language-hugo-vscode"
-      ],
-      "settings": {
-        "task.allowAutomaticTasks": "on"
-      }
-    }
-  }
+  "forwardPorts": [1313],
+  "postCreateCommand": "brew install hugo",
+  "postStartCommand": "hugo server -D --bind 0.0.0.0 --baseURL http://localhost:1313"
 }
