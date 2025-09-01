@@ -5,5 +5,5 @@
   },
   "forwardPorts": [1313],
   "postCreateCommand": "brew install hugo",
-  "postStartCommand": "hugo server -D --bind 0.0.0.0 --baseURL http://localhost:1313 --source /methode --disableFastRender"
+  "postStartCommand": "hugo server -D --bind 0.0.0.0 --baseURL http://localhost:1313 --source methode --disableFastRender"
 }
