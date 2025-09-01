@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tests on Informatica</title><link>https://emmauscollege.github.io/tests/</link><description>Recent content in Tests on Informatica</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://emmauscollege.github.io/tests/index.xml" rel="self" type="application/rss+xml"/><item><title>Code</title><link>https://emmauscollege.github.io/tests/code/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/tests/code/</guid><description>&lt;p>Some testing for different styles used in syntax highlightning and preformatted blocks.&lt;/p>
-&lt;h2 id="inline-code">Inline Code&lt;/h2>
-&lt;p>&lt;code>This is some very long inline code. Where does it wrap?&lt;/code>&lt;/p>
-&lt;p>What about wrapping short inline code if multiple sections are written &lt;code>side&lt;/code> &lt;code>by&lt;/code> &lt;code>side&lt;/code>?&lt;/p>
-&lt;p>What about wrapping short inline code if multiple sections are written &lt;code>side&lt;/code>/&lt;code>by&lt;/code>/&lt;code>side&lt;/code>?&lt;/p>
-&lt;p>What about wrapping long inline code if multiple sections are written &lt;code>side567&lt;/code> &lt;code>by34567&lt;/code> &lt;code>side567&lt;/code>?&lt;/p>
-&lt;p>What about wrapping long inline code if multiple sections are written &lt;code>side567&lt;/code>/&lt;code>by34567&lt;/code>/&lt;code>side567&lt;/code>?&lt;/p></description></item><item><title>Images</title><link>https://emmauscollege.github.io/tests/images/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/tests/images/</guid><description>&lt;p>Some testing for different styles of image links.&lt;/p>
-&lt;h2 id="markdown">Markdown&lt;/h2>
-&lt;h3 id="relative-to-page">Relative to page&lt;/h3>
-&lt;p>&lt;img src="https://emmauscollege.github.io/tests/images/images/magic.gif?classes=shadow&amp;amp;height=50px" alt="Magic">&lt;/p>
-&lt;h3 id="relative-to-page-up-level">Relative to page up level&lt;/h3>
-&lt;p>&lt;img src="../images/images/magic.gif?classes=shadow&amp;amp;height=50px" alt="Magic">&lt;/p>
-&lt;h3 id="static">Static&lt;/h3>
-&lt;p>&lt;img src="https://emmauscollege.github.io/images/logo.svg?classes=shadow&amp;amp;height=50px" alt="Logo">&lt;/p>
-&lt;h3 id="external-fully-qualified">External fully qualified&lt;/h3>
-&lt;p>&lt;img src="https://octodex.github.com/images/minion.png?classes=shadow&amp;amp;height=50px" alt="Minion">&lt;/p>
-&lt;h3 id="external-without-scheme">External without scheme&lt;/h3>
-&lt;p>&lt;img src="//octodex.github.com/images/minion.png?classes=shadow&amp;amp;height=50px" alt="Minion">&lt;/p>
-&lt;h3 id="external-without-scheme-and-scheme-separator">External without scheme and scheme separator&lt;/h3>
-&lt;p>&lt;img src="octodex.github.com/images/minion.png?classes=shadow&amp;amp;height=50px" alt="Minion">&lt;/p>
-&lt;h2 id="html">HTML&lt;/h2>
-&lt;h3 id="relative-to-page-1">Relative to page&lt;/h3>
-&lt;p>&lt;img src="images/magic.gif?classes=shadow&amp;height=50px">&lt;/p>
-&lt;h3 id="relative-to-page-up-level-1">Relative to page up level&lt;/h3>
-&lt;p>&lt;img src="../images/images/magic.gif?classes=shadow&amp;height=50px">&lt;/p>
-&lt;h3 id="static-1">Static&lt;/h3>
-&lt;p>&lt;img src="https://emmauscollege.github.io/images/logo.svg?classes=shadow&amp;height=50px">&lt;/p>
-&lt;h3 id="external-fully-qualified-1">External fully qualified&lt;/h3>
-&lt;p>&lt;img src="https://octodex.github.com/images/minion.png?classes=shadow&amp;height=50px">&lt;/p>
-&lt;h3 id="external-without-scheme-1">External without scheme&lt;/h3>
-&lt;p>&lt;img src="//octodex.github.com/images/minion.png?classes=shadow&amp;height=50px">&lt;/p>
-&lt;h3 id="external-without-scheme-and-scheme-separator-1">External without scheme and scheme separator&lt;/h3>
-&lt;p>&lt;img src="octodex.github.com/images/minion.png?classes=shadow&amp;height=50px">&lt;/p></description></item><item><title>Links</title><link>https://emmauscollege.github.io/tests/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/tests/links/</guid><description>&lt;p>Some testing for different styles of links.&lt;/p>
-&lt;h2 id="markdown">Markdown&lt;/h2>
-&lt;h3 id="relative-to-page">Relative to page:&lt;/h3>
-&lt;p>&lt;img src="images/magic.gif?classes=shadow" alt="Magic">&lt;/p>
-&lt;h3 id="relative-to-page-up-level">Relative to page up level:&lt;/h3>
-&lt;p>&lt;img src="../images/images/magic.gif?classes=shadow" alt="Magic">&lt;/p>
-&lt;h3 id="static">Static:&lt;/h3>
-&lt;p>&lt;img src="https://emmauscollege.github.io/images/logo.svg?classes=shadow" alt="Logo">&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tests on Informatica</title><link>https://emmauscollege.github.io/tests/</link><description>Recent content in Tests on Informatica</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://emmauscollege.github.io/tests/index.xml" rel="self" type="application/rss+xml"/><item><title>Code</title><link>https://emmauscollege.github.io/tests/code/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/tests/code/</guid><description>&lt;p&gt;Some testing for different styles used in syntax highlightning and preformatted blocks.&lt;/p&gt;
+&lt;h2 id="inline-code"&gt;Inline Code&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;This is some very long inline code. Where does it wrap?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;What about wrapping short inline code if multiple sections are written &lt;code&gt;side&lt;/code&gt; &lt;code&gt;by&lt;/code&gt; &lt;code&gt;side&lt;/code&gt;?&lt;/p&gt;
+&lt;p&gt;What about wrapping short inline code if multiple sections are written &lt;code&gt;side&lt;/code&gt;/&lt;code&gt;by&lt;/code&gt;/&lt;code&gt;side&lt;/code&gt;?&lt;/p&gt;
+&lt;p&gt;What about wrapping long inline code if multiple sections are written &lt;code&gt;side567&lt;/code&gt; &lt;code&gt;by34567&lt;/code&gt; &lt;code&gt;side567&lt;/code&gt;?&lt;/p&gt;
+&lt;p&gt;What about wrapping long inline code if multiple sections are written &lt;code&gt;side567&lt;/code&gt;/&lt;code&gt;by34567&lt;/code&gt;/&lt;code&gt;side567&lt;/code&gt;?&lt;/p&gt;</description></item><item><title>Images</title><link>https://emmauscollege.github.io/tests/images/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/tests/images/</guid><description>&lt;p&gt;Some testing for different styles of image links.&lt;/p&gt;
+&lt;h2 id="markdown"&gt;Markdown&lt;/h2&gt;
+&lt;h3 id="relative-to-page"&gt;Relative to page&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://emmauscollege.github.io/tests/images/images/magic.gif?classes=shadow&amp;amp;height=50px" alt="Magic"&gt;&lt;/p&gt;
+&lt;h3 id="relative-to-page-up-level"&gt;Relative to page up level&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../images/images/magic.gif?classes=shadow&amp;amp;height=50px" alt="Magic"&gt;&lt;/p&gt;
+&lt;h3 id="static"&gt;Static&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://emmauscollege.github.io/images/logo.svg?classes=shadow&amp;amp;height=50px" alt="Logo"&gt;&lt;/p&gt;
+&lt;h3 id="external-fully-qualified"&gt;External fully qualified&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://octodex.github.com/images/minion.png?classes=shadow&amp;amp;height=50px" alt="Minion"&gt;&lt;/p&gt;
+&lt;h3 id="external-without-scheme"&gt;External without scheme&lt;/h3&gt;
+&lt;p&gt;&lt;img src="//octodex.github.com/images/minion.png?classes=shadow&amp;amp;height=50px" alt="Minion"&gt;&lt;/p&gt;
+&lt;h3 id="external-without-scheme-and-scheme-separator"&gt;External without scheme and scheme separator&lt;/h3&gt;
+&lt;p&gt;&lt;img src="octodex.github.com/images/minion.png?classes=shadow&amp;amp;height=50px" alt="Minion"&gt;&lt;/p&gt;
+&lt;h2 id="html"&gt;HTML&lt;/h2&gt;
+&lt;h3 id="relative-to-page-1"&gt;Relative to page&lt;/h3&gt;
+&lt;p&gt;&lt;img src="images/magic.gif?classes=shadow&amp;height=50px"&gt;&lt;/p&gt;
+&lt;h3 id="relative-to-page-up-level-1"&gt;Relative to page up level&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../images/images/magic.gif?classes=shadow&amp;height=50px"&gt;&lt;/p&gt;
+&lt;h3 id="static-1"&gt;Static&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://emmauscollege.github.io/images/logo.svg?classes=shadow&amp;height=50px"&gt;&lt;/p&gt;
+&lt;h3 id="external-fully-qualified-1"&gt;External fully qualified&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://octodex.github.com/images/minion.png?classes=shadow&amp;height=50px"&gt;&lt;/p&gt;
+&lt;h3 id="external-without-scheme-1"&gt;External without scheme&lt;/h3&gt;
+&lt;p&gt;&lt;img src="//octodex.github.com/images/minion.png?classes=shadow&amp;height=50px"&gt;&lt;/p&gt;
+&lt;h3 id="external-without-scheme-and-scheme-separator-1"&gt;External without scheme and scheme separator&lt;/h3&gt;
+&lt;p&gt;&lt;img src="octodex.github.com/images/minion.png?classes=shadow&amp;height=50px"&gt;&lt;/p&gt;</description></item><item><title>Links</title><link>https://emmauscollege.github.io/tests/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/tests/links/</guid><description>&lt;p&gt;Some testing for different styles of links.&lt;/p&gt;
+&lt;h2 id="markdown"&gt;Markdown&lt;/h2&gt;
+&lt;h3 id="relative-to-page"&gt;Relative to page:&lt;/h3&gt;
+&lt;p&gt;&lt;img src="images/magic.gif?classes=shadow" alt="Magic"&gt;&lt;/p&gt;
+&lt;h3 id="relative-to-page-up-level"&gt;Relative to page up level:&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../images/images/magic.gif?classes=shadow" alt="Magic"&gt;&lt;/p&gt;
+&lt;h3 id="static"&gt;Static:&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://emmauscollege.github.io/images/logo.svg?classes=shadow" alt="Logo"&gt;&lt;/p&gt;</description></item></channel></rss>
