@@ -23,8 +23,10 @@ Khanacademy, module Intro to HTML/CSS
 9. [Further learning](https://www.khanacademy.org/computing/computer-programming/html-css#html-css-further-learning) (geen toetsstof)
 
 ## Presentaties
-- [1.1 Introductie + Opstarten](introductie-opstarten.pptx)
-Volgende presentaties volgen later nog
+- [W36 Introductie + Opstarten](introductie-opstarten.pptx)
+- [W37 Uitleg: HTML tags](HTML-tags.pptx)
+
+De overige presentaties volgen later. De slides zijn steeds voorafgaand aan de les online beschikbaar.
 
 ## Leerdoelen voor de toets
 HTML
@@ -53,7 +55,7 @@ Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
 ## Verdieping
 1. CSS Battle (https://cssbattle.dev/).
 
-## Ouder materiaal
+## Oud materiaal
 Hieronder vind je materiaal van voorgaande jaren. De inhoud komt grotendeels overeen, maar er kunnen kleine verschillen zijn. Raadpleeg daarom altijd de slides van dit jaar om zeker te zijn. Het materiaal is bedoeld als aanvulling, zodat je de stof vanuit een ander perspectief kunt bekijken.
 
 - [Lespresentatie havo](presentatie-webdesign-havo.pdf)
