@@ -22,19 +22,9 @@ Khanacademy, module Intro to HTML/CSS
 8. [Other ways to embed css](https://www.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css) (geen toetsstof)
 9. [Further learning](https://www.khanacademy.org/computing/computer-programming/html-css#html-css-further-learning) (geen toetsstof)
 
-
-## Naslagmateriaal
-- [Lespresentatie havo](presentatie-webdesign-havo.pdf)
-- [Lespresentatie vwo](presentatie-webdesign-vwo.pdf)
-
-
-## Uitleg (havo)
-
-{{<video id="PLpTljPS--R5C5UA22a7VhIMld1Z5vyF8O">}}
-
-## Uitleg (vwo)
-
-{{<video id="PLpTljPS--R5C5ADZ-k7ArGq9-Cz85y87i">}}
+## Presentaties
+- [1.1 Introductie + Opstarten](introductie-opstarten.pptx)
+Volgende presentaties volgen later nog
 
 ## Leerdoelen voor de toets
 HTML
@@ -62,4 +52,15 @@ Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
 
 ## Verdieping
 1. CSS Battle (https://cssbattle.dev/).
+
+## Ouder materiaal
+Hieronder vind je materiaal van voorgaande jaren. De inhoud komt grotendeels overeen, maar er kunnen kleine verschillen zijn. Raadpleeg daarom altijd de slides van dit jaar om zeker te zijn. Het materiaal is bedoeld als aanvulling, zodat je de stof vanuit een ander perspectief kunt bekijken.
+
+- [Lespresentatie havo](presentatie-webdesign-havo.pdf)
+- [Lespresentatie vwo](presentatie-webdesign-vwo.pdf)
+
+Uitleg video 1:
+{{<video id="PLpTljPS--R5C5UA22a7VhIMld1Z5vyF8O">}}
+Uitleg video 2:
+{{<video id="PLpTljPS--R5C5ADZ-k7ArGq9-Cz85y87i">}}
 
