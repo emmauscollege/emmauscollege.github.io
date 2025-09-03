@@ -9,7 +9,9 @@ In de vierde klas heb je in JavaScript met behulp van de _library_ [p5.js](http:
 
 Deze manier van programmeren heet _imperatief programmeren_. Een andere manier van programmeren is bijvoorbeeld [_declaratief programmeren_](http://wikipedia.org). Zo'n manier van programmeren heet een _programmeerparadigma_. Vanuit *imperatief programmeren* is in de loop der tijd een aparte paradigma onstaan: _objectgeoriënteerd programmeren_. De Engelse term hiervoor is _object oriented programming_, ofwel OOP. Heel veel programma's zijn gemaakt met behulp van dit paradigma. Zonder dat je het misschien hebt doorgehad, heb bij bij het werken met Arduino ook gebruik gemaakt van objectgeoriënteerd programmeren. In deze module gaan we leren dit paradigma bewust toe te passen.
 
+<!--
 **Maak nu eerst de opfrisopdracht die in [GitHub Classroom](https://classroom.github.com) voor je klaarstaat**
+-->
 
 ### Hoofdstuk 1 – objecten, attributen, methoden, *this*, klassen 
 ##### Attributen
