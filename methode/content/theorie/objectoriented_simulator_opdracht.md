@@ -1,5 +1,5 @@
 +++
-title = "T8 Verwerkingsopdrachten 2324"
+title = "T8 Epidemiesimulatoropdracht"
 weight = 8.2
 hidden = true
 +++
@@ -10,8 +10,7 @@ Om te leren hoe je objectgeoriënteerd programmeert, gaan we stap voor stap een 
 
 ### Opdracht 0 - Klaar voor de start
 
-#### Start een eigen repo en begrijp de code:
-- Ga naar [GitHub classroom](https://classroom.github.com) en schrijf je in voor de opdracht 'Epidemiesimulator'
+#### Begrijp de code:
 - Bekijk in je browser wat de simulator nu al doet. De simulator doet nog niet veel: het laat een vierkantje bewegen en stuiteren tegen de randen van het scherm.
 - Bekijk de code van de simulator. In de code zie je _globale variabelen_ die de positie en de horizontale en verticale snelheid bevatten. Ook zie je de constante `BREEDTE`, die de waarde van de grootte van het vierkantje bevat.
 
@@ -40,14 +39,14 @@ rect(x, y, BREEDTE, BREEDTE);
 ```
 
 
-
+<!--
 ---
 
 **Lees nu hoofdstuk 1 van de [theorie](../objectoriented_theorie/#hoofdstuk-1)**
 
 ---
 <br/><br/><br/>
-
+-->
 
 
 ### Opdracht 1 – 25 random 'mensen' maken. En wat doen die katten daar? 😼
@@ -199,6 +198,7 @@ Helaas komen de gezondheidsinstanties erachter dat ook katten een rol spelen in 
 
 <br/><br/><br/>
 
+<!--
 ---
 
 **Lees nu hoofdstuk 2 van de [theorie](../objectoriented_theorie)**
@@ -206,7 +206,7 @@ Helaas komen de gezondheidsinstanties erachter dat ook katten een rol spelen in 
 ---
 <br/><br/><br/>
 
-
+-->
 
 ### Opdracht 4
 In de theorie van hoofdstuk 2 heb je de gezien hoe de code van de superklasse `Actor` eruit ziet. Je gaat nu de code van `Mens` en `Kat` aanpassen.
@@ -254,8 +254,11 @@ d)
 
 Speel gerust eens met de waarden van de besmettelijkheidsTeller of het aantal dokters om te zien wat er in je simulatie gebeurt.
 
+
+
 <br/><br/><br/>
 
+<!--
 ---
 
 **Lees nu hoofdstuk 3 van de [theorie](../objectoriented_theorie)**
@@ -263,7 +266,7 @@ Speel gerust eens met de waarden van de besmettelijkheidsTeller of het aantal do
 ---
 <br/><br/><br/>
 
-
+-->
 
 ### opdracht 5
 
@@ -289,7 +292,7 @@ Speel gerust eens met de waarden van de besmettelijkheidsTeller of het aantal do
   - in je `setup` een zelfbedacht aantal van deze nieuwe klasse actoren op te nemen.
 {{% /expand %}}
 
-
+<!--
 
 <br/><br/><br/>
 
@@ -299,7 +302,6 @@ Speel gerust eens met de waarden van de besmettelijkheidsTeller of het aantal do
 
 ---
 <br/><br/><br/>
-
 
 
 ### Opdracht 6
@@ -319,3 +321,5 @@ Maak, met theorie van het hoofdstuk 4 in je achterhoofd, een beschrijving (d.w.z
 ##### c) uitbreiden
 - Heb je gekozen voor de waarschuwingslichten? Kun je het zo maken dat je de knippersnelheid kunt aanpassen? Op welke manier maak je deze eigenschap toegankelijk voor andere programmeurs?
 - Heb je gekozen voor de knop. Kun je het zo maken dat de lichte storing die optreedt rond het indrukken van de knop weggefilterd wordt? Je noemt dit debouncen. Check deze [voorbeeldcode](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Debounce) voor een idee.
+
+-->

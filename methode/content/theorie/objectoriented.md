@@ -9,14 +9,16 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 
 ## Theorie
 - [Theorie objectgeoriënteerd programmeren 24/25](../objectoriented_theorie)
-- [Theorie objectgeoriënteerd programmeren 23/24](../objectoriented_theorie2324)
 - [Lespresentatie](objectoriented_lespresentatie.pdf)
 
-
 ## Opdrachten
-- [Kale verwerkingsopdrachten](../objectoriented_verwerkingsopdrachten)
-- [Simulator verwerkingsopdrachten 24/25](../objectoriented_simulator_opdrachten)
-- [Simulator verwerkingsopdrachten 23/24](../objectoriented_simulator_opdrachten2324)
+Schrijf je in voor een opdracht en ga er mee aan de slag in GitHub code spaces.
+- Verwerkingsopdrachten. Deze maak je na iedere nieuwe uitleg<br/>
+  Intekenen: [6V.in1](https://classroom.github.com), [6V.in2](https://classroom.github.com)
+- Appel-spel nabouwen uit [theorie](../objectoriented_theorie) en [lespresentatie](objectoriented_lespresentatie.pdf) <br/>
+  Intekenen: [6V.in1](https://classroom.github.com), [6V.in2](https://classroom.github.com)
+- [Epidemie simulator](../objectoriented_simulator_opdracht) <br/>
+  Intekenen: [6V.in1](https://classroom.github.com), [6V.in2](https://classroom.github.com)
 
 ## Naslagmateriaal (ook beschikbaar bij toets)
 - [Naslagmateriaal objectgeoriënteerd programmeren](objectoriented_naslagmateriaal.pdf)
@@ -47,3 +49,17 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 ## Oefentoets
 - [Oefentoets](objectoriented_oefenopgaven.pdf) (vraag 5 moet je overslaan)
 - [Antwoordwoorden oefentoets](objectoriented_oefenopgaven_antwoorden.pdf)
+
+## Opfrissen Javascript
+Voor het geval Javascript een beetje is weggezakt, is dit een manier om alles weer op te frissen:
+Ga naar [KhanAcademy](https://www.khanacademy.org/computing/computer-programming/programming) en probeer steeds de projects aan het einde van iedere onderwerp helemaal opnieuw te maken (dus eerst resetten). Als je vastloopt, verdiep je dan eerst in de theorie van dat onderwerpje en / of probeer eerst een eenvoudiger oefenopdrachtje van dat onderwerp te maken.
+- [Animal attack](https://www.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/pp/project-animal-attack)
+- [Fish tank](https://www.khanacademy.org/computing/computer-programming/programming/functions/pp/project-fish-tank)
+- [Magic 8-ball](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pp/project-magic-8-ball)
+- [Build-a-House](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pp/project-magic-8-ball)
+- [Make it rain](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pp/project-magic-8-ball)
+
+Vind je dit allemaal erg gemakkelijk? Open dan via deze link een leeg programma en programmeer een of meer van de volgende functies:
+- faculteit() - deze functie berekent de faculteit van de invoer. Dus 5! = 5 x 4 x 3 x 2 x 1 = 120
+- stippen vierkant - deze functie tekent een vierkant van 5 x 5 stippen met behulp van een geneste for-loop. Bonus: maak de functie zo, dat een parameter bepaald hoeveel stippen het vierkant breed is. 
+- isPalindroom() - deze functie controleert of de meegegeven tekst een palindroom is.
