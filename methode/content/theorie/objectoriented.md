@@ -56,10 +56,11 @@ Ga naar [KhanAcademy](https://www.khanacademy.org/computing/computer-programming
 - [Animal attack](https://www.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/pp/project-animal-attack)
 - [Fish tank](https://www.khanacademy.org/computing/computer-programming/programming/functions/pp/project-fish-tank)
 - [Magic 8-ball](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pp/project-magic-8-ball)
-- [Build-a-House](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pp/project-magic-8-ball)
-- [Make it rain](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pp/project-magic-8-ball)
+- [Build-a-House](https://www.khanacademy.org/computing/computer-programming/programming/looping/pp/project-build-a-house)
+- [Make it rain](https://www.khanacademy.org/computing/computer-programming/programming/arrays/pp/project-make-it-rain)
 
-Vind je dit allemaal erg gemakkelijk? Open dan via deze link een leeg programma en programmeer een of meer van de volgende functies:
+
+Vind je dit allemaal erg gemakkelijk? Open dan via [deze link](https://www.khanacademy.org/computer-programming/new/pjs) een leeg programma en programmeer een of meer van de volgende functies:
 - faculteit() - deze functie berekent de faculteit van de invoer. Dus 5! = 5 x 4 x 3 x 2 x 1 = 120
 - stippen vierkant - deze functie tekent een vierkant van 5 x 5 stippen met behulp van een geneste for-loop. Bonus: maak de functie zo, dat een parameter bepaald hoeveel stippen het vierkant breed is. 
 - isPalindroom() - deze functie controleert of de meegegeven tekst een palindroom is.
