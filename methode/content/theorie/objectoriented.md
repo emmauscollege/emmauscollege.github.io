@@ -68,4 +68,4 @@ Vind je dit allemaal erg gemakkelijk? Open dan via [deze link](https://www.khana
 - [Extra herhalings oefeningen + oplossing](1.2-herhalings-oefeningen.pptx)
 
 Of: - Opfrissen: zit Javascript er goed in en heb je meer uitdaging nodig dan de oefeningen op Khan Academy? Doe deze opdracht. <br/>
-  Intekenen: [6V.in1](https://classroom.github.com), [6V.in2](https://classroom.github.com)
+  Intekenen: [6V.in1](https://classroom.github.com/a/Vfx7iDJE), [6V.in2](https://classroom.github.com/a/kHje9T9u)
