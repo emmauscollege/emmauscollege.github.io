@@ -23,8 +23,9 @@ Khanacademy, module Intro to HTML/CSS
 9. [Further learning](https://www.khanacademy.org/computing/computer-programming/html-css#html-css-further-learning) (geen toetsstof)
 
 ## Presentaties
-- [W36 Introductie + Opstarten](1.1-introductie-opstarten.pptx)
-- [W37 Uitleg: HTML tags](1.2-html-tags.pptx)
+- [Introductie + Opstarten](1.1-introductie-opstarten.pptx)
+- [Uitleg: HTML tags](1.2-html-tags.pptx)
+- [Uitleg: CSS selectors en propteries](1.3-css-selectors-en-properties.pptx)
 
 De overige presentaties volgen later. De slides zijn steeds voorafgaand aan de les online beschikbaar.
 

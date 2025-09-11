@@ -65,7 +65,7 @@ Vind je dit allemaal erg gemakkelijk? Open dan via [deze link](https://www.khana
 - faculteit() - deze functie berekent de faculteit van de invoer. Dus 5! = 5 x 4 x 3 x 2 x 1 = 120
 - stippen vierkant - deze functie tekent een vierkant (eigenlijk: matrix) van 5 x 5 stippen met behulp van een geneste for-loop. Bonus: maak de functie zo, dat een parameter bepaald hoeveel stippen het vierkant breed is. 
 - isPalindroom() - deze functie controleert of de meegegeven tekst een palindroom is.
-- [Extra herhalings oefeningen + oplossing](herhalings-oefeningen.pptx)
+- [Extra herhalings oefeningen + oplossing](1.2-herhalings-oefeningen.pptx)
 
 Of: - Opfrissen: zit Javascript er goed in en heb je meer uitdaging nodig dan de oefeningen op Khan Academy? Doe deze opdracht. <br/>
   Intekenen: [6V.in1](https://classroom.github.com), [6V.in2](https://classroom.github.com)
