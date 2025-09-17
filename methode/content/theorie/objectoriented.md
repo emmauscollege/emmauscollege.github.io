@@ -20,6 +20,15 @@ Schrijf je in voor een opdracht en ga er mee aan de slag in GitHub code spaces.
 - Wel je echt ergens je tanden in kunnen zetten om objectgeoriënteerd te programmeren? Maak de [epidemie simulator](../objectoriented_simulator_opdracht) <br/>
   Intekenen: [6V.in1](https://classroom.github.com), [6V.in2](https://classroom.github.com)
 
+## Maak kennis met jOOP
+
+jOOP is je persoonlijke AI programmeerassistent tijdens de opdrachten Objectgeoriënteerd Programmeren.
+Hij helpt je stap voor stap bij het werken met klassen, objecten, overerving, inkapseling en associaties in JavaScript.
+jOOP geeft geen kant-en-klare oplossingen, maar stelt vragen, geeft hints en helpt je foutmeldingen begrijpen. Zo leer je zelf redeneren en groeien in OOP. 
+
+[Gebruik jOOP door hier te klikken](https://chatgpt.com/g/g-68c479a0a0848191b608f9f43e8183f2-joop)
+
+
 ## Naslagmateriaal (ook beschikbaar bij toets)
 - [Naslagmateriaal objectgeoriënteerd programmeren](objectoriented_naslagmateriaal.pdf)
 - [Naslagmateriaal JavaScript en p5js](syntaxblad-javascript.pdf)
