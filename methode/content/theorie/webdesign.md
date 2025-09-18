@@ -26,6 +26,7 @@ Khanacademy, module Intro to HTML/CSS
 - [Introductie + Opstarten](1.1-introductie-opstarten.pptx)
 - [Uitleg: HTML tags](1.2-html-tags.pptx)
 - [Uitleg: CSS selectors en propteries](1.3-css-selectors-en-properties.pptx)
+- [Uitleg: Boxmodel](1.4-boxmodel.pptx)
 
 De overige presentaties volgen later. De slides zijn steeds voorafgaand aan de les online beschikbaar.
 
@@ -35,7 +36,7 @@ HTML
 2. Je kent het principe van tags zoals die in HTML gebruikt worden.
 3. Je kent de basisstructuur van een HTML-pagina.
 4. Je weet wat de begrippen parent, child en sibling betekenen en kunt de betekenis van deze begrippen toelichten. Je kunt deze begrippen toepassen op HTML.
-5. Je kent de volgende tags: `<html>`, `<head>`, `<body>`, `<p>`, `<ol>`, `<ul>`, `<li>`, `<h1>` t/m `<h6>`, `<br/>`, `<img>` met `src` en `alt`, `<a>` met `href`, `<div>`, `<table>`, `<tr>`, `<th>`, `<td>`. Je kunt uitleggen wat deze tags doen en hoe je kunt ze gebruiken.
+5. Je kent de volgende tags: `<html>`, `<head>`, `<body>`, `<p>`, `<ol>`, `<ul>`, `<li>`, `<h1>` t/m `<h6>`, `<br/>`, `<img>` met `src` en `alt`, `<a>` met `href`, `<span>`, `<div>`, `<table>`, `<tr>`, `<th>`, `<td>`. Je kunt uitleggen wat deze tags doen en hoe je kunt ze gebruiken.
 6. Je kunt eenvoudige stukken HTML interpreteren, dat wil zeggen dat je kunt uitleggen hoe een webbrowser omgaat met een eenvoudig stuk HTML.
 7. Je kunt wijzigingen aanbrengen in een eenvoudig stuk HTML, de syntax van de HTML tags die daarvoor nodig zijn wordt daarbij gegeven in de vraag.
 
