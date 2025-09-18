@@ -23,7 +23,7 @@ Schrijf je in voor een opdracht en ga er mee aan de slag in GitHub code spaces.
 ## Maak kennis met jOOP
 
 jOOP is je persoonlijke AI programmeerassistent tijdens de opdrachten Objectgeoriënteerd Programmeren.
-Hij helpt je stap voor stap bij het werken met klassen, objecten, overerving, inkapseling en associaties in JavaScript.
+Hij helpt je bij de verplichte verwerkingsopdrachten stap voor stap met het werken met klassen, objecten, overerving, inkapseling en associaties in JavaScript.
 jOOP geeft geen kant-en-klare oplossingen, maar stelt vragen, geeft hints en helpt je foutmeldingen begrijpen. Zo leer je zelf redeneren en groeien in OOP. Let wel op, tijdens de toets kan/mag je jOOP niet gebruiken.
 
 [Gebruik jOOP door hier te klikken](https://chatgpt.com/g/g-68c479a0a0848191b608f9f43e8183f2-joop)
