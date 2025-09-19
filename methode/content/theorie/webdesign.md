@@ -55,7 +55,7 @@ CSS
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
 
 ## Verdieping
-1. CSS Battle (https://cssbattle.dev/).
+1. CSS Battle (https://cssbattle.dev).
 
 ## Oud materiaal
 Hieronder vind je materiaal van voorgaande jaren. De inhoud komt grotendeels overeen, maar er kunnen kleine verschillen zijn. Raadpleeg daarom altijd de slides van dit jaar om zeker te zijn. Het materiaal is bedoeld als aanvulling, zodat je de stof vanuit een ander perspectief kunt bekijken.
