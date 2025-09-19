@@ -18,7 +18,7 @@ Schrijf je in voor een opdracht en ga er mee aan de slag in GitHub code spaces.
 - Wil je naast de verwerkingsopdrachten met een spelletje ervaren waarom objectgeoriënteerd programmeren handig werkt? Bouw het appelspel [theorie](../objectoriented_theorie) en [lespresentatie](objectoriented_lespresentatie.pdf) zelf na<br/>
   Intekenen: [6V.in1](https://classroom.github.com/a/hQlrZ9M0), [6V.in2](https://classroom.github.com/a/3l4YwUxq)
 - Wel je echt ergens je tanden in kunnen zetten om objectgeoriënteerd te programmeren? Maak de [epidemie simulator](../objectoriented_simulator_opdracht) <br/>
-  Intekenen: [6V.in1](https://classroom.github.com), [6V.in2](https://classroom.github.com)
+  Intekenen: [6V.in1](https://classroom.github.com), [6V.in2](https://classroom.github.com/a/gWgQzJVE)
 
 ## Maak kennis met jOOP
 
