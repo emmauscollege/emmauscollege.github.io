@@ -13,6 +13,7 @@ We gebruiken in deze module de volgende tools:
 ## Oefeningen
 
 Arduino-lessen.nl, les 1 t/m 5
+Bekijk, doe na en ga aan de slag met deze uitdagingen: [verwerkingsopdrachten.pdf](verwerkingsopdrachten.pdf)
 
 1. [Knipperende LED](https://arduino-lessen.nl/project/knipperende-led-op-arduino)
 2. [Knipperend LED op breadboard](https://arduino-lessen.nl/project/knipperende-led-op-breadboard)
