@@ -28,7 +28,7 @@ Khanacademy, module Intro to HTML/CSS
 - [Uitleg: CSS selectors en propteries](1.3-css-selectors-en-properties.pptx)
 - [Uitleg: Boxmodel](1.4-boxmodel.pptx)
 
-- [Theorie](../webdesign_theorie.md)
+- [Theorie](../webdesign_theorie)
 
 De overige presentaties volgen later. De slides zijn steeds voorafgaand aan de les online beschikbaar.
 
