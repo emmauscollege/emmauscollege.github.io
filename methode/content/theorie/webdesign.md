@@ -22,11 +22,13 @@ Khanacademy, module Intro to HTML/CSS
 8. [Other ways to embed css](https://www.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css) (geen toetsstof)
 9. [Further learning](https://www.khanacademy.org/computing/computer-programming/html-css#html-css-further-learning) (geen toetsstof)
 
-## Presentaties
+## Presentaties en Opdrachten
 - [Introductie + Opstarten](1.1-introductie-opstarten.pptx)
 - [Uitleg: HTML tags](1.2-html-tags.pptx)
 - [Uitleg: CSS selectors en propteries](1.3-css-selectors-en-properties.pptx)
 - [Uitleg: Boxmodel](1.4-boxmodel.pptx)
+
+- [Theorie](../webdesign_theorie.md)
 
 De overige presentaties volgen later. De slides zijn steeds voorafgaand aan de les online beschikbaar.
 
