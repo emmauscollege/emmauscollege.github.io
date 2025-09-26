@@ -1,6 +1,7 @@
 +++
 title = "T1. Web Design met HTML en CSS"
 weight = 1.1
+hidden = true
 +++
 
 <!-- ### Introductie
