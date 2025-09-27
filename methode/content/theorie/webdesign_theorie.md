@@ -210,7 +210,7 @@ Met de eigenschap `float` kun je dit gedrag doorbreken. Zet je bijvoorbeeld op e
 ```
 
 ###### Oefening 4.3 ($): 
-Maak [hier](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor) drie divs van 150px breed en 150px hoog en gebruik `float: left;`. Controleer of ze netjes naast elkaar komen te staan.
+Maak [hier](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor) drie divs van 150px breed en 150px hoog en gebruik `float: left;`. Controleer of ze netjes naast elkaar komen te staan. Schrijf op waarom dit gebeurd.
 
 ###### Oefening 4.4 ($$): 
 Voeg een vierde div toe. Stel de parent-div in op 450px breed. Beschrijf wat er gebeurt met de vierde div en waarom.
@@ -253,7 +253,7 @@ Maak een lay-out met drie kolommen: links een menu lijst, rechts een kleine extr
 Een klassiek gebruik van float is bij afbeeldingen in tekst. Zonder float staat een afbeelding als een blok boven de tekst. Met `float: left;` schuift de afbeelding naar de linkerzijde en loopt de tekst er netjes naast door. Met `float: right;` gebeurt hetzelfde, maar dan aan de rechterkant.
 
 ###### Oefening 4.9 ($): 
-Plaats een afbeelding boven een paragraaf. Voeg daarna `float: left;` toe aan de afbeelding en bekijk hoe de tekst naast de afbeelding doorloopt.
+Plaats een afbeelding boven een paragraaf. Voeg daarna `float: left;` toe aan de afbeelding en bekijk hoe de tekst naast de afbeelding doorloopt. Beschrijf waarom dit gebeurd.
 
 ###### Oefening 4.10 ($$): 
-Maak een artikel met een titel, een afbeelding en drie paragrafen. Laat de afbeelding rechts boven verschijnen. Zorg dat de tekst mooi naast de afbeelding doorloopt, maar de volgende sectie van de pagina (bijvoorbeeld een credits paragraaf) netjes onder de afbeelding begint. Tip: gebruik `clear`.
+Maak een artikel met een titel, een afbeelding en drie paragrafen. Laat de afbeelding rechts boven verschijnen. Zorg dat de tekst mooi naast de afbeelding doorloopt, maar de volgende sectie van de pagina (bijvoorbeeld een credits paragraaf) netjes onder de afbeelding begint. Tip: gebruik `clear`. Schrijf je code daarvoor op (enkel de tags voor dit stukje zijn genoeg, geen standaard structuur met `<html>` en `<body>` nodig).
