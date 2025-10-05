@@ -38,20 +38,22 @@ HTML
 2. Je kent het principe van tags zoals die in HTML gebruikt worden.
 3. Je kent de basisstructuur van een HTML-pagina.
 4. Je weet wat de begrippen parent, child en sibling betekenen en kunt de betekenis van deze begrippen toelichten. Je kunt deze begrippen toepassen op HTML.
-5. Je kent de volgende tags: `<html>`, `<head>`, `<body>`, `<p>`, `<ol>`, `<ul>`, `<li>`, `<h1>` t/m `<h6>`, `<br/>`, `<img>` met `src` en `alt`, `<a>` met `href`, `<span>`, `<div>`, `<table>`, `<tr>`, `<th>`, `<td>` en kunt commentaar toevoegen in HTML. Je kunt uitleggen wat deze tags doen en hoe je kunt ze gebruiken.
-6. Je kunt eenvoudige stukken HTML interpreteren, dat wil zeggen dat je kunt uitleggen hoe een webbrowser omgaat met een eenvoudig stuk HTML.
-7. Je kunt wijzigingen aanbrengen in een eenvoudig stuk HTML, de syntax van de HTML tags die daarvoor nodig zijn wordt daarbij gegeven in de vraag.
+5. Je kent de volgende tags: `<html>`, `<head>`, `<body>`, `<p>`, `<strong>`, `<em>`, `<ol>`, `<ul>`, `<li>`, `<h1>` t/m `<h6>`, `<br>`, `<img>` met `src` en `alt`, `<a>` met `href`, `<span>`, `<div>`, `<table>`, `<thead>`, `<tbody>` `<tr>`, `<th>`, `<td>` en kunt commentaar (`<!-- ... -->`) toevoegen in HTML. Je kunt uitleggen wat deze tags doen en hoe je kunt ze gebruiken.
+6. Je kan een interne link maken naar een sectie binnen de webpagina met behulp van de `<a>`-tag en een ID.
+7. Je kunt eenvoudige stukken HTML interpreteren, dat wil zeggen dat je kunt uitleggen hoe een webbrowser omgaat met een eenvoudig stuk HTML.
+8. Je kunt wijzigingen aanbrengen in een eenvoudig stuk HTML, de syntax van de HTML tags die daarvoor nodig zijn wordt daarbij gegeven in de vraag.
 
 CSS
 1. Je kunt uitleggen wat er binnen de informatica met Separation of Concern wordt bedoeld en hoe dat op HTML en CSS van toepassing is. 
-9. Je kunt uitleggen wat selectors, properties en values in CSS zijn en je kunt ermee werken. Dat wil zeggen dat je eenvoudige stukken CSS met selectors, properties en values kunt maken en de werking ervan kunt uitleggen. 
-10. Je kunt CSS selectors maken die bestaan uit een tag, class of id of een combinatie daarvan.
-11. Je kunt de voorrangsregels tussen tags, classes en id’s toepassen en je kunt daarbij aangeven welke selectors meer of minder specifiek zijn.
-12. Je kent van de volgende properties de betekenis en kunt deze toepassen in CSS: `font-size`, `font-family`, `width`, `height`, `color`, `background-color` en kunt commentaar toevoegen aan CSS.
-13. Je kunt werken met kleuren en doorzichtigheid in CSS, door gebruik te maken van kleurnamen en rgba().
-14. Je kunt de werking van boxen in CSS toelichten. Je kunt daarbij volgende concepten uitleggen en gebruiken: content, padding, border en margin.
-15. Je kunt eenvoudige stukken CSS interpreteren, dat wil zeggen dat je kunt uitleggen hoe een webbrowser omgaat met een eenvoudig stuk CSS en hoe het eruit ziet in een webbrowser.
-16. Je kunt wijzigingen aanbrengen in een eenvoudig stuk CSS, de properties die daarvoor nodig zijn worden beschreven in de vraag.
+2. Je kunt uitleggen wat selectors, properties en values in CSS zijn en je kunt ermee werken. Dat wil zeggen dat je eenvoudige stukken CSS met selectors, properties en values kunt maken en de werking ervan kunt uitleggen. 
+3. Je kunt CSS selectors maken die bestaan uit een tag, class of id of een combinatie daarvan.
+4. Je kunt de voorrangsregels tussen tags, classes en id’s toepassen en je kunt daarbij aangeven welke selectors meer of minder specifiek zijn.
+5. Je kent van de volgende properties de betekenis en kunt deze toepassen in CSS: `color`, `background-color`, `font-size`, `font-family`, `width`, `height`, `padding`, `margin`, `border`, `float`, `clear` en kunt commentaar (`/* ... */`) toevoegen aan CSS.
+6. Je kunt werken met kleuren en doorzichtigheid in CSS, door gebruik te maken van kleurnamen en rgba().
+7. Je kunt de werking van boxen in CSS toelichten. Je kunt daarbij volgende concepten uitleggen en gebruiken: content, padding, border en margin.
+8. Je kunt de werking van float en clear in CSS toelichten.
+9. Je kunt eenvoudige stukken CSS interpreteren, dat wil zeggen dat je kunt uitleggen hoe een webbrowser omgaat met een eenvoudig stuk CSS en hoe het eruit ziet in een webbrowser.
+10. Je kunt wijzigingen aanbrengen in een eenvoudig stuk CSS, de properties die daarvoor nodig zijn worden beschreven in de vraag.
 
 ## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
