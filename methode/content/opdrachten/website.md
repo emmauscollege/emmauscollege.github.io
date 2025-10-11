@@ -37,6 +37,7 @@ Daarna maak je een sitemap. Dat is een schema dat toont hoe de verschillende pag
 Vervolgens voeg je een kleurenstaal toe. Gebruik hiervoor de [Figma Color Palette Generator](https://www.figma.com/color-palette-generator/) om een kleurenpalet te maken dat past bij jouw onderwerp. Noteer bij elke kleur de juiste HEX-waarde en bewaar die goed, zodat je dezelfde kleuren later in de echte website kunt gebruiken.
 
 Tot slot maak je één of meerdere wireframes [online](https://draw.io) of op papier. Dat zijn schetsen van hoe je webpagina’s eruit zullen zien. Je geeft aan waar tekst, afbeeldingen, knoppen en menu’s komen. Begin met één goed uitgewerkte wireframe, bijvoorbeeld van je homepage. Als je tijd hebt, maak er dan meerdere, zodat ook andere pagina’s al een duidelijk ontwerp hebben.
+{{% /expand %}}
 
 {{% expand "Beoordeling" %}}
 Het cijfer dat je voor je PO krijgt wordt vanuit verschillende invalshoeken bepaald: 
