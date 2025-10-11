@@ -31,8 +31,8 @@ Deel 3:
 ## Leerdoelen voor de toets
 Informatie digitaal
 1.	Je kunt uitrekenen uit hoeveel bits of bytes een kilobyte, megabyte, gigabyte of terabyte bestaat.
-2.	Je kunt uitleggen waarin de klassieke maten van kilo-, mega-, gigabyte etc. afwijken van de SI-maten.
-3. Je kunt binaire getallen omzetten naar decimale getallen en andersom.
+2.	Je kunt het verschil tussen de klassieke (binaire) en SI-eenheden voor kilo-, mega-, giga- en terabyte uitleggen én berekenen.
+3.	Je kunt binaire getallen omzetten naar decimale getallen en andersom.
 4.	Je kunt binaire getallen omzetten naar hexadecimale getallen en andersom.
 5.	Je kunt decimale getallen omzetten naar hexadecimale getallen en andersom.	
 6.	Je weet wat het verschil is tussen ASCII en Unicode en kunt uitleggen hoe ze tekst digitaliseren.
