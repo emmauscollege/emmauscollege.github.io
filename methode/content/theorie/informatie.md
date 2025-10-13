@@ -10,6 +10,10 @@ Je leert hoe een computer allerlei soorten informatie opslaat.
 We gebruiken in deze module de volgende tools:
 1. [Informatica Actief](/tools/ia/)
 
+## Presentaties & Oefeningen
+- [Presentatie: Bits 'n Bytes](Bits 'n Bytes.pptx)
+
+
 ## Oefeningen
 Informatica Actief, module informatie digitaal
 
