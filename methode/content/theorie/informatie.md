@@ -11,7 +11,7 @@ We gebruiken in deze module de volgende tools:
 1. [Informatica Actief](/tools/ia/)
 
 ## Presentaties & Oefeningen
-- [Presentatie: Bits 'n Bytes](Bits 'n Bytes.pptx)
+- [Presentatie: Bits 'n Bytes](Bits-n-Bytes.pptx)
 
 
 ## Oefeningen
