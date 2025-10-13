@@ -21,7 +21,9 @@ Je schrijft je in via Github Classroom (login met je Google account).
 
 GitHub is een online platform waar je code kunt opslaan, delen en samen aan projecten kunt werken. Een soort “Google Drive voor programmeercode”. Via GitHub Classroom krijg je van je docent een link naar een opdracht. Die opent een eigen map (repository) waarin je kunt werken. Met GitHub Codespaces kun je die map rechtstreeks in je browser openen zonder iets te installeren, je kunt er meteen programmeren, uitvoeren en testen.
 
-**Let op:** je werk wordt niet automatisch opgeslagen op GitHub. Je moet committen en syncen om je werk op te slaan en naar GitHub te uploaden. Doe dit regelmatig, vooral voordat je Codespaces afsluit, zodat je niets kwijtraakt.
+**Belangrijk:** Bij het inloggen moet je een username aanmaken, zorg dat minimaal je voornaam hier herkenbaar in voor komt.
+
+**Let op:** Je werk wordt niet automatisch opgeslagen op GitHub. Je moet committen en syncen om je werk op te slaan en naar GitHub te uploaden. Doe dit regelmatig, vooral voordat je Codespaces afsluit, zodat je niets kwijtraakt.
 
 {{% /expand %}}
 
