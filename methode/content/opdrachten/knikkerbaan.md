@@ -23,7 +23,7 @@ De knikkerbaanmodule mag natuurlijk meer sensors en actuators krijgen. Je kunt n
 Deze webpagina is een widget waarmee je de statusgeschiedenis van je knikkerbaanmodule kunt weergeven, maar ook het gedrag van de knikkerbaan kunt aanpassen / configureren. Je krijgt informatie van de knikkerbaan, maar geeft ook informatie terug waarop de knikkerbaan moet reageren. Je kunt dus informatie van de sensors zien en het functioneren van de actuators beïnvloeden. De widget kan later door de docent opgenomen worden in een grote webpagina waar een overzicht te zien is van alle modules van de uiteindelijke knikkerbaan.
 
 **Verslaglegging van planning, voortgang en samenwerking.**
-We verwachten dat je _minimaal_ aan het begin van iedere sprint een screenshot in de daarvoor bestemde map in GitHub plaatst met de bijgewerkte planning. Nog beter: doe dit _iedere_ eerste les van de week. Daarnaast willen we dat ieder teamlid in gelijke mate bijdraag 
+We verwachten dat je _minimaal_ aan het begin van elke sprint de todo lijst en sprint planning bijwerkt in de map planning. Aan het einde van elke sprint verwachten we een korte video die het behaalde resultaat laat zien, deze zet je in het mapje demo. Daarnaast willen we dat ieder teamlid in gelijke mate bijdraagt.
 {{% /expand %}}
 
 
@@ -35,18 +35,13 @@ We verwachten dat je _minimaal_ aan het begin van iedere sprint een screenshot i
 
 {{% expand "Hulpmiddelen" %}}
 - **GitHub** - zodat iedereen aan de code kan werken en alles wel netjes op één plek staat. Daarnaast maken we gebruik van extra functies van GitHub om goed projectmatig te kunnen werken.
--	**GitPod** - voor het ontwerpen/ programmeren van de server-app en de website. Je programmeert deze onderdelen vooral in JavaScript.
 -	**Arduino** - voor het programmeren van de knikkerbaan.
 {{% /expand %}}
 
 {{% expand "Planning" %}}
-Je werkt bij deze opdrachten in sprints. Een sprint is een periode van twee weken waarbij je met elkaar afspreekt wat er aan het einde van de twee weken af is en wie dit doet. Halverwege de sprint kun je daar eventueel een kleine wijziging in aanbrengen. Om INzichtelijke te maken wat er gedaan moet worden, wie wat aan het doen is en wat is afgerond, maken we gebruik van een planningsbord in GitHub.
+Je werkt bij deze opdrachten in sprints. Een sprint is een periode van twee weken waarbij je met elkaar afspreekt wat er aan het einde van de twee weken af is en wie dit doet. Halverwege de sprint kun je daar eventueel een kleine wijziging in aanbrengen.
 
-Voor in ieder geval de eerste drie sprints hebben wij in algemene termen opgeschreven wat er af moet zijn:
-
-- sprint 1: Begin van knikkerbaan moet werken, inclusief een teller en een poortje
-- sprint 2: De knikkerbaan moet nu ook een werkende snelheidsmeter en een wissel hebben
-- sprint 3: Je hebt de knikkerbaan verder uitgebreid en verbeterd.
+Voor iedere sprint hebben wij in algemene termen opgeschreven wat er af moet zijn. Dit vind je terug in de individuele sprint in de map planning.
 {{% /expand %}}
 
 
