@@ -37,7 +37,7 @@ We verwachten dat je _minimaal_ aan het begin van elke sprint de todo lijst en s
 - **GitHub** - zodat iedereen aan de code kan werken en alles wel netjes op één plek staat. Daarnaast maken we gebruik van extra functies van GitHub om goed projectmatig te kunnen werken.
   - Intekenen kan per groepje hieronder. De eerste kiest de teamnaam, andere joinen bij het team:
     -  6V.in1: https://classroom.github.com/a/DSEtihJe
-    -  [6V.in2](https://classroom.github.com/a/PACNiEjX): 
+    -  6V.in2: https://classroom.github.com/a/PACNiEjX 
 -	**Arduino** - voor het programmeren van de knikkerbaan.
 {{% /expand %}}
 
