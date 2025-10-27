@@ -491,7 +491,31 @@ Ook dit is niet de oplossing die alles perfect dichttimmert. JavaScript biedt hi
 
 <div style="page-break-after: always"></div>
 
-### Hoofdstuk 4 - C++, polymorfie, voordelen en nadelen
+### Voor- en nadelen van objectgeoriënteerd programmeren
+
+Objectgeoriënteerd programmeren is al tientallen jaren een populaire programmeerparadigma. Dit komt omdat deze manier van programmeren een aantal voordelen heeft die het erg aantrekkelijk maken.
+
+##### Voordelen
+
+###### Modulariteit
+Objectgeoriënteerd programmeren vereist dat een programma in modules wordt opgebouwd. Dit al handig bij kleine programma's, maar werkt geweldig bij grote systemen die door hun omvang door uit verschillende deelsystemen bestaat die elk door andere personen of teams worden ontwikkeld. Bij objectgeoriënteerd programmeren kun je, als eenmaal is vastgelegd welke methode een klasse heeft, deze onafhankelijk van andere klassen implementeren.
+
+###### Inkapseling
+In eerdere vormen van programmeren was het deels mogelijk om een programma in modules te ontwikkelen, maar data was dan gemakkelijk toegankelijk voor allerlei delen van de programmacode, ook delen die de data niet zouden mogen veranderen.
+
+Door *inkapseling* van gegevens binnen klasse is het gemakkelijker om deze gegevens te 'beschermen'. Ze zijn ontoegankelijk voor andere stukken programmeercode en daardoor is het gemakkelijker om regels over de data (zoals dat een waarde nooit kleiner mag zijn van 0) af te dwingen.
+
+###### Flexibel hergebruik
+Het is met behulp van objectgeoriënteerd programmeren erg gemakkelijk om code opnieuw te gebruiken in een andere context. Het principe van overerving speelt hierbij een belangrijke rol. Algemene eigenschappen van een klasse definieer je in een superklasse, specifieke eigenschappen in een subklasse. De subklassen gebruik je dan op verschillende plekken in je programma, of zelfs over meerdere programma's. Hierdoor hoef je de algemene code maar één keer te schrijven en hergebruik je deze code dus telkens als je een subklasse gebruikt.
+
+##### Nadelen
+Objectgeoriënteerd programmeren heeft echter ook een aantal nadelen. Of, beter gezegd: Er is ook wel wat af te dingen van dit mooie programmeerparadigma:
+
+- Objectgeoriënteerd programmeren is moeilijk en kost veel tijd om een goed objectgeoriënteerd ontwerp te maken
+- Het uitvoeren van een objectgeoriënteerd programma kost meer computerkracht en -geheugen dan de oudere manieren van programmeren. Er is sprake van meer overhead.
+- Andere vormen van programmeren (zoals procedureel, functioneel of logisch programmeren) bieden voor bepaalde problemen een veel betere oplossing dan objectgeorienteerd programmeren.
+  
+### Hoofdstuk 4 - C++, polymorfie (Extra voor knikkerbaan, geen toetsstof T8)
 Je hebt nu op een redelijk niveau objectgeoriënteerd leren programmeren in JavaScript. Zoals eerder gezegd heb je, misschien zonder dat je het wist, ook al in C++ object georiënteerd geprogrammeerd. Neem bijvoorbeeld het gebruik van de Seriële Communicatie tussen je Arduino en de computer. Een heel simpel Arduinoprogramma dat elke seconde een berichtje stuurt, ziet er zo uit:
 
 ```c++
@@ -760,28 +784,3 @@ Gaat net zoals bij i=0, maar dan voor het laatste object van `lampen`.
 De aanroep van `update` kan, omdat we zeker weten dat de objecten in de array `lampen` die methode hebben. Omdat één van die objecten echter een subklasse van `Lamp` is, (namelijk `KnipperLamp`) die een eigen implementatie van `update` heeft, wordt in dat geval *die* code uitgevoerd. In principe hoeven we hier echter helemaal geen rekening mee te houden. In de for-loop mag je uitgaan van lamp-objecten.
 
 Wanneer een object / functie / methode in verschillende scenario's zich anders gedraagt, spreken we in de informatica van **polymorfisme**. Je komt dit ook op andere manieren tegen. De operator `+` kan in C++ zowel gebruikt worden om integers bij elkaar op te tellen, maar ook om strings aan elkaar vast te plakken.
-
-
-#### Voor- en nadelen van objectgeoriënteerd programmeren
-
-Objectgeoriënteerd programmeren is al tientallen jaren een populaire programmeerparadigma. Dit komt omdat deze manier van programmeren een aantal voordelen heeft die het erg aantrekkelijk maken.
-
-##### Voordelen
-
-###### Modulariteit
-Objectgeoriënteerd programmeren vereist dat een programma in modules wordt opgebouwd. Dit al handig bij kleine programma's, maar werkt geweldig bij grote systemen die door hun omvang door uit verschillende deelsystemen bestaat die elk door andere personen of teams worden ontwikkeld. Bij objectgeoriënteerd programmeren kun je, als eenmaal is vastgelegd welke methode een klasse heeft, deze onafhankelijk van andere klassen implementeren.
-
-###### Inkapseling
-In eerdere vormen van programmeren was het deels mogelijk om een programma in modules te ontwikkelen, maar data was dan gemakkelijk toegankelijk voor allerlei delen van de programmacode, ook delen die de data niet zouden mogen veranderen.
-
-Door *inkapseling* van gegevens binnen klasse is het gemakkelijker om deze gegevens te 'beschermen'. Ze zijn ontoegankelijk voor andere stukken programmeercode en daardoor is het gemakkelijker om regels over de data (zoals dat een waarde nooit kleiner mag zijn van 0) af te dwingen.
-
-###### Flexibel hergebruik
-Het is met behulp van objectgeoriënteerd programmeren erg gemakkelijk om code opnieuw te gebruiken in een andere context. Het principe van overerving speelt hierbij een belangrijke rol. Algemene eigenschappen van een klasse definieer je in een superklasse, specifieke eigenschappen in een subklasse. De subklassen gebruik je dan op verschillende plekken in je programma, of zelfs over meerdere programma's. Hierdoor hoef je de algemene code maar één keer te schrijven en hergebruik je deze code dus telkens als je een subklasse gebruikt.
-
-##### Nadelen
-Objectgeoriënteerd programmeren heeft echter ook een aantal nadelen. Of, beter gezegd: Er is ook wel wat af te dingen van dit mooie programmeerparadigma:
-
-- Objectgeoriënteerd programmeren is moeilijk en kost veel tijd om een goed objectgeoriënteerd ontwerp te maken
-- Het uitvoeren van een objectgeoriënteerd programma kost meer computerkracht en -geheugen dan de oudere manieren van programmeren. Er is sprake van meer overhead.
-- Andere vormen van programmeren (zoals procedureel, functioneel of logisch programmeren) bieden voor bepaalde problemen een veel betere oplossing dan objectgeorienteerd programmeren.
