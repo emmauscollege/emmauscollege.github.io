@@ -32,8 +32,6 @@ jOOP geeft geen kant-en-klare oplossingen, maar stelt vragen, geeft hints en hel
 ## Naslagmateriaal (ook beschikbaar bij toets)
 - [Naslagmateriaal objectgeoriënteerd programmeren](objectoriented_naslagmateriaal.pdf)
 - [Naslagmateriaal JavaScript en p5js](syntaxblad-javascript.pdf)
-- [Naslagmateriaal C++ en Arduino](syntaxblad-arduino-c++.pdf)
-
 
 ## Leerdoelen
 - Je weet wat het verschil is tussen een klasse en object.
@@ -56,8 +54,7 @@ jOOP geeft geen kant-en-klare oplossingen, maar stelt vragen, geeft hints en hel
 - Je kent drie voordelen en drie nadelen van objectgeoriënteerd programmeren.
 
 ## Oefentoets
-- [Oefentoets](objectoriented_oefenopgaven.pdf) (vraag 5 moet je overslaan)
-- [Antwoordwoorden oefentoets](objectoriented_oefenopgaven_antwoorden.pdf)
+Ga voor de oefentoets naar Woots. Hier kan je de oefentoets zelf maken en nakijken. Bij vragen kan je je docent mailen op Magister.
 
 ## Opfrissen Javascript
 Voor het geval Javascript een beetje is weggezakt, is dit een manier om alles weer op te frissen:
