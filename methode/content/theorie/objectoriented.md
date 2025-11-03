@@ -14,7 +14,8 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 ## Opdrachten
 Schrijf je in voor een opdracht en ga er mee aan de slag in GitHub code spaces.
 - Verwerkingsopdrachten. Deze opdrachten zijn verplicht en maak je om de uitleg te verwerken<br/>
-  Intekenen: [6V.in1](https://classroom.github.com/a/dX09c6X8), [6V.in2](https://classroom.github.com/a/f3xKs0oi)
+  Intekenen: [6V.in1](https://classroom.github.com/a/dX09c6X8), [6V.in2](https://classroom.github.com/a/f3xKs0oi) <br/>
+  [Download oplossingen hier](../OOP-verwerkingsopdrachten-oplossingen.zip).
 - Wil je naast de verwerkingsopdrachten met een spelletje ervaren waarom objectgeoriënteerd programmeren handig werkt? Bouw het appelspel [theorie](../objectoriented_theorie) uit de [lespresentatie](objectoriented_lespresentatie.pdf) zelf na<br/>
   Intekenen: [6V.in1](https://classroom.github.com/a/hQlrZ9M0), [6V.in2](https://classroom.github.com/a/3l4YwUxq)
 - Wel je echt ergens je tanden in kunnen zetten om objectgeoriënteerd te programmeren? Maak de [epidemie simulator](../objectoriented_simulator_opdracht) <br/>
