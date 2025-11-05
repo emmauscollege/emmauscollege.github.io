@@ -114,29 +114,23 @@ googleAnalytics = "G-DF99ESV8P9"
     url = "https://www.khanacademy.org/computing/computer-programming/"
     weight = 11
 
+ [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-book'></i> PTA"
+    identifier = "pta"
+    url = "methode/static/planning/PTA.xlsx"
+    weight = 12
+
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-hammer'></i> GitHub"
     identifier = "githubtool"
     url = "https://github.com/"
     weight = 20
-  
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-hammer'></i> GitPod"
-    identifier = "gitpodtool"
-    url = "https://gitpod.io"
-    weight = 21
 
  [[Languages.en.menu.shortcuts]]
     name = "<i class='fa fa-graduation-cap'></i> Woots"
     identifier = "wootstool"
     url = "https://app.woots.nl"
     weight = 23
-
- [[Languages.en.menu.shortcuts]]
-    name = "<i class='fa fa-comments'></i> Discord"
-    identifier = "discordtool"
-    url = "https://discord.com/app"
-    weight = 24
 
  [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-tags'></i> Roboticapagina"
