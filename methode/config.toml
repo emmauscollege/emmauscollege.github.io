@@ -117,7 +117,7 @@ googleAnalytics = "G-DF99ESV8P9"
  [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-book'></i> PTA"
     identifier = "pta"
-    url = "methode/static/planning/PTA.xlsx"
+    url = "planning/PTA.xlsx"
     weight = 12
 
   [[Languages.en.menu.shortcuts]]
