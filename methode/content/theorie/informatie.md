@@ -39,12 +39,12 @@ Informatie digitaal
 3.	Je kunt binaire getallen omzetten naar decimale getallen en andersom.
 4.	Je kunt binaire getallen omzetten naar hexadecimale getallen en andersom.
 5.	Je kunt decimale getallen omzetten naar hexadecimale getallen en andersom.	
-6.	Je weet wat het verschil is tussen ASCII en Unicode en kunt uitleggen hoe ze tekst digitaliseren.
-7.	Je kunt uitleggen hoe het RGB-kleurenmodel en het CMYK-kleurmodel werken, je kunt de verschillen tussen beide kleurmodellen benoemen en je kunt de modellen gebruiken om kleuren te maken en kleuren te veranderen.
-8.	Je kent de betekenis van het begrip resolutie
-9.	Je kunt uitleggen hoe plaatjes worden opgeslagen door een computer
-10.	Je kent verschillende bestandsformaten voor plaatjes, zoals bmp, gif, jpg en png en de eigenschappen waarin ze van elkaar verschillen
-11.	Je kunt aangeven welk bestandsformaat voor plaatjes het best geschikt is voor een beschreven situatie
+6.	Je kunt uitleggen hoe het RGB-kleurenmodel en het CMYK-kleurmodel werken, je kunt de verschillen tussen beide kleurmodellen benoemen en je kunt de modellen gebruiken om kleuren te maken en kleuren te veranderen.
+7.	Je kent de betekenis van het begrip resolutie
+8.	Je kunt uitleggen hoe plaatjes worden opgeslagen door een computer
+9.	Je kent verschillende bestandsformaten voor plaatjes, zoals bmp, gif, jpg en png en de eigenschappen waarin ze van elkaar verschillen
+10.	Je kunt aangeven welk bestandsformaat voor plaatjes het best geschikt is voor een beschreven situatie
+11.	Je weet wat het verschil is tussen ASCII en Unicode en kunt uitleggen hoe ze tekst digitaliseren.
 12.	Je kunt uitleggen hoe muziek wordt opgeslagen door een computer
 13.	Je kunt uitleggen hoe video wordt opgeslagen door een computer
 14.	Je kunt uitleggen wat een extensie is en waar deze voor dient
