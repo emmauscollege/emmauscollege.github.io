@@ -27,10 +27,10 @@ Khanacademy, module Intro to HTML/CSS
 - [Uitleg: HTML tags](1.2-html-tags.pptx)
 - [Uitleg: CSS selectors en propteries](1.3-css-selectors-en-properties.pptx)
 - [Uitleg: Boxmodel](1.4-boxmodel.pptx)
-
 - [Theorie](../webdesign_theorie)
-
-De overige presentaties volgen later. De slides zijn steeds voorafgaand aan de les online beschikbaar.
+- [Invul samenvatting](invul-samenvatting.pdf)
+De oplossing van de invul samenvatting staat niet online.
+Gebruik Khan academy, Google, Klasgenoten, ChatGPT, ... om de samenvatting in te vullen. 
 
 ## Leerdoelen voor de toets
 HTML
