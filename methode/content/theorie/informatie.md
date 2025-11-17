@@ -12,6 +12,7 @@ We gebruiken in deze module de volgende tools:
 
 ## Presentaties & Oefeningen
 - [Presentatie: Bits 'n Bytes](Bits-n-Bytes.pptx)
+- [Presentatie: Talstelsels](Talstelsels.pptx)
 
 
 ## Oefeningen
