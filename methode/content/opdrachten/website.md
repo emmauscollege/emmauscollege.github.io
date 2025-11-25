@@ -57,18 +57,17 @@ Het cijfer dat je voor je PO krijgt wordt vanuit verschillende invalshoeken bepa
 
 Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de minimale eisen. Werk dat niet voldoet aan de minimale eisen krijgt het cijfer 1,0. De minimale eisen zijn:
 - De inhoud van je webshop is moreel verantwoord: het is niet beledigend, visueel gewelddadig of op andere manieren onfatsoenlijk.
-- Natuurlijk mag je overleggen met klasgenoten en mag je op internet kijken hoe je bepaalde dingen kunt maken. Let wel op dat je geen plagiaat pleegt. Je mag maximaal 5 regels code overnemen van andere leerlingen of internet en je schrijft in het commentaar erbij waar je het voorbeeld vandaan hebt. 
-- Je gebruikt de startcode die je krijgt.
 - Je maakt minimaal 1 hoofdpagina en 3 subpagina's (meer mag).
 - Je gebruikt het stappenplan dat bij deze opdracht gegeven is.
-- Je mag AI gebruiken om vragen te stellen en uitleg te krijgen, maar je mag geen code overnemen. Je moet alles zelf kunnen uitleggen en binnen een korte tijd kunnen aanpassen, anders krijg je een 1.
+- Natuurlijk mag je overleggen met klasgenoten en mag je op internet kijken hoe je bepaalde dingen kunt maken. Let wel op dat je geen plagiaat pleegt. Je moet alle code zelf kunnen uitleggen en binnen een korte tijd kunnen aanpassen naar een gevraagde variant, anders krijg je een 1.
 
 **Ontwerpfase**
 Enkele punten waarop gelet kan worden bij de beoordeling van de ontwerpfase zijn
 - Inhoud is logisch verdeeld over verschillende pagina's
 - Er is een sitemap aanwezig waar duidelijk wordt hoe pagina's naar elkaar linken
 - Er is een passend en mooi kleurenstaal toegevoegd
-- Er zijn 1-3 wireframes uitgewerkt over hoe de lay-out van verschillende pagina's eruit moet zien
+- Er zijn 1-3 wireframes uitgewerkt over hoe de lay-out van verschillende pagina's eruit moet zien.
+- Het gehele document is duidelijk en mooi vorm gegeven
 
 **Code structuur**
 Enkele punten waarop gelet kan worden bij de beoordeling van de code structuur zijn
@@ -83,14 +82,13 @@ Enkele punten waarop gelet kan worden bij de beoordeling van de code structuur z
 **Visueel Resultaat**
 Enkele punten waarop gelet kan worden bij de beoordeling van visueel resultaat zijn
 - De vormgeving ziet er aantrekkelijk uit en nodigt uit om verder te kijken op je website.
-- De inhoud is compleet en informatief, de teksten heb je niet klakkeloos gekopieerd van een andere website. 
-- De website is goed te bekijken op gangbare browsers en computers met verschillende schermresoluties. Het is een pre als je website er op een telefoon ook goed uitziet.
+- De vormgeving wijkt (sterk) af van de template.
+- De website is goed te bekijken op gangbare browsers en computers met verschillende schermresoluties.
 - De uitlijning van de verschillende onderdelen op je website is netjes.
-- Je respecteert auteursrecht, daar waar je voorbeelden of plaatjes van anderen gebruikt geef je tenminste in commentaar de bron aan.
 
 **Techniek**
 Enkele punten waarop gelet kan worden bij de beoordeling van techniek zijn
-- Je laat zien dat je de in de les aangereikte technieken begrijpt en op een nette manier kan toepassen, hierbij hoort zeker het gebruik van floats om een nette layout te maken.
+- Je laat zien dat je de in de les aangereikte technieken begrijpt en op een nette manier kan toepassen, hierbij hoort zeker het gebruik van floats om een nette layout te maken, die afwijkt van de template.
 - Je laat zien dat je in staat bent om zelf nieuwe dingen kunt toevoegen die voortbouwen op wat je al geleerd hebt. 
 - Je hebt 1-3 verschillende pagina lay-outs over je website. Hoe meer verschillende (goede/correcte/logische) layouts hoe beter je score. 
 - Je navigatie op je site werkt naar behoren en volgt je sitemap uit de ontwerpfase
@@ -99,7 +97,6 @@ Enkele punten waarop gelet kan worden bij de beoordeling van techniek zijn
 
 **Inzet en planning**
 - Je toont inzet tijdens de lessen
-- De planning is vooraf gemaakt, gevolgd en als nodig bijgesteld.
 - Het werk is verdeeld over de weken waarin aan de opdracht kon worden gewerkt, dit blijkt onder andere uit de commits in Github.
 {{% /expand %}}
 
@@ -109,6 +106,17 @@ Enkele punten waarop gelet kan worden bij de beoordeling van techniek zijn
 - Je zorgt dat alle bestanden in die nodig zijn om je website correct te laten werken in GitHub staan, dit zijn ten minste: _index.html_, _3 html-bestanden_ voor de subpagina's en _style.css_. Als je plaatjes gebruikt, dan staan die er ook bij. Verder staan in het mapje ontwerpfase zowel ontwerpfase versie 1 als versie 2. 
 - Uit de versiegeschiedenis in GitHub blijkt wanneer je wat gedaan hebt.
 - De laatste versie van je PO die op het moment van de deadline in GitHub staat, wordt gebruikt voor de beoordeling.
+{{% /expand %}}
+
+{{% expand "AI gebruik" %}}
+**Gebruik van AI bij het maken van je website:**
+Je mag AI gebruiken om je te helpen bij het maken van je praktische opdracht, maar er gelden belangrijke voorwaarden:
+- Je moet alle code die je gebruikt kunnen uitleggen. Tijdens de beoordeling kan ik vragen stellen over jouw bestanden. Kun je het niet uitleggen, dan beschouw ik het als niet-eigen werk en krijg je een 1. **Er is geen herkansing voor dit PO**.
+- Je moet kleine aanpassingen in de code snel zelf kunnen uitvoeren. AI mag je ondersteunen, maar jij moet begrijpen wat er gebeurt. Dit wordt getest doormiddel van het vragen om een kleine aanpassing door te voeren.
+- Gebruik vooral de template die je al gekregen hebt. Laat AI deze template niet volledig aanpassen. Als je de structuur te veel verandert, kan de docent je later niet goed helpen.
+- Neem slechts kleine stukjes code over. Vraag AI bijvoorbeeld om uitleg, een stukje CSS of een oplossing voor één specifiek probleem. Als je grote blokken code overneemt, is de kans groot dat je het niet begrijpt en dat merk ik direct tijdens de beoordeling.
+
+Kort samengevat: AI is een hulpmiddel, geen vervanging van jouw eigen inzicht. Gebruik het slim, neem kleine stukken over en zorg dat je altijd weet wat je code doet. Succes!
 {{% /expand %}}
 
 ## Stappenplan
