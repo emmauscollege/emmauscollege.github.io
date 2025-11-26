@@ -39,7 +39,8 @@ Informatie digitaal
 2.	Je kunt het verschil tussen de klassieke (binaire) en SI-eenheden voor kilo-, mega-, giga- en terabyte uitleggen én berekenen.
 3.	Je kunt binaire getallen omzetten naar decimale getallen en andersom.
 4.	Je kunt binaire getallen omzetten naar hexadecimale getallen en andersom.
-5.	Je kunt decimale getallen omzetten naar hexadecimale getallen en andersom.	
+5.	Je kunt decimale getallen omzetten naar hexadecimale getallen en andersom.
+<!-- 6.	<em>Alleen vwo:</em> Je kunt twee binaire getallen optellen. -->	
 6.	Je kunt uitleggen hoe het RGB-kleurenmodel en het CMYK-kleurmodel werken, je kunt de verschillen tussen beide kleurmodellen benoemen en je kunt de modellen gebruiken om kleuren te maken en kleuren te veranderen.
 7.	Je kent de betekenis van het begrip resolutie
 8.	Je kunt uitleggen hoe plaatjes worden opgeslagen door een computer
