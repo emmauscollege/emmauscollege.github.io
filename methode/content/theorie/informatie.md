@@ -14,6 +14,7 @@ We gebruiken in deze module de volgende tools:
 Deel 1:
 - [Presentatie: Bits 'n Bytes](Bits-n-Bytes.pptx)
 - [Presentatie: Talstelsels](Talstelsels.pptx)
+
 Deel 2:
 - [Presentatie: Kleuren en Plaatjes](Kleuren-en-Plaatjes.pptx)
 - [Presentatie: Tekst, geluid, video en compressie](Tekst-geluid-video-en-compressie.pptx)
@@ -48,7 +49,6 @@ Deel 2:
 11.	Je kunt uitleggen wat een bestandsformaat/extensie is en waar deze voor dient
 12.	Je kent verschillende bestandsformaten voor plaatjes (bmp, jpg/jpeg, png, webp, svg en  gif) en de eigenschappen waarin ze van elkaar verschillen.
 13.	Je kunt aangeven welk bestandsformaat voor plaatjes het best geschikt is voor een beschreven situatie.
-
 14.	Je weet wat de verschillen zijn tussen ASCII, Unicode en UTF-8 en kunt uitleggen hoe ze tekst digitaliseren.
 15.	Je kunt uitleggen hoe geluid wordt opgeslagen door een computer en kunt rekenen met en toelichten wat sample rate en bitdiepte betekenen.
 16.	Je kunt uitleggen hoe video wordt opgeslagen door een computer en kunt rekenen met en toelichten wat frames per second betekenen.
