@@ -17,7 +17,7 @@ De opdracht in het kort is: Maak je eigen informatieve website over een zelfgeko
 Je schrijft je in via Github Classroom (login met je Google account).
 
 - [hier intekenen voor 4H](https://classroom.github.com/a/a5gD3JQe)
-- [hier intekenen voor 4V](https://classroom.github.com/a/4hkm4cJA)
+<!-- - [hier intekenen voor 4V](https://classroom.github.com/a/4hkm4cJA) -->
 
 GitHub is een online platform waar je code kunt opslaan, delen en samen aan projecten kunt werken. Een soort “Google Drive voor programmeercode”. Via GitHub Classroom krijg je van je docent een link naar een opdracht. Die opent een eigen map (repository) waarin je kunt werken. Met GitHub Codespaces kun je die map rechtstreeks in je browser openen zonder iets te installeren, je kunt er meteen programmeren, uitvoeren en testen.
 
