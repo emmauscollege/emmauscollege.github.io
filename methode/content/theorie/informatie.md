@@ -24,15 +24,19 @@ Deel 2:
 Informatica Actief, module informatie digitaal
 
 Deel 1:
-1. [Bits en Bytes](https://moodle.informatica-actief.nl/course/view.php?id=742#section-5) (alleen theorie 1 t/m 5)
-2. [Talstelsels: decimale en binaire getallen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-6) (alleen theorie 1 t/m 9)
+1. [Onderwerp 2: Bits en Bytes](https://moodle.informatica-actief.nl/course/view.php?id=742#section-5) (alleen theorie 1 t/m 5)
+2. [Onderwerp 3: Talstelsels: decimale en binaire getallen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-6) (alleen theorie 1 t/m 9)
+
+Verdieping (geen toetsstof):
+1. [Onderwerp 4: Rekenen met binaire getallen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-7) (alleen theorie 1 t/m 5)
+2. [Verdieping 2: andere getallen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-14) (alleen theorie 1 t/m 5)
 
 Deel 2:
-1. [Digitale afbeeldingen, pixels met kleur](https://moodle.informatica-actief.nl/course/view.php?id=742#section-4) (alleen theorie 1 t/m 7)
-2. [Digitale tekst](https://moodle.informatica-actief.nl/course/view.php?id=742#section-8) (alleen theorie 1 t/m 9)
-3. [Verschillende soorten afbeeldingen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-9) (alleen theorie 1 t/m 12)
-4. [Bewegend beeld en geluid](https://moodle.informatica-actief.nl/course/view.php?id=742#section-10) (alleen theorie 1 t/m 7)
-5. [Digitale informatie in bestanden](https://moodle.informatica-actief.nl/course/view.php?id=742#section-11) (alleen theorie 1 t/m 5)
+1. [Onderwerp 1: Digitale afbeeldingen, pixels met kleur](https://moodle.informatica-actief.nl/course/view.php?id=742#section-4) (alleen theorie 3 t/m 6)
+2. [Onderwerp 6: Verschillende soorten afbeeldingen](https://moodle.informatica-actief.nl/course/view.php?id=742#section-9) (alleen theorie 1 t/m 12)
+3. [Onderwerp 8: Digitale informatie in bestanden](https://moodle.informatica-actief.nl/course/view.php?id=742#section-11) (alleen theorie 1 t/m 5)
+4. [Onderwerp 5: Digitale tekst en standaardisering](https://moodle.informatica-actief.nl/course/view.php?id=742#section-8) (alleen theorie 1 t/m 9)
+5. [Onderwerp 7: Bewegend beeld en geluid](https://moodle.informatica-actief.nl/course/view.php?id=742#section-10) (alleen theorie 1 t/m 7)
 
 ## Leerdoelen voor de toets
 1.	Je kunt uitrekenen uit hoeveel bits of bytes een kilobyte, megabyte, gigabyte of terabyte bestaat, en hoeveel combinaties je ermee kunt maken.
