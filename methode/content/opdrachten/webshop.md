@@ -12,7 +12,7 @@ De opdracht in het kort is: Maak in groepjes van twee je eigen webshop. Je gebru
 {{% expand "Inschrijven" %}}
 Je schrijft je in via Github Classroom (login met je github account).
 - [5Vin1 CAM 25/26](https://classroom.github.com/a/MsCS6MNK))
-- [5Vin2 CAM 25/26]
+- [5Vin2 CAM 25/26](https://classroom.github.com/a/VDMmARsy)
 
 De teamnaam die je invult is de voornamen van de leerlingen in je team, gescheiden door een streepje.<br>
 Bijvoorbeeld piet-truus.
