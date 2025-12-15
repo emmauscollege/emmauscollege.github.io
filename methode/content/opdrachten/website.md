@@ -93,7 +93,7 @@ Enkele punten waarop gelet kan worden bij de beoordeling van techniek zijn
 - Je laat zien dat je in staat bent om zelf nieuwe dingen kunt toevoegen die voortbouwen op wat je al geleerd hebt. 
 - Je hebt 1-3 verschillende pagina lay-outs over je website. Hoe meer verschillende (goede/correcte/logische) layouts hoe beter je score. 
 - Je navigatie op je site werkt naar behoren en volgt je sitemap uit de ontwerpfase
-- Je gebruikt moeilijkere elementen op een correcte en logische manier op je webpagina zoals: een tabel, span, div, padding, border, maging, float en clear
+- Je gebruikt moeilijkere elementen op een correcte en logische manier op je webpagina zoals: een tabel, span, div, padding, border, margin, float en clear
 
 
 **Inzet en planning**
