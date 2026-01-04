@@ -47,10 +47,10 @@ Verdiepingsopdrachten
 ## Leerdoelen voor de toets
 Programmeertalen
 1. Je kunt uitleggen wat machinetaal is.
-1. Je kunt uitleggen wat een compiler is.
+1. Je kunt uitleggen wat een compiler en interpreter zijn en hoe deze van elkaar verschillen.
 1. Je kunt uitleggen wat een library is.
-1. Je kunt drie hogere programmeertalen opnoemen.
-1. Je kunt uitleggen wat er binnen de informatica bedoeld wordt met het begrip grammatica.
+1. Je kunt de rol van processor, geheugen en bus benoemen en uitleggen hoe ze samenwerken.
+1. Je kunt uitleggen waarom verschillende programmeertalen bestaan.
 1. Je kunt uitleggen wat een variabele is.
 1. Je kunt uitleggen wat declareren en definiëren van een variabele is.
 1. Je kunt uitleggen wat een datatype is
