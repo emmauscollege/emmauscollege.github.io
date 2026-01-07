@@ -35,15 +35,6 @@ Verdiepingsopdrachten
 1. [My Pong Game](https://www.khanacademy.org/computer-programming/my-pong-from-challenge-bouncy-ball/6690498551267328) voor als je oefeningen 1 t/m 11 af hebt
 2. [My Galaxy](https://www.khanacademy.org/computer-programming/my-galaxy/6610681495601152) voor als je oefeningen 1 t/m 15 af hebt
 
-## Uitleg
-
-{{<video id="PLpTljPS--R5DwKVFeOrwrveKeTsR3StJr">}}
-
-## Naslagmateriaal
-
-- [Lespresentatie programmeren (havo)](T3_Lespresentatie_programmeren_havo_v20230101.pptx)
-- [Collegesheets programmeren (vwo)](T3_Collegesheets_programmeren_vwo_1-6_v20230224.pptx) (heel dik)
-
 ## Leerdoelen voor de toets
 Programmeertalen
 1. Je kunt uitleggen wat machinetaal is.
@@ -89,5 +80,12 @@ Javascript
 
 ## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
+
+## Oud materiaal
+
+{{<video id="PLpTljPS--R5DwKVFeOrwrveKeTsR3StJr">}}
+
+- [Lespresentatie programmeren (havo)](T3_Lespresentatie_programmeren_havo_v20230101.pptx)
+- [Collegesheets programmeren (vwo)](T3_Collegesheets_programmeren_vwo_1-6_v20230224.pptx) (heel dik)
 
 
