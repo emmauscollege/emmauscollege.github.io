@@ -36,47 +36,50 @@ Verdiepingsopdrachten
 2. [My Galaxy](https://www.khanacademy.org/computer-programming/my-galaxy/6610681495601152) voor als je oefeningen 1 t/m 15 af hebt
 
 ## Leerdoelen voor de toets
-Programmeertalen
+Programmeren kennen
 1. Je kunt uitleggen wat machinetaal is.
 1. Je kunt uitleggen wat een compiler en interpreter zijn en hoe deze van elkaar verschillen.
 1. Je kunt uitleggen wat een library is.
 1. Je kunt de rol van processor, geheugen en bus benoemen en uitleggen hoe ze samenwerken.
 1. Je kunt uitleggen waarom verschillende programmeertalen bestaan.
-1. Je kunt uitleggen wat een variabele is.
-1. Je kunt uitleggen wat declareren en definiëren van een variabele is.
-1. Je kunt uitleggen wat een datatype is
-1. Je kent de datatypen boolean, number en string en begrijpt welke waarden erin opgeslagen worden
-1. Je kunt uitleggen wat controlestructuren zijn en je kent de volgende voorbeelden: if-statement, for-loop, while-loop.
-1. Je kunt uitleggen waar abstractie voor dient.
-1. Je kunt uitleggen wat een functie is.
-1. Je kunt uitleggen wat declareren, definiëren en aanroepen van een functie is.
-1. Je kunt uitleggen wat een parameter van een functie is.
-1. Je kunt uitleggen wat het resultaat van een functie is.
+1. Je kunt uitleggen wat een variabele is en kunt uitleggen wat het declareren en definiëren van een variabele is.
+1. Je kunt uitleggen wat een datatype is en kent de datatypen boolean, number en string en begrijpt welke waarden erin opgeslagen worden.
 1. Je kunt uitleggen wat het verschil is tussen globale en lokale variabelen.
-1. Je kunt de leesbaarheid van code verbeteren door gebruik te maken van commentaar, lay-out en structuur.
+1. Je kunt uitleggen wat een functie is.
+1. Je kunt uitleggen wat definiëren en aanroepen van een functie is.
+1. Je kunt uitleggen wat een parameter en het resultaat van een functie is.
+1. Je kunt uitleggen wat een logische operator en vergelijkingsoperator is en kent de logische operatoren "en" (&&), "of" (||) en "niet" (!) en vergelijkingsoperatoren “groter dan” (>), “kleiner dan” (<), “groter-gelijk dan” (>=), “kleiner-gelijk dan” (<=), “gelijk aan” (==) en “ongelijk aan” (!=).
+1. Je kunt uitleggen hoe logische operatoren worden gebruikt in voorwaarden (conditions).
+1. Je kunt uitleggen wat controlestructuren zijn en je kent de volgende voorbeelden: if-statement, for-loop, while-loop.
+1. Je kunt uitleggen hoe een if-else constructie werkt.
+1. Je kunt uitleggen hoe een for-loop en while-loop werken en uitleggen wat de verschillen tussen beide zijn.
+1. Je kunt uitleggen wat een array is en waarvoor deze wordt gebruikt.
+1. Je kunt uitleggen wat een index van een array is en hoe je elementen in een array ermee benadert. 
 
-Javascript
-1. je kunt commentaarregels gebruiken.
-1. je kunt aangeven welke waarden bepaalde variabelen hebben aan het einde van een stukje computercode.
-1. je kunt op basis van een stukje code zelf de bijbehorende schermuitvoer tekenen.
-1. je kunt met behulp van naslagmateriaal zelf computercode schrijven om een vraag te beantwoorden.
-1. je weet hoe je in een tekening animatie aanbrengt.
-1. je begrijpt wat variabelen zijn en hoe je deze kunt gebruiken.
-1. je begrijpt wat een logische expressie is en hoe je deze kunt gebruiken.
-1. je begrijpt hoe de logische operatoren “en”, “of” en “niet” werken en je kunt deze gebruiken.
-1. je begrijpt hoe de vergelijkingsoperatoren “groter dan”, “kleiner dan”, “groter-gelijk dan”, “kleiner-gelijk dan”, “gelijk aan” en “ongelijk aan” werken en je kunt deze gebruiken.
-1. je weet wat de datatypen boolean, number en string zijn en kunt deze gebruiken.
-1. je begrijpt hoe een if-statement werkt en hoe je deze kunt gebruiken.
-1. je begrijpt hoe een while-loop en een for-loop werken en hoe je deze kunt gebruiken.
-1. je kunt een while-loop omzetten naar een for-loop en andersom.
-1. je begrijpt hoe een for-loop in een for-loop werkt en hoe je dit kunt gebruiken.
-1. je begrijpt wat arrays zijn en hoe je deze kunt gebruiken.
-1. je kunt een array doorlopen met een for-loop.
+
+Programmeren kunnen
+1. Je begrijpt wat variabelen zijn en hoe je deze kunt gebruiken en aanpassen in code.
+1. Je weet wat de datatypen boolean, number en string zijn en kunt deze gebruiken.
+1. Je kunt aangeven welke waarden bepaalde variabelen hebben aan het einde van een stukje computercode.
+1. Je begrijpt hoe een functie werkt en hoe je deze kunt gebruiken.
+1. Je begrijpt wat parameters van een functie zijn en hoe je deze gebruikt.
+1. Je begrijpt wat het resultaat van een functie is en hoe je dit gebruikt.
+1. Je begrijpt wat een logische expressie is en hoe je deze kunt gebruiken.
+1. Je begrijpt hoe de logische operatoren “en” (&&), “of” (||) en “niet” (!) werken en je kunt deze gebruiken.
+1. Je begrijpt hoe de vergelijkingsoperatoren “groter dan” (>), “kleiner dan” (<), “groter-gelijk dan” (>=), “kleiner-gelijk dan” (<=), “gelijk aan” (==) en “ongelijk aan” (!=) werken en je kunt deze gebruiken.
+1. Je begrijpt hoe een if-statement werkt en hoe je deze kunt gebruiken.
+1. Je begrijpt hoe een while-loop en een for-loop werken en hoe je deze kunt gebruiken.
+1. Je kunt een while-loop omzetten naar een for-loop en andersom.
+1. Je begrijpt hoe een for-loop in een for-loop werkt en hoe je dit kunt gebruiken.
+1. Je begrijpt wat arrays zijn en hoe je deze kunt gebruiken en aanpassen in code.
+1. Je kunt een array doorlopen met een for-loop.
 1. <em>Alleen vwo:</em> je kunt een twee-dimensionale array doorlopen met een for-loop in een for-loop
-1. je begrijpt hoe een functie werkt en hoe je deze kunt gebruiken.
-1. je begrijpt wat parameters van een functie zijn en hoe je deze gebruikt.
-1. je begrijpt wat het resultaat van een functie is en hoe je dit gebruikt.
-1. je begrijpt wat er op het syntaxblad Javascript staat en dit kunt toelichten en gebruiken.
+1. Je kunt op basis van een stukje code zelf de bijbehorende schermuitvoer tekenen.
+1. Je kunt bij een stukje code lijn per lijn uitleggen wat er gebeurd.
+1. Je weet hoe je een tekening/animatie maakt met de P5.js library. 
+1. Je kunt met behulp van naslagmateriaal zelf computercode schrijven om een vraag te beantwoorden.
+1. Je kunt de leesbaarheid van code verbeteren door gebruik te maken van commentaar, lay-out en structuur.
+1. Je begrijpt wat er op het syntaxblad Javascript staat en dit gebruiken.
 
 ## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
