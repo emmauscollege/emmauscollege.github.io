@@ -6,11 +6,7 @@ weight = 2
 Je leert hoe een computer allerlei soorten informatie opslaat.
 <!--more-->
 
-## Hulpmiddelen
-We gebruiken in deze module de volgende tools:
-1. [Informatica Actief](/tools/ia/)
-
-## Presentaties & Oefeningen
+## Presentaties
 Deel 1:
 - [Presentatie: Bits 'n Bytes](Bits-n-Bytes.pptx)
 - [Presentatie: Talstelsels](Talstelsels.pptx)
@@ -21,7 +17,8 @@ Deel 2:
 
 
 ## Oefeningen
-Informatica Actief, module informatie digitaal
+## Hulpmiddelen
+[Informatica Actief](/tools/ia/), module informatie digitaal
 
 Deel 1:
 1. [Onderwerp 2: Bits en Bytes](https://moodle.informatica-actief.nl/course/view.php?id=742#section-5) (alleen theorie 1 t/m 5)
