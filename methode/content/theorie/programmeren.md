@@ -17,6 +17,7 @@ We gebruiken in deze module de volgende tools:
 ## Presentaties & Werkbladen
 Presentaties:
 1. [Presentatie: Introductie T3 Programmeren](Introductie-T3-Programmeren.pptx)
+
 Werkbladen:
 1. [Werkblad: Introductie T3 Programmeren](Introductie-T3-Programmeren.pdf)
 
