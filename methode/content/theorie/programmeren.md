@@ -10,6 +10,9 @@ Je leert hoe je eenvoudige programma's kunt maken met de programmeertaal Javascr
 We gebruiken in deze module de volgende tools:
 1. [Khan Academy](/tools/khan/)
 
+## Leeg programma
+[Open hier een leeg JavaScript programma](https://www.khanacademy.org/computer-programming/new/pjs)
+
 ## Oefeningen
 [Khanacademy, module Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
 1. [Intro to programming](https://www.khanacademy.org/computing/computer-programming/programming#intro-to-programming)
