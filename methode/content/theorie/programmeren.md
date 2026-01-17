@@ -17,9 +17,11 @@ We gebruiken in deze module de volgende tools:
 ## Presentaties & Werkbladen
 Presentaties:
 1. [Presentatie: Introductie T3 Programmeren](Introductie-T3-Programmeren.pptx)
+2. [Presentatie: Variabelen](2-Variabelen.pptx)
 
 Werkbladen:
 1. [Werkblad: Introductie T3 Programmeren](Introductie-T3-Programmeren.pdf)
+2. [Werkblad: Variabelen](2-Variabelen.pdf)
 
 ## Oefeningen
 [Khanacademy, module Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
