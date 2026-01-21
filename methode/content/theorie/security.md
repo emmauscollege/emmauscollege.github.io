@@ -7,7 +7,6 @@ Over de beveiliging van computers en data.
 <!--more-->
 
 ## Theorie
-- [Informatica Actief - Security en Privacy](https://moodle.informatica-actief.nl/course/view.php?id=909), theorie 1 t/m 3
 - [Reader security](Module-SECURITY-H1-H6.pdf), hoofdstuk 2 t/m 6
 - [Handout lespresentaties](handout-security-2223.pdf)
 - Overig materiaal op deze pagina
@@ -27,6 +26,7 @@ Onderstaande video's horen niet bij de verplichte stof, maar kunnen wel helpen d
 ## Leerdoelen
 
 ##### Thematisch geordend:
+###### algemeen
 -  Je kent in de context van security de principes confidentiality, integrity, availability, kunt deze uitleggen en toepassen op een casus.
 -  Je kunt uitleggen wat phishing is.
 -  Je kunt uitleggen wat social engineering is.
@@ -40,19 +40,13 @@ Onderstaande video's horen niet bij de verplichte stof, maar kunnen wel helpen d
 - Je kunt werken met de analogie van Alice, Bob en Eve (of Chris).
 - Je kunt uitleggen wat een 'man-in-the-middle-attack' is.
 
-
+###### hashing
 - Je kent de algemene kenmerken van een hash(functie).
 - Je kunt een paar voorbeelden geven van populaire hash-algoritmen
 - Je kent in de context van hashing de begrippen salting en collision 
 - Je kunt verschillende toepassingen van hashing uitleggen, zoals wachtwoordverificatie, het controleren van de authenticiteit van data of het identificeren van bestanden.
 
-
-- Je kunt uitleggen welke de functies van een webcertificaat heeft en welke informatie het daarvoor bevat.
-- Je weet welke stappen een browser uitvoert om een webcertificaat te controleren.
-- Je weet wat een stamcertificaat / rootcertificate is.
-- Je kunt de rol van certificaat-autoriteiten beschrijven.
-
-
+###### encryptie
 - Je kunt uitleggen wat het verschil is tussen symmetrische en asymmetrische cryptografie en herkennen of een vorm van encryptie symmetrisch of asymmetrisch is.
 - Je begrijpt hoe de versleuteling met behulp van (Caesar)substitutie werkt en je kunt er een boodschap mee versleutelen en ontcijferen
 - Je begrijpt hoe de versleuteling met behulp van transpositie werkt en je kunt met behulp van een gegeven transpositiemethode een boodschap versleutelen en ontcijferen.
@@ -61,12 +55,17 @@ Onderstaande video's horen niet bij de verplichte stof, maar kunnen wel helpen d
 - Je weet wat de (binaire) XOR-operatie is, op welke wijze deze een rol kan vervullen bij versleuteling en kunt deze operatie toepassen.
 - Je kunt in grote lijnen uitleggen via welke vier stappen AES-encryptie werkt.
 
-
+###### Diffie-Hellman
 - Je weet hoe sleuteluitwisseling m.b.v. Diffie-Hellman plaatsvindt en kunt dit voordoen met gegeven getallen p en g.
 - Je begrijpt hoe de versleuteling met behulp van RSA werkt en je kunt er met gegeven eenvoudige sleutels m.b.v. je grafische rekenmachine een boodschap mee versleutelen en ontcijferen.
 - Je kunt met een gegeven getal p en q m.b.v. je grafische rekenmachine zelf een publiek en privé sleutelpaar genereren.
 - Je kunt uitleggen welke twee functies encryptie met een public en private sleutelpaar heeft.
 
+###### web
+- Je kunt uitleggen welke de functies van een webcertificaat heeft en welke informatie het daarvoor bevat.
+- Je weet welke stappen een browser uitvoert om een webcertificaat te controleren.
+- Je weet wat een stamcertificaat / rootcertificate is.
+- Je kunt de rol van certificaat-autoriteiten beschrijven.
 - Je kunt uitleggen welke stappen in de communicatie tussen browser en webserver plaatsvindt om een versleutelde verbinding tot stand te brengen.
 - Je kunt uitleggen wat een cookie is en welke functie een cookie heeft.
 - Je kunt het verschil tussen HTTP en HTTPS uitleggen.
@@ -119,7 +118,6 @@ Onderstaande video's horen niet bij de verplichte stof, maar kunnen wel helpen d
 ##### Behorend bij overig materiaal:
 
 - Je kunt uitleggen wat een cookie is en welke functie een cookie heeft.
-- ~Je kent de kenmerken van verschillende soorten malware (virussen, wormen, Trojaans paard, ransomware). Je weet onder andere hoe ze zich verspreiden, en wat hun typische doel of effect is.~
 - Je kunt uitleggen wat een dictionary attack is.
 - Je kent de algemene kenmerken van een hash(functie).
 - Je kunt een paar voorbeelden geven van populaire hash-algoritmen
