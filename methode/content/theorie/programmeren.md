@@ -66,7 +66,7 @@ Programmeren kennen
 1. Je kunt uitleggen wat een logische operator en vergelijkingsoperator is en kent de logische operatoren "en" (&&), "of" (||) en "niet" (!) en vergelijkingsoperatoren “groter dan” (>), “kleiner dan” (<), “groter-gelijk dan” (>=), “kleiner-gelijk dan” (<=), “gelijk aan” (==) en “ongelijk aan” (!=).
 1. Je kunt uitleggen hoe logische operatoren worden gebruikt in voorwaarden (conditions).
 1. Je kunt uitleggen wat controlestructuren zijn en je kent de volgende voorbeelden: if-statement, for-loop, while-loop.
-1. Je kunt uitleggen hoe een if-else constructie werkt.
+1. Je kunt uitleggen hoe een (geneste) if-else constructie werkt.
 1. Je kunt uitleggen hoe een for-loop en while-loop werken en uitleggen wat de verschillen tussen beide zijn.
 1. Je kunt uitleggen wat een array is en waarvoor deze wordt gebruikt.
 1. Je kunt uitleggen wat een index van een array is en hoe je elementen in een array ermee benadert. 
@@ -82,7 +82,7 @@ Programmeren kunnen
 1. Je begrijpt wat een logische expressie is en hoe je deze kunt gebruiken.
 1. Je begrijpt hoe de logische operatoren “en” (&&), “of” (||) en “niet” (!) werken en je kunt deze gebruiken.
 1. Je begrijpt hoe de vergelijkingsoperatoren “groter dan” (>), “kleiner dan” (<), “groter-gelijk dan” (>=), “kleiner-gelijk dan” (<=), “gelijk aan” (==) en “ongelijk aan” (!=) werken en je kunt deze gebruiken.
-1. Je begrijpt hoe een if-statement werkt en hoe je deze kunt gebruiken.
+1. Je begrijpt hoe een (geneste) if-statement werkt en hoe je deze kunt gebruiken.
 1. Je begrijpt hoe een while-loop en een for-loop werken en hoe je deze kunt gebruiken.
 1. Je kunt een while-loop omzetten naar een for-loop en andersom.
 1. Je begrijpt hoe een for-loop in een for-loop werkt en hoe je dit kunt gebruiken.
