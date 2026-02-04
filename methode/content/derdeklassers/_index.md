@@ -34,6 +34,8 @@ We hebben theorielessen en praktijklessen.
 - Tijdens de praktijklessen werk je aan praktische opdrachten. Een opdracht duurt meestal 5 of 10 weken. Goed plannen hoort erbij, maar je krijgt een stappenplan om je daarbij te helpen. Je werkt vaak in kleine groepjes en je hebt veel vrijheid. De docent loopt rond en is er om jullie te helpen.
 
 #### Welke praktische opdrachten gaan we doen?
+
+We zijn altijd bezig om onze lessen én onze opdrachten zo gaaf en leerzaam mogelijk te maken. Maar om je een idee te geven: op dit moment doen we door de leerjaren heen deze opdrachten:
 - statische website maken
 - 2D game maken
 - webshop maken
@@ -56,9 +58,9 @@ Ja.
 Bij de meeste vakken is het examencijfer het gemiddelde van een centraal eindexamen en schoolexamens. Het centrale eindexamen is voor alle leerlingen in Nederland hetzelfde en doe je aan het eind van je examenjaar. Schoolexamens verschillen per school. Je doet schoolexamens gespreid over de 4e, 5e en 6e klas. Bij informatica (en wiskunde D) zijn er wel schoolexamens, maar geen centraal eindexamen. Dat betekent dat je het cijfer dat je voor informatica op je diploma krijgt al weet voordat de centrale eindexamens beginnen. Een 7 of hoger voor informatica mag je gebruiken als compensatie, een onvoldoende telt mee voor je tekorten.
 
 #### Waar kan ik terecht als ik meer vragen heb?
-Kom langs bij de informatica-docenten. 
-- Meneer Cammeraat (afkorting CAM)
-- Meneer Segers (afkorting SEG)
+Kom langs bij de informatica-docenten:
+- Meneer Cammeraat (CAM)
+- Meneer Segers (SEG)
 
 Je vindt ons in lokaal B27 en lokaal B42. 
 
