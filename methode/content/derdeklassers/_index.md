@@ -12,9 +12,11 @@ Hier vind je informatie voor leerlingen uit de derde klas (en hun ouders) die mi
 
 {{<video video_id="nKIu9yen5nc">}}
 
+<!--
 ## Een rondleiding door het lokaal
 
 {{<video video_id="NcgUsJx2Y9A">}}
+-->
 
 ## Veelgestelde vragen
 
@@ -56,8 +58,7 @@ Bij de meeste vakken is het examencijfer het gemiddelde van een centraal eindexa
 #### Waar kan ik terecht als ik meer vragen heb?
 Kom langs bij de informatica-docenten. 
 - Meneer Cammeraat (afkorting CAM)
-- Meneer Van Geest (afkorting GEE)
-- Meneer Harrewijn (afkorting HAR)
+- Meneer Segers (afkorting SEG)
 
 Je vindt ons in lokaal B27 en lokaal B42. 
 
