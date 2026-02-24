@@ -21,20 +21,11 @@ padding-left: 4px ;
 </style>
 <div class="ghContributors">
   {{ $url := .Get 0 }}
-
-  {{ with resources.GetRemote $url }}
-    {{ $data := . | transform.Unmarshal }}
-
-    {{ range $data }}
-      <div>
-        <img src="{{ .avatar_url }}" class="inline" width="32" height="32"
-             style="height:32px;margin-bottom:.25em;vertical-align:middle;">
-        <label><a href="{{ .html_url }}">@{{ .login }}</a></label>
-        <span class="contributions">{{ .contributions }} commits</span>
-      </div>
-    {{ end }}
-
-  {{ else }}
-    <p>⚠️ Failed to load contributors.</p>
+  {{ range getJSON $url }}
+  <div>
+    <img src="{{.avatar_url}}" class="inline" width="32" height="32" style="height: 32px;height: 32px;margin-bottom:.25em; vertical-align:middle; ">
+    <label><a href="{{.html_url}}">@{{.login}}</a></label>
+    <span class="contributions">{{.contributions}} commits</span>
+  </div>
   {{ end }}
 </div>
