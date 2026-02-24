@@ -9,6 +9,7 @@ Over de beveiliging van computers en data.
 ## Theorie
 - [Reader security](Module-SECURITY-H1-H6.pdf), hoofdstuk 2 t/m 6
 - [Handout lespresentaties](handout-security-2223.pdf)
+- [Slides SEG](T9-Security.pptx)
 - Overig materiaal op deze pagina
 
 ## Naslagmateriaal toets
