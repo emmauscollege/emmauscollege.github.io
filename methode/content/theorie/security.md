@@ -22,6 +22,7 @@ Onderstaande video's horen niet bij de verplichte stof, maar kunnen wel helpen d
 - [Uitleg en mogelijkheden van public key cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4)
 - [Extra uitleg asymmetrische encryptie](https://www.youtube.com/watch?v=AQDCe585Lnc)
 - [De wiskundige kant van RSA-encryptie](https://www.youtube.com/watch?v=wXB-V_Keiu8)
+- [RSA met behulp van je NumWorks-rekenmachine](https://youtu.be/q66l0LptOH4)
 
 
 ## Leerdoelen
