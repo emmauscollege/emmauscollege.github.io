@@ -17,7 +17,8 @@ Over de beveiliging van computers en data.
 
 ## Uitlegvideo's
 Onderstaande video's horen niet bij de verplichte stof, maar kunnen wel helpen de stof te begrijpen of extra informatie geven als je meer wilt weten.
-- [AES-encryptie: de details](https://www.youtube.com/watch?v=O4xNJsjtN6E)
+- [AES-encryptie: door computerphile](https://www.youtube.com/watch?v=O4xNJsjtN6E)
+- [AES-encryptie: met animaties](https://www.youtube.com/watch?v=C4ATDMIz5wc)
 - [Diffie Hellman m.b.v. verf](https://www.youtube.com/watch?v=YEBfamv-_do)
 - [Uitleg en mogelijkheden van public key cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4)
 - [Extra uitleg asymmetrische encryptie](https://www.youtube.com/watch?v=AQDCe585Lnc)
@@ -44,7 +45,7 @@ Onderstaande video's horen niet bij de verplichte stof, maar kunnen wel helpen d
 
 ###### hashing
 - Je kent de algemene kenmerken van een hash(functie).
-- Je kunt een paar voorbeelden geven van populaire hash-algoritmen
+- ~~Je kunt een paar voorbeelden geven van populaire hash-algoritmen~~
 - Je kent in de context van hashing de begrippen salting en collision 
 - Je kunt verschillende toepassingen van hashing uitleggen, zoals wachtwoordverificatie, het controleren van de authenticiteit van data of het identificeren van bestanden.
 
