@@ -13,7 +13,7 @@ Over de beveiliging van computers en data.
 - Overig materiaal op deze pagina
 
 ## Naslagmateriaal toets
-- [Klik om te downloaden](referentieblad_security.pdf)
+- [Klik om te downloaden](naslagmateriaal_security.pdf)
 
 ## Uitlegvideo's
 Onderstaande video's horen niet bij de verplichte stof, maar kunnen wel helpen de stof te begrijpen of extra informatie geven als je meer wilt weten.
