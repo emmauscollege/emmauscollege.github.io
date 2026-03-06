@@ -11,51 +11,59 @@ We gebruiken in deze opdracht de volgende tools:
 1. [GitHub met Codespaces en VS Code](/tools/codespaces/) 
 
 ## Opdrachtbeschrijving
-De opdracht in het kort is: Maak in groepjes van twee je eigen spel in JavaScript. Je gebruikt de startcode en maakt gebruik van de p5js-library.
+De opdracht in het kort is: Maak in groepjes van twee je eigen spel in JavaScript. Je gebruikt de startcode en maakt gebruik van de p5js-library. Om jezelf hierop voor te bereiden doe je eerst deel 1 van de opdracht. 
 
 {{% expand "Inschrijven" %}}
 Je schrijft je in via GitHub Classroom via de onderstaande link (login met je github account).<br>
-**Letop 1:** Zorg dat je gebruikersnaam in GitHub begint met je voornaam, gevolgd door je leerlingnummer om hem uniek te maken. Je kunt je gebruikersnaam aanpassen in [GitHub -> klik op je foto rechtsboven -> Settings -> Account](https://github.com/settings/admin).<br>
-**Letop 2:** De teamnaam die je kiest bevat de gebruikersnamen van alle leerlingen in je team, bijvoorbeeld `jolanda123111-klaas123987` 
+**Letop:** De teamnaam die je kiest bevat de namen van alle leerlingen in je team, bijvoorbeeld `jolanda-klaas` 
 
-- [4H.in1 HAR 24/25 Codespaces](https://classroom.github.com/a/IAXLZyiX)
-- [4H.in2 GEE 24/25 Codespaces](https://classroom.github.com/a/lnzpxTvq)
-- [4V.in1 HAR 24/25 Codespaces](https://classroom.github.com/a/dMO4aHd6)
-- [4V.in2 HAR 24/25 Codespaces](https://classroom.github.com/a/0OqgA8UV)
-- [4H.in1 HAR 24/25 GitPod](https://classroom.github.com/a/I2wkLjCB) (oude link)
-- [4V.in1 HAR 24/25 GitPod](https://classroom.github.com/a/gk2_T9hC) (oude link)
+- [4H Git Oefening](https://classroom.github.com/a/8Zi8Hc9h)
+- [4H Game Maken](https://classroom.github.com/a/jCNQ38Ld)
+- [4V Git Oefening](https://classroom.github.com/a/Yj9Ke66f)
+- [4V Game Maken](https://classroom.github.com/a/DDss73XN)
 
-<!--
-Oude code van voor 08-02-2025:
-- [4hin1 GEE 23/24](https://classroom.github.com/a/qwUQInzi)
-- [4hin2 HAR 23/24](https://classroom.github.com/a/_Ieu5ppf)
-- [4vin1 CAM 23/24](https://classroom.github.com/a/UPa4jvJA)
-- [4vin2 HAR 23/24](https://classroom.github.com/a/ue7HtanH)
-- [4vin3 HAR 23/24](https://classroom.github.com/a/fsi7QF4E)
--->
+
 
 Nadat je jezelf helemaal ingeschreven hebt, krijg je automatisch toegang tot een repository met startcode. Er is één repository per team. Elk teamlid heeft lees- en schrijfrechten in de repository.
 {{% /expand %}}
 
 
 
-{{% expand "Game kiezen" %}}
-Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game die je kiest goedkeuren. Enkele voorbeelden van een game die je kunt maken zijn: Tennis, Flappy Bird, Snake (voorganger van Slither.io), een Break Out Game (zoals Arkanoid), een race spelletje, een eenvoudige platform game (zoals pacman), een puzzelspel enzovoort. 
+{{% expand "PO Deel 1" %}}
+In dit eerste deel van het PO leren jullie samenwerken aan code en ontwerpen jullie jullie eigen game.
 
-Beantwoord de volgende vragen voor de game die je wilt maken:
-1. Wat is het doel van het spel?
-2. Wanneer ben je af?
-3. Hoe kun je punten halen?
-4. Hoe wordt het spel steeds moeilijker?
-5. Hoe werkt de bediening van je spel?
+Programmeurs werken bijna nooit alleen. In echte softwareprojecten werken meerdere programmeurs tegelijk aan dezelfde code. Daarom gebruiken we een systeem zoals Git om veranderingen bij te houden en samen te werken.
+
+Deel 1 bestaat uit twee onderdelen.
+
+Git-oefening
+Eerst maken jullie een korte oefening waarin jullie leren samenwerken met Git.
+Jullie werken per twee leerlingen in dezelfde repository maar ieder op een eigen computer.
+
+Deze oefening is belangrijk, omdat jullie Git ook gebruiken tijdens het maken van jullie game, en dat in team werken aan dezelde code soms problemen kan opleveren.
+
+Na de Git-oefening beginnen jullie met het ontwerpen van jullie eigen game.
+
+Je bent vrij om zelf te kiezen welke game je gaat maken. Je docent moet de game die je kiest goedkeuren. Enkele voorbeelden van een game die je kunt maken zijn: Tennis, Flappy Bird, Snake (voorganger van Slither.io), een Break Out Game (zoals Arkanoid), een race spelletje, een eenvoudige platform game (zoals pacman), een puzzelspel enzovoort.
+
+Jullie bepalen samen:
+
+- of het spel singleplayer of multiplayer (2 spelers) wordt
+- wat het doel van het spel is
+- wanneer je verliest of het spel eindigt
+- hoe spelers punten kunnen halen
+- hoe het spel moeilijker wordt
+- hoe de bediening werkt
+
+Aan het einde van deel 1 hebben jullie:
+- de Git-oefening afgerond
+- een duidelijk ontwerp voor jullie game gemaakt
+
 {{% /expand %}}
 
 {{% expand "Werkwijze" %}}
-- Je maakt deze opdracht in een team van twee personen. De docent geeft aan hoe de teams gemaakt worden. Je bepaalt zelf hoe je het werk binnen je team verdeelt, zolang iedereen een gelijkwaardige bijdrage levert. 
+- Je maakt deze opdracht in een team van twee personen. De docent geeft aan hoe de teams gemaakt worden. Je bepaalt zelf hoe je het werk binnen je team verdeelt, zolang iedereen een gelijkwaardige bijdrage levert.
 - Je krijgt van de docent startcode voor deze opdracht. Deze staat klaar in een repo op GitHub. Er is één repo per team. 
-- Je maakt code in Gitpod. Elk teamlid heeft zijn eigen Gitpod omgeving.
-- Elke week (liefst vaker) slaan alle teamleden hun tussentijdse werk op in de repo op GitHub. Zo zorgen jullie ervoor dat de laatste werkende versie van jullie opdracht steeds op GitHub staat.
-- Deze opdracht maak je alsof het een echt project is. Je maakt eerst een planning. Daarna kijk je wekelijks of je nog volgens plan loopt. Als je niet volgens plan loopt, dan stuur je bij. In de les word je hiermee geholpen, maar uiteindelijk moet jij zorgen dat je op tijd klaar bent en een goed resultaat oplevert. 
 {{% /expand %}}
 
 {{% expand "Beoordeling" %}}
@@ -69,7 +77,6 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - Natuurlijk mag je overleggen met klasgenoten en mag je op internet kijken hoe je bepaalde dingen kunt maken. Let wel op dat je geen plagiaat pleegt. Je mag maximaal 5 regels code overnemen van andere leerlingen of internet en je schrijft in het commentaar erbij waar je het voorbeeld vandaan hebt. Dat geldt ook voor code die je zelf vertaalt naar het Nederlands. Overtypen van code uit een Youtube-video of een tutorial van internet volgen en dat resultaat inleveren is niet toegestaan.
 - Je gebruikt de startcode die je krijgt.
 - Je gebruikt het stappenplan dat bij deze opdracht gegeven is.
-- Een download in zip-formaat van je opdracht mag maximaal 50 MB groot zijn.
 
 **Werking en aantrekkelijkheid**
 - Spel start op
@@ -79,7 +86,6 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - Aantrekkelijk uiterlijk
 - Prettige bediening
 - Eenvoudig om mee te beginnen en moeilijker als je verder komt
-- Afwisselend
 
 **Techniek**
 - De code volgt de lijn van het template
@@ -90,7 +96,6 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 
 **Proces**
 - Je toont inzet tijdens de lessen
-- De planning is vooraf gemaakt, gevolgd en als nodig bijgesteld.
 - De taakverdeling is duidelijk en alle teamleden dragen in gelijke mate bij.
 - Het werk is verdeeld over de weken waarin aan de opdracht kon worden gewerkt, dit blijkt onder andere uit de commits in Github.
 
@@ -100,6 +105,17 @@ Voordat je een cijfer krijgt voor je PO, wordt gekeken of je werk voldoet aan de
 - Als het ingeleverde werk van een hoger niveau is dan wat je begrijpt, dan kan de docent extra vragen stellen over je opdracht en op basis daarvan je cijfer bijstellen. <br> Tip: Zorg dat jij en je teamleden je eigen en elkaars werk begrijpen.
 - Fraude wordt gemeld aan de examencommissie, daarna bepaalt de examencommissie wat er met je cijfer gebeurt. <br> Tip: Vermeld altijd de bronnen die je gebruikt hebt en zorg dat duidelijk is welk stuk van je werk op welke bron is gebaseerd. Van Youtube video's of AI-chats kun je de linken bijvoegen.
 
+{{% /expand %}}
+
+{{% expand "AI gebruik" %}}
+**Gebruik van AI bij het maken van je game:**
+Je mag AI gebruiken om je te helpen bij het maken van je praktische opdracht, maar er gelden belangrijke voorwaarden:
+- Je moet alle code die je gebruikt kunnen uitleggen. Tijdens de beoordeling kan ik vragen stellen over jouw bestanden. Kun je het niet uitleggen, dan beschouw ik het als niet-eigen werk en krijg je een 1. **Er is geen herkansing voor dit PO**.
+- Je moet kleine aanpassingen in de code snel zelf kunnen uitvoeren. AI mag je ondersteunen, maar jij moet begrijpen wat er gebeurt. Dit wordt getest doormiddel van het vragen om een kleine aanpassing door te voeren.
+- Gebruik vooral de template die je al gekregen hebt. Laat AI deze template niet volledig aanpassen. Als je de structuur te veel verandert, kan de docent je later niet goed helpen.
+- Neem slechts kleine stukjes code over. Vraag AI bijvoorbeeld om uitleg, een stukje CSS of een oplossing voor één specifiek probleem. Als je grote blokken code overneemt, is de kans groot dat je het niet begrijpt en dat merk ik direct tijdens de beoordeling.
+
+Kort samengevat: AI is een hulpmiddel, geen vervanging van jouw eigen inzicht. Gebruik het slim, neem kleine stukken over en zorg dat je altijd weet wat je code doet. Succes!
 {{% /expand %}}
 
 {{% expand "Inleveren" %}}
@@ -117,45 +133,43 @@ Je krijgt van de docent een kopie van onderstaande startcode.
 ## Stappenplan
 Werk de planning af van boven naar beneden. Vul de planning aan en stel bij terwijl je aan de opdracht werkt.
 
-{{% expand "Stap 1: uitleg, spelen, afgaan en punten" %}}
-1. maak index.html, style.css en script.js met canvas
-2. teken speler
-    - Zet je code in de functie tekenAlles()
-3. beweeg speler
-    - Zet je code in de functie beweegAlles()
-    - Kies de afmeting van speler
-    - Gebruik variabalen spelerX en spelerY als middelpunt van de speler
-4. teken je tegenspeler (vijanden of dingen die je moet pakken of doelen of ...)
-5. beweeg je tegenspeler
-6. detecteer botsing
-7. zorg dat je af kunt gaan
-8. zorg dat je punten kunt halen
-    - een simpele manier om punten te geven is de tijd meten hoe lang je het volhoudt
-9. zet punten op het scherm
-10. maak uitlegscherm en game-overscherm
+{{% expand "Stap 1: Git oefening" %}}
+Maak een team aan voor de assignment “Git Oefening” Let op: de teamnaam bevat beide namen. Volg de stappen op het werkblad.
 {{% /expand %}}
 
-{{% expand "Stap 2: bijvoorbeeld schieten of springen" %}}
-1. zelf uitwerken...
-2. zelf uitwerken...
-3. zelf uitwerken...
+{{% expand "Stap 2: ontwerp jullie spel" %}}
+Volg de stappen op het werkblad.
 {{% /expand %}}
 
-{{% expand "Stap 3: bijvoorbeeld meer tegenstanders" %}}
-1. zelf uitwerken...
-2. zelf uitwerken...
-3. zelf uitwerken...
+{{% expand "Stap 3: bouw de basis van het spel (MVP)" %}}
+1. Teken de speler
+2. Zorg dat de speler kan bewegen
+3. Teken vijanden / obstakels / doelen
+4. Laat vijanden / obstakels bewegen
+5. Detecteer botsingen
+6. Zorg dat je kunt verliezen
+7. Zorg dat je punten kunt halen
+8. Toon de score op het scherm
+9. Maak een startscherm en een game-over scherm
 {{% /expand %}}
 
-{{% expand "Stap x: meer voorbeelden voor uitbreidingen" %}}
-1. Gebruik plaatjes voor de vijanden
-2. Animeer speler
-3. Laat badges vallen die extra's aan speler geven
-4. Maak spel steeds moeilijker door toenemend aantal vijanden met tekenVijand
-5. Maak andere vijanden bij toenemen tekenVijand
-6. Laat vijanden bewegen in patronen
-7. Maak bediening met touch of bewegen van telefoon mogelijk (zorg dat toetsenbordbediening ook blijft werken)
-8. of bedenk zelf iets...
+{{% expand "Stap 4: uitbreidingen toevoegen" %}}
+
+Voeg nieuwe spelmechanieken toe:
+- bijvoorbeeld springen, schieten of verzamelen
+- maak het spel moeilijker
+- meer vijanden
+- snellere vijanden
+- verbeter de besturing
+- voeg nieuwe regels toe
+- gebruik afbeeldingen voor speler of vijanden
+- animeer speler of vijanden
+- voeg geluid toe
+- maak meerdere levels
+- voeg power-ups toe
+- maak een highscore systeem
+- maak verschillende soorten vijanden
+- of bedenk zelf een uitbreiding
 {{% /expand %}}
 
 ## Uitlegvideo's
