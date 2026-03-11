@@ -9,7 +9,7 @@ Je leert hoe je eenvoudige programma's kunt maken met de programmeertaal Javascr
 ## Hulpmiddelen
 We gebruiken in deze module de volgende tools:
 1. [Khan Academy](/tools/khan/)
-2. [Syntax blad](Syntaxblad-Javascript.pdf)
+2. [Syntax blad](syntaxblad-javascript.pdf)
 
 ## Leeg programma
 [Open hier een leeg JavaScript programma](https://www.khanacademy.org/computer-programming/new/pjs)
