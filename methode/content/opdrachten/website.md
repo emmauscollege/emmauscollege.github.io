@@ -8,7 +8,7 @@ Je gaat je eigen website maken!
 
 ## Hulpmiddelen
 We gebruiken in deze opdracht de volgende tools:
-1. [GitHub](/tools/github/) om je code op te slaan.
+1. [GitHub met Codespaces en VS Code](/tools/codespaces/) 
 
 ## Opdrachtbeschrijving
 De opdracht in het kort is: Maak je eigen informatieve website over een zelfgekozen onderwerp. Je gebruikt de startcode met HTML en CSS.
