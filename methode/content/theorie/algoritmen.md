@@ -6,6 +6,12 @@ weight = 4
 Je leert hoe je problemen kunt oplossen met algoritmen, je gebruikt daarbij flowcharts en de programmeertaal Javascript.
 <!--more-->
 
+## Leeg programma
+[Open hier een leeg JavaScript programma](https://www.khanacademy.org/computer-programming/new/pjs)
+
+## Presentaties
+1. [Presentatie 1: Wat is een algoritme en een flowchart](T4.1.pptx)
+
 ## Leerdoelen voor de toets
 1. Je kunt uitleggen wat een algoritme is
 1. Je kunt uitleggen wat een flowchart is en waarvoor je deze gebruikt
