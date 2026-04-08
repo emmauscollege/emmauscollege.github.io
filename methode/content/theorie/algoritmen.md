@@ -11,6 +11,7 @@ Je leert hoe je problemen kunt oplossen met algoritmen, je gebruikt daarbij flow
 
 ## Presentaties
 1. [Presentatie 1: Wat is een algoritme en een flowchart](T4.1.pptx)
+2. [Presentatie 2: Flowcharts maken](T4.2.pptx)
 
 ## Leerdoelen voor de toets
 1. Je kunt uitleggen wat een algoritme is
