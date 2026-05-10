@@ -15,6 +15,7 @@
 --accent: #185FA5;
 --accent-bg: #e6f1fb;
 --accent-bd: rgba(24,95,165,0.25);
+--accent-tx: #0c447c;
 --mono: 'JetBrains Mono', monospace;
 --sans: 'DM Sans', sans-serif;
 --radius-md: 8px;
@@ -25,108 +26,217 @@
 --sel: #533AB7;
 --cm: #9b9892;
 }
-.lb-wrapper { font-family: var(--sans); color: var(--text-1); padding: 1.5rem 0; }
-.lb-header { margin-bottom: 1.5rem; }
-.lb-header h2 { font-family: var(--mono); font-size: 17px; font-weight: 500; color: var(--text-1); letter-spacing: -0.01em; }
-.lb-header p { font-size: 13.5px; color: var(--text-2); margin-top: 4px; line-height: 1.6; }
-.lb-presets { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 1.25rem; }
-.lb-preset-btn {
-font-family: var(--mono); font-size: 12px; font-weight: 500;
-padding: 5px 12px; border-radius: var(--radius-md);
-border: 0.5px solid var(--border-md);
-background: var(--surface); color: var(--text-2);
-cursor: pointer; transition: background 0.12s, color 0.12s, border-color 0.12s;
+body {
+font-family: var(--sans);
+background: var(--bg);
+color: var(--text-1);
+min-height: 100vh;
+padding: 2.5rem 1.5rem;
 }
-.lb-preset-btn:hover { background: var(--surface-2); color: var(--text-1); }
-.lb-preset-btn.active { background: var(--accent-bg); color: var(--accent); border-color: var(--accent-bd); }
-.lb-workspace { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 1rem; }
-@media (max-width: 640px) { .lb-workspace { grid-template-columns: 1fr; } }
-.lb-panel { background: var(--surface); border: 0.5px solid var(--border-md); border-radius: var(--radius-lg); overflow: hidden; }
-.lb-panel-label {
-font-family: var(--mono); font-size: 10.5px; font-weight: 500;
-color: var(--text-3); text-transform: uppercase; letter-spacing: 0.07em;
-padding: 9px 14px; border-bottom: 0.5px solid var(--border);
+.wrapper { max-width: 920px; margin: 0 auto; }
+.lb-header { margin-bottom: 1.5rem; }
+.lb-header h1 {
+font-family: var(--mono);
+font-size: 18px;
+font-weight: 500;
+color: var(--text-1);
+letter-spacing: -0.01em;
+}
+.lb-header p {
+font-size: 13.5px;
+color: var(--text-2);
+margin-top: 4px;
+line-height: 1.6;
+}
+/* presets */
+.lb-presets { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 1.25rem; }
+.pb {
+font-family: var(--mono);
+font-size: 12px;
+font-weight: 500;
+padding: 5px 12px;
+border-radius: var(--radius-md);
+border: 0.5px solid var(--border-md);
+background: var(--surface);
+color: var(--text-2);
+cursor: pointer;
+transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+.pb:hover { background: var(--surface-2); color: var(--text-1); }
+.pb.on {
+background: var(--accent-bg);
+color: var(--accent);
+border-color: var(--accent-bd);
+}
+/* workspace */
+.lb-ws {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 1rem;
+margin-bottom: 1rem;
+}
+@media (max-width: 640px) { .lb-ws { grid-template-columns: 1fr; } }
+.lb-panel {
+background: var(--surface);
+border: 0.5px solid var(--border-md);
+border-radius: var(--radius-lg);
+overflow: hidden;
+}
+.lb-plabel {
+font-family: var(--mono);
+font-size: 10.5px;
+font-weight: 500;
+color: var(--text-3);
+text-transform: uppercase;
+letter-spacing: 0.07em;
+padding: 9px 14px;
+border-bottom: 0.5px solid var(--border);
 background: var(--surface-2);
 }
 /* tree editor */
-.lb-tree { padding: 10px 10px 6px; }
-.lb-node { margin-bottom: 4px; }
-.lb-node-row {
-display: flex; align-items: center; gap: 6px;
-padding: 6px 8px; border-radius: var(--radius-md);
-background: var(--surface-2); border: 0.5px solid var(--border);
+.lb-tree { padding: 10px 10px 4px; }
+.nd { margin-bottom: 4px; }
+.nr {
+display: flex;
+align-items: center;
+gap: 6px;
+padding: 6px 8px;
+border-radius: var(--radius-md);
+background: var(--surface-2);
+border: 0.5px solid var(--border);
 }
-.lb-node-children { margin-left: 18px; margin-top: 4px; padding-left: 10px; border-left: 2px solid var(--border-md); }
-.lb-dot { width: 11px; height: 11px; border-radius: 2px; flex-shrink: 0; }
-.lb-lbl { font-family: var(--mono); font-size: 11px; color: var(--text-2); min-width: 36px; flex-shrink: 0; }
-.lb-ctl { display: flex; align-items: center; gap: 5px; flex: 1; flex-wrap: wrap; }
-.lb-ctl label { font-size: 10px; color: var(--text-3); font-family: var(--mono); }
-.lb-ctl select,
-.lb-ctl input[type=text] {
-font-family: var(--mono); font-size: 11px;
-padding: 2px 5px; border-radius: 4px;
+.nc {
+margin-left: 18px;
+margin-top: 4px;
+padding-left: 10px;
+border-left: 2px solid var(--border-md);
+}
+.dot { width: 11px; height: 11px; border-radius: 2px; flex-shrink: 0; }
+.nl {
+font-family: var(--mono);
+font-size: 11px;
+color: var(--text-2);
+min-width: 36px;
+flex-shrink: 0;
+}
+.nctl { display: flex; align-items: center; gap: 5px; flex: 1; flex-wrap: wrap; }
+.nctl label { font-size: 10px; color: var(--text-3); font-family: var(--mono); }
+.nctl select,
+.nctl input[type=text] {
+font-family: var(--mono);
+font-size: 11px;
+padding: 2px 5px;
+border-radius: 4px;
 border: 0.5px solid var(--border-md);
-background: var(--surface); color: var(--text-1);
-outline: none; transition: border-color 0.12s;
+background: var(--surface);
+color: var(--text-1);
+outline: none;
+transition: border-color 0.12s;
 }
-.lb-ctl select:focus, .lb-ctl input[type=text]:focus { border-color: var(--accent); }
-.lb-ctl input[type=text] { width: 62px; }
-.lb-btn-child {
-font-family: var(--mono); font-size: 10px; color: var(--accent);
-background: var(--accent-bg); border: 0.5px solid var(--accent-bd);
-border-radius: 4px; padding: 2px 6px; cursor: pointer; flex-shrink: 0;
+.nctl select:focus,
+.nctl input[type=text]:focus { border-color: var(--accent); }
+.nctl input[type=text] { width: 62px; }
+.btn-child {
+font-family: var(--mono);
+font-size: 10px;
+color: var(--accent);
+background: var(--accent-bg);
+border: 0.5px solid var(--accent-bd);
+border-radius: 4px;
+padding: 2px 7px;
+cursor: pointer;
+flex-shrink: 0;
 transition: opacity 0.12s;
 }
-.lb-btn-child:hover { opacity: 0.75; }
-.lb-btn-rm {
-font-size: 11px; color: var(--text-3); background: none; border: none;
-cursor: pointer; padding: 0 2px; flex-shrink: 0; line-height: 1;
+.btn-child:hover { opacity: 0.7; }
+.btn-rm {
+font-size: 13px;
+color: var(--text-3);
+background: none;
+border: none;
+cursor: pointer;
+padding: 0 2px;
+flex-shrink: 0;
+line-height: 1;
 transition: color 0.12s;
 }
-.lb-btn-rm:hover { color: #a32d2d; }
-.lb-btn-add {
-font-family: var(--sans); font-size: 11.5px; color: var(--text-3);
-background: none; border: 0.5px dashed var(--border-md);
-border-radius: var(--radius-md); padding: 5px 10px;
-cursor: pointer; width: calc(100% - 20px); margin: 4px 10px 10px;
-display: flex; align-items: center; justify-content: center; gap: 4px;
+.btn-rm:hover { color: #a32d2d; }
+.btn-add {
+font-family: var(--sans);
+font-size: 12px;
+color: var(--text-3);
+background: none;
+border: 0.5px dashed var(--border-md);
+border-radius: var(--radius-md);
+padding: 6px 10px;
+cursor: pointer;
+width: calc(100% - 20px);
+margin: 5px 10px 12px;
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 5px;
 transition: color 0.12s, border-color 0.12s;
 }
-.lb-btn-add:hover { color: var(--text-1); border-style: solid; }
+.btn-add:hover { color: var(--text-1); border-style: solid; }
 /* preview */
-.lb-preview { padding: 12px; min-height: 180px; }
-.lb-preview::after { content: ""; display: table; clear: both; }
-.lb-pblock {
-min-height: 44px; border-radius: 3px;
-font-family: var(--mono); font-size: 10px; font-weight: 500;
-color: rgba(0,0,0,0.4); text-align: center;
-transition: all 0.18s ease; position: relative;
-padding: 6px 4px 4px;
+.prv { padding: 12px; min-height: 190px; }
+.prv::after { content: ""; display: table; clear: both; }
+.pb2 {
+border-radius: 3px;
+font-family: var(--mono);
+font-size: 10px;
+color: rgba(0,0,0,0.4);
+text-align: center;
+padding: 5px 3px 3px;
+min-height: 44px;
+transition: all 0.18s ease;
 }
-.lb-pblock::after { content: ""; display: table; clear: both; }
-.lb-pblock-label { display: block; margin-bottom: 3px; }
-/* code */
-.lb-code-panel { background: var(--surface); border: 0.5px solid var(--border-md); border-radius: var(--radius-lg); overflow: hidden; margin-bottom: 1rem; }
-.lb-code-inner { padding: 12px 16px; overflow-x: auto; }
-.lb-code-inner pre { font-family: var(--mono); font-size: 12px; line-height: 1.75; color: var(--text-1); white-space: pre; }
+.pb2::after { content: ""; display: table; clear: both; }
+/* code panel */
+.lb-code {
+background: var(--surface);
+border: 0.5px solid var(--border-md);
+border-radius: var(--radius-lg);
+overflow: hidden;
+margin-bottom: 1rem;
+}
+.lb-code-in { padding: 12px 16px; overflow-x: auto; }
+.lb-code-in pre {
+font-family: var(--mono);
+font-size: 12px;
+line-height: 1.75;
+color: var(--text-1);
+white-space: pre;
+}
 .kw { color: var(--kw); }
 .prop { color: var(--prop); }
 .val { color: var(--val); }
 .sel { color: var(--sel); }
 .cm { color: var(--cm); }
 /* insight */
-.lb-insight {
-background: var(--accent-bg); border: 0.5px solid var(--accent-bd);
-border-radius: var(--radius-md); padding: 10px 14px;
-font-size: 13px; color: #0c447c; line-height: 1.65;
+.lb-ins {
+background: var(--accent-bg);
+border: 0.5px solid var(--accent-bd);
+border-radius: var(--radius-md);
+padding: 10px 14px;
+font-size: 13px;
+color: var(--accent-tx);
+line-height: 1.65;
 }
-.lb-insight strong { font-weight: 500; }
-.lb-insight code { font-family: var(--mono); font-size: 11.5px; background: rgba(24,95,165,0.12); padding: 1px 5px; border-radius: 4px; }
+.lb-ins strong { font-weight: 500; }
+.lb-ins code {
+font-family: var(--mono);
+font-size: 11.5px;
+background: rgba(24,95,165,0.12);
+padding: 1px 5px;
+border-radius: 4px;
+}
 &lt;/style&gt;
-&lt;div class="lb-wrapper"&gt;
+&lt;div class="wrapper"&gt;
 &lt;div class="lb-header"&gt;
-&lt;h2&gt;div + float + width — layout builder&lt;/h2&gt;
-&lt;p&gt;Pick a preset or build your own layout. Use "add child" to nest divs inside other divs.&lt;/p&gt;</description></item><item><title>T1. Web Design met HTML en CSS</title><link>https://emmauscollege.github.io/theorie/webdesign/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/webdesign/</guid><description>&lt;p&gt;Je leert hoe je informatie op een website zet met de programmeertalen HTML en CSS.&lt;/p&gt;</description></item><item><title>T1. Web Design met HTML en CSS</title><link>https://emmauscollege.github.io/theorie/webdesign_theorie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/webdesign_theorie/</guid><description>&lt;!-- ### Introductie
+&lt;h1&gt;div + float + width — layout builder&lt;/h1&gt;
+&lt;p&gt;Pick a preset or build your own. Use "+ child" to nest divs inside other divs.&lt;/p&gt;</description></item><item><title>T1. Web Design met HTML en CSS</title><link>https://emmauscollege.github.io/theorie/webdesign/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/webdesign/</guid><description>&lt;p&gt;Je leert hoe je informatie op een website zet met de programmeertalen HTML en CSS.&lt;/p&gt;</description></item><item><title>T1. Web Design met HTML en CSS</title><link>https://emmauscollege.github.io/theorie/webdesign_theorie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/webdesign_theorie/</guid><description>&lt;!-- ### Introductie
 TODO: Schrijf introductie met uitleg $ signs
 ### Hoofdstuk 1 – HTML tags
 ### Hoofdstuk 2 – CSS Selectors en Properties --&gt;
