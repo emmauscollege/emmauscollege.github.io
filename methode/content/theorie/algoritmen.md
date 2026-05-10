@@ -13,6 +13,11 @@ Je leert hoe je problemen kunt oplossen met algoritmen, je gebruikt daarbij flow
 1. [Presentatie 1: Wat is een algoritme en een flowchart](T4.1.pptx)
 2. [Presentatie 2: Flowcharts maken](T4.2.pptx)
 
+## Oefenopdrachten
+Van volgende problemen moet je een flowchart kunnen maken + de code kunnen schrijven:
+1. [HAVO: Opdrachten](https://classroom.github.com/a/rcLMh4wY)
+2. [VWO: Opdrachten](https://classroom.github.com/a/6_nxNeP3)
+
 ## Leerdoelen voor de toets
 1. Je kunt uitleggen wat een algoritme is
 1. Je kunt uitleggen wat een flowchart is en waarvoor je deze gebruikt
