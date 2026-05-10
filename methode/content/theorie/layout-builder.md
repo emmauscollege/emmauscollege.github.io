@@ -289,7 +289,6 @@ hidden = true
 </div>
 
 <script>
-<script>
 const COLORS=[['#B5D4F4','#85B7EB','#378ADD'],['#9FE1CB','#5DCAA5','#1D9E75'],['#FAC775','#EF9F27','#BA7517'],['#F4C0D1','#ED93B1','#D4537E'],['#CECBF6','#AFA9EC','#7F77DD'],['#F0997B','#D85A30','#993C1D']];
 function dc(d,i){return COLORS[d%COLORS.length][i%3];}
  
