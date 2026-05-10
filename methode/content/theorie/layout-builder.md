@@ -1,8 +1,8 @@
----
++++
 title = "div + float + width layout builder"
 weight = 1.1
 hidden = true
----
++++
 
 {{< rawhtml >}}
 <link rel="preconnect" href="https://fonts.googleapis.com">
