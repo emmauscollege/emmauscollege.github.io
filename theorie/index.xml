@@ -7,7 +7,241 @@ TODO: Schrijf introductie met uitleg $ signs
 &lt;p&gt;In HTML bestaan er grofweg twee soorten elementen: block-elementen en inline-elementen.&lt;/p&gt;
 &lt;p&gt;Block-elementen beginnen altijd op een nieuwe regel en nemen standaard de volledige breedte van hun parent in beslag, ook al is de inhoud maar één woord. Je kunt block-elementen zien als de grote bouwstenen van je pagina. Voorbeelden zijn paragrafen (&lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt;), koppen (&lt;code&gt;&amp;lt;h1&amp;gt;–&amp;lt;h6&amp;gt;&lt;/code&gt;), lijsten (&lt;code&gt;&amp;lt;ol&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;ul&amp;gt;&lt;/code&gt;), en ook &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;. Binnen een block-element kun je zowel andere block-elementen als inline-elementen plaatsen.&lt;/p&gt;</description></item><item><title>T1a. Intellectueel eigendom</title><link>https://emmauscollege.github.io/theorie/webdesign_auteursrecht/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/webdesign_auteursrecht/</guid><description>&lt;h2 id="inleiding"&gt;Inleiding&lt;/h2&gt;
 &lt;p&gt;Tijdens het maken van je website zul je ongetwijfeld gemerkt hebben hoe gemakkelijk het is om informatie van andere webpagina’s over te nemen in die van jezelf. Het was vooraf bekend dat je voor de opdracht geen tekst mocht kopiëren zonder te citeren, maar wellicht heb je wel gebruik gemaakt van afbeeldingen, muziek, of HTML / javascript code.&lt;/p&gt;
-&lt;p&gt;Maar mag dit eigenlijk wel? Dat hangt er vanaf. Hieronder zullen we een aantal aspecten van intellectueel eigendom behandelen die je zullen helpen met het beantwoorden van de vraag of je de informatie op je website rechtmatig hebt gebruikt. Daarnaast krijg je ook informatie over het gebruiken van afbeeldingen van mensen en (software)licenties.&lt;/p&gt;</description></item><item><title>T2. Digitale informatie</title><link>https://emmauscollege.github.io/theorie/informatie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/informatie/</guid><description>&lt;p&gt;Je leert hoe een computer allerlei soorten informatie opslaat.&lt;/p&gt;</description></item><item><title>T3. Programmeren met Javascript</title><link>https://emmauscollege.github.io/theorie/programmeren/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/programmeren/</guid><description>&lt;p&gt;Je leert hoe je eenvoudige programma&amp;rsquo;s kunt maken met de programmeertaal Javascript en de p5js library.&lt;/p&gt;</description></item><item><title>T4. Algoritmen in Javascript</title><link>https://emmauscollege.github.io/theorie/algoritmen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/algoritmen/</guid><description>&lt;p&gt;Je leert hoe je problemen kunt oplossen met algoritmen, je gebruikt daarbij flowcharts en de programmeertaal Javascript.&lt;/p&gt;</description></item><item><title>T5. Databases met SQL</title><link>https://emmauscollege.github.io/theorie/databases/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/databases/</guid><description>&lt;p&gt;Je leert hoe je heel veel informatie kunt bekijken en bewaren in databases met de programmeertaal SQL.&lt;/p&gt;</description></item><item><title>T6. Robotica met Arduino</title><link>https://emmauscollege.github.io/theorie/robotica/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/robotica/</guid><description>&lt;p&gt;Je leert hoe je met behulp van toestandsgrammen kunt programmeren. Je gebruikt daarbij het Arduino platform.&lt;/p&gt;</description></item><item><title>T7. Netwerken met IP</title><link>https://emmauscollege.github.io/theorie/netwerken/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/netwerken/</guid><description>&lt;p&gt;Je leert hoe het internet van binnen werkt.&lt;/p&gt;</description></item><item><title>T8 Epidemiesimulatoropdracht</title><link>https://emmauscollege.github.io/theorie/objectoriented_simulator_opdracht/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/objectoriented_simulator_opdracht/</guid><description>&lt;h3 id="inleiding"&gt;Inleiding&lt;/h3&gt;
+&lt;p&gt;Maar mag dit eigenlijk wel? Dat hangt er vanaf. Hieronder zullen we een aantal aspecten van intellectueel eigendom behandelen die je zullen helpen met het beantwoorden van de vraag of je de informatie op je website rechtmatig hebt gebruikt. Daarnaast krijg je ook informatie over het gebruiken van afbeeldingen van mensen en (software)licenties.&lt;/p&gt;</description></item><item><title>T2. Digitale informatie</title><link>https://emmauscollege.github.io/theorie/informatie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/informatie/</guid><description>&lt;p&gt;Je leert hoe een computer allerlei soorten informatie opslaat.&lt;/p&gt;</description></item><item><title>T3. Programmeren met Javascript</title><link>https://emmauscollege.github.io/theorie/programmeren/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/programmeren/</guid><description>&lt;p&gt;Je leert hoe je eenvoudige programma&amp;rsquo;s kunt maken met de programmeertaal Javascript en de p5js library.&lt;/p&gt;</description></item><item><title>T4. Algoritmen in Javascript</title><link>https://emmauscollege.github.io/theorie/algoritmen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/algoritmen/</guid><description>&lt;p&gt;Je leert hoe je problemen kunt oplossen met algoritmen, je gebruikt daarbij flowcharts en de programmeertaal Javascript.&lt;/p&gt;</description></item><item><title>div + float + width layout builder</title><link>https://emmauscollege.github.io/theorie/layout-builder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/layout-builder/</guid><description>&lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;
+&lt;link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&amp;family=DM+Sans:wght@400;500&amp;display=swap" rel="stylesheet"&gt;
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/tabler-icons.min.css"&gt;
+&lt;style&gt;
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+--bg: #f7f6f3;
+--surface: #ffffff;
+--surface-2: #f1f0ec;
+--border: rgba(0,0,0,0.10);
+--border-md: rgba(0,0,0,0.18);
+--text-1: #1a1918;
+--text-2: #5c5a56;
+--text-3: #9b9892;
+--accent: #185FA5;
+--accent-bg: #e6f1fb;
+--accent-bd: rgba(24,95,165,0.25);
+--mono: 'JetBrains Mono', monospace;
+--sans: 'DM Sans', sans-serif;
+--radius-md: 8px;
+--radius-lg: 12px;
+--kw: #185FA5;
+--prop: #993C1D;
+--val: #3B6D11;
+--sel: #533AB7;
+--cm: #9b9892;
+}
+body {
+font-family: var(--sans);
+background: var(--bg);
+color: var(--text-1);
+min-height: 100vh;
+padding: 2.5rem 1.5rem;
+}
+.wrapper {
+max-width: 860px;
+margin: 0 auto;
+}
+/* header */
+.header { margin-bottom: 1.75rem; }
+.header h1 {
+font-family: var(--mono);
+font-size: 18px;
+font-weight: 500;
+color: var(--text-1);
+letter-spacing: -0.01em;
+}
+.header p {
+font-size: 14px;
+color: var(--text-2);
+margin-top: 5px;
+line-height: 1.6;
+}
+/* presets */
+.presets { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 1.5rem; }
+.preset-btn {
+font-family: var(--mono);
+font-size: 12px;
+font-weight: 500;
+padding: 5px 12px;
+border-radius: var(--radius-md);
+border: 0.5px solid var(--border-md);
+background: var(--surface);
+color: var(--text-2);
+cursor: pointer;
+transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+.preset-btn:hover { background: var(--surface-2); color: var(--text-1); }
+.preset-btn.active {
+background: var(--accent-bg);
+color: var(--accent);
+border-color: var(--accent-bd);
+}
+/* workspace */
+.workspace {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 1rem;
+margin-bottom: 1rem;
+}
+@media (max-width: 600px) { .workspace { grid-template-columns: 1fr; } }
+.panel {
+background: var(--surface);
+border: 0.5px solid var(--border-md);
+border-radius: var(--radius-lg);
+overflow: hidden;
+}
+.panel-label {
+font-family: var(--mono);
+font-size: 10.5px;
+font-weight: 500;
+color: var(--text-3);
+text-transform: uppercase;
+letter-spacing: 0.07em;
+padding: 9px 14px;
+border-bottom: 0.5px solid var(--border);
+background: var(--surface-2);
+}
+/* blocks editor */
+.blocks-panel { padding: 12px 14px 0; }
+.block-row {
+display: flex;
+align-items: center;
+gap: 8px;
+margin-bottom: 8px;
+padding: 8px 10px;
+border-radius: var(--radius-md);
+background: var(--surface-2);
+border: 0.5px solid var(--border);
+}
+.block-color { width: 13px; height: 13px; border-radius: 3px; flex-shrink: 0; }
+.block-label {
+font-family: var(--mono);
+font-size: 12px;
+color: var(--text-2);
+min-width: 38px;
+}
+.block-controls { display: flex; align-items: center; gap: 6px; flex: 1; flex-wrap: wrap; }
+.block-controls label {
+font-size: 11px;
+color: var(--text-3);
+font-family: var(--mono);
+}
+.block-controls select,
+.block-controls input[type=text] {
+font-family: var(--mono);
+font-size: 12px;
+padding: 3px 6px;
+border-radius: 5px;
+border: 0.5px solid var(--border-md);
+background: var(--surface);
+color: var(--text-1);
+outline: none;
+transition: border-color 0.12s;
+}
+.block-controls select:focus,
+.block-controls input[type=text]:focus { border-color: var(--accent); }
+.block-controls input[type=text] { width: 70px; }
+.remove-btn {
+font-family: var(--mono);
+font-size: 13px;
+color: var(--text-3);
+background: none;
+border: none;
+cursor: pointer;
+padding: 0 3px;
+flex-shrink: 0;
+line-height: 1;
+transition: color 0.12s;
+}
+.remove-btn:hover { color: #a32d2d; }
+.add-btn {
+font-family: var(--sans);
+font-size: 12px;
+color: var(--text-3);
+background: none;
+border: 0.5px dashed var(--border-md);
+border-radius: var(--radius-md);
+padding: 6px 10px;
+cursor: pointer;
+width: 100%;
+margin: 6px 14px 14px;
+width: calc(100% - 28px);
+transition: color 0.12s, border-color 0.12s;
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 5px;
+}
+.add-btn:hover { color: var(--text-1); border-style: solid; }
+/* preview */
+.preview-inner {
+padding: 14px;
+min-height: 200px;
+}
+.preview-inner::after { content: ""; display: table; clear: both; }
+.preview-block {
+min-height: 52px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+border-radius: 4px;
+font-family: var(--mono);
+font-size: 11px;
+font-weight: 500;
+color: rgba(0,0,0,0.45);
+line-height: 1.5;
+text-align: center;
+transition: all 0.2s ease;
+}
+/* code panel */
+.code-panel {
+background: var(--surface);
+border: 0.5px solid var(--border-md);
+border-radius: var(--radius-lg);
+overflow: hidden;
+margin-bottom: 1rem;
+}
+.code-inner { padding: 14px 18px; overflow-x: auto; }
+pre {
+font-family: var(--mono);
+font-size: 12.5px;
+line-height: 1.75;
+color: var(--text-1);
+white-space: pre;
+}
+.kw { color: var(--kw); }
+.prop { color: var(--prop); }
+.val { color: var(--val); }
+.sel { color: var(--sel); }
+.cm { color: var(--cm); }
+/* insight */
+.insight {
+background: var(--accent-bg);
+border: 0.5px solid var(--accent-bd);
+border-radius: var(--radius-md);
+padding: 11px 15px;
+font-size: 13.5px;
+color: #0c447c;
+line-height: 1.65;
+}
+.insight strong { font-weight: 500; }
+.insight code {
+font-family: var(--mono);
+font-size: 12px;
+background: rgba(24,95,165,0.12);
+padding: 1px 5px;
+border-radius: 4px;
+}
+&lt;/style&gt;
+&lt;div class="wrapper"&gt;
+&lt;div class="header"&gt;
+&lt;h1&gt;div + float + width — layout builder&lt;/h1&gt;
+&lt;p&gt;Pick a preset or tweak each block's float and width to discover how layouts emerge.&lt;/p&gt;</description></item><item><title>T5. Databases met SQL</title><link>https://emmauscollege.github.io/theorie/databases/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/databases/</guid><description>&lt;p&gt;Je leert hoe je heel veel informatie kunt bekijken en bewaren in databases met de programmeertaal SQL.&lt;/p&gt;</description></item><item><title>T6. Robotica met Arduino</title><link>https://emmauscollege.github.io/theorie/robotica/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/robotica/</guid><description>&lt;p&gt;Je leert hoe je met behulp van toestandsgrammen kunt programmeren. Je gebruikt daarbij het Arduino platform.&lt;/p&gt;</description></item><item><title>T7. Netwerken met IP</title><link>https://emmauscollege.github.io/theorie/netwerken/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/netwerken/</guid><description>&lt;p&gt;Je leert hoe het internet van binnen werkt.&lt;/p&gt;</description></item><item><title>T8 Epidemiesimulatoropdracht</title><link>https://emmauscollege.github.io/theorie/objectoriented_simulator_opdracht/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/objectoriented_simulator_opdracht/</guid><description>&lt;h3 id="inleiding"&gt;Inleiding&lt;/h3&gt;
 &lt;p&gt;Om te leren hoe je objectgeoriënteerd programmeert, gaan we stap voor stap een objecgeoriënteerd programma maken. We maken hiervoor een &lt;strong&gt;epidemiesimulator&lt;/strong&gt; die visueel maakt hoe organismen elkaar kunnen besmetten met een ziekteverwekker. Tussen de opdrachten door vind je theorie over objectgeoriënteerd programmeren.&lt;/p&gt;
 &lt;h3 id="opdracht-0---klaar-voor-de-start"&gt;Opdracht 0 - Klaar voor de start&lt;/h3&gt;
 &lt;h4 id="begrijp-de-code"&gt;Begrijp de code:&lt;/h4&gt;
