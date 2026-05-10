@@ -1,6 +1,6 @@
 ---
-title: "div + float + width layout builder"
-weight: 1.1
+title = "div + float + width layout builder"
+weight = 1.1
 hidden = true
 ---
 
