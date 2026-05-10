@@ -27,6 +27,7 @@ Khanacademy, module Intro to HTML/CSS
 - [Uitleg: HTML tags](1.2-html-tags.pptx)
 - [Uitleg: CSS selectors en propteries](1.3-css-selectors-en-properties.pptx)
 - [Uitleg: Boxmodel](1.4-boxmodel.pptx)
+- [Opdracht: Div en Float](../layout-builder.md)
 - [Theorie](../webdesign_theorie)
 - [Invul samenvatting](invul-samenvatting.pdf)
 De oplossing van de invul samenvatting staat niet online.
