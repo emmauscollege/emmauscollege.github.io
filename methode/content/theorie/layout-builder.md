@@ -1,6 +1,7 @@
 ---
 title: "div + float + width layout builder"
-weight: 5
+weight = 1.1
+hidden = true
 ---
 
 {{< rawhtml >}}
