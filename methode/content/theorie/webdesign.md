@@ -23,15 +23,15 @@ Khanacademy, module Intro to HTML/CSS
 9. [Further learning](https://www.khanacademy.org/computing/computer-programming/html-css#html-css-further-learning) (geen toetsstof)
 
 ## Presentaties en Opdrachten
-- [Introductie + Opstarten](1.1-introductie-opstarten.pptx)
-- [Uitleg: HTML tags](1.2-html-tags.pptx)
-- [Uitleg: CSS selectors en propteries](1.3-css-selectors-en-properties.pptx)
-- [Uitleg: Boxmodel](1.4-boxmodel.pptx)
-- [Opdracht: Div en Float](../layout-builder.md)
-- [Theorie](../webdesign_theorie)
+- [Powerpoint: Introductie + Opstarten](1.1-introductie-opstarten.pptx)
+- [Powerpoint: HTML tags](1.2-html-tags.pptx)
+- [Powerpoint: CSS selectors en propteries](1.3-css-selectors-en-properties.pptx)
+- [Powerpoint: Boxmodel](1.4-boxmodel.pptx)
+- [Hulpmiddel: Div en Float](../layout-builder)
+- [Theorie: Boxmodel, Span & Div en Floats](../webdesign_theorie)
 - [Invul samenvatting](invul-samenvatting.pdf)
-De oplossing van de invul samenvatting staat niet online.
-Gebruik Khan academy, Google, Klasgenoten, ChatGPT, ... om de samenvatting in te vullen. 
+- 
+De oplossing van de invul samenvatting staat express niet online. Probeer hem zelf in te vullen als test. Je mag altijd op Magister mailen met vragen!
 
 ## Leerdoelen voor de toets
 HTML
