@@ -20,8 +20,9 @@ Presentaties:
 2. [Presentatie: Variabelen](2-Variabelen.pptx)
 3. [Presentatie: Functies](3-Functies.pptx)
 4. [Presentatie: Logica en if statement](4-Logica-en-if-statement.pptx)
-5. [Presentatie: Loops](5-Loops.pptx) 
-6. [Presentatie: Arrays](5-Arrays.pptx) 
+5. [Presentatie: Loops](5-Loops.pptx)
+6. [Hulpmiddel: Loops](../loops-visualiser)
+7. [Presentatie: Arrays](5-Arrays.pptx) 
 
 Werkbladen:
 1. [Werkblad: Introductie T3 Programmeren](1-Introductie-T3-Programmeren.pdf)
