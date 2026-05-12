@@ -248,11 +248,11 @@ hidden = true
       <div class="state-row" id="stateRow"></div>
     </div>
     <div class="lb-panel">
-      <div class="lb-plabel">Wat wordt er geprint?</div>
+      <div class="lb-plabel">Wat gebeurt er?</div>
       <div class="log-body" id="logArea"><span class="log-empty">nog geen uitvoer — doorloop de loop stap voor stap</span></div>
     </div>
     <div class="lb-panel">
-      <div class="lb-plabel">wat gebeurt er?</div>
+      <div class="lb-plabel">Waarom gebeurt dat?</div>
       <div class="insight-body" id="insightBox">Druk op stap om te beginnen.</div>
     </div>
   </div>
