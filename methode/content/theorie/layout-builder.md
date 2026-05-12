@@ -1,5 +1,5 @@
 +++
-title = "div + float + width layout builder"
+title = "Layout Builder"
 weight = 1.1
 hidden = true
 +++
@@ -253,7 +253,7 @@ hidden = true
 <div class="wrapper">
  
   <div class="lb-header">
-    <h1>div + float + width — layout bouwer</h1>
+    <h1>Layout Builder</h1>
     <p>Kies een voorbeeld of bouw je eigen layout. Gebruik "+ child" om divs in andere divs te nesten.</p>
   </div>
  
