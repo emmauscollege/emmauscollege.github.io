@@ -48,7 +48,6 @@ color: var(--text-2);
 margin-top: 4px;
 line-height: 1.6;
 }
-/* presets */
 .lb-presets { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 1.25rem; }
 .pb {
 font-family: var(--mono);
@@ -68,7 +67,6 @@ background: var(--accent-bg);
 color: var(--accent);
 border-color: var(--accent-bd);
 }
-/* workspace */
 .lb-ws {
 display: grid;
 grid-template-columns: 1fr 1fr;
@@ -93,7 +91,6 @@ padding: 9px 14px;
 border-bottom: 0.5px solid var(--border);
 background: var(--surface-2);
 }
-/* tree editor */
 .lb-tree { padding: 10px 10px 4px; }
 .nd { margin-bottom: 4px; }
 .nr {
@@ -179,7 +176,6 @@ gap: 5px;
 transition: color 0.12s, border-color 0.12s;
 }
 .btn-add:hover { color: var(--text-1); border-style: solid; }
-/* preview */
 .prv { padding: 12px; min-height: 190px; }
 .prv::after { content: ""; display: table; clear: both; }
 .pb2 {
@@ -193,7 +189,6 @@ min-height: 44px;
 transition: all 0.18s ease;
 }
 .pb2::after { content: ""; display: table; clear: both; }
-/* code panel */
 .lb-code {
 background: var(--surface);
 border: 0.5px solid var(--border-md);
@@ -214,7 +209,6 @@ white-space: pre;
 .val { color: var(--val); }
 .sel { color: var(--sel); }
 .cm { color: var(--cm); }
-/* insight */
 .lb-ins {
 background: var(--accent-bg);
 border: 0.5px solid var(--accent-bd);
@@ -235,8 +229,8 @@ border-radius: 4px;
 &lt;/style&gt;
 &lt;div class="wrapper"&gt;
 &lt;div class="lb-header"&gt;
-&lt;h1&gt;div + float + width — layout builder&lt;/h1&gt;
-&lt;p&gt;Pick a preset or build your own. Use "+ child" to nest divs inside other divs.&lt;/p&gt;</description></item><item><title>Loops Visualiser</title><link>https://emmauscollege.github.io/theorie/loops-visualiser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/loops-visualiser/</guid><description>&lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;
+&lt;h1&gt;div + float + width — layout bouwer&lt;/h1&gt;
+&lt;p&gt;Kies een voorbeeld of bouw je eigen layout. Gebruik "+ child" om divs in andere divs te nesten.&lt;/p&gt;</description></item><item><title>Loops Visualiser</title><link>https://emmauscollege.github.io/theorie/loops-visualiser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/loops-visualiser/</guid><description>&lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;
 &lt;link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&amp;family=DM+Sans:wght@400;500&amp;display=swap" rel="stylesheet"&gt;
 &lt;style&gt;
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
