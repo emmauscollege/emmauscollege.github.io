@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Theorie on Informatica</title><link>https://emmauscollege.github.io/theorie/</link><description>Recent content in Theorie on Informatica</description><generator>Hugo -- gohugo.io</generator><language>nl</language><atom:link href="https://emmauscollege.github.io/theorie/index.xml" rel="self" type="application/rss+xml"/><item><title>div + float + width layout builder</title><link>https://emmauscollege.github.io/theorie/layout-builder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/layout-builder/</guid><description>&lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Theorie on Informatica</title><link>https://emmauscollege.github.io/theorie/</link><description>Recent content in Theorie on Informatica</description><generator>Hugo -- gohugo.io</generator><language>nl</language><atom:link href="https://emmauscollege.github.io/theorie/index.xml" rel="self" type="application/rss+xml"/><item><title>Layout Builder</title><link>https://emmauscollege.github.io/theorie/layout-builder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/layout-builder/</guid><description>&lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;
 &lt;link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&amp;family=DM+Sans:wght@400;500&amp;display=swap" rel="stylesheet"&gt;
 &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/tabler-icons.min.css"&gt;
 &lt;style&gt;
@@ -229,7 +229,7 @@ border-radius: 4px;
 &lt;/style&gt;
 &lt;div class="wrapper"&gt;
 &lt;div class="lb-header"&gt;
-&lt;h1&gt;div + float + width — layout bouwer&lt;/h1&gt;
+&lt;h1&gt;Layout Builder&lt;/h1&gt;
 &lt;p&gt;Kies een voorbeeld of bouw je eigen layout. Gebruik "+ child" om divs in andere divs te nesten.&lt;/p&gt;</description></item><item><title>Loops Visualiser</title><link>https://emmauscollege.github.io/theorie/loops-visualiser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emmauscollege.github.io/theorie/loops-visualiser/</guid><description>&lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;
 &lt;link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&amp;family=DM+Sans:wght@400;500&amp;display=swap" rel="stylesheet"&gt;
 &lt;style&gt;
