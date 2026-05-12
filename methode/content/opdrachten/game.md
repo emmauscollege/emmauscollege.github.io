@@ -172,5 +172,277 @@ Voeg nieuwe spelmechanieken toe:
 - of bedenk zelf een uitbreiding
 {{% /expand %}}
 
+## Code voorbeelden
+
+De voorbeelden hieronder helpen je op weg. Ze zijn **niet compleet.** Je moet zelf nadenken over wat er mist of hoe je ze aanpast voor jouw spel.
+
+---
+
+#### 1. Speler bewegen
+
+Voeg dit toe aan `beweegAlles()`. De speler beweegt met pijltjestoetsen **of** WASD. keyIsDown kijkt of een bepaalde toets is ingeduwd. Je kan op [deze site](https://asawicki.info/nosense/doc/devices/keyboard/key_codes.html%20kirk) zien welke toets aan welk nummer is gekopperd. 
+
+```js
+// beweeg omhoog
+if (keyIsDown(UP_ARROW) || keyIsDown(87)) { // 87 = W
+  spelerY = spelerY - 5;
+}
+// voeg zelf de andere drie richtingen toe
+```
+
+In plaats van altijd 5 te gebruiken kan je hier ook een variabele van maken die je later aanpast om de snelheid aan te kunnen passen van je speler.
+
+Zorg dat de speler niet buiten het scherm kan. Gebruik een `&&` in de `if` zodat de beweging alleen plaatsvindt als de speler nog binnen de grenzen is.
+
+```js
+if ((keyIsDown(UP_ARROW) || keyIsDown(87)) && spelerY > ???) {
+  spelerY = spelerY - 5;
+}
+```
+
+> Wat moet de grenswaarde zijn? De grenzen kan je vinden in createCanvas() daar definieer je hoe groot je speelveld is. Denk ook aan de grootte van de speler en waar die start.
+
+---
+
+#### 2. Afbeelding gebruiken
+
+Maak een map `afbeeldingen/` in je repository en zet daar je plaatje in.
+
+Voeg bovenaan `sketch.js` een variabele toe:
+
+```js
+var spelerAfbeelding;
+```
+
+Laad de afbeelding in `preload()` (voeg deze functie toe boven `setup()`). Als je meerdere plaatjes wilt voeg je die allemaal toe in dezelfde preload() functie. Elk plaatje heeft wel zijn eigen variabele nodig.
+
+```js
+function preload() {
+  spelerAfbeelding = loadImage('afbeeldingen/speler.png');
+}
+```
+
+Gebruik dan in `tekenAlles()`. Vervang de `rect()` van de speler door:
+
+```js
+image(spelerAfbeelding, spelerX, spelerY, breedte, hoogte);
+```
+
+---
+
+#### 3. Score en health weergeven
+
+Voeg bovenaan toe:
+
+```js
+var punten = 0;
+```
+
+Teken onderaan `tekenAlles()`, na alles wat je al tekent:
+
+```js
+fill('white');
+noStroke();
+textSize(20);
+textAlign(LEFT, TOP);
+text('Punten: ' + punten, 10, 10);
+text('Health: ' + ???, ???, ???);
+```
+
+---
+
+#### 4. Startscherm en game-over scherm
+
+Het template heeft al `SPELEN`, `GAMEOVER` en `spelStatus`. Voeg een derde toestand toe bovenaan:
+
+```js
+const INTRO = 0;        // nieuw
+const SPELEN = 1;
+const GAMEOVER = 2;
+var spelStatus = INTRO; // begin op het startscherm
+```
+
+Vul in `draw()` de lege blokken in:
+
+```js
+if (spelStatus === INTRO) {
+  // teken een startscherm
+  background(0);
+  fill('white');
+  textAlign(CENTER, CENTER);
+  textSize(40);
+  text('???', width / 2, height / 2 - 40);
+  textSize(20);
+  text('Druk op SPATIE om te starten', width / 2, height / 2 + 20);
+}
+if (spelStatus === GAMEOVER) {
+  background(0);
+  fill('red');
+  textSize(50);
+  textAlign(CENTER, CENTER);
+  text('GAME OVER', width / 2, height / 2 - 40);
+  fill('white');
+  textSize(20);
+  text('Punten: ' + ???, width / 2, height / 2 + 20);
+  text('Druk ENTER om opnieuw te spelen', width / 2, height / 2 + 60);
+}
+```
+
+Verwerk de toetsen in `keyPressed()`:
+
+```js
+function keyPressed() {
+  if (spelStatus === INTRO && key === ' ') {
+    spelStatus = SPELEN;
+  }
+  if (spelStatus === GAMEOVER && keyCode === ENTER) {
+    // reset alle variabelen naar beginwaarden
+    punten = ???;
+    health = ???;
+    spelerX = ???;
+    spelerY = ???;
+    spelStatus = ???;
+  }
+}
+```
+
+> Vergeet niet ook de vijanden en kogel te resetten.
+
+#### 5. Vijanden
+
+Gebruik arrays voor de x- en y-posities van alle vijanden. Voeg bovenaan toe:
+
+```js
+var vijandenX = [200, 500, 900];
+var vijandenY = [100, 300, 200];
+var vijandenSnelheid = 2;
+```
+
+Beweeg de vijanden in `beweegAlles()` van de rechterkant van het scherm richting de linkerkant van het scherm. Dit doe je met een loop over alle elementen in de array:
+
+```js
+for (var i = 0; i < vijandenX.length; i++) {
+  vijandenX[i] = vijandenX[i] - vijandenSnelheid;
+
+  // Als de vijand aan de rand van het scherm is gekomen moet hij terug naar de andere kant
+  if (vijandenX[i] < ???) {
+    vijandenX[i] = ???;
+    vijandenY[i] = ???;
+  }
+}
+```
+
+> Als je vijanden naar je speler toe wilt bewegen kijk dan naar code snippet 8 en pas bovenstaande code daarmee aan. 
+
+Teken ze in `tekenAlles()`:
+
+```js
+for (var i = 0; i < vijandenX.length; i++) {
+  ???
+}
+```
+
+---
+
+#### 6. Botsing (rechthoek)
+
+Twee rechthoeken botsen als ze elkaar overlappen in zowel x- als y-richting. Voeg dit toe aan `verwerkBotsing()`:
+
+```js
+for (var i = 0; i < vijandenX.length; i++) {
+  if (spelerX + ??? > vijandenX[i] - ??? &&
+      spelerX - ??? < vijandenX[i] + ??? &&
+      spelerY + ??? > vijandenY[i] - ??? &&
+      spelerY - ??? < vijandenY[i] + ???) {
+    health = health - 1;
+  }
+}
+```
+
+> De `???` zijn de halve breedte/hoogte van de speler en vijand. Wat zijn die in jouw spel?
+
+---
+
+#### 7. Kogel afvuren
+
+##### Optie A — meerdere kogels tegelijk
+ 
+Gebruik lege arrays en voeg elke nieuwe kogel toe met `push()`:
+ 
+```js
+var kogelsX = [];
+var kogelsY = [];
+```
+ 
+Voeg een nieuwe kogel toe bij het afvuren in `keyPressed()`:
+ 
+```js
+function keyPressed() {
+  if (key === ' ' && spelStatus === SPELEN) {
+    kogelsX.push(???);
+    kogelsY.push(???);
+  }
+}
+```
+ 
+Beweeg alle kogels in `beweegAlles()`.
+ 
+```js
+for (var i = 0; i < kogelsX.length; i++) {
+  ???
+}
+```
+ 
+> De array groeit elke keer als je schiet. Je kan erover nadenken om te checken wanneer een kogel buiten beeld is, en die dan te verwijderen. Zo gaat je spel beter werken.
+ 
+##### Optie B — maximaal één kogel tegelijk
+ 
+```js
+var kogelX = -100;
+var kogelY = -100;
+var kogelActief = false;
+```
+ 
+```js
+function keyPressed() {
+  if (key === ' ' && spelStatus === SPELEN && ???) {
+    kogelX = ???;
+    kogelY = ???;
+    kogelActief = ???;
+  }
+}
+```
+ 
+```js
+if (kogelActief) {
+  kogelX = kogelX + 10;
+  if (kogelX > width) {
+    kogelActief = ???;
+  }
+}
+```
+ 
+---
+ 
+> In welke richting schiet jouw speler? Pas de beweging aan. Vergeet de kogels ook te tekenen in `tekenAlles()` en botsingen te verwerken in `verwerkBotsing()`.
+ 
+---
+ 
+#### 8. Richting bepalen
+ 
+Soms wil je iets laten bewegen richting een ander punt. Bijvoorbeeld: een kogel richting de muis, of een vijand richting de speler. Je berekent het verschil in x en y, en schaalt dat bij tot de gewenste snelheid met behulp van de stelling van Pythagoras.
+ 
+```js
+var dx = doelX - beginX;           // verschil in x
+var dy = doelY - beginY;           // verschil in y
+var afstand = sqrt(dx*dx + dy*dy); // afstand tussen de twee punten
+var sX = dx / afstand * snelheid;  // stap in x-richting
+var sY = dy / afstand * snelheid;  // stap in y-richting
+```
+ 
+>Voor een kogel richting de muis sla je `sX` en `sY` op bij het afvuren. Voor vijanden die richting de speler bewegen gebruik je hetzelfde idee in de bestaande loop.
+
+> Wat gebeurt er als `afstand` gelijk is aan 0? Wanneer kan dat voorkomen en hoe voorkom je een fout?
+
 ## Uitlegvideo's
 {{<video id="PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
