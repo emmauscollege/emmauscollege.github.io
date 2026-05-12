@@ -61,7 +61,6 @@ hidden = true
     line-height: 1.6;
   }
  
-  /* presets */
   .lb-presets { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 1.25rem; }
   .pb {
     font-family: var(--mono);
@@ -82,7 +81,6 @@ hidden = true
     border-color: var(--accent-bd);
   }
  
-  /* workspace */
   .lb-ws {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -109,7 +107,6 @@ hidden = true
     background: var(--surface-2);
   }
  
-  /* tree editor */
   .lb-tree { padding: 10px 10px 4px; }
   .nd { margin-bottom: 4px; }
   .nr {
@@ -199,7 +196,6 @@ hidden = true
   }
   .btn-add:hover { color: var(--text-1); border-style: solid; }
  
-  /* preview */
   .prv { padding: 12px; min-height: 190px; }
   .prv::after { content: ""; display: table; clear: both; }
   .pb2 {
@@ -214,7 +210,6 @@ hidden = true
   }
   .pb2::after { content: ""; display: table; clear: both; }
  
-  /* code panel */
   .lb-code {
     background: var(--surface);
     border: 0.5px solid var(--border-md);
@@ -236,7 +231,6 @@ hidden = true
   .sel  { color: var(--sel); }
   .cm   { color: var(--cm); }
  
-  /* insight */
   .lb-ins {
     background: var(--accent-bg);
     border: 0.5px solid var(--accent-bd);
@@ -259,28 +253,28 @@ hidden = true
 <div class="wrapper">
  
   <div class="lb-header">
-    <h1>div + float + width — layout builder</h1>
-    <p>Pick a preset or build your own. Use "+ child" to nest divs inside other divs.</p>
+    <h1>div + float + width — layout bouwer</h1>
+    <p>Kies een voorbeeld of bouw je eigen layout. Gebruik "+ child" om divs in andere divs te nesten.</p>
   </div>
  
   <div class="lb-presets" id="lbp"></div>
  
   <div class="lb-ws">
     <div class="lb-panel">
-      <div class="lb-plabel">blocks</div>
+      <div class="lb-plabel">blokken</div>
       <div class="lb-tree" id="lbt"></div>
       <button class="btn-add" onclick="lbAddRoot()">
-        <i class="ti ti-plus" aria-hidden="true"></i> add block
+        <i class="ti ti-plus" aria-hidden="true"></i> blok toevoegen
       </button>
     </div>
     <div class="lb-panel">
-      <div class="lb-plabel">live preview</div>
+      <div class="lb-plabel">live voorbeeld</div>
       <div class="prv" id="lbv"></div>
     </div>
   </div>
  
   <div class="lb-code">
-    <div class="lb-plabel">generated code</div>
+    <div class="lb-plabel">gegenereerde code</div>
     <div class="lb-code-in"><pre id="lbc"></pre></div>
   </div>
  
@@ -298,13 +292,13 @@ let tree=[mn('left','50%'),mn('left','50%')];
 let ap=1;
  
 const PRESETS=[
-  {name:'full width',   mk:()=>[mn('none','100%'),mn('none','100%')]},
-  {name:'two columns',  mk:()=>[mn('left','50%'),mn('left','50%')]},
-  {name:'sidebar left', mk:()=>[mn('left','30%'),mn('left','70%')]},
-  {name:'sidebar right',mk:()=>[mn('left','70%'),mn('right','30%')]},
-  {name:'three cols',   mk:()=>[mn('left','33.33%'),mn('left','33.33%'),mn('left','33.33%')]},
-  {name:'holy grail',   mk:()=>[mn('none','100%'),mn('left','20%'),mn('left','60%'),mn('right','20%'),mn('none','100%')]},
-  {name:'nested cols',  mk:()=>{const a=mn('left','50%'),b=mn('left','50%'),p=mn('left','60%',[a,b]),s=mn('left','40%');return[p,s];}},
+  {name:'volledige breedte', mk:()=>[mn('none','100%'),mn('none','100%')]},
+  {name:'twee kolommen',     mk:()=>[mn('left','50%'),mn('left','50%')]},
+  {name:'zijbalk links',     mk:()=>[mn('left','30%'),mn('left','70%')]},
+  {name:'zijbalk rechts',    mk:()=>[mn('left','70%'),mn('right','30%')]},
+  {name:'drie kolommen',     mk:()=>[mn('left','33.33%'),mn('left','33.33%'),mn('left','33.33%')]},
+  {name:'moeilijke layout',        mk:()=>[mn('none','100%'),mn('left','20%'),mn('left','60%'),mn('right','20%'),mn('none','100%')]},
+  {name:'geneste kolommen',  mk:()=>{const a=mn('left','50%'),b=mn('left','50%'),p=mn('left','60%',[a,b]),s=mn('left','40%');return[p,s];}},
 ];
  
 function loadP(i){ap=i;uid=0;tree=PRESETS[i].mk();render();}
@@ -331,11 +325,11 @@ function rTree(ns,d,pi){
       <div class="nctl">
         <label>float</label>
         <select onchange="lbF(${node.id},this.value)">${['none','left','right'].map(f=>`<option${node.float===f?' selected':''}>${f}</option>`).join('')}</select>
-        <label>width</label>
+        <label>breedte</label>
         <input type="text" value="${node.width}" onchange="lbW(${node.id},this.value)" onblur="lbW(${node.id},this.value)">
       </div>
-      <button class="btn-child" onclick="lbChild(${node.id})">+ child</button>
-      ${canRm?`<button class="btn-rm" onclick="lbRm(${node.id})" title="remove">✕</button>`:''}
+      <button class="btn-child" onclick="lbChild(${node.id})">+ Child</button>
+      ${canRm?`<button class="btn-rm" onclick="lbRm(${node.id})" title="verwijderen">✕</button>`:''}
     </div>${ch}</div>`;
   }).join('');
 }
@@ -377,13 +371,13 @@ function insight(ns){
   const hasR=all.some(n=>n.float==='right');
   const tf=ns.filter(n=>n.float!=='none');
   const tot=tf.reduce((s,n)=>s+(parseFloat(n.width)||0),0);
-  if(hasNest)return '<strong>nested divs:</strong> a child div\'s width percentage is relative to its parent, not the page. So <code>width: 50%</code> inside a <code>width: 60%</code> parent gives you 30% of the total page width. Each level creates its own containing block.';
-  if(allNone)return '<strong>no floats:</strong> every div is a block element — it takes the full width and stacks vertically like paragraphs.';
-  if(ns.length===2&&tf.length===2&&Math.abs(tot-100)<1)return '<strong>two floated divs summing to 100%:</strong> they sit perfectly side by side. Make either wider so the total exceeds 100% and the second one wraps below.';
-  if(hasR)return '<strong>float: right</strong> pulls a div to the right edge of its container. Combined with a left-floated sibling you get a two-column layout.';
-  if(tf.length>=3&&tot<=100)return `<strong>${tf.length} floated divs, total ${Math.round(tot)}%:</strong> they line up in one row. Push any width so they exceed 100% and the last one wraps.`;
-  if(tot>100)return `<strong>widths exceed 100% (total: ${Math.round(tot)}%):</strong> the last floated div wraps to the next row. Reduce widths to ≤ 100% to fix it.`;
-  return '<strong>tip:</strong> a parent containing floated children must use <code>overflow: hidden</code> as a clearfix — otherwise it collapses to zero height.';
+  if(hasNest)return '<strong>geneste divs:</strong> de breedte van een child-div is relatief aan de parent, niet aan de pagina. Dus <code>width: 50%</code> binnen een parent van <code>width: 60%</code> geeft je 30% van de totale paginabreedte. Elk niveau maakt zijn eigen containing block aan.';
+  if(allNone)return '<strong>geen floats:</strong> elke div gedraagt zich als een blokelement — hij neemt de volledige breedte in en stapelt verticaal, zoals alinea\'s tekst.';
+  if(ns.length===2&&tf.length===2&&Math.abs(tot-100)<1)return '<strong>twee gefloate divs die samen 100% zijn:</strong> ze staan perfect naast elkaar. Maak een van de breedtes groter zodat het totaal boven 100% uitkomt, en de tweede div springt naar de volgende regel.';
+  if(hasR)return '<strong>float: right</strong> trekt een div naar de rechterrand van zijn container. Gecombineerd met een links-gefloate sibling krijg je een twee-kolommenindeling.';
+  if(tf.length>=3&&tot<=100)return `<strong>${tf.length} gefloate divs, totale breedte ${Math.round(tot)}%:</strong> ze staan op één rij omdat de breedtes passen. Vergroot een breedte zodat het totaal boven 100% uitkomt en de laatste div naar beneden springt.`;
+  if(tot>100)return `<strong>breedtes overschrijden 100% (totaal: ${Math.round(tot)}%):</strong> de laatste gefloate div springt naar de volgende rij. Verklein de breedtes tot het totaal ≤ 100% is.`;
+  return '<strong>tip:</strong> een parent met gefloate children moet <code>overflow: hidden</code> gebruiken als clearfix — anders klapt hij in tot nul hoogte.';
 }
  
 function render(){
