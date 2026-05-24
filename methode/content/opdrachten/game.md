@@ -274,6 +274,9 @@ if (spelStatus === INTRO) {
   text('???', width / 2, height / 2 - 40);
   textSize(20);
   text('Druk op SPATIE om te starten', width / 2, height / 2 + 20);
+  if (keyIsDown(32)) { // 32 = SPATIE
+    spelStatus = SPELEN:
+  }
 }
 if (spelStatus === GAMEOVER) {
   background(0);
@@ -285,17 +288,7 @@ if (spelStatus === GAMEOVER) {
   textSize(20);
   text('Punten: ' + ???, width / 2, height / 2 + 20);
   text('Druk ENTER om opnieuw te spelen', width / 2, height / 2 + 60);
-}
-```
-
-Verwerk de toetsen in `keyPressed()`:
-
-```js
-function keyPressed() {
-  if (spelStatus === INTRO && key === ' ') {
-    spelStatus = SPELEN;
-  }
-  if (spelStatus === GAMEOVER && keyCode === ENTER) {
+  if (keyIsDown(ENTER)) { 
     // reset alle variabelen naar beginwaarden
     punten = ???;
     health = ???;
@@ -374,14 +367,12 @@ var kogelsX = [];
 var kogelsY = [];
 ```
  
-Voeg een nieuwe kogel toe bij het afvuren in `keyPressed()`:
+Voeg een nieuwe kogel toe bij het afvuren in `tekenAlles()`:
  
 ```js
-function keyPressed() {
-  if (key === ' ' && spelStatus === SPELEN) {
-    kogelsX.push(???);
-    kogelsY.push(???);
-  }
+if (keyIsDown(32) && spelStatus === SPELEN) { // 32 = SPATIE
+  kogelsX.push(???);
+  kogelsY.push(???);
 }
 ```
  
@@ -404,12 +395,10 @@ var kogelActief = false;
 ```
  
 ```js
-function keyPressed() {
-  if (key === ' ' && spelStatus === SPELEN && ???) {
-    kogelX = ???;
-    kogelY = ???;
-    kogelActief = ???;
-  }
+if (keyIsDown(32) && spelStatus === SPELEN && ???) { // 32 = SPATIE
+  kogelX = ???;
+  kogelY = ???;
+  kogelActief = ???;
 }
 ```
  
