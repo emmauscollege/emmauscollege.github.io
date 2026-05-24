@@ -18,6 +18,21 @@ Van volgende problemen moet je een flowchart kunnen maken + de code kunnen schri
 1. [HAVO: Opdrachten](https://classroom.github.com/a/rcLMh4wY)
 2. [VWO: Opdrachten](https://classroom.github.com/a/6_nxNeP3)
 
+## Hulpmiddelen
+1. [Syntax blad](../programmeren/syntaxblad-javascript.pdf)
+2. [Loops Visualiseren](../loops-visualiser)
+
+Standaard for-loop:
+```js
+// Een lijst (array) met getallen
+var lijst = [1, 2, 4, 10, 12];
+
+// Loop over elk element in de lijst, van het eerste (index 0) tot het laatste
+for (var i = 0; i < lijst.length; i++) {
+    // lijst[i] is het huidige element, i is de positie in de lijst (0, 1, 2, ...)
+}
+```
+
 ## Leerdoelen voor de toets
 1. Je kunt uitleggen wat een algoritme is
 1. Je kunt uitleggen wat een flowchart is en waarvoor je deze gebruikt
