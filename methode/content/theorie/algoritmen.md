@@ -12,6 +12,9 @@ Je leert hoe je problemen kunt oplossen met algoritmen, je gebruikt daarbij flow
 ## Presentaties
 1. [Presentatie 1: Wat is een algoritme en een flowchart](T4.1.pptx)
 2. [Presentatie 2: Flowcharts maken](T4.2.pptx)
+3. [Presentatie 3: Arrays Doorlopen](T4.3.pptx)
+4. [Presentatie 4: Sorteren](T4.4.pptx)
+5. [Werkblad: Selection Sort](Werkblad-Selection-Sort.pdf)
 
 ## Oefenopdrachten
 Van volgende problemen moet je een flowchart kunnen maken + de code kunnen schrijven:
