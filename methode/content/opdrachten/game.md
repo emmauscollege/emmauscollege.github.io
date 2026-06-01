@@ -180,7 +180,7 @@ De voorbeelden hieronder helpen je op weg. Ze zijn **niet compleet.** Je moet ze
 
 #### 1. Speler bewegen
 
-Voeg dit toe aan `beweegAlles()`. De speler beweegt met pijltjestoetsen **of** WASD. keyIsDown kijkt of een bepaalde toets is ingeduwd. Je kan op [deze site](https://asawicki.info/nosense/doc/devices/keyboard/key_codes.html%20kirk) zien welke toets aan welk nummer is gekopperd. 
+Voeg dit toe aan `beweegAlles()`. De speler beweegt met pijltjestoetsen **of** WASD. keyIsDown kijkt of een bepaalde toets is ingeduwd. Je kan op [deze site](https://asawicki.info/nosense/doc/devices/keyboard/key_codes.html) zien welke toets aan welk nummer is gekopperd. 
 
 ```js
 // beweeg omhoog
