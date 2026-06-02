@@ -555,5 +555,7 @@ function tekenAlles() {
 
 > Dit geldt ook voor `beweegAlles()` en `verwerkBotsing()`. Hoe meer je je spel uitbreidt, hoe meer functies je toevoegt aan de ketting. `draw()` blijft altijd het startpunt.
 
+> Herken je stukken code die je meerdere keren schrijft? Dat is een signaal dat je een functie kunt maken.
+
 ## Uitlegvideo's
 {{<video id="PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
