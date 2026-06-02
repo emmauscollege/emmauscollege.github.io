@@ -505,5 +505,55 @@ var sY = dy / afstand * snelheid;  // stap in y-richting
 
 > Wat gebeurt er als `afstand` gelijk is aan 0? Wanneer kan dat voorkomen en hoe voorkom je een fout?
 
+#### 9. Functies gebruiken
+
+Stel: je vijand bestaat uit een lichaam, een oog en een mond. Je tekent hem op drie plekken in je code. Dan schrijf je dit drie keer de volgende code:
+
+```js
+// lichaam
+fill('red');
+rect(x, y, 30, 30);
+// oog
+fill('white');
+circle(x + 10, y + 8, 8);
+fill('black');
+circle(x + 12, y + 8, 4);
+// mond
+fill('black');
+rect(x + 6, y + 18, 12, 4);
+```
+Als je later iets wilt veranderen, moet je dat op drie plekken aanpassen. Dat is foutgevoelig. De oplossing: stop het in een functie.
+
+```js
+function tekenVijand(x, y) {
+  // lichaam
+  fill('red');
+  rect(x, y, 30, 30);
+  // oog
+  fill('white');
+  circle(x + 10, y + 8, 8);
+  fill('black');
+  circle(x + 12, y + 8, 4);
+  // mond
+  fill('black');
+  rect(x + 6, y + 18, 12, 4);
+}
+```
+
+Wil je de mond aanpassen? Dat doe je nu op één plek, in de functie.
+Je roept `tekenVijand()` aan vanuit `tekenAlles()`, die zelf weer aangeroepen wordt vanuit draw(). Zo ontstaat een ketting van functies die weer andere functies aanroepen. Elke keer dat p5.js `draw()` aanroept, wordt automatisch de hele ketting uitgevoerd. Je hoeft zelf alleen maar `tekenVijand()` aan te roepen op de juiste plek:
+
+```js
+function tekenAlles() {
+  // ... andere dingen tekenen
+
+  for (var i = 0; i < vijandenX.length; i++) {
+    tekenVijand(vijandenX[i], vijandenY[i]);
+  }
+}
+```
+
+> Dit geldt ook voor `beweegAlles()` en `verwerkBotsing()`. Hoe meer je je spel uitbreidt, hoe meer functies je toevoegt aan de ketting. `draw()` blijft altijd het startpunt.
+
 ## Uitlegvideo's
 {{<video id="PLpTljPS--R5CgvkhsT9EODw2ng4Rkp1HC">}}
