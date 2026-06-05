@@ -31,6 +31,9 @@ Zonder arduino-lessen.nl
 
 [Meer lessen Arduino-lessen](https://arduino-lessen.nl) (geen toetsstof)
 
+Basisschakelingen
+Download de [basisschakelingen
+
 Presentaties
 1. [Lespresentatie toestandsdiagrammen](robotica_toestandsdiagrammen_lespresentatie.pptx)
 2. [Lespresentatie Arduino basics](robotica_arduino_basics.pdf)
@@ -41,6 +44,7 @@ Presentaties
 
 Naslagwerken
 1. [Microcontroller reader](robotica_microcontrollers_programmeren.pdf) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
+2. [Arduino basisschakelingen](basisschakelingen_arduino.pdf) - om te leren hoe je basiscomponenten moet aansluiten, zie leerdoelen
 
 ## Leerdoelen voor de toets
 Arduino
