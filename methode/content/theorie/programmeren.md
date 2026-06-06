@@ -70,7 +70,7 @@ Programmeren kennen
 1. Je kunt uitleggen wat een functie is.
 1. Je kunt uitleggen wat definiëren en aanroepen van een functie is.
 1. Je kunt uitleggen wat een parameter en het resultaat van een functie is.
-1. Je kunt uitleggen wat een logische operator en vergelijkingsoperator is en kent de logische operatoren "en" (&&), "of" (||) en "niet" (!) en vergelijkingsoperatoren “groter dan” (>), “kleiner dan” (<), “groter-gelijk dan” (>=), “kleiner-gelijk dan” (<=), “gelijk aan” (==) en “ongelijk aan” (!=).
+1. Je kunt uitleggen wat een logische operator en vergelijkingsoperator is en kent de logische operatoren "en" (&&), "of" (||) en "niet" (!) en vergelijkingsoperatoren “groter dan” (>), “kleiner dan” (<), “groter-gelijk dan” (>=), “kleiner-gelijk dan” (<=), “gelijk aan” (===) en “ongelijk aan” (!==).
 1. Je kunt uitleggen hoe logische operatoren worden gebruikt in voorwaarden (conditions).
 1. Je kunt uitleggen wat controlestructuren zijn en je kent de volgende voorbeelden: if-statement, for-loop, while-loop.
 1. Je kunt uitleggen hoe een (geneste) if-else constructie werkt.
