@@ -267,27 +267,16 @@ Vul in `draw()` de lege blokken in:
 ```js
 if (spelStatus === INTRO) {
   // teken een startscherm
-  background(0);
-  fill('white');
-  textAlign(CENTER, CENTER);
-  textSize(40);
-  text('???', width / 2, height / 2 - 40);
-  textSize(20);
-  text('Druk op SPATIE om te starten', width / 2, height / 2 + 20);
+  ???
+
+  // Als je in de INTRO fase bent en dan op spatie duwt ga je naar de SPELEN fase
   if (keyIsDown(32)) { // 32 = SPATIE
-    spelStatus = SPELEN:
+    spelStatus = SPELEN;
   }
 }
 if (spelStatus === GAMEOVER) {
-  background(0);
-  fill('red');
-  textSize(50);
-  textAlign(CENTER, CENTER);
-  text('GAME OVER', width / 2, height / 2 - 40);
-  fill('white');
-  textSize(20);
-  text('Punten: ' + ???, width / 2, height / 2 + 20);
-  text('Druk ENTER om opnieuw te spelen', width / 2, height / 2 + 60);
+  // teken een gameover scherm
+
   if (keyIsDown(ENTER)) { 
     // reset alle variabelen naar beginwaarden
     punten = ???;
@@ -339,20 +328,33 @@ for (var i = 0; i < vijandenX.length; i++) {
 
 #### 6. Botsing (rechthoek)
 
-Twee rechthoeken botsen als ze elkaar overlappen in zowel x- als y-richting. Voeg dit toe aan `verwerkBotsing()`:
+In p5.js teken je met `rect(x, y, breedte, hoogte)` vanuit de linkerbovenhoek. Dus `spelerX` is de linkerrand, en `spelerX + spelerBreedte` is de rechterrand. `spelerY` is de bovenrand, en `spelerY + spelerHoogte` de onderrand. Datzelfde geldt voor je vijand.
+Twee rechthoeken botsen alleen als ze tegelijk horizontaal én verticaal overlappen. Het is dus eigenlijk twee losse checks: overlappen ze op de x-as, en overlappen ze op de y-as?
+
+Zet bovenaan de maten van je speler en vijand klaar (pas de getallen aan naar jouw spel):
+```js
+var spelerBreedte = ???;
+var spelerHoogte = ???;
+var vijandBreedte = ???;
+var vijandHoogte = ???;
+```
+
+> Je kan deze variabelen nu ook gebruiken op de plek waar je je speler en vijanden tekent. Zo wordt alles aangepast als je deze breedte en hoogte aanpast.
+
+Voeg dit toe aan `verwerkBotsing()`. De horizontale check zijn de eerste twee regels. De verticale check zijn de laatste twee regels:
 
 ```js
 for (var i = 0; i < vijandenX.length; i++) {
-  if (spelerX + ??? > vijandenX[i] - ??? &&
-      spelerX - ??? < vijandenX[i] + ??? &&
-      spelerY + ??? > vijandenY[i] - ??? &&
-      spelerY - ??? < vijandenY[i] + ???) {
+  if (spelerX < vijandenX[i] + vijandBreedte &&   // speler-linkerrand vóór vijand-rechterrand
+      spelerX + spelerBreedte > vijandenX[i] &&    // speler-rechterrand voorbij vijand-linkerrand
+      spelerY < vijandenY[i] + ??? &&              // speler-bovenrand boven vijand-onderrand
+      spelerY + ??? > vijandenY[i]) {              // speler-onderrand onder vijand-bovenrand
     health = health - 1;
   }
 }
 ```
 
-> De `???` zijn de breedte/hoogte van de speler en vijand. Wat zijn die in jouw spel?
+> Werk je met een cirkelvormige speler of vijand? Dan klopt deze rechthoek-botsing niet helemaal. Voor cirkels meet je de afstand tussen de middelpunten en kijk je of die kleiner is dan de twee stralen samen.
 
 ---
 
@@ -360,14 +362,14 @@ for (var i = 0; i < vijandenX.length; i++) {
 
 ##### Optie A — meerdere kogels tegelijk
  
-Gebruik lege arrays en voeg elke nieuwe kogel toe met `push()`:
+Gebruik lege arrays en voeg elke nieuwe kogel toe met `push()`
  
 ```js
 var kogelsX = [];
 var kogelsY = [];
 ```
  
-Voeg een nieuwe kogel toe bij het afvuren in `tekenAlles()`:
+Voeg een nieuwe kogel toe bij het afvuren in `tekenAlles()`
  
 ```js
 if (keyIsDown(32) && spelStatus === SPELEN) { // 32 = SPATIE
@@ -391,11 +393,11 @@ for (var i = kogelsX.length - 1; i >= 0; i--) {
 }
 ```
  
-> De array groeit elke keer als je schiet. Je kan erover nadenken om te checken wanneer een kogel buiten beeld is, en die dan te verwijderen. Zo gaat je spel beter werken.
+> De array groeit elke keer als je schiet. Met splice() haal je kogels buiten beeld uit de array. Als je dat niet doet zal je game uiteindelijk crashen omdat er teveel kogels zijn voor het computer geheugen.
  
 ##### Optie B — maximaal één kogel tegelijk
 
-Gebruik twee variabelen voor de X en Y positie van de kogel en verder een boolean om te kijken of de kogel actief is:
+Gebruik twee variabelen voor de X en Y positie van de kogel en verder een boolean om te kijken of de kogel actief is
  
 ```js
 var kogelX = -100;
@@ -403,7 +405,7 @@ var kogelY = -100;
 var kogelActief = false;
 ```
 
-Voeg een nieuwe kogel toe als hij nog niet actief was in `tekenAlles()`:
+Voeg een nieuwe kogel toe als hij nog niet actief was in `tekenAlles()`
  
 ```js
 if (keyIsDown(32) && spelStatus === SPELEN && ???) { // 32 = SPATIE
@@ -505,7 +507,69 @@ var sY = dy / afstand * snelheid;  // stap in y-richting
 
 > Wat gebeurt er als `afstand` gelijk is aan 0? Wanneer kan dat voorkomen en hoe voorkom je een fout?
 
-#### 9. Functies gebruiken
+#### 9. Timer 
+
+Een timer gebruik je bijvoorbeeld om af te tellen ("je hebt 30 seconden") of om elke paar seconden iets te laten gebeuren (een nieuwe vijand). p5.js heeft hiervoor `millis()`: het aantal milliseconden (1000 ms = 1 seconde) sinds je spel gestart is. We gebruiken `millis()` en niet het tellen van frames, omdat `millis()` ook klopt als je spel een keer hapert.
+
+Maak een nieuwe functie aan die je aanroept in je `draw()` function voor de timer.
+
+##### Optie A — aftellende klok
+
+Onthoud wanneer het spel begon. Voeg bovenaan toe:
+
+```js
+var startTijd;
+var speelDuur = 30; // aantal seconden dat het spel duurt
+```
+
+Zet de starttijd in `setup()`:
+
+```js
+var startTijd = millis();
+```
+
+Maak een eigen functie voor de timer:
+```js
+function timer() {
+  var verstreken = (millis() - startTijd) / 1000; // seconden sinds de start
+  var resterend = ???;          // tijd die nog over is
+
+  fill('white');
+  noStroke();
+  textSize(20);
+  text('Tijd: ' + floor(resterend), 10, 40); // floor rond het getal af zodat je geen komma getallen ziet
+
+  if (resterend <= ???) {
+    spelStatus = GAMEOVER;
+  }
+}
+```
+
+> Vergeet niet de timer te resetten bij het opnieuw spelen anders staat de klok meteen weer op 0.
+
+##### Optie B — elke x seconden iets laten gebeuren
+
+Bijvoorbeeld elke 2 seconden een nieuwe vijand. Onthoud wanneer de laatste keer was:
+
+```js
+var laatsteSpawn = 0;
+var spawnInterval = 2000; // elke 2000 ms = 2 seconden
+```
+
+Maak hiervoor een eigen functie:
+```js
+function spawnVijanden() {
+  if (millis() - laatsteSpawn > spawnInterval) {
+    // voeg een nieuwe vijand toe
+    ???
+    laatsteSpawn = millis(); // onthoud wanneer deze verscheen
+  }
+}
+```
+
+> Maak `spawnInterval` kleiner naarmate het spel vordert. Dan komen er steeds sneller vijanden bij en wordt het spel vanzelf moeilijker.
+
+#### 10. Functies gebruiken
 
 Stel: je vijand bestaat uit een lichaam, een oog en een mond. Je tekent hem op drie plekken in je code. Dan schrijf je dit drie keer de volgende code:
 
