@@ -180,6 +180,8 @@ De voorbeelden hieronder helpen je op weg. Ze zijn **niet compleet.** Je moet ze
 
 #### 1. Speler bewegen
 
+##### Optie A — speler kan overal naartoe bewegen
+
 Voeg dit toe aan `beweegAlles()`. De speler beweegt met pijltjestoetsen **of** WASD. keyIsDown kijkt of een bepaalde toets is ingeduwd. Je kan op [deze site](https://asawicki.info/nosense/doc/devices/keyboard/key_codes.html) zien welke toets aan welk nummer is gekopperd. 
 
 ```js
@@ -201,6 +203,46 @@ if ((keyIsDown(UP_ARROW) || keyIsDown(87)) && spelerY > ???) {
 ```
 
 > Wat moet de grenswaarde zijn? De grenzen kan je vinden in createCanvas() daar definieer je hoe groot je speelveld is. Denk ook aan de grootte van de speler en waar die start.
+
+##### Optie B — speler springt en valt
+
+Voeg bovenaan toe:
+
+```js
+var spelerSpringt = false; // is de speler aan het springen?
+var spelerDaalt = false;   // is de speler aan het dalen?
+```
+
+Verwerk het springen in `beweegAlles()`:
+
+```js
+// spring als de speler op de grond staat en op spatie drukt
+if (keyIsDown(32) && !spelerSpringt && !spelerDaalt) { // 32 = SPATIE
+  spelerSpringt = ???;
+}
+
+// beweeg omhoog
+if (spelerSpringt) {
+  spelerY = spelerY - ???;
+  if (spelerY <= ???) {  // hoogste punt bereikt
+    spelerSpringt = ???;
+    spelerDaalt = ???;
+  }
+}
+
+// beweeg omlaag
+if (spelerDaalt) {
+  spelerY = spelerY + ???;
+  if (spelerY >= ???) {  // grond bereikt
+    spelerY = ???;
+    spelerDaalt = ???;
+  }
+}
+```
+
+> Vergeet spelerSpringt en spelerDaalt te resetten naar false bij het opnieuw starten van het spel (zie stap 4, game-over scherm).
+
+> Wil je een sprong die er natuurlijker uitziet? Gebruik dan een extra variabele `snelheidY` en `zwaartekracht`. De speler versnelt dan naar beneden in plaats van in een constant tempo te dalen.
 
 ---
 
