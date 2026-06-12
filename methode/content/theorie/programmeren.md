@@ -22,7 +22,7 @@ Presentaties:
 4. [Presentatie: Logica en if statement](4-Logica-en-if-statement.pptx)
 5. [Presentatie: Loops](5-Loops.pptx)
 6. [Hulpmiddel: Loops](../loops-visualiser)
-7. [Presentatie: Arrays](5-Arrays.pptx) 
+7. [Presentatie: Arrays](6-Arrays.pptx) 
 
 Werkbladen:
 1. [Werkblad: Introductie T3 Programmeren](1-Introductie-T3-Programmeren.pdf)
