@@ -15,11 +15,7 @@ Je leert hoe je problemen kunt oplossen met algoritmen, je gebruikt daarbij flow
 3. [Presentatie 3: Arrays Doorlopen](T4.3.pdf)
 4. [Presentatie 4: Sorteren](T4.4.pdf)
 5. [Werkblad: Selection Sort](Werkblad-Selection-Sort.pdf)
-<<<<<<< HEAD
-6. [Presentatie 5: Dijkstra](T4.5.pdf)
-=======
-6. [(VWO) Presentatie 5: Dijkstra](T4.5.pptx)
->>>>>>> b9ff16958207bbac0189e00468a4785341ad2227
+6. [(VWO) Presentatie 5: Dijkstra](T4.5.pdf)
 
 ## Oefenopdrachten
 Van volgende problemen moet je een flowchart kunnen maken + de code kunnen schrijven:
