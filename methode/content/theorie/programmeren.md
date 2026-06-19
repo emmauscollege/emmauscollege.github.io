@@ -16,21 +16,25 @@ We gebruiken in deze module de volgende tools:
 
 ## Presentaties & Werkbladen
 Presentaties:
-1. [Presentatie: Introductie T3 Programmeren](1-Introductie-T3-Programmeren.pptx)
-2. [Presentatie: Variabelen](2-Variabelen.pptx)
-3. [Presentatie: Functies](3-Functies.pptx)
-4. [Presentatie: Logica en if statement](4-Logica-en-if-statement.pptx)
-5. [Presentatie: Loops](5-Loops.pptx)
+1. [Presentatie: Introductie T3 Programmeren](1-Introductie-T3-Programmeren.pdf)
+2. [Presentatie: Variabelen](2-Variabelen.pdf)
+3. [Presentatie: Functies](3-Functies.pdf)
+4. [Presentatie: Logica en if statement](4-Logica-en-if-statement.pdf)
+5. [Presentatie: Loops](5-Loops.pdf)
 6. [Hulpmiddel: Loops](../loops-visualiser)
+<<<<<<< HEAD
+7. [Presentatie: Arrays](5-Arrays.pdf) 
+=======
 7. [Presentatie: Arrays](6-Arrays.pptx) 
+>>>>>>> b9ff16958207bbac0189e00468a4785341ad2227
 
 Werkbladen:
-1. [Werkblad: Introductie T3 Programmeren](1-Introductie-T3-Programmeren.pdf)
-2. [Werkblad: Variabelen](2-Variabelen.pdf)
-3. [Werkblad: Functies](3-Functies.pdf)
-4. [Werkblad: Logica en if statement](4-Logica-en-if-statement.pdf)
-5. [Werkblad: Loops](5-Loops.pdf)
-6. [Werkblad: Arrays](6-Arrays.pdf)
+1. [Werkblad: Introductie T3 Programmeren](W-1-Introductie-T3-Programmeren.pdf)
+2. [Werkblad: Variabelen](W-2-Variabelen.pdf)
+3. [Werkblad: Functies](W-3-Functies.pdf)
+4. [Werkblad: Logica en if statement](W-4-Logica-en-if-statement.pdf)
+5. [Werkblad: Loops](W-5-Loops.pdf)
+6. [Werkblad: Arrays](W-6-Arrays.pdf)
 
 ## Oefeningen
 [Khanacademy, module Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
