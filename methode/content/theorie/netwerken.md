@@ -11,6 +11,9 @@ We gebruiken in deze module de volgende tools:
 1. [Informatica Actief](/tools/ia/) 
 2. [Filius](/tools/filius/)
 
+## Presentaties
+1. [Lagen model + Fysieke laag](Lagenmodel+fysieke-laag.pptx)
+
 ## Oefeningen
 Informatica Actief, keuzemodule netwerken, versie netwerken nieuwe stijl 
 1. [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917#section-4) (1.1, sla 1.2 over) <br>
@@ -19,15 +22,6 @@ In plaats van Filius te installeren, gebruik je [Filius in Gitpod](https://githu
 3. [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917#section-6) (3.1 t/m 3.8)
 4. [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917#section-7) (4.1 t/m 4.3)
 5. [Informatica Actief, keuzemodule netwerken](https://moodle.informatica-actief.nl/course/view.php?id=917#section-8) (5.1 t/m 5.5)
-
-## Uitleg
-
-{{<video id="PLpTljPS--R5DtkHtxFNv-677dGsejyI1K">}}
-
-Naslagmateriaal
-1. [Netwerken lespresentatie (Powerpoint presentatie)](netwerken_lespresentatie.pptx)
-2. [How the internet works (video's)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
-3. [Theorie netwerkprotocollen](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/index.html) (alleen hoofdtstuk 5, dit is best pittig, aanvulling op uitleg in de les).
 
 ## Leerdoelen voor de toets
 Netwerken
@@ -49,3 +43,13 @@ Netwerken
 Je kunt een deel van je kennis en vaardigheden testen met de volgende oefenopgaven:
 - [Oefenopgave IP-adressen en subnetten](netwerken_oefenopgaven_ipadres_en_subnet.pdf)
 - [Antwoorden oefenopgave IP-adressen en subnetten](netwerken_oefenopgaven_ipadres_en_subnet_met_antwoorden.pdf)
+
+  
+## Oud Materiaal
+
+{{<video id="PLpTljPS--R5DtkHtxFNv-677dGsejyI1K">}}
+
+Naslagmateriaal
+1. [Netwerken lespresentatie (Powerpoint presentatie)](netwerken_lespresentatie.pptx)
+2. [How the internet works (video's)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+3. [Theorie netwerkprotocollen](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/index.html) (alleen hoofdtstuk 5, dit is best pittig, aanvulling op uitleg in de les).
