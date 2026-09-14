@@ -14,10 +14,12 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 ## Opdrachten
 Schrijf je in voor een opdracht en ga er mee aan de slag in GitHub code spaces.
 - Verwerkingsopdrachten. Deze opdrachten zijn verplicht en maak je om de uitleg te verwerken<br/>
-  Intekenen: [6V.in1](https://classroom.github.com/a/dX09c6X8), [6V.in2](https://classroom.github.com/a/f3xKs0oi) <br/>
+  Intekenen: [6V.in1]([https://classroom.github.com/a/dX09c6X8](https://classroom50.org/emmaus-leerlingen/2627-6v-in1-seg/assignments/oop-verwerkingsopdrachten/accept)), [6V.in2](https://classroom50.org/emmaus-leerlingen/2627-6v-in2-cam/assignments/oop-verwerkingsopdrachten/accept) <br/>
   [Download oplossingen hier](OOP-verwerkingsopdrachten-oplossingen.zip).
 - Wil je naast de verwerkingsopdrachten met een spelletje ervaren waarom objectgeoriënteerd programmeren handig werkt? Bouw het appelspel [theorie](../objectoriented_theorie) uit de [lespresentatie](objectoriented_lespresentatie.pdf) zelf na<br/>
-  Intekenen: [6V.in1](https://classroom.github.com/a/hQlrZ9M0), [6V.in2](https://classroom.github.com/a/3l4YwUxq)
+  Intekenen: [6V.in1](https://classroom50.org/emmaus-leerlingen/2627-6v-in1-seg/assignments/oop-vallende-appels/accept), [6V.in2]([https://classroom.github.com/a/3l4YwUxq](https://classroom50.org/emmaus-leerlingen/2627-6v-in2-cam/assignments/oop-vallende-appels/accept))
+  
+ <!-- 
 - Wel je echt ergens je tanden in kunnen zetten om objectgeoriënteerd te programmeren? Maak de [epidemie simulator](../objectoriented_simulator_opdracht) <br/>
   Intekenen: [6V.in1](https://classroom.github.com/a/vFbg-YyE), [6V.in2](https://classroom.github.com/a/gWgQzJVE)
 
@@ -28,7 +30,7 @@ Hij helpt je bij de verplichte verwerkingsopdrachten stap voor stap met het werk
 jOOP geeft geen kant-en-klare oplossingen, maar stelt vragen, geeft hints en helpt je foutmeldingen begrijpen. Zo leer je zelf redeneren en groeien in OOP. Let wel op, tijdens de toets kan/mag je jOOP niet gebruiken.
 
 [Gebruik jOOP door hier te klikken](https://chatgpt.com/g/g-68c479a0a0848191b608f9f43e8183f2-joop)
-
+-->
 
 ## Naslagmateriaal (ook beschikbaar bij toets)
 - [Naslagmateriaal objectgeoriënteerd programmeren](objectoriented_naslagmateriaal.pdf)
@@ -47,11 +49,9 @@ jOOP geeft geen kant-en-klare oplossingen, maar stelt vragen, geeft hints en hel
 - Je begrijpt de termen superklasse en subklasse.
 - Je begrijpt wat een abstracte klasse is.
 - Je kunt in JavaScript objectgeoriënteerde code lezen en schrijven (eerdere kennis wordt verondersteld).
-<!-- - Je kunt in C++ (Arduino-code) objectgeoriënteerde code lezen. -->
 - Je kunt zelfstandig objectdiagrammen en (ontwerp)klassendiagrammen maken.
 - Je kunt een ontwerpklassendiagram maken met behulp van een beschrijving van systeem.
 - Je kunt een (ontwerp)klassendiagram omzetten naar JavaScript en andersom. Je bent hierbij in staat om relaties tussen klassen om te zetten naar code.
-<!-- - Je kunt C++ (Arduino-code) omzetten naar (ontwerp)klassendiagram. -->
 - Je kent drie voordelen en drie nadelen van objectgeoriënteerd programmeren.
 
 ## Oefentoets
@@ -73,6 +73,3 @@ Vind je dit allemaal erg gemakkelijk? Open dan via [deze link](https://www.khana
 - stippen vierkant - deze functie tekent een vierkant (eigenlijk: matrix) van 5 x 5 stippen met behulp van een geneste for-loop. Bonus: maak de functie zo, dat een parameter bepaald hoeveel stippen het vierkant breed is. 
 - isPalindroom() - deze functie controleert of de meegegeven tekst een palindroom is.
 - [Extra herhalings oefeningen + oplossing](1.2-herhalings-oefeningen.pptx)
-
-Of: - Opfrissen: zit Javascript er goed in en heb je meer uitdaging nodig dan de oefeningen op Khan Academy? Doe deze opdracht. <br/>
-  Intekenen: [6V.in1](https://classroom.github.com/a/Vfx7iDJE), [6V.in2](https://classroom.github.com/a/kHje9T9u)
