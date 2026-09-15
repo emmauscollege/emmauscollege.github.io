@@ -48,7 +48,7 @@ HTML
 CSS
 1. Je kunt uitleggen wat er binnen de informatica met Separation of Concern wordt bedoeld en hoe dat op HTML en CSS van toepassing is. 
 2. Je kunt uitleggen wat selectors, properties en values in CSS zijn en je kunt ermee werken. Dat wil zeggen dat je eenvoudige stukken CSS met selectors, properties en values kunt maken en de werking ervan kunt uitleggen. 
-3. Je kunt CSS selectors maken die bestaan uit een tag, class of id of een combinatie daarvan.
+3. Je kunt CSS selectors maken die bestaan uit een tag, class of id of een combinatie (bv. p .note voor een klasse note binnen een p-tag) daarvan en je kunt aan één tag meerder klasses tegelijkertijd geven.
 4. Je kunt de voorrangsregels tussen tags, classes en id’s toepassen en je kunt daarbij aangeven welke selectors meer of minder specifiek zijn.
 5. Je kent van de volgende properties de betekenis en kunt deze toepassen in CSS: `color`, `background-color`, `font-size`, `font-family`, `width`, `height`, `padding`, `margin`, `border`, `float`, `clear` en kunt commentaar (`/* ... */`) toevoegen aan CSS.
 6. Je kunt werken met kleuren en doorzichtigheid in CSS, door gebruik te maken van kleurnamen en rgba().
