@@ -13,6 +13,9 @@ We gebruiken in deze module de volgende tools:
 
 ## Presentaties
 1. [Lagen model + Fysieke laag](Lagenmodel+fysieke-laag.pptx)
+2. [Data-linklaag](Data-link-laag.pptx)
+3. [Netwerklaag: IP-adressen](IP-adressen.pptx)
+4. [Netwerklaag: Routering](Routering.pptx)
 
 ## Oefeningen
 Informatica Actief, keuzemodule netwerken, versie netwerken nieuwe stijl 
