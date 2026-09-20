@@ -409,9 +409,13 @@ PRESETS.forEach((p,i)=>{
  
 loadP(1);
 </script>
+
 <style>
+  .chb{font-family:var(--mono);font-size:12px;font-weight:500;padding:5px 12px;border-radius:var(--radius-md);border:0.5px solid var(--border-md);background:var(--surface);color:var(--text-2);cursor:pointer;transition:background .12s,color .12s,border-color .12s}
+  .chb:hover{background:var(--surface-2);color:var(--text-1)}
+  .chb.on{background:var(--accent-bg);color:var(--accent);border-color:var(--accent-bd)}
   .chref{font-family:var(--mono);font-size:11px;color:var(--text-3);white-space:pre;padding:8px 14px;border-bottom:0.5px solid var(--border);background:var(--surface-2);overflow-x:auto}
-  .chcss{width:100%;min-height:160px;border:none;outline:none;resize:vertical;display:block;font-family:var(--mono);font-size:12px;line-height:1.7;color:var(--text-1);padding:12px 14px;background:var(--surface)}
+  .chcss{width:100%;min-height:180px;border:none;outline:none;resize:vertical;display:block;font-family:var(--mono);font-size:12px;line-height:1.7;color:var(--text-1);padding:12px 14px;background:var(--surface)}
   .chcss:focus{background:#fffdf7}
   .chframe{width:100%;height:190px;border:none;display:block;background:#fff;border-radius:6px}
   .ch-ctrl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:1rem}
@@ -445,9 +449,9 @@ loadP(1);
   </div>
 
   <div class="ch-ctrl">
-    <button class="pb" id="chcheck">Controleer</button>
-    <button class="pb" id="chreset">Reset</button>
-    <button class="pb" id="chsol">Toon oplossing</button>
+    <button class="chb" id="chcheck">Controleer</button>
+    <button class="chb" id="chreset">Reset</button>
+    <button class="chb" id="chsol">Toon oplossing</button>
     <span id="chresult" class="ch-res"></span>
   </div>
 </div>
@@ -460,7 +464,7 @@ loadP(1);
      html:'<div class="box a">A</div><div class="box b">B</div>',
      css:'.a {\n  width: 60%;\n}\n\n.b {\n  width: 30%;\n}',
      start:'.a {\n  \n}\n\n.b {\n  \n}'},
-    {name:'twee kolommen',desc:'Zet A en B naast elkaar, allebei 50% breed. Denk aan float \u00e9n width.',
+    {name:'twee kolommen',desc:'Zet A en B naast elkaar, allebei 50% breed. Denk aan float \u00e9n width \u2014 een gefloate div zonder width krimpt namelijk samen tot zijn inhoud.',
      html:'<div class="box a">A</div><div class="box b">B</div>',
      css:'.a {\n  float: left;\n  width: 50%;\n}\n\n.b {\n  float: left;\n  width: 50%;\n}',
      start:'.a {\n  \n}\n\n.b {\n  \n}'},
@@ -480,8 +484,16 @@ loadP(1);
      html:'<div class="box p"><div class="box a">A</div><div class="box b">B</div></div>',
      css:'.p {\n  overflow: hidden;\n}\n\n.a {\n  float: left;\n  width: 50%;\n}\n\n.b {\n  float: left;\n  width: 50%;\n}',
      start:'.p {\n  \n}\n\n.a {\n  \n}\n\n.b {\n  \n}'},
+    {name:'header, kolommen, footer',desc:'Bouw een klassieke paginaindeling na. A is een header over de volle breedte. Daaronder drie kolommen: B (20%, links), C (60%, links) en D (20%, rechts met float: right). E is de footer over de volle breedte \u2014 gebruik clear: both zodat hij \u00f3nder de gefloate kolommen zakt in plaats van erachter.',
+     html:'<div class="box a">A</div><div class="box b">B</div><div class="box c">C</div><div class="box d">D</div><div class="box e">E</div>',
+     css:'.a {\n  width: 100%;\n}\n\n.b {\n  float: left;\n  width: 20%;\n}\n\n.c {\n  float: left;\n  width: 60%;\n}\n\n.d {\n  float: right;\n  width: 20%;\n}\n\n.e {\n  clear: both;\n  width: 100%;\n}',
+     start:'.a {\n  \n}\n\n.b {\n  \n}\n\n.c {\n  \n}\n\n.d {\n  \n}\n\n.e {\n  \n}'},
+    {name:'geneste kolommen + zijbalk',desc:'Q is een container die links staat en 60% breed is (float: left, width: 60%, overflow: hidden). Daarin staan A en B naast elkaar, elk 50% \u2014 let op: dat is 50% van Q, dus maar 30% van de pagina. C is een zijbalk van 40% met float: right. Vergeet de width op Q niet, want een gefloate div zonder width krimpt samen.',
+     html:'<div class="box q"><div class="box a">A</div><div class="box b">B</div></div><div class="box c">C</div>',
+     css:'.q {\n  float: left;\n  width: 60%;\n  overflow: hidden;\n}\n\n.a {\n  float: left;\n  width: 50%;\n}\n\n.b {\n  float: left;\n  width: 50%;\n}\n\n.c {\n  float: right;\n  width: 40%;\n}',
+     start:'.q {\n  \n}\n\n.a {\n  \n}\n\n.b {\n  \n}\n\n.c {\n  \n}'},
   ];
-  const BASE='html,body{margin:0}body{font-family:sans-serif}.stage{width:260px;margin:16px auto;position:relative}.stage::after{content:"";display:table;clear:both}.box{box-sizing:content-box;min-height:44px;line-height:44px;text-align:center;font-family:monospace;font-size:12px;font-weight:500;color:rgba(0,0,0,.5);border-radius:4px}.a{background:#85B7EB}.b{background:#5DCAA5}.c{background:#EF9F27}.d{background:#ED93B1}.e{background:#AFA9EC}.f{background:#D85A30}.p{background:#c9c6ee;padding:6px}';
+  const BASE='html,body{margin:0}body{font-family:sans-serif}.stage{width:260px;margin:16px auto;position:relative}.stage::after{content:"";display:table;clear:both}.box{box-sizing:content-box;min-height:44px;line-height:44px;text-align:center;font-family:monospace;font-size:12px;font-weight:500;color:rgba(0,0,0,.5);border-radius:4px}.a{background:#85B7EB}.b{background:#5DCAA5}.c{background:#EF9F27}.d{background:#ED93B1}.e{background:#AFA9EC}.f{background:#D85A30}.q{background:#c9c6ee}.p{background:#c9c6ee;padding:6px}';
   let ci=0;
   const pd=()=>q('chprev').contentDocument;
   const td=()=>q('chtarget').contentDocument;
@@ -498,7 +510,7 @@ loadP(1);
     q('chtarget').srcdoc='<!doctype html><meta charset=utf8><style>'+BASE+c.css+'</style><div class="stage">'+c.html+'</div>';
     buildPrev();
     q('chresult').textContent='';
-    document.querySelectorAll('#chsel .pb').forEach((b,k)=>b.classList.toggle('on',k===i));
+    document.querySelectorAll('#chsel .chb').forEach((b,k)=>b.classList.toggle('on',k===i));
   }
   function rects(d){
     if(!d)return null;
@@ -514,7 +526,7 @@ loadP(1);
     q('chresult').style.color=ok?'#1D9E75':'#a32d2d';
   }
   const sel=q('chsel');
-  CH.forEach((c,i)=>{const b=document.createElement('button');b.className='pb';b.textContent=(i+1)+'. '+c.name;b.onclick=()=>load(i);sel.appendChild(b);});
+  CH.forEach((c,i)=>{const b=document.createElement('button');b.className='chb';b.textContent=(i+1)+'. '+c.name;b.onclick=()=>load(i);sel.appendChild(b);});
   q('chcss').addEventListener('input',()=>{paint();q('chresult').textContent='';});
   q('chcheck').onclick=check;
   q('chreset').onclick=()=>{q('chcss').value=CH[ci].start;paint();q('chresult').textContent='';};
