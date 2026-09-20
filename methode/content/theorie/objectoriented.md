@@ -14,10 +14,10 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 ## Opdrachten
 Schrijf je in voor een opdracht en ga er mee aan de slag in GitHub code spaces.
 - Verwerkingsopdrachten. Deze opdrachten zijn verplicht en maak je om de uitleg te verwerken<br/>
-  Intekenen: [6V.in1]([https://classroom.github.com/a/dX09c6X8](https://classroom50.org/emmaus-leerlingen/2627-6v-in1-seg/assignments/oop-verwerkingsopdrachten/accept)), [6V.in2](https://classroom50.org/emmaus-leerlingen/2627-6v-in2-cam/assignments/oop-verwerkingsopdrachten/accept) <br/>
+  Intekenen: [6V.in1](https://classroom50.org/emmaus-leerlingen/2627-6v-in1-seg/assignments/oop-verwerkingsopdrachten/accept), [6V.in2](https://classroom50.org/emmaus-leerlingen/2627-6v-in2-cam/assignments/oop-verwerkingsopdrachten/accept) <br/>
   [Download oplossingen hier](OOP-verwerkingsopdrachten-oplossingen.zip).
 - Wil je naast de verwerkingsopdrachten met een spelletje ervaren waarom objectgeoriënteerd programmeren handig werkt? Bouw het appelspel [theorie](../objectoriented_theorie) uit de [lespresentatie](objectoriented_lespresentatie.pdf) zelf na<br/>
-  Intekenen: [6V.in1](https://classroom50.org/emmaus-leerlingen/2627-6v-in1-seg/assignments/oop-vallende-appels/accept), [6V.in2]([https://classroom.github.com/a/3l4YwUxq](https://classroom50.org/emmaus-leerlingen/2627-6v-in2-cam/assignments/oop-vallende-appels/accept))
+  Intekenen: [6V.in1](https://classroom50.org/emmaus-leerlingen/2627-6v-in1-seg/assignments/oop-vallende-appels/accept), [6V.in2](https://classroom50.org/emmaus-leerlingen/2627-6v-in2-cam/assignments/oop-vallende-appels/accept)
   
  <!-- 
 - Wel je echt ergens je tanden in kunnen zetten om objectgeoriënteerd te programmeren? Maak de [epidemie simulator](../objectoriented_simulator_opdracht) <br/>
