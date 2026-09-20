@@ -409,4 +409,117 @@ PRESETS.forEach((p,i)=>{
  
 loadP(1);
 </script>
+<style>
+  .chref{font-family:var(--mono);font-size:11px;color:var(--text-3);white-space:pre;padding:8px 14px;border-bottom:0.5px solid var(--border);background:var(--surface-2);overflow-x:auto}
+  .chcss{width:100%;min-height:160px;border:none;outline:none;resize:vertical;display:block;font-family:var(--mono);font-size:12px;line-height:1.7;color:var(--text-1);padding:12px 14px;background:var(--surface)}
+  .chcss:focus{background:#fffdf7}
+  .chframe{width:100%;height:190px;border:none;display:block;background:#fff;border-radius:6px}
+  .ch-ctrl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:1rem}
+  .ch-res{font-family:var(--mono);font-size:12px;font-weight:500;margin-left:4px}
+</style>
+
+<div class="wrapper" style="margin-top:3rem;border-top:0.5px solid var(--border-md);padding-top:2.5rem">
+  <div class="lb-header">
+    <h1>Oefenen</h1>
+    <p>Kies een opdracht. Bovenaan zie je het doel. Schrijf links de juiste CSS met floats, width en het box model, en vergelijk je resultaat rechts. Klik op "Controleer" om te kijken of het klopt.</p>
+  </div>
+
+  <div class="lb-presets" id="chsel"></div>
+  <div class="lb-ins" id="chdesc" style="margin-bottom:1rem"></div>
+
+  <div class="lb-panel" style="margin-bottom:1rem">
+    <div class="lb-plabel">doel</div>
+    <div style="padding:12px"><iframe class="chframe" id="chtarget"></iframe></div>
+  </div>
+
+  <div class="lb-ws">
+    <div class="lb-panel">
+      <div class="lb-plabel">jouw css</div>
+      <div class="chref" id="chhtml"></div>
+      <textarea class="chcss" id="chcss" spellcheck="false"></textarea>
+    </div>
+    <div class="lb-panel">
+      <div class="lb-plabel">jouw voorbeeld</div>
+      <div style="padding:12px"><iframe class="chframe" id="chprev"></iframe></div>
+    </div>
+  </div>
+
+  <div class="ch-ctrl">
+    <button class="pb" id="chcheck">Controleer</button>
+    <button class="pb" id="chreset">Reset</button>
+    <button class="pb" id="chsol">Toon oplossing</button>
+    <span id="chresult" class="ch-res"></span>
+  </div>
+</div>
+
+<script>
+(function(){
+  const q=id=>document.getElementById(id);
+  const CH=[
+    {name:'breedtes',desc:'De blokken staan onder elkaar. Geef A een breedte van 60% en B een breedte van 30%. Zonder float blijven blokken netjes onder elkaar staan.',
+     html:'<div class="box a">A</div><div class="box b">B</div>',
+     css:'.a {\n  width: 60%;\n}\n\n.b {\n  width: 30%;\n}',
+     start:'.a {\n  \n}\n\n.b {\n  \n}'},
+    {name:'twee kolommen',desc:'Zet A en B naast elkaar, allebei 50% breed. Denk aan float \u00e9n width.',
+     html:'<div class="box a">A</div><div class="box b">B</div>',
+     css:'.a {\n  float: left;\n  width: 50%;\n}\n\n.b {\n  float: left;\n  width: 50%;\n}',
+     start:'.a {\n  \n}\n\n.b {\n  \n}'},
+    {name:'zijbalk rechts',desc:'A staat links en is 65% breed. B is 35% breed en staat met float: right tegen de rechterrand.',
+     html:'<div class="box a">A</div><div class="box b">B</div>',
+     css:'.a {\n  float: left;\n  width: 65%;\n}\n\n.b {\n  float: right;\n  width: 35%;\n}',
+     start:'.a {\n  \n}\n\n.b {\n  \n}'},
+    {name:'box model',desc:'Geef allebei de blokken 50% breedte en centreer ze met margin: 0 auto. Geef B daarnaast 16px padding \u2014 kijk hoe die binnenruimte het blok breder maakt (het box model).',
+     html:'<div class="box a">A</div><div class="box b">B</div>',
+     css:'.a {\n  width: 50%;\n  margin: 0 auto;\n}\n\n.b {\n  width: 50%;\n  margin: 0 auto;\n  padding: 16px;\n}',
+     start:'.a {\n  \n}\n\n.b {\n  \n}'},
+    {name:'drie kolommen',desc:'Zet de drie blokken op \u00e9\u00e9n rij, elk 33.33% breed, met float.',
+     html:'<div class="box a">A</div><div class="box b">B</div><div class="box c">C</div>',
+     css:'.a {\n  float: left;\n  width: 33.33%;\n}\n\n.b {\n  float: left;\n  width: 33.33%;\n}\n\n.c {\n  float: left;\n  width: 33.33%;\n}',
+     start:'.a {\n  \n}\n\n.b {\n  \n}\n\n.c {\n  \n}'},
+    {name:'geneste kolommen',desc:'A en B zitten in blok P. Zet A en B naast elkaar (elk 50%, float: left) en geef P overflow: hidden, zodat P zijn gefloate kinderen omsluit.',
+     html:'<div class="box p"><div class="box a">A</div><div class="box b">B</div></div>',
+     css:'.p {\n  overflow: hidden;\n}\n\n.a {\n  float: left;\n  width: 50%;\n}\n\n.b {\n  float: left;\n  width: 50%;\n}',
+     start:'.p {\n  \n}\n\n.a {\n  \n}\n\n.b {\n  \n}'},
+  ];
+  const BASE='html,body{margin:0}body{font-family:sans-serif}.stage{width:260px;margin:16px auto;position:relative}.stage::after{content:"";display:table;clear:both}.box{box-sizing:content-box;min-height:44px;line-height:44px;text-align:center;font-family:monospace;font-size:12px;font-weight:500;color:rgba(0,0,0,.5);border-radius:4px}.a{background:#85B7EB}.b{background:#5DCAA5}.c{background:#EF9F27}.d{background:#ED93B1}.e{background:#AFA9EC}.f{background:#D85A30}.p{background:#c9c6ee;padding:6px}';
+  let ci=0;
+  const pd=()=>q('chprev').contentDocument;
+  const td=()=>q('chtarget').contentDocument;
+  function paint(){const d=pd();if(d){const s=d.getElementById('u');if(s)s.textContent=q('chcss').value;}}
+  function buildPrev(){
+    q('chprev').onload=paint;
+    q('chprev').srcdoc='<!doctype html><meta charset=utf8><style>'+BASE+'</style><style id="u"></style><div class="stage">'+CH[ci].html+'</div>';
+  }
+  function load(i){
+    ci=i;const c=CH[i];
+    q('chdesc').innerHTML='<strong>'+c.name+':</strong> '+c.desc;
+    q('chhtml').textContent=c.html.replace(/></g,'>\n<');
+    q('chcss').value=c.start;
+    q('chtarget').srcdoc='<!doctype html><meta charset=utf8><style>'+BASE+c.css+'</style><div class="stage">'+c.html+'</div>';
+    buildPrev();
+    q('chresult').textContent='';
+    document.querySelectorAll('#chsel .pb').forEach((b,k)=>b.classList.toggle('on',k===i));
+  }
+  function rects(d){
+    if(!d)return null;
+    const st=d.querySelector('.stage');if(!st)return null;
+    const s=st.getBoundingClientRect();
+    return [...d.querySelectorAll('.box')].map(el=>{const r=el.getBoundingClientRect();return[Math.round(r.left-s.left),Math.round(r.top-s.top),Math.round(r.width),Math.round(r.height)];});
+  }
+  function check(){
+    const a=rects(pd()),b=rects(td());
+    if(!a||!b){q('chresult').textContent='';return;}
+    const ok=a.length===b.length&&a.every((x,i)=>x.every((v,k)=>Math.abs(v-b[i][k])<=4));
+    q('chresult').textContent=ok?'\u2713 Correct!':'\u2717 Nog niet \u2014 vergelijk met het doel.';
+    q('chresult').style.color=ok?'#1D9E75':'#a32d2d';
+  }
+  const sel=q('chsel');
+  CH.forEach((c,i)=>{const b=document.createElement('button');b.className='pb';b.textContent=(i+1)+'. '+c.name;b.onclick=()=>load(i);sel.appendChild(b);});
+  q('chcss').addEventListener('input',()=>{paint();q('chresult').textContent='';});
+  q('chcheck').onclick=check;
+  q('chreset').onclick=()=>{q('chcss').value=CH[ci].start;paint();q('chresult').textContent='';};
+  q('chsol').onclick=()=>{q('chcss').value=CH[ci].css;paint();q('chresult').textContent='';};
+  load(0);
+})();
+</script>
 {{< /rawhtml >}}
