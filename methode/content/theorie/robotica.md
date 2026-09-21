@@ -9,11 +9,12 @@ Je leert hoe je met behulp van toestandsgrammen kunt programmeren. Je gebruikt d
 ## Hulpmiddelen
 We gebruiken in deze module de volgende tools:
 1. [Arduino IDE](/tools/arduino-ide/)
+2. [Arduino basisschakelingen](basisschakelingen_arduino.pdf) - om te leren hoe je basiscomponenten moet aansluiten, zie leerdoelen
 
 ## Oefeningen
 
 Arduino-lessen.nl, les 1 t/m 5
-Bekijk, doe na en ga aan de slag met deze uitdagingen: [verwerkingsopdrachten.pdf](verwerkingsopdrachten.pdf)
+**Bekijk, doe na en ga na elke les aan de slag met deze uitdagingen: [verwerkingsopdrachten.pdf](verwerkingsopdrachten.pdf)**
 
 1. [Knipperende LED](https://arduino-lessen.nl/project/knipperende-led-op-arduino)
 2. [Knipperend LED op breadboard](https://arduino-lessen.nl/project/knipperende-led-op-breadboard)
@@ -32,16 +33,8 @@ Zonder arduino-lessen.nl
 [Meer lessen Arduino-lessen](https://arduino-lessen.nl) (geen toetsstof)
 
 Presentaties
-1. [Lespresentatie toestandsdiagrammen](robotica_toestandsdiagrammen_lespresentatie.pptx)
-2. [Lespresentatie Arduino basics](robotica_arduino_basics.pdf)
-
-## Uitleg
-
-{{<video id="PLpTljPS--R5B5flRg_1xdUrKlZyjZG68e">}}
-
-Overige leerstof
-1. [Microcontroller reader](robotica_microcontrollers_programmeren.pdf) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
-2. [Arduino basisschakelingen](basisschakelingen_arduino.pdf) - om te leren hoe je basiscomponenten moet aansluiten, zie leerdoelen
+1. [Lespresentatie Arduino basics](robotica_arduino_basics.pdf) OF [Lespresentatie SEG Arduino basics](Arduino.pptx)
+2. [Lespresentatie toestandsdiagrammen](robotica_toestandsdiagrammen_lespresentatie.pptx)
 
 ## Leerdoelen voor de toets
 Arduino
@@ -75,3 +68,10 @@ Toestandsdiagrammen
 
 ## Oefentoets
 Een oefentoets voor deze module staat in [Woots](https://app.woots.nl).
+
+## Extra materiaal
+
+{{<video id="PLpTljPS--R5B5flRg_1xdUrKlZyjZG68e">}}
+
+Overige leerstof
+1. [Microcontroller reader](robotica_microcontrollers_programmeren.pdf) (alleen de paragrafen 1.1,  2.1 t/m 2.9, 3.2, 4.1 t/m 4.3, 5.1 t/m 5.6 en 6.4)
