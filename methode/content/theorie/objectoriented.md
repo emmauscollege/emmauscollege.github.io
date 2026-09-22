@@ -14,10 +14,14 @@ Je leert objectgeoriënteerd programmeren. Dat is een manier van programmeren wa
 ## Opdrachten
 Schrijf je in voor een opdracht en ga er mee aan de slag in GitHub code spaces.
 - Verwerkingsopdrachten. Deze opdrachten zijn verplicht en maak je om de uitleg te verwerken<br/>
-  Intekenen: [6V.in1](https://classroom50.org/emmaus-leerlingen/2627-6v-in1-seg/assignments/oop-verwerkingsopdrachten/accept), [6V.in2](https://classroom50.org/emmaus-leerlingen/2627-6v-in2-cam/assignments/oop-verwerkingsopdrachten/accept) <br/>
   [Download oplossingen hier](OOP-verwerkingsopdrachten-oplossingen.zip).
 - Wil je naast de verwerkingsopdrachten met een spelletje ervaren waarom objectgeoriënteerd programmeren handig werkt? Bouw het appelspel [theorie](../objectoriented_theorie) uit de [lespresentatie](objectoriented_lespresentatie.pdf) zelf na<br/>
   Intekenen: [6V.in1](https://classroom50.org/emmaus-leerlingen/2627-6v-in1-seg/assignments/oop-vallende-appels/accept), [6V.in2](https://classroom50.org/emmaus-leerlingen/2627-6v-in2-cam/assignments/oop-vallende-appels/accept)
+
+## Co-pilot tutors
+Wil je hulp bij de verwerkingsopdrachten en is je docent niet beschikbaar? Probeer onze AI-tutors eens uit en geef ons feedback over de kwaliteit. Iedere opdracht heeft een eigen AI tutor, klik dus op de goede link:
+- Programmeeropdrachten: [1](https://m365.cloud.microsoft/chat/?titleId=T_ab9a7f75-f888-b83f-6eed-bba45028db53), [2](https://m365.cloud.microsoft/chat/?titleId=T_c4e216ff-3115-c30a-7456-d6b8d5e68f25), [3](https://m365.cloud.microsoft/chat/?titleId=T_c63dccf0-009d-3ae9-8e55-abc039e26b80), [4](https://m365.cloud.microsoft/chat/?titleId=T_ba8c6a8b-e4d6-bbfa-37e9-8901749acbf2)
+- UML-opdrachten: [1a](https://m365.cloud.microsoft/chat/?titleId=T_2b4baced-b728-b973-fe30-fb926d4c0f31), [1b](https://m365.cloud.microsoft/chat/?titleId=T_c2e91bdf-e57d-8ef2-aac4-c2ab4c06e99e), [2a](https://m365.cloud.microsoft/chat/?titleId=T_9443b573-2d09-8754-5268-78f97f3183f0), [2b](https://m365.cloud.microsoft/chat/?titleId=T_9443b573-2d09-8754-5268-78f97f3183f0)
   
  <!-- 
 - Wel je echt ergens je tanden in kunnen zetten om objectgeoriënteerd te programmeren? Maak de [epidemie simulator](../objectoriented_simulator_opdracht) <br/>
