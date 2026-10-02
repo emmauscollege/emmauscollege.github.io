@@ -10,6 +10,7 @@ Je leert hoe je met behulp van toestandsgrammen kunt programmeren. Je gebruikt d
 We gebruiken in deze module de volgende tools:
 1. [Arduino IDE](/tools/arduino-ide/)
 2. [Arduino basisschakelingen](basisschakelingen_arduino.pdf) - om te leren hoe je basiscomponenten moet aansluiten, zie leerdoelen
+3. [Samenvatting: Robotica](Arduino samenvatting schakelen, programmeren en toestandsdiagrammen.pdf)
 
 ## Oefeningen
 
