@@ -16,7 +16,7 @@ We gebruiken in deze module de volgende tools:
 2. [Data-linklaag](Data-link-laag.pptx)
 3. [Netwerklaag: IP-adressen](IP-adressen.pptx)
 4. [Netwerklaag: Routering](Routering.pptx)
-5. [Transport en Applicatielaag](Transport en Applicatie.pptx)
+5. [Transport en Applicatielaag](Transport-en-Applicatie.pptx)
 
 ## Oefeningen
 Informatica Actief, keuzemodule netwerken, versie netwerken nieuwe stijl 
