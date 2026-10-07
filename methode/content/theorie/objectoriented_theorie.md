@@ -92,8 +92,7 @@ var appelA = { x: 300,
                speed: 4,
 
                update() {
-                 this.x = this.x - this.speedX;
-                 this.y = this.y - this.speedY;
+                 this.x = this.x - this.speed;
                }
              }
 var appelB = { x: 500,
@@ -101,8 +100,7 @@ var appelB = { x: 500,
                speed: 2,
 
                update() {
-                 this.x = this.x - this.speedX;
-                 this.y = this.y - this.speedY;
+                 this.x = this.x - this.speed;
                }
              }
 var appelC = { x: 200,
@@ -110,8 +108,7 @@ var appelC = { x: 200,
                speed: 3,
 
                update() {
-                 this.x = this.x - this.speedX;
-                 this.y = this.y - this.speedY;
+                 this.y = this.y - this.speed;
                }
              }
 ```
@@ -135,8 +132,7 @@ class Appel {
   }
 
   update() {
-    this.x = this.x - this.speedX;
-    this.y = this.y - this.speedY;
+    this.x = this.x - this.speed;
   }
 }
 ```
@@ -229,7 +225,7 @@ class RotteAppel {
   // teken een rotte appel als bruin vierkant
   show() {
     noStroke();
-    fill("red");
+    fill("brown");
     rect(this.x, this.y, 20, 20);
   }
 }
@@ -486,8 +482,184 @@ Het instellen van de negatieve punten voor een `RotteAppel` kunnen we op verschi
 
 Ook dit is niet de oplossing die alles perfect dichttimmert. JavaScript biedt hiervoor helaas niet de mogelijkheden die je nodig hebt. Veel andere objectgeoriënteerde programeertalen bieden mogelijkheid wel. Je hebt dan bijvoorbeeld attributen die naast public, private ook protected kunnen zijn. Een protected attribuut is niet benaderbaar door code buitende klasse, (net zoals bij private), maar *wel* door code van subklasses van de klasse die eigenaar is van het attribuut.
 
-<!-- ##### # TODO immuniteit (dus toestand en klasse variabelen)? -->
+<div style="page-break-after: always"></div>
 
+### Hoofdstuk 4 – Associatie: objecten die andere objecten kennen
+
+Je hebt nu klassen voor `Appel`, `RotteAppel` en `Mand`. In je spelletje moeten die objecten iets met elkaar te maken hebben: de mand moet appels kunnen vangen en iemand moet de score bijhouden. Tot nu toe zou je daarvoor losse variabelen bovenaan je sketch maken:
+
+```js
+var mand = new Mand(225, 540);
+var appels = [];
+var score = 0;
+```
+
+Dat werkt, maar het is eigenlijk hetzelfde probleem als in Hoofdstuk 1: gegevens die bij elkaar horen (namelijk: bij *het spel*) staan los van elkaar. En de code die ermee werkt, staat ergens anders in je sketch. Je voelt hem al aankomen: daar maken we een klasse van.
+
+##### Een object als attribuut
+Een attribuut hoeft geen getal of tekst te zijn. Een attribuut kan ook een *object* zijn. Een spel *heeft een* mand, dus we geven de klasse `Spel` een attribuut `mand`:
+
+```js
+class Spel {
+  mand;
+
+  constructor() {
+    this.mand = new Mand(225, 540);
+  }
+
+  show() {
+    this.mand.show();
+  }
+}
+```
+
+Wanneer de ene klasse een object van een andere klasse kent en gebruikt, noemen we dat **associatie**. Hier heeft `Spel` een associatie met `Mand`.
+
+Let op de methode `show`. Het spel tekent de mand niet zelf, maar *vraagt de mand om zichzelf te tekenen*: `this.mand.show()`. Het spel hoeft dus niet te weten hoe een mand eruitziet. Dat is de verantwoordelijkheid van de klasse `Mand`. Je ziet hier ook dat je de puntnotatie gewoon achter elkaar kunt plakken: `this.mand.show()` betekent "roep `show` aan op het attribuut `mand` van mijzelf".
+
+##### Heeft-een versus is-een
+In Hoofdstuk 2 zag je overerving. Associatie en overerving worden nogal eens door elkaar gehaald. Een handige vuistregel:
+
+- **is-een** → overerving. Een rotte appel *is een* appel, dus `RotteAppel extends Appel`.
+- **heeft-een** → associatie. Een spel *heeft een* mand, dus `Spel` krijgt een attribuut `mand`.
+
+##### Meerdere objecten in een array
+Een spel heeft één mand, maar wel *meerdere* appels. In Hoofdstuk 1 zag je al dat je objecten in een array kunt zetten. Zo'n array kan ook gewoon een attribuut zijn:
+
+```js
+class Spel {
+  mand;
+  appels;
+  #score;
+
+  constructor() {
+    this.mand = new Mand(225, 540);
+    this.appels = [];
+    this.#score = 0;
+  }
+
+  voegAppelToe(appel) {
+    this.appels.push(appel);
+  }
+
+  update() {
+    for (var i = 0; i < this.appels.length; i++) {
+      this.appels[i].update();
+    }
+  }
+
+  show() {
+    this.mand.show();
+    for (var i = 0; i < this.appels.length; i++) {
+      this.appels[i].show();
+    }
+  }
+
+  getScore() {
+    return this.#score;
+  }
+}
+```
+
+*Uitleg*
+- In de constructor begint `appels` als een lege array. Met de methode `voegAppelToe` kun je er later appels aan toevoegen.
+- In `update` en `show` loopt het spel langs alle appels en vraagt het elke appel om zichzelf bij te werken of te tekenen. Weer geldt: het spel verandert niet zelf de y-positie van een appel. Dat mag ook niet meer, want sinds Hoofdstuk 3 is `#y` privé!
+- `#score` is privé met alleen een getter. Alleen het spel zelf bepaalt wanneer de score verandert.
+
+In de array `appels` mogen zowel `Appel`- als `RotteAppel`-objecten staan. Omdat een rotte appel *is een* appel, heeft hij gegarandeerd ook de methoden `update` en `show`. Het spel hoeft het verschil niet te weten. Wanneer `show` wordt aangeroepen op een rotte appel, wordt vanzelf de `show` van `RotteAppel` uitgevoerd.
+
+Een afspraak over namen: geef een array een naam in het meervoud (`appels`) en één element daaruit een naam in het enkelvoud (`appel`). Zo zie je in één oogopslag of je met één object of met een hele lijst te maken hebt.
+
+##### Een object meegeven aan een methode
+Associatie kan ook korter duren dan de levensduur van een object. Een mand hoeft niet de hele tijd te weten welke appels er zijn. Maar op het moment dat het spel wil weten of een appel gevangen is, moet de mand die appel wél even kunnen bekijken. Daarvoor geef je het object mee als argument aan een methode:
+
+```js
+class Mand {
+  x;
+  y;
+
+  constructor(x, y) {
+    this.x = x;
+    this.y = y;
+  }
+
+  // geeft true terug als de appel in de mand valt
+  vangt(appel) {
+    return appel.getX() >= this.x &&
+           appel.getX() + 20 <= this.x + 150 &&
+           appel.getY() + 20 >= this.y;
+  }
+
+  show() {
+    noStroke();
+    fill("brown");
+    rect(this.x, this.y, 150, 40);
+  }
+}
+```
+
+De mand gebruikt de getters van de appel om de positie op te vragen. Na afloop van `vangt` 'vergeet' de mand de appel weer.
+
+Nu kunnen we `update` in `Spel` afmaken:
+
+```js
+  update() {
+    for (var i = this.appels.length - 1; i >= 0; i--) {
+      var appel = this.appels[i];
+      appel.update();
+
+      if (this.mand.vangt(appel)) {
+        this.#score = this.#score + appel.getPoints();
+        this.appels.splice(i, 1);   // haal de gevangen appel uit de array
+      }
+    }
+  }
+```
+
+Extra tip (die wel ver gaat): Valt je op dat de loop nu *achteruit* loopt? Met `splice(i, 1)` haal je het element op plek `i` uit de array. Alle elementen daarna schuiven één plek op. Als je vooruit zou lopen, sla je daardoor precies de appel over die direct na de gevangen appel kwam. Door achteruit te lopen, schuiven alleen elementen op die je al gehad hebt.
+
+##### Het spel gebruiken
+Doordat alle spellogica nu in `Spel` zit, wordt je sketch zelf heel kort:
+
+```js
+var spel;
+
+function setup() {
+  createCanvas(600, 600);
+  spel = new Spel();
+  spel.voegAppelToe(new Appel(300, -50, 4));
+  spel.voegAppelToe(new RotteAppel(100, -150, 2));
+}
+
+function draw() {
+  background("lightblue");
+  spel.update();
+  spel.show();
+  text("Score: " + spel.getScore(), 20, 30);
+}
+```
+
+Je kunt het programma nu lezen als een verhaal: maak een spel, voeg twee appels toe, en laat het spel elke frame zichzelf bijwerken en tekenen. *Hoe* dat precies gebeurt, staat netjes weggestopt in de klassen.
+
+##### Verwijzingen
+Iets om goed te onthouden: een variabele of attribuut met een object erin bevat niet een *kopie* van dat object, maar een **verwijzing** (Engels: *reference*) ernaar. Bekijk deze code:
+
+```js
+var appel = new Appel(300, -50, 4);
+spel.voegAppelToe(appel);
+appel.setSpeed(10);
+```
+
+De appel in de array van het spel valt nu ook met snelheid 10. De variabele `appel` en het element in `spel.appels` verwijzen namelijk naar *hetzelfde* object. Er bestaat maar één appel, met twee manieren om erbij te komen.
+
+##### Termen en afspraken
+- **Associatie**: een klasse kent en gebruikt objecten van een andere klasse. Dat kan als attribuut (zolang het object bestaat) of als argument van een methode (alleen tijdens die methode).
+- Associatie is een **heeft-een**-relatie, overerving is een **is-een**-relatie.
+- Een associatie kan met precies één object zijn (`mand`) of met meerdere objecten tegelijk, in een array (`appels`).
+- Een object *vraagt* een ander object om iets te doen door een methode aan te roepen. Het verandert niet zelf de attributen van dat andere object. Zo blijft de inkapseling intact.
+- Een array heeft een naam in het meervoud, één element daaruit een naam in het enkelvoud.
+
+<!-- ##### # TODO immuniteit (dus toestand en klasse variabelen)? -->
 
 <div style="page-break-after: always"></div>
 
@@ -515,7 +687,7 @@ Objectgeoriënteerd programmeren heeft echter ook een aantal nadelen. Of, beter 
 - Het uitvoeren van een objectgeoriënteerd programma kost meer computerkracht en -geheugen dan de oudere manieren van programmeren. Er is sprake van meer overhead.
 - Andere vormen van programmeren (zoals procedureel, functioneel of logisch programmeren) bieden voor bepaalde problemen een veel betere oplossing dan objectgeorienteerd programmeren.
   
-### Hoofdstuk 4 - C++, polymorfie (Extra voor knikkerbaan, geen toetsstof T8)
+### Hoofdstuk 5 - C++, polymorfie (Extra voor knikkerbaan, geen toetsstof T8)
 Je hebt nu op een redelijk niveau objectgeoriënteerd leren programmeren in JavaScript. Zoals eerder gezegd heb je, misschien zonder dat je het wist, ook al in C++ object georiënteerd geprogrammeerd. Neem bijvoorbeeld het gebruik van de Seriële Communicatie tussen je Arduino en de computer. Een heel simpel Arduinoprogramma dat elke seconde een berichtje stuurt, ziet er zo uit:
 
 ```c++
