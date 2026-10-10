@@ -14,13 +14,12 @@ We gebruiken in deze opdracht de volgende tools:
 De opdracht in het kort is: Maak je eigen informatieve website over een zelfgekozen onderwerp. Je gebruikt de startcode met HTML en CSS.
 
 {{% expand "Inschrijven" %}}
-Je schrijft je in via Github Classroom (login met je Google account).
+Je schrijft je in via Classroom 50 (login met je Google account).
 
-- [hier intekenen voor 4H](https://classroom.github.com/a/a5gD3JQe)
-- [hier intekenen voor 4V](https://classroom.github.com/a/KvWRUph6)
-<!-- Oude versie assignments, we linken naar nieuwe en werken van daar verder - [hier intekenen voor 4V](https://classroom.github.com/a/4hkm4cJA) -->
+- [hier intekenen voor 4H.in1](https://classroom50.org/emmaus-leerlingen/2627-4h-in1/assignments/po-website-bouwen/accept)
+- [hier intekenen voor 4V.in1](https://classroom50.org/emmaus-leerlingen/2627-4v-in1/assignments/po-website-bouwen/accept)
 
-GitHub is een online platform waar je code kunt opslaan, delen en samen aan projecten kunt werken. Een soort “Google Drive voor programmeercode”. Via GitHub Classroom krijg je van je docent een link naar een opdracht. Die opent een eigen map (repository) waarin je kunt werken. Met GitHub Codespaces kun je die map rechtstreeks in je browser openen zonder iets te installeren, je kunt er meteen programmeren, uitvoeren en testen.
+GitHub is een online platform waar je code kunt opslaan, delen en samen aan projecten kunt werken. Een soort “Google Drive voor programmeercode”. Via Classroom 50 krijg je van je docent een link naar een opdracht. Die opent een eigen map (repository) waarin je kunt werken. Met GitHub Codespaces kun je die map rechtstreeks in je browser openen zonder iets te installeren, je kunt er meteen programmeren, uitvoeren en testen.
 
 **Belangrijk:** Bij het inloggen moet je een username aanmaken, zorg dat minimaal je voornaam hier herkenbaar in voor komt.
 
@@ -29,20 +28,15 @@ GitHub is een online platform waar je code kunt opslaan, delen en samen aan proj
 {{% /expand %}}
 
 {{% expand "Ontwerpfase" %}}
-In deze fase maak je het plan voor je eigen website. Je mag zelf kiezen over welk onderwerp je werkt, iets wat jij interessant vindt, maar het onderwerp moet wel eerst goedgekeurd worden door de docent. Denk dus goed na over wat je wilt doen en zorg dat het haalbaar is. Je werkt aan een informatieve website. Denk dus zeker na of alles wat je wilt maken wel kan. Je kan geen spel/interactieve dingen in je website krijgen. Denk aan wat je vorige periode hebt geleerd en hoe je dit nu kan toepassen.
-
-Je dient de ontwerpfase **twee keer in als PDF** door het bestand toe te voegen aan je GitHub-mapje **“Ontwerpfase”**: de eerste versie op **de vrijdag na de herfstvakantie**, en de tweede bij **het einde van het PO**, zijn deze te laat ingeleverd krijg je cijfer aftrek. Verwijder de eerste versie niet wanneer je de tweede uploadt, ook hier volgt cijfer aftrek. Hoe beter je tweede ontwerp overeenkomt met je uiteindelijke website én hoe meer gelijkend je eerste ontwerp is met de tweede versie, hoe hoger je score zal zijn. Maak dus vanaf het begin een realistisch en goed doordacht plan.
-
-Werk aan het document in een editor naar keuze. Enkele voorbeelden zijn Google Docs, Pages of Microsoft Word. 
-**Let op:** als je de IMac's op school afsluit worden alle lokale bestanden verwijderd. Werk dus bijvoorbeeld via Google Drive, of mail je bestand op het einde van de les naar jezelf op Magister.
+In deze fase maak je het plan voor je eigen website. Je doet dit op basis van een document dat je van je docent krijgt. Je mag zelf kiezen over welk onderwerp je werkt, iets wat jij interessant vindt, maar het onderwerp moet wel eerst goedgekeurd worden door de docent. Denk dus goed na over wat je wilt doen en zorg dat het haalbaar is. Je werkt aan een informatieve website. Denk dus zeker na of alles wat je wilt maken wel kan. Je kan geen spel/interactieve dingen in je website krijgen. Denk aan wat je vorige periode hebt geleerd en hoe je dit nu kan toepassen.
 
 Het document bevat vier onderdelen. Eerst beschrijf je je onderwerp en wat je erover wilt vertellen. Schrijf dit in duidelijke zinnen of korte opsommingen. Vermeld ook hoe je die informatie wilt verdelen over de verschillende pagina’s van je website.
 
-Daarna maak je een sitemap. Dat is een schema dat toont hoe de verschillende pagina’s van je website met elkaar verbonden zijn. Het geeft een overzicht van de structuur van je site en helpt je nadenken over de navigatie. [Online vind je veel voorbeelden.](https://www.mariosblog.co.uk/how-to-build-a-sitemap-a-simple-guide/) Een handige app om hieraan te werken is [draw.io](https://app.diagrams.net). Als je klaar bent kan je je diagram opslaan als een .png bestand en die invoegen in je ontwerpfase.
+Daarna maak je een sitemap. Dat is een schema dat toont hoe de verschillende pagina’s van je website met elkaar verbonden zijn. Het geeft een overzicht van de structuur van je site en helpt je nadenken over de navigatie. [Online vind je veel voorbeelden.](https://www.mariosblog.co.uk/how-to-build-a-sitemap-a-simple-guide/)
 
-Vervolgens voeg je een kleurenstaal toe. Gebruik hiervoor de [Figma Color Palette Generator]([https://www.figma.com/color-palette-generator/](https://www.figma.com/color-palettes/) om een kleurenpalet te maken dat past bij jouw onderwerp. Noteer bij elke kleur de juiste HEX-waarde en bewaar die goed, zodat je dezelfde kleuren later in de echte website kunt gebruiken.
+Vervolgens voeg je een kleurenstaal toe. Gebruik hiervoor de [Figma Color Palette Generator](https://www.figma.com/color-palettes/) om een kleurenpalet te maken dat past bij jouw onderwerp. Noteer bij elke kleur de juiste HEX-waarde en bewaar die goed, zodat je dezelfde kleuren later in de echte website kunt gebruiken.
 
-Tot slot maak je één of meerdere wireframes [online](https://app.diagrams.net) of op papier. Dat zijn schetsen van hoe je webpagina’s eruit zullen zien. Je geeft aan waar tekst, afbeeldingen, knoppen en menu’s komen. Begin met één goed uitgewerkte wireframe, bijvoorbeeld van je homepage. [Online vind je veel voorbeelden.](https://www.visual-paradigm.com/learning/handbooks/agile-handbook/wireframe.jsp) Als je tijd hebt, maak er dan meerdere, zodat ook andere pagina’s al een duidelijk ontwerp hebben. Maak deze ontwerpen erg algemeen, zodat verschillende pagina's dezelfde lay-out/wireframe kunnen krijgen. Je kan volgende tool gebruiken om je layout te helpen bouwen: [Hulpmiddel: Div en Float](../../theorie/layout-builder)
+Tot slot maak je één of meerdere wireframes. Dat zijn schetsen van hoe je webpagina’s eruit zullen zien. Je geeft aan waar tekst, afbeeldingen, knoppen en menu’s komen. Begin met één goed uitgewerkte wireframe, bijvoorbeeld van je homepage. [Online vind je veel voorbeelden.](https://www.visual-paradigm.com/learning/handbooks/agile-handbook/wireframe.jsp) Als je tijd hebt, maak er dan meerdere, zodat ook andere pagina’s al een duidelijk ontwerp hebben. Maak deze ontwerpen erg algemeen, zodat verschillende pagina's dezelfde lay-out/wireframe kunnen krijgen. Je kan volgende tool gebruiken om je layout te helpen bouwen: [Hulpmiddel: Div en Float](../../theorie/layout-builder)
 {{% /expand %}}
 
 {{% expand "Beoordeling" %}}
@@ -129,7 +123,6 @@ Werk de planning af van boven naar beneden.<br>
 3. Sitemap toegevoegd (structuur/navigatie duidelijk)
 4. Kleurenstaal met HEX-codes toegevoegd
 5. 1-3 wireframes gemaakt en toegevoegd
-6. Ontwerpfase_v1.pdf ingeleverd op Github in mapje Ontwerpfase
 {{% /expand %}}
 
 {{% expand "Stap 2: Startfase" %}}
