@@ -10,13 +10,9 @@ Je gaat je robot programmeren!
 De opdracht in het kort is: programmeer een apparaat naar keuze met behulp van een toestandsdiagram.
 
 {{% expand "Inschrijven" %}}
-Je schrijft je in via het onderstaande formulier dat de docent aanlevert (login met je google account van school voor toegang).<br>
+Je schrijft je in via Classroom 50 (login met je google account van school voor toegang).<br>
 Je teamnaam is de voornamen van iedereen die in je groepje zit.
-- [5Vin1 HAR 24/25](https://classroom.github.com/a/KIY_IERX)
-- [5Vin2 GEE 24/25](https://classroom.github.com/a/AC2NGswi)
-- [5Vin3 GEE 24/25](https://classroom.github.com/a/BUn68dLR)
-- [5Hin2 GEE 24/25](https://classroom.github.com/a/V7kJklUD)
-- 5Hin CAM 24/25
+- [5H.in1](https://classroom50.org/emmaus-leerlingen/2627-5h-in1/assignments/po-robotica/accept)
 {{% /expand %}}
 
 {{% expand "Apparaat kiezen" %}}
@@ -42,13 +38,13 @@ Je moet mimimaal de beide motoren en één type afstandssensor van de alphabot2 
 *Het doolhof*<br>
 Het doolhof bestaat uit en pad met doodlopende vertakkingen. In het doolhof zitten geen rondjes. De paden worden gevormd door vierkanten van ongeveer 30x30 cm. Aan de randen van de paden staan muren. De muren bestaan uit stukken van ongeveer 30 centimeter lang. De stukken muur sluiten recht op elkaar aan of maken een hoek van ongeveer 90 graden. In de midden van het pad is er een strook zwart tape op de vloer gemaakt. Dit tape bevat vertakkingen en is steeds ongeveer 15 cm van een muur verwijderd.
 
-1. **Drone** (experimenteel voor vwo in 22/23, vwo vanaf 23/24)<br>
+1. **Drone** (vwo)<br>
 *De opdracht voor dit apparaat*<br>
 Laat de drone zo snel mogelijk van de startplek naar de finish plek vliegen. Onderweg staan opstakels.<br><br>
 *De drone*<br>
 Je gebruikt commando's om de drone te laten opstijgen en landen en om de drone in een bepaalde richting te laten vliegen. Je gebruikt de afstandssensor voor op de drone om de afstand tot opstakels te meten.<br><br>
 *Het parcours*<br>
-Het parkcours wordt telkens opgebouwd en afgebroken in de gang. De drone mag niet buiten het parcours vliegen, geen obstakels of muren raken en tijdens het vliegen mogen er geen personen binnen de grenzen van het parcours aanwezig zijn. Er is een vast punt waar de drone start en een zone waar de drone eindigt. De drone vliegt op vaste afstand van de grond (ongeveer 1 meter). De obstakels bevinden zich op de hoogte waar de drone vliegt. Tijdens de opdracht werk je in overleg met de docent het parcours verder uit.  
+Het parcours wordt telkens opgebouwd en afgebroken in de gang. De drone mag niet buiten het parcours vliegen, geen obstakels of muren raken en tijdens het vliegen mogen er geen personen binnen de grenzen van het parcours aanwezig zijn. Er is een vast punt waar de drone start en een zone waar de drone eindigt. De drone vliegt op vaste afstand van de grond (ongeveer 1 meter). De obstakels bevinden zich op de hoogte waar de drone vliegt. Tijdens de opdracht werk je in overleg met de docent het parcours verder uit.  
 
 1. In overleg met je docent mag je ook een **eigen apparaat** kiezen of een bestaand apparaat uitbreiden.
 {{% /expand %}}
@@ -143,7 +139,7 @@ Werk de planning af van boven naar beneden.
 Je kunt een toestandsdiagram bijvoorbeeld als volgt maken
 - op https://excalidraw.com/ (snel en eenvoudig) of op https://draw.io (meer mogelijkheden)
 - in Powerpoint
-- op papier en dan fotograferen (het is dan wel lastig om het netjes te doen)
+- op papier en dan fotograferen
 {{% /expand %}}
 
 {{% expand "Stap 3: Code" %}} 
@@ -160,9 +156,3 @@ Je kunt een toestandsdiagram bijvoorbeeld als volgt maken
 
 Het is een video met geluid (uitleg tijdens de demonstratie) in .mp4 of .mov formaat van maximaal 20MB of .txt bestand met link naar youtube. De video duurt maximaal 2 minuten.
 {{% /expand %}}
-
-## Uitlegvideo's
-Er zijn op dit moment (nog) geen uitlegvideo's bij deze opdracht.
-
-
-
