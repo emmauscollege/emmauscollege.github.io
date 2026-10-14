@@ -28,7 +28,7 @@ Khanacademy, module Intro to HTML/CSS
 - [Powerpoint: Boxmodel](1.4-boxmodel.pptx)
 - [Theorie: Boxmodel, Span & Div en Floats](../webdesign_theorie)
 - [Hulpmiddel: Div en Float](../layout-builder)
-- [Invul samenvatting](invul-samenvatting.pdf)
+- [Invul samenvatting](Invul-samenvating.pdf)
  
 De oplossing van de invul samenvatting staat express niet online. Probeer hem zelf in te vullen als test. Je mag altijd op Magister mailen met vragen!
 
