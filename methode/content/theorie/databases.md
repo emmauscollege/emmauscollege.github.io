@@ -27,6 +27,9 @@ Ruimtedatabase *(alleen vwo)*
 {{<video id="PLpTljPS--R5DXZh6jR-dKteKGtJmHI-yi">}}
 
 ## Naslagmateriaal
+- [Les 1](DB-les-1.pptx)
+- [Les 2](DB-les-2.pptx)
+- [Les 3](DB-les-3.pptx)
 
 - [Lespresentatie (vwo)](handout_lespresentatie_databases_vwo.pdf)
 - [Lespresentatie (havo)](handout_lespresentatie_databases_havo.pdf)
